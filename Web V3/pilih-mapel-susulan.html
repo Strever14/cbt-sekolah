@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login CBT</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+      color: white;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .container {
+      background: rgba(255, 255, 255, 0.1);
+      padding: 25px;
+      border-radius: 12px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+      width: 300px;
+      text-align: center;
+    }
+    input, select {
+      width: 90%;
+      padding: 10px;
+      border-radius: 8px;
+      border: none;
+      margin: 8px 0;
+      font-size: 15px;
+    }
+    button {
+      width: 100%;
+      padding: 10px;
+      border: none;
+      border-radius: 8px;
+      background: #00c851;
+      color: white;
+      font-size: 16px;
+      cursor: pointer;
+      margin-top: 10px;
+      transition: background 0.3s;
+    }
+    button:hover {
+      background: #009432;
+    }
+    h2 {
+      margin-bottom: 20px;
+      font-weight: 600;
+    }
+    #error {
+      color: #ff4444;
+      font-size: 14px;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>🔐 Login dengan Token</h2>
+    <select id="siteSelect">
+    </select>
+    <div id="content"></div>
+    <input type="text" id="tokenInput" placeholder="Masukkan Token">
+    <button onclick="checkToken()">Mulai</button>
+    <p id="error"></p>
+  </div>
+
+  <script>
+
+    // Ambil data login dari localStorage
+    const namaEmail = localStorage.getItem("email");
+    const uid = localStorage.getItem("uid");
+
+    // global variable
+    let mapel;
+    let tingkatan;
+    let jurusan;
+    let kelas;
+    let mapelKe;
+
+
+    // Ambil biodata dari spreadsheet berdasarkan username/email
+    async function loadBio() {
+      try {
+        const API_KEY = "AIzaSyBhLPNX7e0sA8VIy_jlvBKzl1qHYURHDnY";
+        const SHEET_ID = "1LGn80ScYTUMXiTeH-Q-69Cd-RHZRJjf7q9c_GkV4tsk";
+        const RANGE = "listsiswa!A1:G10"; // sesuaikan dengan range sheet
+        const url = `https://sheets.googleapis.com/v4/spreadsheets/${SHEET_ID}/values/${RANGE}?key=${API_KEY}`;
+
+        const response = await fetch(url);
+        const data = await response.json();
+        //console.log("Email login:", data.values[2][1]);
+
+        // Ambil nama sesuai email
+        for (let row = 0; row < data.values.length; row++) {
+          if (data.values[row][2] === namaEmail) {
+            const noPeserta = data.values[row][0] || "Kelas Tidak Diketahui";
+            const nama = data.values[row][1] || "Nama Tidak Diketahui";
+            tingkatan = data.values[row][3] || "Kelas Tidak Diketahui";
+            jurusan = data.values[row][4] || "Kelas Tidak Diketahui";
+            kelas = data.values[row][5] || "Kelas Tidak Diketahui";
+            const ruangan = data.values[row][6] || "Kelas Tidak Diketahui";
+            
+            console.log("Email ditemukan : " + tingkatan);
+            console.log("Tingkatan:", tingkatan);
+            loadMapel()
+
+            // Simpan nama dan kelas ke localStorage
+            localStorage.setItem("noPeserta", noPeserta);
+            localStorage.setItem("nama", nama);
+            localStorage.setItem("tingkatan", tingkatan);
+            localStorage.setItem("jurusan", jurusan);
+            localStorage.setItem("kelas", kelas);
+            localStorage.setItem("ruangan", ruangan);
+            break;
+          }
+        }
+      } catch (err) {
+        //document.getElementById("bio").innerHTML = "<p>Biodata tidak ditemukan.</p>";
+        console.error("Error:", err);
+      }
+    }
+    loadBio();
+
+    async function loadMapel() {
+      //const tingkatans = tingkatan+"!A1:D17";
+      const API_KEY = "AIzaSyBhLPNX7e0sA8VIy_jlvBKzl1qHYURHDnY";
+      const SHEET_ID = "1LGn80ScYTUMXiTeH-Q-69Cd-RHZRJjf7q9c_GkV4tsk";
+      const RANGE = tingkatan+"!F1:F17"; // sesuaikan dengan range sheet
+      const url = `https://sheets.googleapis.com/v4/spreadsheets/${SHEET_ID}/values/${RANGE}?key=${API_KEY}`;
+
+      fetch(url)
+        .then(response => response.json())
+        .then(data => {
+          console.log("Hasil API:", data); // debug di console browser
+          
+          for (let row = 1; row < data.values.length; row++) {
+            const option = document.createElement("option");
+            option.value = data.values[row][0];
+            option.text = data.values[row][0].replace("_", " ").toUpperCase();
+            document.getElementById("siteSelect").appendChild(option);
+          }
+
+          //console.log("Mapel : ", mapel);
+
+        })
+        .catch(error => console.error("Error:", error));
+    }
+
+    function generateToken(site) {
+      let now = Math.floor(Date.now() / (1000 * 60 * 5));
+      let chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+      let token = "";
+      for (let i = 0; i < 5; i++) {
+        let index = (now + i * (site === 1 ? 7 : 11)) % chars.length;
+        token += chars[index];
+      }
+      return token;
+    }
+
+    // ⚙️ Fungsi login dan validasi token
+    function checkToken() {
+      const site = 1;
+      const inputToken = document.getElementById("tokenInput").value.trim().toUpperCase();
+      const expectedToken = generateToken(site);
+
+      mapel = document.getElementById("siteSelect").value;
+
+      localStorage.setItem("mapel", mapel);
+      
+      const errorText = document.getElementById("error");
+
+      if (inputToken === expectedToken)
+      {
+        // tandai login ke website yang benar
+        localStorage.setItem("isLoggedIn", "true");
+        localStorage.setItem("mapel", mapel);
+        window.location.href = "index1.html";
+  
+      } else {
+        errorText.innerText = "❌ Token salah atau sudah kedaluwarsa.";
+      }
+
+    }
+  </script>
+</body>
+</html>
