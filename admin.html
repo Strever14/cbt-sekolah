@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Panel Pengawas CBT</title>
+  <style>
+    /* CSS tetap sama */
+    :root {
+      --primary: #3498db;
+      --primary-dark: #2980b9;
+      --secondary: #ff9966;
+      --secondary-dark: #ff5e62;
+      --success: #2ecc71;
+      --danger: #e74c3c;
+      --warning: #ffd700;
+      --light: #f8f9fa;
+      --dark: #343a40;
+      --gray: #6c757d;
+      --card-bg: rgba(255, 255, 255, 0.95);
+      --shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, var(--secondary), var(--secondary-dark));
+      color: var(--dark);
+      line-height: 1.6;
+      min-height: 100vh;
+      padding: 20px;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 30px;
+      color: white;
+    }
+
+    header h1 {
+      font-size: 2.2rem;
+      margin-bottom: 10px;
+      text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+    }
+
+    header p {
+      font-size: 1.1rem;
+      opacity: 0.9;
+    }
+
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      padding: 25px;
+      margin-bottom: 25px;
+      box-shadow: var(--shadow);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    }
+
+    .card-title {
+      font-size: 1.4rem;
+      margin-bottom: 20px;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--primary);
+      padding-bottom: 10px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .card-title i {
+      font-size: 1.6rem;
+    }
+
+    .token-section {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+
+    .token-box {
+      background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+      color: white;
+      padding: 20px;
+      border-radius: 10px;
+      text-align: center;
+      flex: 1;
+      min-width: 250px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .token-box h3 {
+      margin-bottom: 10px;
+      font-size: 1.2rem;
+    }
+
+    .token-value {
+      font-size: 2rem;
+      font-weight: bold;
+      letter-spacing: 3px;
+      background: rgba(255, 255, 255, 0.2);
+      padding: 10px;
+      border-radius: 6px;
+      margin-top: 10px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: white;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    }
+
+    thead {
+      background: var(--primary);
+      color: white;
+    }
+
+    th, td {
+      padding: 14px 16px;
+      text-align: left;
+      border-bottom: 1px solid #e0e0e0;
+    }
+
+    th {
+      font-weight: 600;
+      font-size: 0.95rem;
+    }
+
+    tbody tr {
+      transition: background-color 0.2s;
+    }
+
+    tbody tr:hover {
+      background-color: #f5f9ff;
+    }
+
+    .status-active {
+      color: var(--success);
+      font-weight: 600;
+    }
+
+    .status-inactive {
+      color: var(--gray);
+    }
+
+    .status-warning {
+      color: var(--warning);
+      font-weight: 600;
+    }
+
+    button {
+      background: var(--danger);
+      color: white;
+      border: none;
+      border-radius: 6px;
+      padding: 8px 16px;
+      cursor: pointer;
+      transition: all 0.3s;
+      font-weight: 500;
+      font-size: 0.9rem;
+    }
+
+    select {
+      width: 90%;
+      padding: 10px;
+      border-radius: 8px;
+      border: 1px solid var(--primary);
+      margin: 8px 0;
+      font-size: 15px;
+    }
+
+    button:hover {
+      background: #c0392b;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 30px;
+      color: var(--gray);
+    }
+
+    .empty-state i {
+      font-size: 3rem;
+      margin-bottom: 15px;
+      opacity: 0.5;
+    }
+
+    .footer {
+      text-align: center;
+      margin-top: 30px;
+      color: rgba(255, 255, 255, 0.8);
+      font-size: 0.9rem;
+    }
+
+    @media (max-width: 768px) {
+      .token-section {
+        flex-direction: column;
+      }
+      
+      .token-box {
+        min-width: 100%;
+      }
+      
+      table {
+        display: block;
+        overflow-x: auto;
+      }
+      
+      th, td {
+        padding: 10px 12px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>👨‍🏫 Panel Pengawas Ujian CBT</h1>
+      <p>Pantau peserta ujian secara real-time</p>
+    </header>
+
+    <div class="card">
+      <div class="card-title">
+        <p>🔑</p>
+        <span>Token Akses Ujian</span>
+      </div>
+      <div class="token-section">
+        <div class="token-box">
+          <h3>TOKEN</h3>
+          <div class="token-value" id="token1">-</div>
+        </div>
+        <!--<div class="token-box">
+          <h3>Website 2</h3>
+          <div class="token-value" id="token2">-</div>
+        </div>-->
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-title">
+        <p>👥</p>
+        <span>Daftar Peserta Ujian</span>
+        <select id="roomSelect">
+          <option id="select1" value="R1">Ruang 1</option>
+          <option id="select2" value="R2">Ruang 2</option>
+        </select>
+      </div>
+      <table>
+        <thead>
+          <tr>
+            <th>Nama Peserta</th>
+            <th>Kelas</th>
+            <th>Status</th>
+            <th>Waktu Masuk</th>
+            <th>Aksi</th>
+          </tr>
+        </thead>
+        <tbody id="pesertaTable">
+          <tr>
+            <td colspan="5" class="empty-state">
+              <p>👥</p>
+              <div>Memuat data peserta...</div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="footer">
+      &copy; 2025 Panel Pengawas CBT - SMK Itikurih Hibarna
+    </div>
+  </div>
+
+  <script>
+    function generateToken(site) {
+      let now = Math.floor(Date.now() / (1000 * 60 * 5));
+      let chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+      let token = "";
+      for (let i = 0; i < 5; i++) {
+        let index = (now + i * (site === 1 ? 7 : 11)) % chars.length;
+        token += chars[index];
+      }
+      return token;
+    }
+
+    function updateTokens() {
+      document.getElementById("token1").textContent = generateToken(1);
+      // document.getElementById("token2").textContent = generateToken(2);
+    }
+
+    // Jalankan saat pertama kali dan perbarui tiap 1 menit
+    updateTokens();
+    setInterval(updateTokens, 60000);
+  </script>
+
+  <script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/12.3.0/firebase-app.js";
+    import { getDatabase, ref, onValue, update } from "https://www.gstatic.com/firebasejs/12.3.0/firebase-database.js";
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyCzo1O4TnJuFm0xlK7flbnSUci547mTBlo",
+      authDomain: "cbt-sekolah-7795d.firebaseapp.com",
+      databaseURL: "https://cbt-sekolah-7795d-default-rtdb.asia-southeast1.firebasedatabase.app",
+      projectId: "cbt-sekolah-7795d",
+      storageBucket: "cbt-sekolah-7795d.appspot.com",
+      messagingSenderId: "734436129747",
+      appId: "1:734436129747:web:fc87ab73b2578af5f78d26",
+      measurementId: "G-T6KXRTZSMR"
+    };
+
+    const app = initializeApp(firebaseConfig);
+    const db = getDatabase(app);
+
+    const pesertaRef = ref(db, "peserta");
+    const table = document.getElementById("pesertaTable");
+    const roomSelect = document.getElementById("roomSelect");
+
+    // Variabel untuk menyimpan data peserta terbaru
+    let latestData = null;
+
+    // Fungsi untuk memuat data peserta berdasarkan ruangan yang dipilih
+    function loadPesertaByRoom() {
+      const selectedRoom = roomSelect.value;
+      
+      if (!latestData) {
+        table.innerHTML = `
+          <tr>
+            <td colspan="5" class="empty-state">
+              <p>😴</p>
+              <div>Belum ada data peserta</div>
+            </td>
+          </tr>`;
+        return;
+      }
+      
+      let html = "";
+      let found = false;
+      
+      for (const id in latestData) {
+        const p = latestData[id];
+        
+        if (p.ruangan === selectedRoom) {
+          found = true;
+          const statusClass = p.status === "aktif" ? "status-active" : 
+                             p.status === "keluar" ? "status-inactive" : "status-warning";
+
+          html += `
+            <tr>
+              <td>${p.email || "-"}</td>
+              <td>${p.kelas || "-"}</td>
+              <td class="${statusClass}">${p.status || "-"}</td>
+              <td>${p.waktuMasuk ? new Date(p.waktuMasuk).toLocaleString() : "-"}</td>
+              <td><button onclick="keluarkan('${id}')">Keluarkan</button></td>
+            </tr>`;
+        }
+      }
+      
+      if (!found) {
+        html = `
+          <tr>
+            <td colspan="5" class="empty-state">
+              <p>😴</p>
+              <div>Belum ada peserta di ruangan ${selectedRoom}</div>
+            </td>
+          </tr>`;
+      }
+      
+      table.innerHTML = html;
+    }
+
+    // Mendengarkan perubahan data di Firebase
+    onValue(pesertaRef, (snapshot) => {
+      latestData = snapshot.val();
+      loadPesertaByRoom();
+    }, (err) => {
+      console.error("onValue admin error:", err);
+      table.innerHTML = `
+        <tr>
+          <td colspan="5" class="empty-state">
+            <p>⚠️</p>
+            <div>Error memuat data. Cek console.</div>
+          </td>
+        </tr>`;
+    });
+
+    // Event listener untuk perubahan pilihan ruangan
+    roomSelect.addEventListener('change', loadPesertaByRoom);
+
+    window.keluarkan = (id) => {
+      update(ref(db, "peserta/" + id), { status: "keluar" }).catch(e => console.error(e));
+    };
+  </script>
+</body>
+</html>

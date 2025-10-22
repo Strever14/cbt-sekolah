@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Login Ujian CBT</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+      color: white;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      position: relative;
+    }
+    .container {
+      background: rgba(255, 255, 255, 0.1);
+      padding: 25px;
+      border-radius: 12px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+      width: 320px;
+      text-align: center;
+    }
+    input {
+      width: 90%;
+      padding: 10px;
+      border-radius: 8px;
+      border: none;
+      margin: 8px 0;
+      font-size: 15px;
+    }
+    button {
+      width: 100%;
+      padding: 10px;
+      border: none;
+      border-radius: 8px;
+      background: #00c851;
+      color: white;
+      font-size: 16px;
+      cursor: pointer;
+      margin-top: 10px;
+    }
+    button:hover { background: #009432; }
+    #error { color: #ff4444; font-size: 14px; margin-top: 10px; }
+    
+    /* Style untuk toggle susulan di kanan atas */
+    .susulan-toggle {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(255, 255, 255, 0.2);
+      padding: 8px 12px;
+      border-radius: 20px;
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255, 255, 255, 0.3);
+    }
+    
+    .toggle-switch {
+      position: relative;
+      display: inline-block;
+      width: 40px;
+      height: 20px;
+    }
+    
+    .toggle-switch input {
+      opacity: 0;
+      width: 0;
+      height: 0;
+    }
+    
+    .slider {
+      position: absolute;
+      cursor: pointer;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: #ccc;
+      transition: .4s;
+      border-radius: 20px;
+    }
+    
+    .slider:before {
+      position: absolute;
+      content: "";
+      height: 16px;
+      width: 16px;
+      left: 2px;
+      bottom: 2px;
+      background-color: white;
+      transition: .4s;
+      border-radius: 50%;
+    }
+    
+    input:checked + .slider {
+      background-color: #ff9966;
+    }
+    
+    input:checked + .slider:before {
+      transform: translateX(20px);
+    }
+    
+    .susulan-label {
+      font-size: 12px;
+      color: white;
+      font-weight: 500;
+    }
+    
+    .mode-indicator {
+      background: rgba(255, 153, 102, 0.3);
+      padding: 8px 12px;
+      border-radius: 6px;
+      margin-bottom: 10px;
+      font-size: 14px;
+      border: 1px solid #ff9966;
+      display: none;
+    }
+
+    /* Responsive untuk mobile */
+    @media (max-width: 480px) {
+      .susulan-toggle {
+        top: 10px;
+        right: 10px;
+        padding: 6px 10px;
+      }
+      
+      .susulan-label {
+        font-size: 11px;
+      }
+      
+      .toggle-switch {
+        width: 35px;
+        height: 18px;
+      }
+      
+      .slider:before {
+        height: 14px;
+        width: 14px;
+      }
+      
+      input:checked + .slider:before {
+        transform: translateX(17px);
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Toggle Switch untuk Mode Susulan di kanan atas -->
+  <div class="susulan-toggle">
+    <span class="susulan-label">Mode Susulan</span>
+    <label class="toggle-switch">
+      <input type="checkbox" id="susulanMode">
+      <span class="slider"></span>
+    </label>
+  </div>
+
+  
+  <div class="container">
+    <div>
+      <img src="logo.png" alt="Logo CBT Sekolah" width="120" />
+    </div>
+    <h2>Login Peserta CBT</h2>
+    
+    <!-- Indikator Mode Susulan -->
+    <div id="modeIndicator" class="mode-indicator">
+      MODE SUSULAN AKTIF
+    </div>
+
+    <input type="email" id="email" placeholder="Email (siswa@itikurih.id)" />
+    <input type="password" id="password" placeholder="Password" />
+
+    <button id="loginBtn">Login</button>
+    <p id="error"></p>
+  </div>
+  <footer style="text-align: center; margin-top: 15px; color: white; font-size: 14px;">
+    &copy; 2025 CBT Sekolah. Develop by @ilmann.art.
+  </footer>
+
+  <script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/12.3.0/firebase-app.js";
+    import { getAuth, signInWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/12.3.0/firebase-auth.js";
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyCzo1O4TnJuFm0xlK7flbnSUci547mTBlo",
+      authDomain: "cbt-sekolah-7795d.firebaseapp.com",
+      databaseURL: "https://cbt-sekolah-7795d-default-rtdb.asia-southeast1.firebasedatabase.app",
+      projectId: "cbt-sekolah-7795d",
+      storageBucket: "cbt-sekolah-7795d.appspot.com",
+      messagingSenderId: "734436129747",
+      appId: "1:734436129747:web:fc87ab73b2578af5f78d26",
+      measurementId: "G-T6KXRTZSMR"
+    };
+
+    const app = initializeApp(firebaseConfig);
+    const auth = getAuth(app);
+
+    // Elemen DOM
+    const loginBtn = document.getElementById("loginBtn");
+    const susulanMode = document.getElementById("susulanMode");
+    const modeIndicator = document.getElementById("modeIndicator");
+
+    // Event listener untuk toggle mode susulan
+    susulanMode.addEventListener("change", function() {
+      if (this.checked) {
+        modeIndicator.style.display = "block";
+        loginBtn.textContent = "Login Mode Susulan";
+        loginBtn.style.background = "#ff9966";
+      } else {
+        modeIndicator.style.display = "none";
+        loginBtn.textContent = "Login";
+        loginBtn.style.background = "#00c851";
+      }
+    });
+
+    // Event listener untuk tombol login
+    loginBtn.addEventListener("click", () => {
+      const email = document.getElementById("email").value.trim();
+      const password = document.getElementById("password").value.trim();
+      const isSusulanMode = susulanMode.checked;
+
+      if (!email || !password) {
+        document.getElementById("error").innerText = "Email dan password harus diisi!";
+        return;
+      }
+
+      signInWithEmailAndPassword(auth, email, password)
+        .then((userCredential) => {
+          const user = userCredential.user;
+          localStorage.setItem("uid", user.uid);
+          localStorage.setItem("email", user.email);
+          
+          // Simpan status mode susulan di localStorage
+          localStorage.setItem("susulanMode", isSusulanMode);
+          
+          // Redirect berdasarkan mode
+          if (isSusulanMode) {
+            window.location.href = "pilih-mapel-susulan.html";
+          } else {
+            window.location.href = "pilih-mapel.html";
+          }
+        })
+        .catch((error) => {
+          document.getElementById("error").innerText = "Login gagal: " + error.message;
+        });
+    });
+
+    // Enter key untuk login
+    document.getElementById("password").addEventListener("keypress", function(e) {
+      if (e.key === "Enter") {
+        loginBtn.click();
+      }
+    });
+  </script>
+</body>
+</html>
