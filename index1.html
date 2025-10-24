@@ -334,7 +334,7 @@
         const tingkatan = localStorage.getItem("tingkatan");
         
         // Load soal JSON sesuai mapel
-        let resSoal = await fetch(`../soal/${tingkatan}/${mapel}.json`);
+        let resSoal = await fetch(`../cbt-sekolah/soal/${tingkatan}/${mapel}.json`);
         let data = await resSoal.json();
 
         let html = `<h2>${mapel.replace("_", " ").toUpperCase()}</h2>`;
@@ -583,4 +583,5 @@
     });
   </script>
 </body>
+
 </html>
