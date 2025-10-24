@@ -157,19 +157,13 @@
       color: var(--success);
       font-weight: 600;
     }
-    
+
     .status-inactive {
       color: var(--gray);
     }
-    
+
     .status-warning {
       color: var(--warning);
-      font-weight: 600;
-    }
-    
-    /* Tambahkan style untuk status "keluar halaman" */
-    .status-away {
-      color: var(--secondary);
       font-weight: 600;
     }
 
@@ -347,68 +341,53 @@
 
     // Fungsi untuk memuat data peserta berdasarkan ruangan yang dipilih
     function loadPesertaByRoom() {
-  const selectedRoom = roomSelect.value;
-  
-  if (!latestData) {
-    table.innerHTML = `
-      <tr>
-        <td colspan="5" class="empty-state">
-          <p>😴</p>
-          <div>Belum ada data peserta</div>
-        </td>
-      </tr>`;
-    return;
-  }
-  
-  let html = "";
-  let found = false;
-  
-  for (const id in latestData) {
-    const p = latestData[id];
-    
-    if (p.ruangan === selectedRoom) {
-      found = true;
-      // Tentukan class status berdasarkan nilai status
-      let statusClass = "status-inactive";
-      let statusText = p.status || "-";
+      const selectedRoom = roomSelect.value;
       
-      if (p.status === "online") {
-        statusClass = "status-active";
-        statusText = "aktif";
-      } else if (p.status === "tidak aktif") {
-        statusClass = "status-warning";
-        statusText = "tidak aktif";
-      } else if (p.status === "keluar halaman") {
-        statusClass = "status-away";
-        statusText = "keluar halaman";
-      } else if (p.status === "keluar") {
-        statusClass = "status-inactive";
-        statusText = "keluar";
+      if (!latestData) {
+        table.innerHTML = `
+          <tr>
+            <td colspan="5" class="empty-state">
+              <p>😴</p>
+              <div>Belum ada data peserta</div>
+            </td>
+          </tr>`;
+        return;
       }
+      
+      let html = "";
+      let found = false;
+      
+      for (const id in latestData) {
+        const p = latestData[id];
+        
+        if (p.ruangan === selectedRoom) {
+          found = true;
+          const statusClass = p.status === "aktif" ? "status-active" : 
+                             p.status === "keluar" ? "status-inactive" : "status-warning";
 
-      html += `
-        <tr>
-          <td>${p.email || "-"}</td>
-          <td>${p.kelas || "-"}</td>
-          <td class="${statusClass}">${statusText}</td>
-          <td>${p.waktuMasuk ? new Date(p.waktuMasuk).toLocaleString() : "-"}</td>
-          <td><button onclick="keluarkan('${id}')">Keluarkan</button></td>
-        </tr>`;
+          html += `
+            <tr>
+              <td>${p.email || "-"}</td>
+              <td>${p.kelas || "-"}</td>
+              <td class="${statusClass}">${p.status || "-"}</td>
+              <td>${p.waktuMasuk ? new Date(p.waktuMasuk).toLocaleString() : "-"}</td>
+              <td><button onclick="keluarkan('${id}')">Keluarkan</button></td>
+            </tr>`;
+        }
+      }
+      
+      if (!found) {
+        html = `
+          <tr>
+            <td colspan="5" class="empty-state">
+              <p>😴</p>
+              <div>Belum ada peserta di ruangan ${selectedRoom}</div>
+            </td>
+          </tr>`;
+      }
+      
+      table.innerHTML = html;
     }
-  }
-  
-  if (!found) {
-    html = `
-      <tr>
-        <td colspan="5" class="empty-state">
-          <p>😴</p>
-          <div>Belum ada peserta di ruangan ${selectedRoom}</div>
-        </td>
-      </tr>`;
-  }
-  
-  table.innerHTML = html;
-}
 
     // Mendengarkan perubahan data di Firebase
     onValue(pesertaRef, (snapshot) => {
