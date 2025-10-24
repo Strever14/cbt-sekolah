@@ -95,6 +95,51 @@
   }
   loadBio();
 
+  // Deteksi aktivitas pengguna
+  let userActivityTimeout;
+  const INACTIVITY_LIMIT = 30000; // 30 detik
+  
+  function resetActivityTimer() {
+    clearTimeout(userActivityTimeout);
+    userActivityTimeout = setTimeout(() => {
+      // User tidak aktif, update status ke "tidak aktif"
+      updateUserStatus("tidak aktif");
+    }, INACTIVITY_LIMIT);
+  }
+  
+  function updateUserStatus(status) {
+    set(ref(db, "peserta/" + uid + "/status"), status).catch(e => console.error(e));
+  }
+  
+  // Event listeners untuk mendeteksi aktivitas
+  document.addEventListener('mousemove', resetActivityTimer);
+  document.addEventListener('keypress', resetActivityTimer);
+  document.addEventListener('click', resetActivityTimer);
+  document.addEventListener('scroll', resetActivityTimer);
+  
+  // Event untuk ketika user kembali aktif
+  document.addEventListener('visibilitychange', () => {
+    if (!document.hidden) {
+      // User kembali ke tab, update status ke "online"
+      updateUserStatus("online");
+      resetActivityTimer();
+    } else {
+      // User berpindah tab, update status ke "keluar halaman"
+      updateUserStatus("keluar halaman");
+    }
+  });
+  
+  // Event ketika tab/window ditutup
+  window.addEventListener('beforeunload', () => {
+    updateUserStatus("keluar");
+    remove(ref(db, "peserta/" + uid)).catch(()=>{});
+  });
+  
+  // Mulai timer aktivitas
+  resetActivityTimer();
+  // Set status awal ke online
+  updateUserStatus("online");
+
 </script>
 
 
@@ -334,7 +379,7 @@
         const tingkatan = localStorage.getItem("tingkatan");
         
         // Load soal JSON sesuai mapel
-        let resSoal = await fetch(`../cbt-sekolah/soal/${tingkatan}/${mapel}.json`);
+        let resSoal = await fetch(`../soal/${tingkatan}/${mapel}.json`);
         let data = await resSoal.json();
 
         let html = `<h2>${mapel.replace("_", " ").toUpperCase()}</h2>`;
@@ -583,5 +628,4 @@
     });
   </script>
 </body>
-
 </html>
