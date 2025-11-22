@@ -319,7 +319,7 @@
     }
 
     let hari = new Date().getDay(); // 0=minggu,1=senin dst
-    if (hari === 0 || hari === 6) hari = 1; // fallback ke Senin
+    if (hari === 0) hari = 1; // fallback ke Senin
 
     // Variabel global untuk timer
     let timeLeft = 90 * 60; // 120 minutes in seconds
@@ -334,7 +334,7 @@
         const tingkatan = localStorage.getItem("tingkatan");
         
         // Load soal JSON sesuai mapel
-        let resSoal = await fetch(`../soal/${tingkatan}/${mapel}.json`);
+        let resSoal = await fetch(`../cbt-sekolah/soal/${tingkatan}/${mapel}.json`);
         let data = await resSoal.json();
 
         let html = `<h2>${mapel.replace("_", " ").toUpperCase()}</h2>`;
@@ -584,4 +584,5 @@
   </script>
 </body>
 </html>
+
 
