@@ -1,0 +1,406 @@
+{
+  "pilihan_ganda": [
+    {
+      "pertanyaan": "Naon anu dimaksud biantara?",
+      "opsi": [
+        "Nulis pidangan di harepeun batur",
+        "Kagiatan nyarita di harepeun batur pikeun nepikeun informasi atawa beja",
+        "Ngajelaskeun carita sorangan",
+        "Macakeun sajak di tempat umum",
+        "Ngahaleuang di harepeun batur"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Tujuan utama maca biantara nyaeta...",
+      "opsi": [
+        "Ngajak, mere informasi, ngayakinkeun",
+        "Ngawurkeun ide anu teu jelas",
+        "Ngalawak pikeun ngahibur",
+        "Nyaritakeun pangalaman sorangan",
+        "Nyaritakeun pangalaman batur"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Salah sahiji ciri biantara anu alus nyaeta...",
+      "opsi": [
+        "Ngagunakeun basa anu kasar",
+        "Henteu runtut jeung teu jelas",
+        "Make basa anu sopan sarta komunikasi anu lancar",
+        "Ngabodor ngenaan diri sorangan",
+        "Nyaritakeun hal anu teu aya hubunganana"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Naha basa Sunda penting dina biantara?",
+      "opsi": [
+        "Pikeun ngajaga budaya jeung identitas",
+        "Sangkan hese dipikaharti ku audiens",
+        "Pikeun ngahibur ku cara anu beda",
+        "Pikeun dipake ku sakumna dunya",
+        "Sangkan gaya kadengena"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Naon anu kudu diperhatikeun dina sora nalika biantara?",
+      "opsi": [
+        "Ejaan",
+        "Panjang teks",
+        "Durasi teks",
+        "Sora leutik tanpa control",
+        "Sora jelas, intonasi pas, jeung lancar"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Anu maca biantara disebut...",
+      "opsi": [
+        "Pangarang",
+        "Orator",
+        "Biografer",
+        "Juru tulis",
+        "Koreografer"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Naon anu kudu dipigawe lamun biantara diharepeun masyarakat?",
+      "opsi": [
+        "Ngahormat jeung mere salam heula",
+        "Ngobrol langsung ka topic utama",
+        "Henteu ngajenan anu ngadenge",
+        "Cicing terus nyiapkeun tulisan",
+        "Heureuy sangkan nyinggeng nu ngadenge"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Hal anu penting dina nyieun biantara nyaeta...",
+      "opsi": [
+        "Nyieun runtuyan anu jelas sarta latihan",
+        "Ngagunakeun basa kasar pikeun narik perhatian",
+        "Nyaritakeun hal anu eweuh gunana",
+        "Nyombongkeun tokoh",
+        "Henteu nyiapkeun naon-naon"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Naon anu disebut intonasi dina biantara?",
+      "opsi": [
+        "Cara nyarios kalayan sora tarik pisan",
+        "Cara nyerat biantara dina kertas",
+        "Ngagunakeun sora anu datar tanpa variasi",
+        "Parobahan nada sora pikeun nepikeun maksud pesen",
+        "Cara nepikeun fakta tanpa nyarita tegas"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Kumaha cara ngajaga perhatian audien dina biantara?",
+      "opsi": [
+        "Nyarita kalayan sora tarik sarta henteu runtut",
+        "Ngagunakeun basa anu jelas, kalimat anu runtut, sarta intonasi anu pas",
+        "Ngalangkungkeun bagian bubuka jeung panutup",
+        "Nyarita bari teu merhatikeun nu ngadéngé",
+        "Nyarioskeun hal anu teu aya hubunganana jeung topic"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Debat dina basa Sunda disebut oge...",
+      "opsi": [
+        "Pasanggiri",
+        "Adung alas",
+        "Adung adu pamadegan",
+        "Paguneman santai",
+        "Musyawarah"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Tujuan utama debat nyaeta...",
+      "opsi": [
+        "Ngajawab soal",
+        "Ngabuktikeun bebeneran ku argumen",
+        "Ngahibur batur",
+        "Ngeunahkeun pamadegan",
+        "Nyieun carita"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Tokoh anu ngajelaskeun posisi kelompok atawa tim debat nyaeta...",
+      "opsi": [
+        "Panumbu catur",
+        "Girang serat",
+        "Penyangga",
+        "Panengah",
+        "Girang pangajen"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Tim anu satuju kana topik debat nyaeta...",
+      "opsi": [
+        "Oposisi",
+        "Moderator",
+        "Pro",
+        "Kontra",
+        "Panonton"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Mosi dina debat hartina...",
+      "opsi": [
+        "Pidato pamungkas",
+        "Naskah argumentasi",
+        "Topik anu di perdebatkeun",
+        "Catetan notulen",
+        "Saran debat"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Tim anu henteu sapuk kana topik debat nyaeta...",
+      "opsi": [
+        "Kontra",
+        "Pro",
+        "Girang serat",
+        "Girang pangajen",
+        "Panumbu catur"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Dina debat argumen udu dumasar kana...",
+      "opsi": [
+        "Karep pribadi",
+        "Fakta jeung data",
+        "Emosi",
+        "Logika hungkul",
+        "Hayalan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Salah sahiji pancen panumbu catur nyaeta...",
+      "opsi": [
+        "Ngadukung salah sahiji tim",
+        "Ngarang data",
+        "Ngatur jalanna debat",
+        "Manasan pamilon",
+        "Nyieun catetan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Ungkara logis dina basa Sunda disebut...",
+      "opsi": [
+        "Gugah",
+        "Alasan",
+        "Pangjurung",
+        "Argumentasi",
+        "Tembung goring"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Debat biasana dilaksanakeun ku cara...",
+      "opsi": [
+        "Sauran",
+        "Pasualan",
+        "Monolog",
+        "Tukeur pamadegan",
+        "Ngalawak"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Struktur debat nyaeta...",
+      "opsi": [
+        "Bubuka, eusi, panutup",
+        "Bubuka, panutup, salam",
+        "Eusi, bubuka, panutup",
+        "Panutup, eusi, bubuka",
+        "Bubuka, inti carita, panutup"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Dina bubuka debat, panumbu catur biasana...",
+      "opsi": [
+        "Nyangka jeung nyerang",
+        "Ngenalkeun topik debat",
+        "Nuliskeun catetan ringkes",
+        "Ngawih heula",
+        "Sakainget"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Dina akhir debat biasana..",
+      "opsi": [
+        "Nutup debat",
+        "Nyieun kasalahan",
+        "Ngarobah mosi debat",
+        "Ngajawab pananya",
+        "Nyimpulkeun pendapat"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Kalimah anu digunakeun pikeun nyanghareupan argumen laawan disebut...",
+      "opsi": [
+        "Rebuttal",
+        "Mosi anyar",
+        "Fakta tambahan",
+        "Parancah",
+        "Panutup"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Dina rebuttal kudu aya...",
+      "opsi": [
+        "Sumpah serapah",
+        "Fakta jeung logika",
+        "Parancah hungkul",
+        "pantun sisindiran",
+        "Musik latar"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Supaya debat teu ricuh, panumbu catur kudu...",
+      "opsi": [
+        "Asup kana salah sahiji tim",
+        "Netral jeung tegas",
+        "Ngakeuheulkeun hiji tim",
+        "Ngagugulung argumen",
+        "Nahan data"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Dina basa Sund, kecap \"nolak\" dina debat bisa disebut...",
+      "opsi": [
+        "Sangsang",
+        "Nampa",
+        "Nyarankeun",
+        "Nantukeun",
+        "Nyaritakeun"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Dina ngadukung argumen, data statistik kaasup kana...",
+      "opsi": [
+        "Fakta",
+        "Opini",
+        "Gosip",
+        "Ngaran",
+        "Carita rakyat"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Pamasihan conto dina argumen disebut...",
+      "opsi": [
+        "Nyatana",
+        "Misalna",
+        "Bohongna",
+        "Sing saha",
+        "Teu pati penting"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Basa anu dipake dina debat kudu...",
+      "opsi": [
+        "Lugas jeung jelas",
+        "Wah jeung sombong",
+        "Ngamaki batur",
+        "Saeutik kecap",
+        "Sakar-kasarna"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Tantangan dina debat nyaeta...",
+      "opsi": [
+        "Nyokot pendapat batur",
+        "Mere bantahan logis",
+        "Ngalakukeun paripolah kasar",
+        "Ngadamel guyonan",
+        "Ngatur jalma nu ngomong"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "\"Sakumaha pamaman abdi..\" magrupakeun contoh kalimah...",
+      "opsi": [
+        "Pananya",
+        "Bantahan sopan",
+        "Ngajawab kasar",
+        "Ngadukung argument lawan",
+        "Ngajawab bari ambek"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "\"Kuring teu satuju sabab..\" kaasup kana...",
+      "opsi": [
+        "Afirmasi",
+        "Rebuttal",
+        "Data penting",
+        "Salam bubuka",
+        "panutup"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Upama lawan nyebut fakta palsu, tim sejen kudu...",
+      "opsi": [
+        "Ngahina tim",
+        "Nahan argument sorangan",
+        "Mere bantahan ku cara lain",
+        "Seuri",
+        "Ngarobah topik"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Girang serat miboga pancen...",
+      "opsi": [
+        "Ngatur jalanna acara",
+        "Ngadukung tim",
+        "Ngabahas data",
+        "Nyieun mosi",
+        "Nyatet hasil debat"
+      ],
+      "jawaban": "E"
+    }
+  ],
+  "essay": [
+    {
+      "pertanyaan": "Naon bedana girang serat jeung panumbu catur?"
+    },
+    {
+      "pertanyaan": "Naon wae anu kudu diperhatikeun dina nyusun argumen anu sae dina debat?"
+    },
+    {
+      "pertanyaan": "Kunaon basa anu sopan penting dina kagiatan debat? Bere contoh kalimah sopan dina nyanggah im sejen!"
+    },
+    {
+      "pertanyaan": "Kumaha carana sangkan bisa maham kana topik debat? Jeung kumaha jadina lamun urang poho kana argumentasi sorangan?"
+    },
+    {
+      "pertanyaan": "Pek hidep jieun conto topik debat ngenaan budaya Sunda!"
+    }
+  ]
+}
