@@ -1,0 +1,406 @@
+{
+  "pilihan_ganda": [
+    {
+      "pertanyaan": "Zat yang memiliki bentuk yang tidak tetap dan volume yang tidak tetap adalah wujud zat...",
+      "opsi": [
+        "Padat",
+        "Cair",
+        "Gas",
+        "Campuran",
+        "Koloid"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Karakteristik utama dari zat berwujud padat adalah...",
+      "opsi": [
+        "Gaya tarik antarmolekul sangat lemah",
+        "Volume dan bentuknya tidak tetap",
+        "Memiliki bentuk dan volume yang tetap",
+        "Susunan molekulnya berjauhan dan bergerak bebas",
+        "Dapat dimampatkan (dikompresi) dengan mudah"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Wujud zat cair memiliki karakteristik utama yaitu...",
+      "opsi": [
+        "Gaya tarik antarmolekulnya sangat lemah",
+        "Susunan molekulnya sangat rapat dan teratur",
+        "Volumenya tidak tetap, tetapi bentuknya tetap",
+        "Bentuknya tidak tetap (mengikuti wadah), tetapi volumenya tetap",
+        "Bentuk dan volumenya dapat diubah-ubah dengan mudah"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Peristiwa berikut yang merupakan contoh dari proses menyublim adalah...",
+      "opsi": [
+        "Titik-titik air terbentuk pada tutup panci saat memanaskan air",
+        "Berkurangnya massa kapur barus yang diletakkan di lemari",
+        "Lilin meleleh saat dinyalakan",
+        "Air didinginkan di freezer menjadi es batu",
+        "Uap air di udara berubah menjadi awan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Proses perubahan wujud zat dari gas menjadi cair, yang sering terjadi saat uap air di udara bersentuhan dengan permukaan dingin, disebut...",
+      "opsi": [
+        "Menguap",
+        "Melebur",
+        "Menyublim",
+        "Mengembun",
+        "Membeku"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Perubahan wujud zat dari cair menjadi gas di seluruh bagian zat cair tersebut dan terjadi pada suhu konstan (titik didih) disebut...",
+      "opsi": [
+        "Menguap",
+        "Mencair",
+        "Mendidih",
+        "Kondensasi",
+        "Menyublim"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Sifat kimia yang paling khas dari hidrogen (gas) adalah mudah terbakar. Definisi dari sifat kimia itu sendiri adalah...",
+      "opsi": [
+        "Kemampuan zat untuk mengalami reaksi kimia yang menghasilkan zat baru",
+        "Sifat yang dapat diamati tanpa mengubah komposisi zat",
+        "Perubahan wujud dari zat tersebut",
+        "Sifat yang bergantung pada ukuran zat",
+        "Massa jenis dan titik lebur zat"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Perubahan yang ditandai dengan terbentuknya zat jenis baru dan tidak dapat dikembalikan ke bentuk semula secara fisika disebut...",
+      "opsi": [
+        "Perubahan Fisika",
+        "Perubahan Kimia",
+        "Perubahan Heterogen",
+        "Perubahan Wujud",
+        "Perubahan Rasa"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Salah satu ciri utama dari perubahan fisika adalah...",
+      "opsi": [
+        "Selalu menghasilkan zat baru dengan sifat yang berbeda",
+        "Selalu disertai perubahan komposisi kimia",
+        "Perubahan yang tidak dapat dibalikkan (ireversibel)",
+        "Melibatkan perubahan struktur inti atom",
+        "Tidak menghasilkan zat baru, hanya perubahan bentuk atau wujud"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Perhatikan daftar sifat berikut:<br>1) Mudah berkarat<br>2) Massa jenis<br>3) Titik didih<br>4) Mudah terbakar<br>5) Kestabilan<br><br>Yang merupakan <b>sifat fisika</b> ditunjukkan oleh nomor...",
+      "opsi": [
+        "1) dan 2)",
+        "2) dan 3)",
+        "3) dan 4)",
+        "4) dan 5)",
+        "1) dan 5)"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Berikut adalah beberapa peristiwa dalam kehidupan sehari-hari:<br>1) Kayu dibakar menjadi arang dan abu<br>2) Air dipanaskan hingga mendidih<br>3) Besi dipotong-potong menjadi bagian kecil<br>4) Singkong difermentasi menjadi tape<br><br>Peristiwa yang termasuk perubahan kimia adalah...",
+      "opsi": [
+        "1) dan 2)",
+        "2) dan 3)",
+        "3) dan 4)",
+        "4) dan 1)",
+        "Hanya 4) saja"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "<b><i>Perhatikan Gambar berikut untuk menjawab soal nomor 12!</i></b><br><table><tr><td><img src='cbt-sekolah/soal/img/X/pipas/picture1.jpg'><br>(1)</td><td><img src='cbt-sekolah/soal/img/X/pipas/picture2.jpg'><br>(2)</td></tr><tr><td><img src='cbt-sekolah/soal/img/X/pipas/picture3.jpg'><br>(3)</td><td><img src='cbt-sekolah/soal/img/X/pipas/picture4.jpg'><br>(4)</td></tr></table><br>Peristiwa yang menunjukkan perubahan kimia ditandai dengan perubahan komposisi zat dan ditunjukkan oleh nomor...",
+      "opsi": [
+        "(1) dan (4), karena hanya terjadi perubahan wujud",
+        "(2) dan (3), karena menghasilkan zat baru",
+        "(1), (2), dan (3), karena terjadi pelepasan energi",
+        "(3) dan (4), karena dapat diamati oleh indra",
+        "(1), (2), (3), dan (4), karena semua melibatkan reaksi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Peristiwa berikut merupakan contoh dari perubahan fisika, kecuali...",
+      "opsi": [
+        "Peleburan logam tembaga",
+        "Pembuatan air gula",
+        "Pencampuran cuka dengan soda kue yang menghasilkan gas",
+        "Pemotongan kertas menjadi bagian-bagian kecil",
+        "Pembentukan embun di pagi hari"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dalam proses pembuatan es krim tradisional, ditambahkan garam kasar pada wadah es dan air. Fungsi utama penambahan garam kasar dalam proses tersebut adalah untuk...",
+      "opsi": [
+        "Mempercepat penguapan air di sekitar adonan es krim",
+        "Menurunkan titik lebur es, sehingga suhu campuran es dan garam menjadi sangat dingin",
+        "Menaikkan titik beku adonan es krim agar mudah membeku",
+        "Membuat adonan es krim menjadi lebih padat",
+        "Memberikan rasa asin pada es krim yang dihasilkan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Pembuatan es krim tradisional menggunakan es dan garam kasar bertujuan agar es krim membeku pada suhu yang sangat rendah. Jika dibandingkan dengan pendinginan hanya menggunakan es murni (membeku pada 0°C), evaluasi dampak suhu yang lebih rendah pada kualitas es krim yang dihasilkan",
+      "opsi": [
+        "Mempercepat pembentukan kristal es yang besar, membuat tekstur kasar",
+        "Membuat adonan cepat membeku, tetapi rasa manisnya berkurang",
+        "Mengakibatkan hilangnya aroma karena suhu yang terlalu ekstrem",
+        "Tidak berpengaruh signifikan pada tekstur, hanya pada kecepatan pembekuan",
+        "Memperlambat pertumbuhan kristal es, menghasilkan es krim yang lebih lembut"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Dalam notasi atom $_{z}^{A}X$, huruf A melambangkan...",
+      "opsi": [
+        "Nomor massa",
+        "Jumlah proton",
+        "Jumlah electron",
+        "Nomor atom",
+        "Jumlah elektron valensi"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Nomor massa suatu atom ditentukan oleh jumlah total dari...",
+      "opsi": [
+        "Proton dan elektron",
+        "Elektron dan neutron",
+        "Proton dan neutron",
+        "Neutron saja",
+        "Proton saja"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dalam atom netral, nomor atom (Z) menunjukkan jumlah...",
+      "opsi": [
+        "Neutron dan elektron",
+        "Proton dan electron",
+        "Neutron saja",
+        "Proton, neutron, dan electron",
+        "Nomor massa dikurangi jumlah neutron"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Atom unsur M memiliki 21 proton dan 24 neutron. Jika atom M membentuk ion$^{3+}$, berapakah jumlah elektron pada ion tersebut...",
+      "opsi": [
+        "18",
+        "24",
+        "21",
+        "45",
+        "20"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Berdasarkan Gambar diatas, berapakah jumlah elektron pada atom netral tersebut...<br><img src='cbt-sekolah/soal/img/X/pipas/picture5.jpg'>",
+      "opsi": [
+        "7",
+        "8",
+        "10",
+        "15",
+        "16"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "<b><i>Perhatikan unsur berikut untuk menjawab soal nomor 21!</i></b><br><table><tr><th>Unsur I</th><th>Unsur II</th><th>Unsur III</th></tr><tr><td>$_{11}^{23}{Na}$</td><td>$_{12}^{24}{Mg}$</td><td>$_{11}^{24}{Na}$</td></tr></table><br>Evaluasi hubungan antar unsur tersebut dan tentukan unsur mana yang memiliki jumlah neutron sama dengan unsur II...",
+      "opsi": [
+        "Unsur I dan II adalah isotop, unsur II dan III adalah isoton",
+        "Unsur I dan III adalah isobar, unsur I dan II adalah isoton",
+        "Unsur I dan II adalah isoton, unsur I dan III adalah isotop",
+        "Unsur II dan III adalah isobar, unsur I dan III adalah isotop",
+        "Unsur I, II, dan III memiliki sifat kimia yang sama"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Unsur Kalium dilambangkan dengan $_{19}^{39}K$. Jumlah <b>neutron</b> dalam atom Kalium adalah...",
+      "opsi": [
+        "19",
+        "39",
+        "58",
+        "18",
+        "20"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Ion Kalsium (Ca$^{2+}$) memiliki 20 proton dan 20 neutron. Berapakah jumlah elektron pada ion tersebut...",
+      "opsi": [
+        "18",
+        "20",
+        "40",
+        "22",
+        "21"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Pasangan unsur berikut yang bersifat isoelektronik adalah...",
+      "opsi": [
+        "$_{11}^{}{Na}$ dan $_{17}^{}{Cl}$",
+        "$_{12}^{}{Mg}^{2+}$ dan $_{18}^{}{Ar}$",
+        "$_{8}^{}O^{2-}$ dan $_{10}^{}{Ne}$",
+        "$_{1}^{1}H$ dan $_{2}^{4}{He}$",
+        "$_{19}^{}K$ dan $_{20}^{}{Ca}$"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Unsur-unsur yang terletak dalam satu periode pada Tabel Periodik memiliki kesamaan dalam hal...",
+      "opsi": [
+        "Jumlah elektron valensi",
+        "Jumlah kulit elektron",
+        "Sifat kimia dan fisika",
+        "Jumlah proton",
+        "Jumlah neutron"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Unsur-unsur yang konfigurasi elektronnya berakhir pada subkulit d (misalnya 3d, 4d, ...) dikenal sebagai unsur blok...",
+      "opsi": [
+        "s",
+        "p",
+        "d (Transisi)",
+        "f (Transisi Dalam)",
+        "g"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Atom unsur $_{12}^{}Mg$ akan memiliki konfigurasi elektron Bohr, sebagai berikut...",
+      "opsi": [
+        "2, 8, 2",
+        "2, 10",
+        "2, 8, 8, 2",
+        "12",
+        "2, 7, 3"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Subkulit yang memiliki tingkat energi paling rendah adalah...",
+      "opsi": [
+        "2s",
+        "2p",
+        "3s",
+        "1s",
+        "3p"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Berdasarkan Prinsip Aufbau, pengisian elektron setelah subkulit 3p adalah subkulit...",
+      "opsi": [
+        "4s",
+        "3d",
+        "4p",
+        "4d",
+        "5s"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Konfigurasi elektron yang benar untuk unsur $_{13}^{}{Al}$ adalah...",
+      "opsi": [
+        "$1s^{2} 2s^{2} 2p^{6} 3s^{2} 3p^{3}$",
+        "$1s^{2} 2s^{2} 2p^{6} 3s^{1} 3p^{2}$",
+        "$1s^{2} 2s^{2} 2p^{6} 3s^{2} 3p^{6}$",
+        "$1s^{2} 2s^{2} 2p^{6} 3s^{2} 3p^{1}$",
+        "$1s^{2} 2s^{6} 2p^{2} 3s^{1} 3p^{2}$"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Unsur X memiliki konfigurasi elektron $1s^{2} 2s^{2} 2p^{6} 3s^{2} 3p^{2}$. Unsur X terletak pada...",
+      "opsi": [
+        "Periode 2, Golongan IVA",
+        "Periode 3, Golongan IVA",
+        "Periode 4, Golongan IIA",
+        "Periode 3, Golongan IIA",
+        "Periode 2, Golongan IIA"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Atom yang memiliki 20 elektron akan memiliki konfigurasi elektron terakhir...",
+      "opsi": [
+        "$3d^{10}$",
+        "$3p^{6}$",
+        "$4s^{2}$",
+        "$4p^{2}$",
+        "$3d^{2}$"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Empat bilangan kuantum (n, l, m, s) untuk elektron terakhir dari unsur $_{17}^{}{Cl}$ adalah...",
+      "opsi": [
+        "n=3, l=1, m=-1, s=+1/2",
+        "n=3, l=1, m=0, s=-1/2",
+        "n=3, l=2, m=-1, s=+1/2",
+        "n=4, l=1, m=+1, s=-1/2",
+        "n=3, l=1, m=+1, s=-1/2"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Menurut teori atom modern, bentuk orbital <i>p</i> memiliki bilangan kuantum azimut (l) sebesar...",
+      "opsi": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Larangan Pauli secara prinsip menjelaskan bahwa dalam satu atom, tidak boleh ada dua elektron yang memiliki nilai...",
+      "opsi": [
+        "Keempat bilangan kuantum (n, l, m, s) yang sama",
+        "Bilangan kuantum utama (n) yang sama",
+        "Bilangan kuantum azimut (l) yang sama",
+        "Bilangan kuantum magnetik (m) yang sama",
+        "Bilangan kuantum spin (s) yang sama"
+      ],
+      "jawaban": "A"
+    }
+  ],
+  "essay": [
+    {
+      "pertanyaan": "Seorang siswa melakukan dua percobaan:<br>Percobaan A: Memanaskan sepotong gula pasir hingga meleleh dan berubah warna menjadi cokelat kehitaman, sambil mengeluarkan bau seperti karamel.<br>Percobaan B: Mendinginkan air hingga menjadi es batu.<br><br>a. Tentukan apakah Percobaan A (pemanasan gula) dan Percobaan B (pembekuan air) merupakan Perubahan Fisika atau Perubahan Kimia<br>b. Jelaskan perbedaan antara kedua jenis perubahan tersebut"
+    },
+    {
+      "pertanyaan": "Tentukan besar Proton, Elektron dan Neutron pada unsur berikut:<br>a. $_{24}^{52}{Cr}$<br>b. $_{36}^{83}{Kr}$<br>c. $_{40}^{91}{Zr}$"
+    },
+    {
+      "pertanyaan": "Buatlah konfigurasi elektron Bohr dan Aufbau dari unsur $_{31}^{}{Ga}$, kemudian tentukan golongan beserta periodenya!"
+    },
+    {
+      "pertanyaan": "Tentukan bilangan kuantum elekron terakhir dan jumlah electron tidak berpasangan dari unsur berikut!<br>a. $_{18}^{}{Ar}$<br>b. $_{25}^{}{Mn}$"
+    },
+    {
+      "pertanyaan": "Jelaskan perbedaan mendasar antara campuran homogen dan campuran heterogen. Sertakan masing-masing minimal dua contoh yang relevan dari kehidupan sehari-hari untuk setiap jenis campuran tersebut!"
+    }
+  ]
+}

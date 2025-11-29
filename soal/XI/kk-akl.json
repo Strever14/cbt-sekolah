@@ -1,0 +1,373 @@
+{
+  "pilihan_ganda": [
+    {
+      "pertanyaan": "Transaksi keuangan pemerintah daerah diikhtisarkan atau dicatat berdasarkan .....",
+      "opsi": [
+        "Daftar hadir",
+        "Daftar saldo",
+        "Daftar akun",
+        "Daftar neraca",
+        "Daftar BAS"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Penerapan Standar Akuntansi Pemerintah berbasis Akrual pada Pemerintah Daerah yaitu berdasarkan .....",
+      "opsi": [
+        "Permendagri No. 63 Tahun 2023",
+        "Permendagri No. 64 Tahun 2013",
+        "Permendagri No. 60 Tahun 2013",
+        "Permendagri No. 46 Tahun 2023",
+        "Permendagri No 46 Tahun 2023"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Seluruh pengeluaran yang mengurangi rekening kas umum daerah dalam periode tahun anggaran bersangkutan dan pembayarannya tidak dapat diperoleh kembali oleh pemerintah daerah disebut.....",
+      "opsi": [
+        "Akun transfer",
+        "Akun pembiayaan",
+        "Akun ekuitas",
+        "Akun beban",
+        "Akun belanja"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Jurnal pencatatan transaksi keuangan pemerintah daerah yang digunakan ada dua yaitu .....",
+      "opsi": [
+        "Jurnal finansial dan jurnal pelaksanaan anggaran",
+        "Jurnal umum dan jurnal khusus",
+        "Jurnal penutup dan jurnal pembalik",
+        "Jurnal penerimaan kas dan jurnal pengeluaran kas",
+        "Jurnal pembelian dan jurnal penjualan"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Jurnal yang digunakan untuk mencatat transaksi keuangan pemerintah daerah yang berhubungan dengan kelompok akun neraca disebut.....",
+      "opsi": [
+        "Jurnal umum",
+        "Jurnal khusus",
+        "Jurnal pelaksanaan anggaran",
+        "Jurnal penutup",
+        "Jurnal finansial"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Jurnal yang digunakan untuk mencatat transaksi keuangan pemerintah daerah yang dilakukan secara tunai atau menggunakan kas adalah.....",
+      "opsi": [
+        "Jurnal finansial",
+        "Jurnal umum",
+        "Jurnal khusus",
+        "Jurnal pelaksanaan anggaran",
+        "Jurnal penutup"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Penerimaan/ pengeluaran uang dari suatu entitas pelaporan dari/ kepada entitas pelaporan lain, termasuk dana perimbangan dan dana bagi hasil disebut.....",
+      "opsi": [
+        "Akun belanja",
+        "Akun pembiayaan",
+        "Akun transfer",
+        "Akun ekuitas",
+        "Akun kewajiban"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Berdasarkan tabel berikut, isian titik-titik yang benar adalah........<br><table border='1'><tr><th>No.</th><th>Nama Akun</th><th>Debit</th><th>Kredit</th></tr><tr><td>1</td><td>Aset</td><td>(+)</td><td>(-)</td></tr><tr><td>2</td><td>Liabilitas</td><td>(-)</td><td>(+)</td></tr><tr><td>3</td><td>Ekuitas</td><td>(-)</td><td>(+)</td></tr><tr><td>4</td><td>Pendapatan - LO/ Pendapatan-LRA</td><td>(-)</td><td>(+)</td></tr><tr><td>5</td><td>Beban/ Belanja</td><td>(+)</td><td>(-)</td></tr><tr><td>6</td><td>Penerimaan Pembiayaan</td><td>(-)</td><td>(+)</td></tr><tr><td>7</td><td>Pengeluaran Pembiayaan</td><td>(+)</td><td>(-)</td></tr><tr><td>8</td><td>Perubahan SAL</td><td>menyesuaikan</td><td>menyesuaikan</td></tr><tr><td>9</td><td>Estimasi Pendapatan</td><td>(+)</td><td>.................</td></tr></table>",
+      "opsi": [
+        "Tidak ada",
+        "(+)",
+        "(-)",
+        "menyesuaikan",
+        "Tidak menyesuaikan"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Salah satu transaksi yang menimbulkan piutang dagang adalah penjualan kredit. Dalam penjualan kredit, penjual memberikan syarat atau termin pembayaran tertentu. Maka syarat pembayaran 2/10, n/30 adalah .....",
+      "opsi": [
+        "Pembeli akan mendapat potongan 2% dari harga faktur apabila membayar dalam waktu ≤10 hari setelah tanggal faktur dengan batas waktu pelunasan pada akhir bulan",
+        "Pembeli akan mendapat potongan 2% dari harga faktur apabila membayar dalam waktu <10 hari setelah tanggal faktur dengan batas waktu pelunasan 30 hari setelah tanggal faktur",
+        "Pembeli akan mendapat potongan 2% dari harga faktur apabila membayar dalam waktu ≤10 hari setelah tanggal faktur dengan batas waktu pelunasan 30 hari setelah tanggal faktur",
+        "Pembeli akan mendapat potongan 10% dari harga faktur apabila membayar dalam waktu ≤10 hari setelah tanggal faktur dengan batas waktu pelunasan 30 hari setelah tanggal faktur",
+        "Pembeli akan mendapat potongan 20% dari harga faktur apabila membayar dalam waktu >10 hari setelah tanggal faktur dengan batas waktu pelunasan 30 hari setelah tanggal faktur"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Pembayaran yang dilaksanakan sebesar persentase tertentu dari harga jual barang yang telah ditetukan merupakan pengertian dari .....",
+      "opsi": [
+        "Pembayaran uang muka",
+        "Pembayaran angsuran",
+        "Pembayaran kredit",
+        "Pembayaran tunai",
+        "Pembayaran non tunai"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Menurut Martani, et.al (2018:194) piutang dapat dikelompokkan menjadi tiga, yaitu.....",
+      "opsi": [
+        "Memperkuat Piutang dagang, piutang usaha, piutang lain-lain",
+        "Piutang dagang, piutang nondagang, piutang lain-lain",
+        "Piutang dagang, piutang wesel, piutang bukan usaha",
+        "Piutang dagang, piutang usaha, piutang bukan usaha",
+        "Piutang dagang, piutang non dagang, piutang wesel"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Pada tanggal 12 September 2010 UD MEKAR JAYA membeli barang dagangan dari CV. LANGGENG seharga Rp. 25.000.000,00 dengan syarat pembayaran 2/10, n/60. CV. LANGGENG akan mencatat transaksi tersebut ke dalam .....",
+      "opsi": [
+        "Jurnal penerimaan kas",
+        "Jurnal pembelian",
+        "Jurnal pengeluaran kas",
+        "Jurnal pengeluaran",
+        "Jurnal umum"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Pada tanggal 15 Januari 2010 dibeli barang dagangan seharga Rp. 8.000.000,00. Untuk pembayaran PT. CAHAYA menyerahkan promes 30 hari berbunga 18% setahun. Jurnal untuk mencatat transaksi pembelian barang tersebut adalah .....",
+      "opsi": [
+        "Beban Pembelian (D) Rp. 8.000.000,00; Beban bunga (D) Rp. 1.200.000,00; Wesel bayar (K) Rp. 9.200.000,00",
+        "Pembelian (D) Rp. 8.000.000,00; Wesel bayar (K) Rp. 8.000.000,00",
+        "Pembelian (D) Rp. 8.120.000,00; Wesel bayar (K) Rp. 8.120.000,00",
+        "Utang usaha (D) Rp. 8.000.000,00; Wesel bayar (K) Rp. 8.000.000,00",
+        "Utang usaha (D) Rp. 8.000.000,00; Beban Bunga (D) Rp 120.000,00; Wesel bayar (K) Rp. 8.120.000,00"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Pada tanggal 1 Januari 2010 PD. HARAPAN JAYA membeli barang dagangan kepada PT. KARTIKA seharga Rp. 20.000.000,00 dengan syarat 3/10, n/3. Maka PD. HARAPAN JAYA akan mencatat transaksi tersebut ke dalam.....",
+      "opsi": [
+        "Jurnal pengeluaran kas",
+        "Jurnal penerimaan kas",
+        "Jurnal penjualan",
+        "Jurnal pembelian",
+        "Jurnal penerimaan barang"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Transaksi jual beli secara kredit membutuhkan termin pembayaran. Termin 2/10, n/30 mempunyai makna bagi debitur. Apabila debitur melunasi utang lebih dari sepuluh hari setelah tanggal faktur, maka dampaknya.....",
+      "opsi": [
+        "Mendapat potongan harga sebesar 2%",
+        "Tidak mendapat potongan harga",
+        "Mendapat sanksi administrasi sebesar 2%",
+        "Mendapat potongan sebesar 10%",
+        "Tidak mendapat potongan dan sanksi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perusahaan menerima pelunasan piutang dari pelanggan. Jurnal yang benar adalah...",
+      "opsi": [
+        "Piutang Usaha (D) -- Kas (K)",
+        "Kas (D) -- Piutang Usaha (K)",
+        "Penjualan (D) -- Kas (K)",
+        "Kas (D) -- Penjualan (K)",
+        "Beban Piutang (D) -- Kas (K)"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Informasi yang biasanya terdapat pada kartu piutang adalah...",
+      "opsi": [
+        "Nama karyawan",
+        "Rincian pembelian tunai",
+        "Nama pelanggan, transaksi, saldo piutang",
+        "Daftar persediaan barang",
+        "Data aset tetap"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Semakin lama umur piutang, maka ........",
+      "opsi": [
+        "Risiko tidak tertagih semakin kecil",
+        "Risiko tidak tertagih semakin besar",
+        "Tidak ada pengaruh",
+        "Piutang harus dihapus buku",
+        "Nilai piutang meningkat"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Dokumen yang digunakan sebagai dasar pencatatan bagian jurnal selanjutnya dicatat ke dalam kartu piutang tiap debitur. Dokumen transaksi yang mengakibatkan piutang bertambah adalah...",
+      "opsi": [
+        "Faktur penjualan",
+        "Faktur pembelian",
+        "Bukti memorial",
+        "Bukti kas keluar",
+        "Bukti kas masuk"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Surat Pemberitahuan (SPT) merupakan surat yang digunakan wajib pajak untuk...",
+      "opsi": [
+        "Menyampaikan data harta kekayaan",
+        "Melaporkan perhitungan pajak terutang",
+        "Mengajukan keberatan pajak",
+        "Mendapatkan insentif pajak",
+        "Mendaftarkan diri sebagai wajib pajak"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "SPT Tahunan PPh Orang Pribadi dilaporkan paling lambat......",
+      "opsi": [
+        "31 Januari",
+        "28 Februari",
+        "31 Maret",
+        "30 April",
+        "31 Desember"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Fungsi utama SPT adalah.....",
+      "opsi": [
+        "Menentukan tarif pajak",
+        "Menyetujui peraturan pajak",
+        "Melaporkan penghasilan dan pajak terutang",
+        "Mengubah status wajib pajak",
+        "Memberikan bukti pembayaran pajak"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Berikut ini yang termasuk jenis SPT adalah......",
+      "opsi": [
+        "SPT PPN saja",
+        "SPT PPh saja",
+        "SPT Tahunan dan SPT Masa",
+        "Surat Tagihan Pajak",
+        "Surat Keterangan Fiskal"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Penyampaian SPT dapat dilakukan melalui sarana berikut, kecuali.....",
+      "opsi": [
+        "E-filing",
+        "E-form",
+        "DJP Online",
+        "Kantor Pos",
+        "WhatsApp petugas pajak"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "NPPKP adalah singkatan dari.....",
+      "opsi": [
+        "Nomor Pengajuan Pengusaha Kena Pajak",
+        "Nomor Permohonan Pengukuhan PKP",
+        "Nomor Pendaftaran Pajak Keluaran PKP",
+        "Nomor Penetapan Pajak Kena Pajak",
+        "Nomor Penerbitan Pajak Keluaran"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Pengukuhan PKP dilakukan oleh.....",
+      "opsi": [
+        "Bank Indonesia",
+        "Kementrian Perdagangan",
+        "Direktorat Jenderal Pajak",
+        "Pemerintah Daerah",
+        "Kepolisian"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Ketentuan omzet Rp 4,8 miliar sebagai batas PKP disebut.......",
+      "opsi": [
+        "Batas penghasilan kena pajak",
+        "Batas peredaran bruto",
+        "Batas tarif pajak",
+        "Batas faktur pajak",
+        "Batas penghasilan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "PKP menunjukkan status bahwa pengusaha tersebut......",
+      "opsi": [
+        "Menyetor PBB",
+        "Menyetor pajak kendaraan",
+        "Menjadi pemungut PPN",
+        "Memiliki izin dagang",
+        "Memiliki badan usaha"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Permohonan PKP bagi usaha baru dilakukan setelah.......",
+      "opsi": [
+        "Penetapan gaji pegawai",
+        "Menyewa gedung",
+        "Memiliki NPWP",
+        "Membeli bahan baku",
+        "Membuka rekening bank"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Salah satu manfaat menjadi PKP adalah......",
+      "opsi": [
+        "Bebas PPN",
+        "Dapat menerbitkan faktur pajak untuk lawan transaksi",
+        "Pembebasan tarif pajak",
+        "Penurunan omzet",
+        "Menghindari pelaporan pajak"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "PKP wajib menyelenggarakan pembukuan berdasarkan.......",
+      "opsi": [
+        "Standar akuntansi pemerintah",
+        "Standar pendidikan",
+        "Standar akuntansi keuangan",
+        "Standar statistik",
+        "Standar arsip nasional"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "PKP wajib melakukan pencatatan......",
+      "opsi": [
+        "Pendapatan tanpa bukti",
+        "Transaksi yang dikenakan PPN",
+        "Transaksi pribadi",
+        "Semua aktivitas hiburan",
+        "Pengeluaran pribadi"
+      ],
+      "jawaban": "B"
+    }
+  ],
+  "essay": [
+    {
+      "pertanyaan": "Konsep pendebitan, pengkreditan, dan saldo normal akun. Isilah titik-titik di bawah ini dengan benar!<br><table border='1'><tr><th>No.</th><th>Nama Akun</th><th>Debit</th><th>Kredit</th><th>Saldo Normal</th></tr><tr><td>1</td><td>Aset</td><td>(+)</td><td>(-)</td><td>.................</td></tr><tr><td>2</td><td>Liabilitas</td><td>(-)</td><td>(+)</td><td>.................</td></tr><tr><td>3</td><td>Ekuitas</td><td>(-)</td><td>(+)</td><td>.................</td></tr><tr><td>4</td><td>Pendapatan - LO/ Pendapatan-LRA</td><td>(-)</td><td>(+)</td><td>.................</td></tr><tr><td>5</td><td>Beban/ Belanja</td><td>(+)</td><td>(-)</td><td>.................</td></tr><tr><td>6</td><td>Penerimaan Pembiayaan</td><td>(-)</td><td>(+)</td><td>.................</td></tr><tr><td>7</td><td>Pengeluaran Pembiayaan</td><td>(+)</td><td>(-)</td><td>.................</td></tr><tr><td>8</td><td>Perubahan SAL</td><td>menyesuaikan</td><td>..............</td><td>menyesuaikan</td></tr><tr><td>9</td><td>Estimasi Pendapatan</td><td>(+)</td><td>Tidak ada</td><td>.................</td></tr></table>"
+    },
+    {
+      "pertanyaan": "Jelaskan perbedaan utama kartu piutang dan kartu utang!"
+    },
+    {
+      "pertanyaan": "Apa tujuan perusahaan menggunakan kartu utang?"
+    },
+    {
+      "pertanyaan": "Jelaskan fungsi utama Surat Pemberitahuan (SPT) bagi Wajib Pajak."
+    },
+    {
+      "pertanyaan": "Dokumen apa saja yang diperlukan untuk mengajukan NPPKP?"
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "pilihan_ganda": [
+    {
+      "pertanyaan": "Program aplikasi lembar kerja (spreadsheet) yang digunakan untuk mengelola, menghitung, menganalisis, dan memvisualisasikan data adalah pengertian dari ...",
+      "opsi": [
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Microsoft PowerPoint",
+        "Microsoft Access",
+        "Microsoft Publisher"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "<b><i>Perhatikan gambar berikut untuk menjawab soal no 2 sampai no 6</i></b><br><img src='cbt-sekolah/soal/img/XI/mp-akl/image1.jpg'>Bagian pada antarmuka Excel yang menampilkan hasl penulisan rumus atau isi sel ditandai dengan nomor 7 disebut...",
+      "opsi": [
+        "Ribbon",
+        "Formula Bar",
+        "Name Box",
+        "Quick Access Toolbar",
+        "Title Bar"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Bagian paling atas yang menampilkan nama file Excel yang sedang dibuka ditandai dengan nomor 2 disebut...",
+      "opsi": [
+        "Ribbon",
+        "Formula Bar",
+        "Name Box",
+        "Quick Access Toolbar",
+        "Title Bar"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Tombol-tombol perintah yang bisa dipakai sebagai shortcut seperti Save, Undo, dan Redo yang ditandai dengan nomor 1 terdapat pada...",
+      "opsi": [
+        "Ribbon",
+        "Formula Bar",
+        "Name Box",
+        "Quick Access Toolbar",
+        "Title Bar"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Berdasarkan gambar antarmuka Excel, bagian yang ditunjukkan oleh nomor 5 disebut ...",
+      "opsi": [
+        "Ribbon",
+        "Formula Bar",
+        "Name Box",
+        "Quick Access Toolbar",
+        "Title Bar"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Bagian yang menampilkan nama sel aktif, seperti A1, B3, atau C5, yang ditunjukkan oleh nomor 6 disebut ...",
+      "opsi": [
+        "Ribbon",
+        "Formula Bar",
+        "Name Box",
+        "Quick Access Toolbar",
+        "Title Bar"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dari data berikut, manakah yang bukan termasuk tipe data yang digunakan pada Microsoft Excel?",
+      "opsi": [
+        "Character / String / Teks",
+        "Numeric /Angka",
+        "Arithmetic / Aritmetika",
+        "Currency / Mata Uang",
+        "Date / Tanggal"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Tipe data manakah yang tidak dapat dihitung dengan operasi matematika?",
+      "opsi": [
+        "Character / String / Teks",
+        "Numeric /Angka",
+        "Arithmetic / Aritmetika",
+        "Currency / Mata Uang",
+        "Date / Tanggal"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Tipe data yang digunakan untuk menampilkan simbol \"Rp\", \"$\", atau \"£\" adalah ...",
+      "opsi": [
+        "Character / String / Teks",
+        "Numeric /Angka",
+        "Arithmetic / Aritmetika",
+        "Currency / Mata Uang",
+        "Date / Tanggal"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Operator yang digunakan untuk menghitung perpangkatan adalah...",
+      "opsi": [
+        "%",
+        "!",
+        "^",
+        "*",
+        "&"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Untuk menghitung akar kuadrat dari nilai sel A1, rumus yang benar adalah...",
+      "opsi": [
+        "=SQRT(A1)",
+        "=A1/SQRT",
+        "=ROOT*A1",
+        "=A1(1/2)",
+        "=SQRT-A1"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Fungsi / rumus yang digunakan untuk mencari nilai rata-rata pada suatu data adalah...",
+      "opsi": [
+        "SUM",
+        "AVERAGE",
+        "MAX",
+        "MIN",
+        "COUNT"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Fungsi / rumus SUM digunakan untuk...",
+      "opsi": [
+        "Mencari nilai terbesar",
+        "Menghitung nilai rata-rata",
+        "Menjumlahkan data",
+        "Mencari nilai terkecil",
+        "Menghitung jumlah sel"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "<b><i>Perhatikan gambar berikut untuk menjawab soal no 14 sampai no 16</i></b><br><img src='cbt-sekolah/soal/img/XI/mp-akl/image2.png'>Manakah rumus yang tepat untuk menghitung nilai rata-rata milik Adit?",
+      "opsi": [
+        "=AVERAGE(C2:E2)",
+        "=AVERAGE(C2:C6)",
+        "=AVERAGE(B2:E2)",
+        "=AVERAGE(E2:E6)",
+        "=AVERAGE(A2:E2)"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Jika ingin mencari nilai tertinggi pada kolom Nilai 3, rumus yang digunakan adalah...",
+      "opsi": [
+        "=HIGH(E2:E6)",
+        "=TOP(E2:E6)",
+        "=MAX(E2:E6)",
+        "=MIN(E2:E6)",
+        "=SUM(E2:E6)"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Rumus yang digunakan untuk mencari nilai terkecil pada kolom Nilai 1 adalah...",
+      "opsi": [
+        "=MIN(C2:E2)",
+        "=MIN(C2:C6)",
+        "=MIN(B2:E2)",
+        "=MIN(E2:E6)",
+        "=MIN(A2:E2)"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Fungsi IF digunakan untuk...",
+      "opsi": [
+        "Mengurutkan data secara otomatis",
+        "Membandingkan dua kondisi dan menghasilkan nilai sesuai syarat",
+        "Menjumlahkan seluruh data",
+        "Menggabungkan dua teks",
+        "Mencari nilai terbesar"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Rumus dasar IF pada Microsoft Excel adalah...",
+      "opsi": [
+        "=IF(kondisi; nilai_jika_salah; nilai_jika_benar)",
+        "=IF(kondisi; nilai_jika_benar; nilai_jika_salah)",
+        "=IF(nilai_jika_benar; kondisi; nilai_jika_salah)",
+        "=IF(nilai1; nilai2; kondisi)",
+        "=IF(kondisi)"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "<b><i>Perhatikan gambar berikut untuk menjawab soal no 19 sampai no 24</i></b><br><br><img src='cbt-sekolah/soal/img/XI/mp-akl/image3.png'><br>Rumus =IF(B2>=75;\"Lulus\";\"Tidak Lulus\") artinya...",
+      "opsi": [
+        "Jika nilai lebih dari 100 maka lulus",
+        "Jika nilai lebih kecil dari 75 maka lulus",
+        "Jika nilai lebih besar dari 75 maka tidak lulus",
+        "Jika nilai B2 minimal 75 maka lulus, selain itu tidak lulus",
+        "Jika nilai B2 negatif maka lulus"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Rumus =IF(B2<50;\"Remedial\";\"Tidak Remedial\") akan bernilai \"Remedial\" apabila...",
+      "opsi": [
+        "B2 = 80",
+        "B2 = 60",
+        "B2 = 50",
+        "B2 = 49",
+        "B2 = 100"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Berdasarkan tabel rumus yang benar untuk menentukan status nilai Erika berdasarkan kriteria berikut:<br>Kriteria:<br>- ≥ 75 : \"Lulus\"<br>- ≥ 60 : \"Perbaikan\"<br>- < 60 : \"Tidak Lulus\"",
+      "opsi": [
+        "=IF(B6>=75;\"Lulus\"; IF(B2>60;\"Perbaikan\";\"Tidak Lulus\"))",
+        "=IF(B6>=75;\"Lulus\";IF(B2>=60;\"Perbaikan\";\"Tidak Lulus\"))",
+        "=IF(B6>=75;Lulus; IF(B2>60;Perbaikan;Tidak Lulus))",
+        "=IF(B6>=75;\"Lulus\");IF(B2>=60;\"Perbaikan\";\"Tidak Lulus\")",
+        "=IF(B6>=75;Lulus); IF(B2>60;Perbaikan;Tidak Lulus)"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Berdasarkan tabel, rumus yang tepat untuk menentukan kategori nilai Dimas adalah...<br>Kriteria:<br>- ≥ 90 : \"A\"<br>- ≥ 75 : \"B\"<br>- ≥ 60 : \"C\"<br>- Selain itu : \"D\"",
+      "opsi": [
+        "=IF(B2>=90;\"A\";IF(B2>=75;\"B\";IF(B2>=60;\"C\";\"D\")))",
+        "=IF(B3>=90;\"A\";IF(B2>=75;\"B\";IF(B2>=60;\"C\";\"D\")))",
+        "=IF(B4>=90; \"A\";IF(B2>=75;\"B\";IF(B2>=60;\"C\";\"D\")))",
+        "=IF(B5>=90; \"A\";IF(B2>=75;\"B\";IF(B2>=60;\"C\";\"D\")))",
+        "=IF(B6<=90; \"A\";IF(B2>=75;\"B\";IF(B2>=60;\"C\";\"D\")))"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Berdasarkan tabel dan kriteria, rumus yang kondisi keduanya harus terpenuhi untuk menentukan nilai Citra adalah...<br>Kriteria:<br>- Nilai ≥ 75 dan<br>- Kehadiran ≥ 80%",
+      "opsi": [
+        "=IF(OR(B4>=75;C2>=80%);\"Lulus\";\"Tidak Lulus\")",
+        "=IF(AND(B4<75;C2<80%);\"Lulus\";\"Tidak Lulus\")",
+        "=IF(OR(B4>=75;C2<=80%);\"Lulus\";\"Tidak Lulus\")",
+        "=IF(AND(B4>=75;C2>=80%);\"Lulus\";\"Tidak Lulus\")",
+        "=IF(B4>=75;\"Lulus\";\"Tidak Lulus\")"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Berdasarkan tabel dan kriteria, rumus yang digunakan jika salah satu syarat terpenuhi untuk menentukan apakah Citra lulus atau remedial adalah...",
+      "opsi": [
+        "=IF(OR(B4>=75;C2>=80%);\"Lulus\";\"Tidak Lulus\")",
+        "=IF(AND(B4<75;C2<80%);\"Lulus\";\"Tidak Lulus\")",
+        "=IF(OR(B4>=75;C2<=80%);\"Lulus\";\"Tidak Lulus\")",
+        "=IF(AND(B4>=75;C2>=80%);\"Lulus\";\"Tidak Lulus\")",
+        "=IF(B4>=75;\"Lulus\";\"Tidak Lulus\")"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Fungsi dari rumus SUMIF pada Microsoft Excel adalah...",
+      "opsi": [
+        "Menghitung rata-rata dari seluruh data dalam sebuah range",
+        "Menentukan nilai terbesar dari suatu kumpulan data",
+        "Menjumlahkan data berdasarkan satu kriteria tertentu",
+        "Mengurutkan data dari yang terkecil ke terbesar",
+        "Menghitung jumlah sel yang tidak kosong dalam suatu range"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Rumus umum yang digunakan untuk menjumlahkan data berdasarkan satu kriteria tertentu pada Microsoft Excel adalah...",
+      "opsi": [
+        "=SUM(range)",
+        "=SUMIF(range; criteria; sum_range)",
+        "=COUNTIF(range; criteria)",
+        "=AVERAGEIF(range; criteria; average_range)",
+        "=SUMIFS(sum_range; criteria_range)"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "<b><i>Perhatikan gambar berikut untuk menjawab soal no 27 sampai no 29</i></b><br><br><img src='cbt-sekolah/soal/img/XI/mp-akl/image4.png'>Berdasarkan tabel, rumus yang digunakan untuk menjumlahkan total penjualan Buku adalah...",
+      "opsi": [
+        "=SUM(B2:B6)",
+        "=SUMIF(C2:C6;\"Buku\";B2:B6)",
+        "=SUMIF(B2:B6;\"Buku\";C2:C6)",
+        "=SUMIF(B2;\"Buku\";C2)",
+        "=SUMIF(B2:B6;\"Pensil\";C2:C6)"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Hasil dari rumus =SUMIF(C2:C6;\"<10\") berdasarkan tabel adalah...",
+      "opsi": [
+        "27",
+        "22",
+        "17",
+        "12",
+        "3"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Hasil dari rumus =SUMIF(B2:B6;\"*u*\";C2:C6) berdasarkan tabel adalah...",
+      "opsi": [
+        "27",
+        "22",
+        "17",
+        "12",
+        "3"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Fungsi COUNT digunakan untuk menghitung...",
+      "opsi": [
+        "Semua sel yang berisi teks",
+        "Semua sel yang berisi angka",
+        "Semua sel yang tidak kosong",
+        "Sel yang memenuhi lebih dari satu kriteria",
+        "Sel yang kosong"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Rumus umum COUNTIF yang digunakan untuk menghitung jumlah sel berdasarkan satu kriteria tertentu adalah...",
+      "opsi": [
+        "=COUNTIF(criteria; range)",
+        "=COUNTIF(range; criteria)",
+        "=COUNTIF(range)",
+        "=COUNTIF(criteria)",
+        "=COUNTIF(criteria_range1; criteria1; [criteria_range2];[ criteria2];...)"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "<b><i>Perhatikan gambar berikut untuk menjawab soal no 32 sampai no 35</i></b><br><br><img src='cbt-sekolah/soal/img/XI/mp-akl/image5.png'>Rumus COUNT yang benar untuk menghitung jumlah produk yang memiliki nilai stok adalah...",
+      "opsi": [
+        "=COUNT(A2:C2)",
+        "=COUNT(B2:B6)",
+        "=COUNT(C2:C6)",
+        "=COUNT(C2:C6;\"=Stok\")",
+        "=COUNT(C2:C6;\"Stok\")"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Rumus COUNTA yang benar untuk menghitung jumlah nama produk yang tidak kosong adalah...",
+      "opsi": [
+        "=COUNTA(A2:A6)",
+        "=COUNTA(B2:B6)",
+        "=COUNTA(C2:C6)",
+        "=COUNTA(A2:C2)",
+        "=COUNTA(A2:A6;\"<>\")"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Rumus COUNTIFS yang digunakan untuk menghitung jumlah produk yang termasuk kategori Kebutuhan dan memiliki stok kurang dari 20 adalah...",
+      "opsi": [
+        "=COUNTIFS(B2:B6;\"Kebutuhan\")",
+        "=COUNTIFS(B2:B6;\"Kebutuhan\";C2:C6;\"<20\")",
+        "=COUNTIFS(C2:C6;\"<20\";B2:B6;\"Alat Tulis\")",
+        "=COUNTIFS(A2:A6;\"Kebutuhan\";C2:C6;\"<20\")",
+        "=COUNTIFS(C2;\"<20\";B2;\"Kebutuhan\")"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Berdasarkan tabel, berapa hasil dari rumus berikut?<br>=COUNTIFS(B2:B6,\"Alat Tulis\", C2:C6,\"<50\")",
+      "opsi": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "jawaban": "D"
+    }
+  ],
+  "essay": [
+    {
+      "pertanyaan": "Tuliskan fungsi dari rumus berikut:<br>a. SUM<br>b. AVERAGE<br>c. MAX<br>d. MIN"
+    },
+    {
+      "pertanyaan": "Tuliskan perbedaan antara SUM dengan SUMIF!"
+    },
+    {
+      "pertanyaan": "<b><i>Perhatikan gambar berikut untuk menjawab soal no 3 sampai no 4</i></b><br><br><img src='cbt-sekolah/soal/img/XI/mp-akl/image6.png'>Berdasarkan data pada tabel diatas, tuliskan rumus untuk menentukan status nilai UAS Farah dengan kriteria sebagai berikut:<br>- Jika nilai UAS Farah >=75 maka staus nilainya Lulus<br>- Jika nilai UAS Farah <75 maka status nilainya Remedial"
+    },
+    {
+      "pertanyaan": "Berdasarkan data pada tabel diatas, tuliskan rumus untuk membuat predikat nilai UTS Dinda dengan kriteria sebagai berikut:<br>- Jika nilai UTS Dinda >=90 maka predikat nilainya A<br>- Jika nilai UTS Dinda >=80 maka predikat nilainya B<br>- Jika nilai UTS Dinda >=70 maka predikat nilainya C<br>- Jika nilai UTS Dinda < 70 maka predikat nilainya D"
+    },
+    {
+      "pertanyaan": "Tuliskan perbedaan antara Count, Counta, dan CountIF!"
+    }
+  ]
+}
