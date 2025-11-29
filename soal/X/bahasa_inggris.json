@@ -1,0 +1,397 @@
+{
+  "pilihan_ganda": [
+    {
+      "pertanyaan": "Pandu's Grandmother : Oh hello there, welcome! Make yourself at home.<br>Denis : Thank you, madam.<br>Pandu's Grandmother : Of course, dear. I'll leave you two alone.<br>Denis : What is your grandma's age, Pandu?<br>Pandu : It's 85 years old this year. How about your grandma?<br>Denis : Just three years older than your grandma.<br>Pandu : She is ......... years old? I see.",
+      "opsi": [
+        "eight five",
+        "eighteen eight",
+        "eight eight",
+        "eighty eight",
+        "eighteen five"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "<b><i>Study the schedule below to answer number 2 - 4!</i></b><br><img src='soal/img/X/inggris/picture1.png'>",
+      "opsi": [
+        "a quarter past eleven",
+        "a quarter past ten",
+        "a quarter to nine",
+        "a quarter past eleven",
+        "a quarter to ten"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "How many times is English lesson in 3 weeks?",
+      "opsi": [
+        "six times",
+        "zero time",
+        "two times",
+        "many times",
+        "three times"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "How long is Informatics on Tuesday?",
+      "opsi": [
+        "four hours",
+        "three hours",
+        "sixty minutes",
+        "one hour thirty minutes",
+        "ninety minutes"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Khairul is ........ students among students here.",
+      "opsi": [
+        "more smarter",
+        "the most smart",
+        "smarter",
+        "the smarter",
+        "the smartest"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "What time is it?<br><img src='soal/img/X/inggris/picture2.png'>",
+      "opsi": [
+        "It's three and two o'clock",
+        "It's twenty minutes past fourteen",
+        "It's four minutes past two",
+        "It's fifteen and twenty minutes",
+        "It's a half past two"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "<b>3 March 2015</b><br>How do we say this?",
+      "opsi": [
+        "Third of March two thousand one five",
+        "March three twelve and fifteen",
+        "Three of March twenty and fifteen",
+        "March third two thousand fifteen",
+        "Three March two thousand fiveteen"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "$\\frac{5}{4} + \\frac{3}{4} = \\frac{8}{4} = 2$<br>The Latin version of the numbers is ........?",
+      "opsi": [
+        "Fifth and fourth plus third and fourth equal to eighth and fourth equal to second",
+        "Fif and four plus three and four equal to eight and four equal to two",
+        "Five and four plus three and four equal to eight and four equal to second",
+        "Five and fourth plus three and fourth equal to eight and fourth equal to two",
+        "Fifth and four plus third and four equal to eighth and four equal to two"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "<b><i>Read the text below to answer number 9 - 12!</i></b><br><br>My Uncle Martin is my mother's elder brother. He is my favourite among my mother's brothers. He is a very interesting man. He lives quite near us with my Aunt Angela and my cousins Anne and Bob. I often go to his house. He is about 45 with grey hair. He is still quite good-looking. He is tall and well-built. He has blue eyes and a strong face. He wears glasses. He is short sighted. He takes them off when he doesn't work. Uncle Martin is a textile engineer. He works for a big firm in the city. He travels widely in his job. He is an expert in solving problems with machines. At present, he is in the United States. He is visiting the firm's customers there. He is very fond of the sea. He has a boat at seaside. He goes there every weekend in summer to sail it. I sometimes stay with my cousins at their house on the coast. When Uncle Martin is at home, he usually takes us out in the boat.<br><br>Uncle Martin is ............",
+      "opsi": [
+        "Anne's uncle",
+        "Aunt Angela's neighbour",
+        "Bob's father",
+        "My mother's uncle",
+        "Martin's son in law"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "What is Uncle Martin's job?",
+      "opsi": [
+        "Sailor",
+        "Teacher",
+        "Engineer",
+        "Pilot",
+        "Boat Seller"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "How many family members does Uncle Martin have?",
+      "opsi": [
+        "3",
+        "1",
+        "5",
+        "4",
+        "2"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "When does Uncle Martin sail a boat?",
+      "opsi": [
+        "Once in three days",
+        "Twice every weekend",
+        "Once in a month",
+        "Once in a year",
+        "Summer weekend"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "<b>$ 14.49</b><br>How do we say this?",
+      "opsi": [
+        "Forty dollars and fourteen nine cents",
+        "Fourteen dollars forty nine cents",
+        "Fourteen dollars and fourteen nine cents",
+        "Fourty dollars and four nine cents",
+        "Fourteen point four nine dollars"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "<b><i>Study the schedule below to answer number 14 - 16!</i></b><br><img src='soal/img/X/inggris/picture3.jpg'>",
+      "opsi": [
+        "two destinations",
+        "nine destinations",
+        "five destinations",
+        "just one destination",
+        "three destinations"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "What is the flight numbers for the destination Dusseldorf?",
+      "opsi": [
+        "di, es, four, three, o, seven",
+        "di, bi, one, two, three, four",
+        "eits, kei, four, seven, o, one",
+        "bi, ei, two, five, seven, eight",
+        "ou, es, two, five, eight"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "What time is the arrival schedule for the destination to Bologna?",
+      "opsi": [
+        "Thirty minutes past three in the afternoon",
+        "Three minutes to thirteen in the morning",
+        "Threety and three minutes at night",
+        "Three and o three in the morning",
+        "Thirteen o three in the afternoon"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "What do you see in picture?<br><img src='soal/img/X/inggris/picture4.jpg'>",
+      "opsi": [
+        "His hair is long and black",
+        "He wears blue tidy shirt",
+        "The man has dark skin",
+        "He has no moustache",
+        "He wear broken eyeglasses"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "What do you see in picture?<br><img src='soal/img/X/inggris/picture5.jpg'>",
+      "opsi": [
+        "She has very dark brown skin.",
+        "She wears light blue hairpin.",
+        "She have skirt blue",
+        "She wear red sweater",
+        "She have curly long black hair."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "What do you see in picture?<br><img src='soal/img/X/inggris/picture6.jpg'>",
+      "opsi": [
+        "She are a woman",
+        "Her hair is curly and blonde",
+        "She has dark skin",
+        "The woman is with a man",
+        "She wears blue dress"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "<b>19:11 pm.</b><br>How do we tell the time?",
+      "opsi": [
+        "A quarter past nineteen in the evening",
+        "Nineteen and eleven in the morning",
+        "Eleven minutes past seven at night",
+        "Ninth past eleven in the afternoon",
+        "One nine and one one in the evening"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "<b>173 cm</b><br>How do we read the numbers?",
+      "opsi": [
+        "One hundred seven thousand centimeters",
+        "One seven three centimeters",
+        "One thousand seven hundred and three centimeters",
+        "One and seventy three centimeters",
+        "One hundred seventy three centimeters"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Nazwan : Hey Rifano! I heard you participated in drawing competition. How is the result?<br>Rifano : I could only get ......... (2<sup>nd</sup>) position.<br>Nazwan : Wow! That's great, man!<br>Rifano : Thanks.",
+      "opsi": [
+        "runner up",
+        "two",
+        "third",
+        "second runner up",
+        "first"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Which option is the best for this picture below?<br><img src='soal/img/X/inggris/picture7.png'>",
+      "opsi": [
+        "Meilina is the most handsome in the group.",
+        "Michael has darker shade of skin than Bertha.",
+        "Joe is the tallest person in the group.",
+        "Leonardo's hair is the straightest in the group",
+        "Both Isabella and Meilina have the same height size"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Adri : Today is ......... than yesterday.<br>Naufal : I agree, mate.<br>Adri : I need to go home as soon as possible.<br>Naufal : Yeah, so do I. I'm so thirsty.",
+      "opsi": [
+        "more bigger",
+        "coldest",
+        "most dry",
+        "tallest",
+        "hotter"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Sapira buys Radishes 2 items. How much money should Sapira give to the seller?<br><img src='soal/img/X/inggris/picture8.jpg'>",
+      "opsi": [
+        "Two dollars nineteen cents",
+        "Three dollars and nine cents",
+        "Two dollars ninety eight cents",
+        "Three dollars and nineteen cents",
+        "Three dollars and ninety eight cents"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "<b>October, 20<sup>th</sup> 1988</b><br>What should we say this?",
+      "opsi": [
+        "October two o one nine eight eight",
+        "October twentieth nineteen and eighty eight",
+        "October twenty one thousand nine hundred eighty eight",
+        "October twentieth ninety and eighteen",
+        "October twenty nineteen and eighty eight"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "<b><i>Look at this menu below, study carefully to answer number 27 - 29!</i></b><br><img src='soal/img/X/inggris/picture9.jpg'>",
+      "opsi": [
+        "Maryland Crab Soup",
+        "Mixed Grill",
+        "LumpCrab Cake Combo",
+        "Pudding",
+        "Chesapeake Crab Alfredo"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "These sentences are correct according to menu, <u>except</u>?",
+      "opsi": [
+        "Soft Shells are cheaper than Soft Shell Pasta",
+        "Georgia Peach Bread Pudding is cheaper than Classic Cannoli",
+        "Maryland Crab Soup is more expensive than Teriyaki Pork Belly Bao Bun",
+        "Greek Salad is more expensive than Maryland Crab Hush Puppy",
+        "Georgia Peach Bread Pudding is the cheapest in menu"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Rizki buys one Soft Shell Pasta, one Pudding and one Caesar Salad. How much should he pay according to the menu? One hundred cents are one dollar.",
+      "opsi": [
+        "Twenty one dollars ninety eight cents",
+        "Thirty dollars forty eight cents",
+        "Twenty four dollars ninety nine cents",
+        "Thirty two dollars ninety seven cents",
+        "Forty seven dollars ninety eight cents"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "<b>50.5 kg</b><br>We read the numbers as ...........?",
+      "opsi": [
+        "Fifty point five kilograms",
+        "Fiveteen point five kilograms",
+        "Fifteen point five kilograms",
+        "Five, o point five kilograms",
+        "Fivety point five kilograms"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "<img src='soal/img/X/inggris/picture10.jpg'>",
+      "opsi": [
+        "Sneaker shoes are the cheapest among all products.",
+        "Flipflops are way more expensive than sneaker shoes.",
+        "Rain boots are cheaper than flip flops.",
+        "Flipflops are the most expensive of all.",
+        "Sneaker shoes are more expensive than rain boots."
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "<b>¥ 88,500</b><br>How should we read this numbers?",
+      "opsi": [
+        "Eight and eight thousand and five hundred yen",
+        "Eighteen thousand eight and five hundred yen",
+        "Eighty eight point five hundred yen",
+        "Eight eight point five o o yen",
+        "Eighty eight thousand five hundred yen"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Nesya : Why do you like Matcha Latte?<br>Zivana : Because for me, Matcha Latte is the ......... drink of all.",
+      "opsi": [
+        "more expensive",
+        "worst",
+        "most better",
+        "tastiest",
+        "more famous"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Abigail : Have you watched Vampire 2?<br>Selina : Not yet. Why are you interested in it?<br>Abigail : It is so cool!<br>Selina : You know what? Zombie movie is .........than that one you said. I want to watch it tomorrow.",
+      "opsi": [
+        "further",
+        "better",
+        "best",
+        "worse",
+        "elder"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "How do you say the time on this clock?<br><img src='soal/img/X/inggris/picture11.png'>",
+      "opsi": [
+        "Eight minutes to six",
+        "Forty minutes past five",
+        "A quarter to six",
+        "Fourty minutes to six",
+        "A half past six"
+      ],
+      "jawaban": "B"
+    }
+  ],
+  "essay": [
+    {
+      "pertanyaan": "<b>[X TJKT 1 & 2]</b><br>How do we say these numbers in English? Write the Latin version!<br>1) 02:45 a.m<br>2) 175.5 km/h<br>3) 22<sup>nd</sup> January 1559<br>4) Rp.402,100<br>5) $\\frac{13}{5} \\times \\frac{3}{7} = \\frac{39}{35} = 1\\frac{4}{35}$"
+    },
+    {
+      "pertanyaan": "<b>[X AKL]</b><br>How do we say these numbers in English? Write the Latin version!<br>1) $ 62.43<br>2) ¥ 1,500.45<br>3) Rp.5,309,700<br>4) 27<sup>th</sup> May 1779<br>5) 18:25 p.m"
+    }
+  ]
+}
