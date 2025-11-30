@@ -166,7 +166,7 @@
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Cermatilah gambar berikut!<br><br><img src='cbt-sekolah/soal/img/XII/indo/picture1.jpg'><br><br>Berdasarkan isinya, iklan tersebut termasuk jenis iklan.....",
+      "pertanyaan": "Cermatilah gambar berikut!<br><br><img src='soal/img/XII/indo/picture1.jpg'><br><br>Berdasarkan isinya, iklan tersebut termasuk jenis iklan.....",
       "opsi": [
         "pendidikan",
         "penawaran",
@@ -388,7 +388,7 @@
   ],
   "essay": [
     {
-      "pertanyaan": "<i>Perhatikan gambar berikut!</i><br><br><img src='cbt-sekolah/soal/img/XII/indo/picture2.jpg'><br><br>Berdasarkan tujuan, iklan tersebut termasuk ke dalam jenis?"
+      "pertanyaan": "<i>Perhatikan gambar berikut!</i><br><br><img src='soal/img/XII/indo/picture2.jpg'><br><br>Berdasarkan tujuan, iklan tersebut termasuk ke dalam jenis?"
     },
     {
       "pertanyaan": "Berdasarkan isi, iklan tersebut termasuk ke dalam jenis?"
