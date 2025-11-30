@@ -1,0 +1,406 @@
+{
+  "pilihan_ganda": [
+    {
+      "pertanyaan": "HTML merupakan singkatan dari...",
+      "opsi": [
+        "Hyperlink Markup Language",
+        "HyperText Markup Language",
+        "HyperText Machine Language",
+        "HighText Markup Language",
+        "High Transfer Markup Link"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Elemen dari HTML yang menampilkan judul halaman pada tab browser adalah...",
+      "opsi": [
+        "&lt;body&gt;",
+        "&lt;header&gt;",
+        "&lt;html&gt;",
+        "&lt;title&gt;",
+        "&lt;meta&gt;"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Tag &lt;p&gt; dalam HTML digunakan untuk...",
+      "opsi": [
+        "Membuat garis horizontal",
+        "Membuat baris baru",
+        "Membuat paragraf baru",
+        "Membuat tulisan tebal",
+        "Menyisipkan gambar"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Atribut yang digunakan untuk menentukan lokasi file gambar pada tag &lt;img&gt; adalah...",
+      "opsi": [
+        "Alt",
+        "Link",
+        "href",
+        "src",
+        "height"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "AI singkatan dari ...",
+      "opsi": [
+        "Artificial Intercommunication",
+        "Artificial Intercom",
+        "Artificial Integrated",
+        "Artificial Intelligence",
+        "Artificial Internet"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Manfaat kecerdasan buatan (AI) dalam kehidupan sehari hari adalah, kecuali ...",
+      "opsi": [
+        "Otomatisasi dibidang manufacture",
+        "Peningkatan efisiensi dan produktivitas",
+        "Analisis data yang cepat dan akurat",
+        "Pengembangan solusi inovatif di berbagai sektor seperti kesehatan dan pemerintahan",
+        "Risiko privasi dan keamanan data"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Sisi negatif kecerdasan buatan (AI) meliputi, kecuali ...",
+      "opsi": [
+        "potensi pengangguran massal karena otomatisasi",
+        "bias algoritma yang dapat menimbulkan diskriminasi",
+        "serta potensi penyalahgunaan teknologi",
+        "risiko privasi dan keamanan data",
+        "pengambilan keputusan yang lebih baik di berbagai sektor seperti bisnis, pendidikan, dan transportasi"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Contoh penerapan kecerdasan buatan (AI) dalam pendidikan meliputi, kecuali ...",
+      "opsi": [
+        "digunakan sebagai asisten digital seperti chatbot",
+        "otomatisasi tugas administrasi seperti penilaian otomatis dan penjadwalan",
+        "bisa digunakan untuk membantu mengerjakan ujian/ulangan di sekolah",
+        "analisis data pembelajaran untuk meningkatkan efektivitas pengajaran",
+        "digunakan untuk membuat pembelajaran personalisasi seperti tutor virtual dan platform adaptif"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Aplikasi kota pintar (smart city) Adalah contoh penerapan teknologi AI dalam bidang...",
+      "opsi": [
+        "Pendidikan",
+        "Pertanian",
+        "Kesehatan",
+        "Pemerintahan",
+        "Manufaktur"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Hunian yang dilengkapi sistem terintegrasi untuk mengendalikan dan mengotomatiskan berbagai peralatan elektronik rumah tangga, seperti lampu, AC, keamanan, dan peralatan dapur, melalui koneksi internet dan perangkat pintar seperti smartphone atau tablet, Adalah pengertian dari ...",
+      "opsi": [
+        "Smart city",
+        "Smart car",
+        "Smart phone",
+        "Smart home",
+        "Smart people"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Contoh Artificial Intelligence (AI) di bidang medis meliputi, kecuali ...",
+      "opsi": [
+        "analisis citra medis untuk diagnosis dini penyakit",
+        "sistem pemantauan pasien jarak jauh",
+        "otomatisasi tugas administratif seperti pengelolaan klaim dan pembayaran untuk meningkatkan efisiensi.",
+        "robot bedah untuk presisi tinggi",
+        "penulisan resep dokter"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Tujuan utama AI adalah ...",
+      "opsi": [
+        "Menggantikan manusia sepenuhnya",
+        "Meniru kecerdasan manusia",
+        "Membuat perangkat keras",
+        "Membuat website",
+        "Membangun jaringan computer"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Contoh penerapan AI di kehidupan sehari-hari adalah ...",
+      "opsi": [
+        "Microsoft Excel",
+        "Chatbot e-commerce",
+        "Paint",
+        "Notepad",
+        "Winamp"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Google Assistant merupakan contoh ...",
+      "opsi": [
+        "Expert System",
+        "Virtual Assistant",
+        "Operating System",
+        "Machine Learning",
+        "Programming IDE"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Proses debugging dalam pemrograman berarti ...",
+      "opsi": [
+        "Menambahkan komentar",
+        "Menghapus file",
+        "Mencari dan memperbaiki kesalahan",
+        "Mengurutkan data",
+        "Membuat algoritma baru"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Bahasa pemrograman untuk membuat Website Adalah ...",
+      "opsi": [
+        "Visual Basic",
+        "Microsoft Access",
+        "HTML",
+        "Phyton",
+        "Autocad"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Website terbagi menjadi 2 jenis yaitu ...",
+      "opsi": [
+        "Website aktif dan pasif",
+        "Website berita dan hiburan",
+        "Website statis dan dinamis",
+        "Website sekolah dan pemerintahan",
+        "Website commerce dan e commerce"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Penggunaan AI yang tidak etis adalah ...",
+      "opsi": [
+        "Chatbot untuk customer service",
+        "Analisis data Kesehatan",
+        "Penyebaran berita palsu",
+        "Rekomendasi film",
+        "Pendeteksi spam"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "AI dapat membantu guru dengan cara ...",
+      "opsi": [
+        "Memberikan laporan belajar otomatis",
+        "Menggantikan guru sepenuhnya",
+        "Membuat game online",
+        "Menghilangkan kurikulum",
+        "Menghapus data siswa"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "AI dalam bidang transportasi digunakan untuk ...",
+      "opsi": [
+        "Membuat rambu jalan",
+        "Sistem navigasi dan mobil otonom",
+        "Menggambar peta manual",
+        "Mengatur lalu lintas dengan polisi",
+        "Membuat tiket kertas"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "AI di bidang akuntansi digunakan untuk ...",
+      "opsi": [
+        "Melukis gambar",
+        "Deteksi transaksi mencurigakan",
+        "Menjual makanan",
+        "Membuat music",
+        "Menulis puisi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Salah satu kelebihan AI adalah ...",
+      "opsi": [
+        "Tidak pernah salah 100%",
+        "Bisa bekerja tanpa Lelah",
+        "Tidak memerlukan data",
+        "Bisa hidup seperti manusia",
+        "Tidak perlu computer"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "AI dapat membantu petani dengan cara ...",
+      "opsi": [
+        "Membuat game pertanian",
+        "Menganalisis cuaca dan tanah",
+        "Membuat robot perang",
+        "Menjual bibit online",
+        "Menggambar lahan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Istilah <i>Big Data</i> dalam AI berarti ...",
+      "opsi": [
+        "Data kecil",
+        "Data yang sangat besar dan kompleks",
+        "Data sederhana",
+        "Data yang tidak digunakan",
+        "Data yang sama berulang-ulang"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Etika penggunaan AI menekankan pada ...",
+      "opsi": [
+        "Kecepatan teknologi",
+        "Keadilan, transparansi, dan privasi",
+        "Persaingan global",
+        "Perkembangan hardware",
+        "Produksi massal"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Instruksi, masukan, atau pertanyaan yang diberikan pengguna kepada sistem kecerdasan buatan (AI) untuk mendapatkan respons atau hasil tertentu,merupakan pengertian dari ...",
+      "opsi": [
+        "Algoritma",
+        "Koding",
+        "Syntax",
+        "Prompt AI",
+        "Debug"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Teknik menyusun prompt secara strategis agar AI memberikan hasil sesuai dengan harapan, disebut dengan ...",
+      "opsi": [
+        "Prompt Marketing",
+        "Prompt Selling",
+        "Prompt Engineering",
+        "Prompt Printing",
+        "Prompt Sniffing"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Prinsip dari prompt engineering adalah, kecuali",
+      "opsi": [
+        "Spesifik: Sampaikan dengan jelas dan tidak ambigu",
+        "Terarah: Sertakan konteks atau tujuan",
+        "Berformat: Jika butuh hasil dalam format tertentu (daftar, paragraf, tabel), jelaskan.",
+        "Contoh: Sertakan contoh agar AI memahami maksud dengan lebih baik.",
+        "Menggunakan istilah teknis yang tidak familiar, yang bisa membingungkan pelanggan dan AI sekaligus"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Tag yang digunakan untuk membuat baris pada tabel adalah...",
+      "opsi": [
+        "&lt;tr&gt;",
+        "&lt;td&gt;",
+        "&lt;th&gt;",
+        "&lt;br&gt;",
+        "&lt;img&gt;"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Tag yang digunakan untuk membuat kolom pada tabel adalah...",
+      "opsi": [
+        "&lt;tr&gt;",
+        "&lt;td&gt;",
+        "&lt;th&gt;",
+        "&lt;br&gt;",
+        "&lt;img&gt;"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Tag yang digunakan untuk membuat tulisan tercetak tebal pada halaman Web adalah...",
+      "opsi": [
+        "&lt;bold&gt;",
+        "&lt;em&gt;",
+        "&lt;strong&gt;",
+        "&lt;big&gt;",
+        "&lt;u&gt;"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Bagian dari struktur dasar HTML yang berisi konten utama adalah...",
+      "opsi": [
+        "&lt;head&gt;",
+        "&lt;body&gt;",
+        "&lt;title&gt;",
+        "&lt;meta&gt;",
+        "&lt;src&gt;"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Tag HTML untuk membuat judul besar pada halaman adalah...",
+      "opsi": [
+        "&lt;h6&gt;",
+        "&lt;strong&gt;",
+        "&lt;big&gt;",
+        "&lt;h1&gt;",
+        "&lt;em&gt;"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Dokumen HTML dimulai dengan deklarasi...",
+      "opsi": [
+        "&lt;doctype html&gt;",
+        "&lt;!HTML&gt;",
+        "&lt;html version=\"5\"&gt;",
+        "&lt;!DOCTYPE html&gt;",
+        "&lt;head&gt;"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Tag &lt;a&gt; dalam HTML digunakan untuk...",
+      "opsi": [
+        "Membuat table",
+        "Membuat link atau hyperlink",
+        "Menampilkan gambar",
+        "Menampilkan video",
+        "Membuat daftar"
+      ],
+      "jawaban": "B"
+    }
+  ],
+  "essay": [
+    {
+      "pertanyaan": "Jelaskan pengertian dari koding !"
+    },
+    {
+      "pertanyaan": "Sebutkan dampak teknologi AI pada kehidupan kita sehari hari (dampak positif dan negatif nya masing masing minimal 2 ) !"
+    },
+    {
+      "pertanyaan": "Jelaskan fungsi dari tag berikut :<br><br>&lt;title&gt; :<br>&lt;h1&gt; hingga &lt;h6&gt; :<br>&lt;p&gt; :"
+    },
+    {
+      "pertanyaan": "Tuliskan kode HTML menampilkan gambar , dengan nama File : \"Fotoku\" dengan ukuran lebar:300px dan tinggi: 400px !"
+    },
+    {
+      "pertanyaan": "Tuliskan kode HTML untuk menampilkan Halaman Profil Siswa berikut :<br><br>Nama : <strong>( diisi nama sendiri dengan Tulisan Tebal )</strong><br><br>Kelas / Jurusan: <u>( diisi dengan Kelas masing masing dan Jurusan nya , tulisan digaris bawahi )</u><br><br>Hobi : <i>(diisi dengan hobi masing masing di tulis secara cetak miring)</i>"
+    }
+  ]
+}
