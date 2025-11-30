@@ -172,7 +172,7 @@
         "/* */",
         "#",
         "----",
-        "<!-- -->"
+        "&lt;!-- --&gt;"
       ],
       "jawaban": "C"
     },
@@ -223,44 +223,44 @@
     {
       "pertanyaan": "Tag untuk menampilkan gambar pada HTML adalah ...",
       "opsi": [
-        "<link>",
-        "<image>",
-        "<img>",
-        "<pic>",
-        "<media>"
+        "&lt;link&gt;",
+        "&lt;image&gt;",
+        "&lt;img&gt;",
+        "&lt;pic&gt;",
+        "&lt;media&gt;"
       ],
       "jawaban": "C"
     },
     {
       "pertanyaan": "Tag yang digunakan untuk membuat hyperlink adalah ...",
       "opsi": [
-        "<url>",
-        "<a>",
-        "<href>",
-        "<link>",
-        "<nav>"
+        "&lt;url&gt;",
+        "&lt;a&gt;",
+        "&lt;href&gt;",
+        "&lt;link&gt;",
+        "&lt;nav&gt;"
       ],
       "jawaban": "B"
     },
     {
       "pertanyaan": "Tag untuk membuat paragraf adalah ...",
       "opsi": [
-        "<p>",
-        "<text>",
-        "<par>",
-        "<para>",
-        "<body>"
+        "&lt;p&gt;",
+        "&lt;text&gt;",
+        "&lt;par&gt;",
+        "&lt;para&gt;",
+        "&lt;body&gt;"
       ],
       "jawaban": "A"
     },
     {
       "pertanyaan": "Struktur dasar HTML dimulai dari tag ...",
       "opsi": [
-        "<body>",
-        "<start>",
-        "<link>",
-        "<style>",
-        "<html>"
+        "&lt;body&gt;",
+        "&lt;start&gt;",
+        "&lt;link&gt;",
+        "&lt;style&gt;",
+        "&lt;html&gt;"
       ],
       "jawaban": "E"
     },
@@ -388,7 +388,7 @@
   ],
   "essay": [
     {
-      "pertanyaan": "Jelaskan apa yang dimaksud dengan konsep <i>Object-Oriented Programming</i> dan sebutkan minimal 3 contohnya."
+      "pertanyaan": "Jelaskan apa yang dimaksud dengan konsep Object-Oriented Programming dan sebutkan minimal 3 contohnya."
     },
     {
       "pertanyaan": "Jelaskan fungsi _process(delta) pada GDScript dan berikan contoh implementasinya."
