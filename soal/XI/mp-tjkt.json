@@ -12,7 +12,7 @@
       "jawaban": "B"
     },
     {
-      "pertanyaan": "<b><i>Perhatikan gambar berikut untuk menjawab soal no 2 sampai no 6</i></b><br><img src='soal/img/XI/mp-akl/image1.jpg'>Bagian pada antarmuka Excel yang menampilkan hasl penulisan rumus atau isi sel ditandai dengan nomor 7 disebut...",
+      "pertanyaan": "<b><i>Perhatikan gambar berikut untuk menjawab soal no 2 sampai no 6</i></b><br><img src='soal/img/XI/mp-tjkt/image1.jpg'>Bagian pada antarmuka Excel yang menampilkan hasl penulisan rumus atau isi sel ditandai dengan nomor 7 disebut...",
       "opsi": [
         "Ribbon",
         "Formula Bar",
@@ -144,7 +144,7 @@
       "jawaban": "C"
     },
     {
-      "pertanyaan": "<b><i>Perhatikan gambar berikut untuk menjawab soal no 14 sampai no 16</i></b><br><img src='soal/img/XI/mp-akl/image2.png'>Manakah rumus yang tepat untuk menghitung nilai rata-rata milik Adit?",
+      "pertanyaan": "<b><i>Perhatikan gambar berikut untuk menjawab soal no 14 sampai no 16</i></b><br><img src='soal/img/XI/mp-tjkt/image2.png'>Manakah rumus yang tepat untuk menghitung nilai rata-rata milik Adit?",
       "opsi": [
         "=AVERAGE(C2:E2)",
         "=AVERAGE(C2:C6)",
@@ -199,7 +199,7 @@
       "jawaban": "B"
     },
     {
-      "pertanyaan": "<b><i>Perhatikan gambar berikut untuk menjawab soal no 19 sampai no 24</i></b><br><br><img src='soal/img/XI/mp-akl/image3.png'><br>Rumus =IF(B2>=75;\"Lulus\";\"Tidak Lulus\") artinya...",
+      "pertanyaan": "<b><i>Perhatikan gambar berikut untuk menjawab soal no 19 sampai no 24</i></b><br><br><img src='soal/img/XI/mp-tjkt/image3.png'><br>Rumus =IF(B2>=75;\"Lulus\";\"Tidak Lulus\") artinya...",
       "opsi": [
         "Jika nilai lebih dari 100 maka lulus",
         "Jika nilai lebih kecil dari 75 maka lulus",
@@ -287,7 +287,7 @@
       "jawaban": "B"
     },
     {
-      "pertanyaan": "<b><i>Perhatikan gambar berikut untuk menjawab soal no 27 sampai no 29</i></b><br><br><img src='soal/img/XI/mp-akl/image4.png'>Berdasarkan tabel, rumus yang digunakan untuk menjumlahkan total penjualan Buku adalah...",
+      "pertanyaan": "<b><i>Perhatikan gambar berikut untuk menjawab soal no 27 sampai no 29</i></b><br><br><img src='soal/img/XI/mp-tjkt/image4.png'>Berdasarkan tabel, rumus yang digunakan untuk menjumlahkan total penjualan Buku adalah...",
       "opsi": [
         "=SUM(B2:B6)",
         "=SUMIF(C2:C6;\"Buku\";B2:B6)",
@@ -342,7 +342,7 @@
       "jawaban": "B"
     },
     {
-      "pertanyaan": "<b><i>Perhatikan gambar berikut untuk menjawab soal no 32 sampai no 35</i></b><br><br><img src='soal/img/XI/mp-akl/image5.png'>Rumus COUNT yang benar untuk menghitung jumlah produk yang memiliki nilai stok adalah...",
+      "pertanyaan": "<b><i>Perhatikan gambar berikut untuk menjawab soal no 32 sampai no 35</i></b><br><br><img src='soal/img/XI/mp-tjkt/image5.png'>Rumus COUNT yang benar untuk menghitung jumlah produk yang memiliki nilai stok adalah...",
       "opsi": [
         "=COUNT(A2:C2)",
         "=COUNT(B2:B6)",
@@ -394,7 +394,7 @@
       "pertanyaan": "Tuliskan perbedaan antara SUM dengan SUMIF!"
     },
     {
-      "pertanyaan": "<b><i>Perhatikan gambar berikut untuk menjawab soal no 3 sampai no 4</i></b><br><br><img src='soal/img/XI/mp-akl/image6.png'>Berdasarkan data pada tabel diatas, tuliskan rumus untuk menentukan status nilai UAS Farah dengan kriteria sebagai berikut:<br>- Jika nilai UAS Farah >=75 maka staus nilainya Lulus<br>- Jika nilai UAS Farah <75 maka status nilainya Remedial"
+      "pertanyaan": "<b><i>Perhatikan gambar berikut untuk menjawab soal no 3 sampai no 4</i></b><br><br><img src='soal/img/XI/mp-tjkt/image6.png'>Berdasarkan data pada tabel diatas, tuliskan rumus untuk menentukan status nilai UAS Farah dengan kriteria sebagai berikut:<br>- Jika nilai UAS Farah >=75 maka staus nilainya Lulus<br>- Jika nilai UAS Farah <75 maka status nilainya Remedial"
     },
     {
       "pertanyaan": "Berdasarkan data pada tabel diatas, tuliskan rumus untuk membuat predikat nilai UTS Dinda dengan kriteria sebagai berikut:<br>- Jika nilai UTS Dinda >=90 maka predikat nilainya A<br>- Jika nilai UTS Dinda >=80 maka predikat nilainya B<br>- Jika nilai UTS Dinda >=70 maka predikat nilainya C<br>- Jika nilai UTS Dinda < 70 maka predikat nilainya D"
