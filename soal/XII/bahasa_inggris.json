@@ -1,0 +1,406 @@
+{
+  "pilihan_ganda": [
+    {
+      "pertanyaan": "Text for questions 1-5<br><br><blockquote>PT Sinar Jaya Logistics is hiring a Warehouse Admin.<br>Requirements:<br>- Male/Female<br>- Minimum 1-year experience<br>- Able to operate Excel (Pivot & Vlookup preferred)<br>- Good communication skills<br>- Honest, disciplined, and able to work under pressure<br>Send your application to: hrd@sinarjaya.co.id</blockquote><br>What position is offered in the vacancy?",
+      "opsi": [
+        "Office Assistant",
+        "HR Staff",
+        "Warehouse Admin",
+        "Inventory Helper",
+        "Data Entry Officer"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "What specific skill is required?",
+      "opsi": [
+        "Photoshop",
+        "Excel",
+        "AutoCAD",
+        "English translation",
+        "Photography"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "The word \"honest\" refers to...",
+      "opsi": [
+        "Experience",
+        "Education",
+        "Attitude",
+        "Physical ability",
+        "Technical skill"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Where should applicants send their application letter?",
+      "opsi": [
+        "hr@sinarjaya.co.id",
+        "warehouse@sinarjaya.com",
+        "admin@ptsjlog.co.id",
+        "apply@sinarjaya.co.id",
+        "hrd@sinarjaya.co.id"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "What is the minimum experience required?",
+      "opsi": [
+        "No experience",
+        "6 months",
+        "2 years",
+        "1 year",
+        "3 years"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Text for questions 6-10<br><br><blockquote>Dear Sir/Madam,<br>I am writing to apply for the Warehouse Admin position at PT Sinar Jaya Logistics. I have one year of experience working in a retail warehouse. I am proficient in Microsoft Excel and have good communication skills.<br>I believe my skills will contribute positively to your company.<br>Sincerely,<br>Rina Febriani</blockquote><br>What job does the applicant apply for?",
+      "opsi": [
+        "Admin Finance",
+        "Inventory Controller",
+        "Warehouse Admin",
+        "HR Admin",
+        "Store Keeper"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Which sentence states the applicant's qualification?",
+      "opsi": [
+        "\"I believe my skills will contribute positively.\"",
+        "\"I am writing to apply...\"",
+        "\"Sincerely.\"",
+        "\"I have one year of experience...\"",
+        "\"Dear Sir/Madam...\""
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "The letter ends with...",
+      "opsi": [
+        "Curriculum vitae",
+        "Enclosure",
+        "Closing and signature",
+        "Personal data",
+        "Recommendation letter"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "The intention of the letter is written in the...",
+      "opsi": [
+        "Closing paragraph",
+        "Opening paragraph",
+        "Signature part",
+        "Enclosure",
+        "Heading"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "The phrase \"contribute positively\" means...",
+      "opsi": [
+        "Make a problem",
+        "Give a disadvantage",
+        "Avoid responsibilities",
+        "Give a positive impact",
+        "Work unprofessionally"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Which part includes the purpose of writing?",
+      "opsi": [
+        "Body",
+        "Opening",
+        "Closing",
+        "Greeting",
+        "Signature"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Skills and experience are written in the...",
+      "opsi": [
+        "Opening paragraph",
+        "Resume",
+        "Body paragraph",
+        "Signature",
+        "Greetings"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "\"Yours sincerely,\" belongs to the...",
+      "opsi": [
+        "Body",
+        "Greeting",
+        "Closing",
+        "Heading",
+        "Enclosure"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Attachments such as CV and certificates belong to...",
+      "opsi": [
+        "Body",
+        "Greeting",
+        "Enclosure",
+        "Closing",
+        "Introduction"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Correct order of an application letter is...",
+      "opsi": [
+        "Body -- Opening -- Closing",
+        "Opening -- Closing -- Body",
+        "Closing -- Body -- Opening",
+        "Opening -- Body -- Closing",
+        "Greeting -- Closing -- Body"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Situation A: Applicant maintains eye contact and answers confidently.<br>Situation B: Applicant keeps checking their phone.<br>Situation C: Applicant says, \"I don't have any weaknesses.\"<br>Situation D: Applicant listens carefully and doesn't interrupt.<br>Situation E: Applicant comes 20 minutes late.<br><br>Which situations show GOOD interview behavior?",
+      "opsi": [
+        "B and C",
+        "C and E",
+        "A and D",
+        "B and E",
+        "A and E"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Which behavior is inappropriate?",
+      "opsi": [
+        "Being honest",
+        "Listening carefully",
+        "Maintaining eye contact",
+        "Checking phone during the interview",
+        "Sitting politely"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Why is Situation C considered a wrong answer?",
+      "opsi": [
+        "Weaknesses should be avoided",
+        "Everyone has weaknesses",
+        "Weaknesses are not important",
+        "It is too short",
+        "It is too formal"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "A good interviewee should...",
+      "opsi": [
+        "Interrupt the interviewer",
+        "Arrive late",
+        "Speak clearly",
+        "Look around the room",
+        "Use their phone"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Interviewer: \"Why should we hire you?\"<br>Applicant: \"Because I have strong work ethics and experience related to this position.\"<br><br>What does the applicant show in the dialog?",
+      "opsi": [
+        "Irresponsibility",
+        "Uncertainty",
+        "Confidence",
+        "Confusion",
+        "Dishonesty"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Which sentence is correct?",
+      "opsi": [
+        "She work as a cashier.",
+        "She works as a cashier.",
+        "She working as a cashier.",
+        "She is works as a cashier.",
+        "She are working as a cashier."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "The interviewer usually _____ questions about experience.",
+      "opsi": [
+        "asking",
+        "asked",
+        "asks",
+        "is asks",
+        "ask"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "The applicant _____ politely during the interview.",
+      "opsi": [
+        "speak",
+        "speaks",
+        "speaking",
+        "spoken",
+        "was speak"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "\"I _____ in a warehouse last year.\"",
+      "opsi": [
+        "work",
+        "worked",
+        "working",
+        "was work",
+        "works"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "She _____ her application letter yesterday.",
+      "opsi": [
+        "send",
+        "sends",
+        "sent",
+        "sending",
+        "was send"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "The company _____ new staff last month.",
+      "opsi": [
+        "hire",
+        "hiring",
+        "hires",
+        "hired",
+        "was hiring"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Steps to Write a PKL Report<br><br><blockquote>1. Cover & Approval Page -- Contains report title, name, class, signatures<br>2. Preface -- Gratitude<br>3. Table of Contents -- List of pages<br>4. Chapter I: Introduction -- Background & objectives<br>5. Chapter II: Company Profile -- History, structure<br>6. Chapter III: Internship Activities -- Tasks<br>7. Chapter IV: Conclusion -- Conclusions & suggestions<br>8. Appendices -- Photos, documents</blockquote><br>What is the main idea?",
+      "opsi": [
+        "How to perform tasks during PKL",
+        "The steps to write a PKL report",
+        "The benefits of PKL",
+        "The duties of supervisors",
+        "The definition of internship"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Which part contains the background?",
+      "opsi": [
+        "Chapter II",
+        "Preface",
+        "Chapter I",
+        "Appendix",
+        "Cover page"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "The Table of Contents helps readers...",
+      "opsi": [
+        "Understand the report's purpose",
+        "Find pages easily",
+        "Write a conclusion",
+        "Create photos",
+        "Sign documents"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Which includes gratitude?",
+      "opsi": [
+        "Chapter IV",
+        "Appendix",
+        "Preface",
+        "Chapter III",
+        "Cover Page"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Internship activities are explained in...",
+      "opsi": [
+        "Chapter I",
+        "Chapter III",
+        "Chapter IV",
+        "Preface",
+        "Cover Page"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "During a job interview, the interviewer asks:<br>\"Tell me about a time you solved a difficult problem at work.\"<br>The candidate answers:<br>\"Umm... I don't remember exactly. I think I never really had a difficult problem before.\"<br><br>What is the BEST conclusion from the candidate's response?",
+      "opsi": [
+        "The candidate has excellent problem-solving skills.",
+        "The candidate avoids giving examples that show their ability.",
+        "The candidate is showing confidence.",
+        "The candidate understands the interviewer's question clearly.",
+        "The candidate successfully demonstrates leadership."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Read the short dialogue below:<br>Interviewer: \"Why should we hire you?\"<br>Applicant: \"Because I really need this job, Sir. My family depends on me.\"<br><br>Why is the applicant's answer NOT appropriate?",
+      "opsi": [
+        "It focuses on personal needs instead of skills.",
+        "It shows strong motivation to learn.",
+        "It explains professional qualifications clearly.",
+        "It uses formal language suitable for interviews.",
+        "It highlights the applicant's achievements."
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Read a part of an application letter:<br>\"I am confident I can contribute to your company. However, I have no experience related to this position. I hope the company can train me fully.\"<br><br>What is the weakness of this statement?",
+      "opsi": [
+        "The applicant clearly shows high confidence.",
+        "The applicant asks for training too directly without offering strengths.",
+        "The applicant emphasizes relevant skills strongly.",
+        "The applicant describes past experience effectively.",
+        "The applicant provides detailed achievements."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "The following statement appears in an application letter:<br>\"I am writing to apply for the Marketing Staff position. I often watch marketing videos and I think I can do the job well.\"<br><br>Why is this statement NOT professionally convincing?",
+      "opsi": [
+        "It gives too many technical marketing examples.",
+        "Watching videos is not a valid qualification for a professional job.",
+        "It explains experience in detail.",
+        "It shows mastery of marketing strategies.",
+        "It demonstrates strong analytical skills."
+      ],
+      "jawaban": "B"
+    }
+  ],
+  "essay": [
+    {
+      "pertanyaan": "JOB VACANCY<br><br>Position: Office Administrator<br>Company: BrightData Solutions<br><br>BrightData Solutions seeks a highly motivated Office Administrator.<br><br>Requirements:<br>1. Minimum 2 years of experience<br>2. Proficient in Microsoft Office<br>3. Good communication & problem-solving skills<br>4. Able to work independently<br>5. Send your application letter to: hr@brightdata.com<br><br>What does \"able to work independently\" mean in your own words?"
+    },
+    {
+      "pertanyaan": "Mention two skills required for the Office Administrator position!"
+    },
+    {
+      "pertanyaan": "Dear Hiring Manager,<br>I am writing to apply for the position of Marketing Assistant at Bright Media Agency. I have strong communication skills, experience in social media management, and the ability to work under pressure. I believe my creativity and teamwork spirit will contribute positively to your company.<br>Sincerely,<br>Rizky Ananda<br><br>Identify and explain two strengths mentioned by the applicant in the letter!"
+    },
+    {
+      "pertanyaan": "Interview Situations<br><br>- Situation A: The applicant arrives 15 minutes early and brings a printed resume.<br>- Situation B: The applicant keeps looking down and avoids eye contact.<br>- Situation C: The applicant answers all questions with short one-sentence replies.<br>- Situation D: The applicant listens carefully and nods to show understanding.<br><br>Identify which situation shows good interview behavior!"
+    },
+    {
+      "pertanyaan": "Choose one situation that shows poor behavior and propose a better alternative!"
+    }
+  ]
+}
