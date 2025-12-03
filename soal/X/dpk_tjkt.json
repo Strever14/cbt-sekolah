@@ -1,0 +1,406 @@
+{
+  "pilihan_ganda": [
+    {
+      "pertanyaan": "Apa fungsi utama dari router dalam sebuah jaringan komputer?",
+      "opsi": [
+        "Menghubungkan perangkat dalam LAN tanpa manajemen data",
+        "Menghubungkan jaringan berbeda dan mengatur lalu lintas data",
+        "Menyediakan layanan dan sumber daya untuk klien",
+        "Memperkuat sinyal jaringan agar bisa menjangkau jarak lebih jauh",
+        "Mengubah sinyal digital ke analog dan sebaliknya"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Media transmisi kabel mana yang menggunakan cahaya sebagai media penghantarnya?",
+      "opsi": [
+        "Twisted Pair",
+        "Coaxial",
+        "Fiber Optic",
+        "Inframerah",
+        "Gelombang Radio"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Protokol manakah yang berfungsi menjamin pengiriman data secara berurutan dan utuh?",
+      "opsi": [
+        "UDP",
+        "IP",
+        "TCP",
+        "DHCP",
+        "HTTP"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Apa keuntungan penggunaan switch dibandingkan hub dalam sebuah LAN?",
+      "opsi": [
+        "Switch menghubungkan perangkat tanpa manajemen data",
+        "Hub mengelola lalu lintas data lebih baik dari switch",
+        "Switch mengelola lalu lintas data antar perangkat dengan efisien",
+        "Hub lebih efisien dalam pengiriman paket data antar jaringan berbeda",
+        "Switch mengubah sinyal digital ke analog"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Manakah dari berikut ini yang merupakan media transmisi nirkabel dengan jangkauan terbatas dan aman?",
+      "opsi": [
+        "Gelombang Mikro",
+        "Gelombang Radio",
+        "Inframerah",
+        "Fiber Optic",
+        "Coaxial"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Fungsi dari protokol DHCP dalam jaringan komputer adalah?",
+      "opsi": [
+        "Menerjemahkan nama domain ke alamat IP",
+        "Memberikan IP otomatis ke perangkat",
+        "Mengirim email antar server",
+        "Menjamin pengiriman data berurutan",
+        "Mengatur jalur pengiriman data"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Jika suatu jaringan membutuhkan transmisi data jarak jauh dengan kecepatan tinggi dan tahan interferensi, media mana yang paling sesuai?",
+      "opsi": [
+        "Twisted Pair",
+        "Coaxial",
+        "Fiber Optic",
+        "Gelombang Radio",
+        "Inframerah"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Apa perbedaan utama antara model OSI dan TCP/IP?",
+      "opsi": [
+        "OSI berjumlah 4 lapisan, TCP/IP 7 lapisan",
+        "OSI teoritis dan konseptual, TCP/IP praktis dan implementasi nyata",
+        "OSI hanya digunakan untuk internet, TCP/IP untuk jaringan lokal",
+        "OSI lebih sederhana, TCP/IP lebih modular",
+        "OSI tidak memiliki lapisan transport"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Dalam model OSI, lapisan manakah yang bertugas mengatur enkripsi dan kompresi data?",
+      "opsi": [
+        "Application",
+        "Presentation",
+        "Session",
+        "Transport",
+        "Data Link"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Mana dari berikut ini yang bukan fungsi utama protokol jaringan?",
+      "opsi": [
+        "Addressing",
+        "Flow Control",
+        "Error Handling",
+        "Penyimpanan data",
+        "Routing"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Manakah komponen jaringan yang bersifat pasif?",
+      "opsi": [
+        "Router",
+        "Hub",
+        "Kabel UTP",
+        "Switch",
+        "Network Interface Card"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Apa peran dari repeater dalam jaringan komputer?",
+      "opsi": [
+        "Menghubungkan dua segment jaringan LAN",
+        "Memperkuat sinyal jaringan agar bisa menjangkau jarak lebih jauh",
+        "Menyediakan IP dinamis untuk perangkat",
+        "Menghubungkan perangkat wireless ke jaringan kabel",
+        "Menerjemahkan nama domain ke IP"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Fungsi utama Network Interface Card (NIC) adalah?",
+      "opsi": [
+        "Menghubungkan komputer ke jaringan melalui port fisik atau wireless",
+        "Menghubungkan perangkat dalam jaringan LAN",
+        "Memperkuat sinyal nirkabel",
+        "Mengubah sinyal digital menjadi analog",
+        "Mengarahkan paket data ke alamat tujuan"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Jika aplikasi memerlukan pengiriman data cepat tanpa harus menjamin keutuhan, protokol mana yang cocok digunakan?",
+      "opsi": [
+        "TCP",
+        "UDP",
+        "FTP",
+        "SMTP",
+        "HTTP"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Apa faktor utama yang perlu dipertimbangkan dalam pemilihan media transmisi jaringan?",
+      "opsi": [
+        "Harga perangkat lunak",
+        "Bandwidth, interferensi, biaya, jangkauan, fleksibilitas",
+        "Jumlah pengguna jaringan",
+        "Jenis sistem operasi komputer",
+        "Warna kabel jaringan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Apa perbedaan utama antara kabel UTP dan kabel STP?",
+      "opsi": [
+        "UTP memiliki pelindung logam, STP tidak",
+        "STP menggunakan dua kawat tembaga yang dipilin untuk mengurangi interferensi, UTP tidak",
+        "UTP murah dan mudah dipasang, STP dilengkapi pelindung untuk mengurangi interferensi elektromagnetik",
+        "STP lebih murah dari UTP",
+        "UTP untuk jarak jauh, STP hanya untuk jarak pendek"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Protokol apa yang digunakan untuk mengakses halaman web secara aman?",
+      "opsi": [
+        "HTTP",
+        "FTP",
+        "HTTPS",
+        "SMTP",
+        "IP"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Mana pernyataan yang benar mengenai media gelombang mikro?",
+      "opsi": [
+        "Cocok untuk komunikasi jarak dekat antar perangkat mobile",
+        "Tidak memerlukan garis pandang (line-of-sight)",
+        "Digunakan untuk komunikasi jarak jauh melalui udara dengan syarat line-of-sight",
+        "Menggunakan cahaya inframerah sebagai media",
+        "Media transmisi kabel"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dalam pemodelan jaringan, lapisan mana yang berfungsi sebagai media fisik transmisi data?",
+      "opsi": [
+        "Data Link",
+        "Network",
+        "Physical",
+        "Transport",
+        "Session"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Fungsi utama bridge dalam jaringan komputer adalah?",
+      "opsi": [
+        "Menghubungkan dua segmen jaringan LAN agar bisa berkomunikasi",
+        "Menyediakan akses internet",
+        "Memperkuat sinyal nirkabel",
+        "Mengatur alamat IP",
+        "Mengelola keamanan jaringan"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "RAB merupakan singkatan dari...",
+      "opsi": [
+        "Rencana Alur Bidang",
+        "Rancangan Anggaran Biaya",
+        "Rencana Alokasi Barang",
+        "Rincian Aset Bengkel",
+        "Rekapitulasi Anggaran Barang"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Fungsi utama RAB dalam proyek adalah...",
+      "opsi": [
+        "Menentukan jumlah pegawai",
+        "Mengatur absensi harian",
+        "Menghitung total biaya yang diperlukan",
+        "Mencatat semua laporan harian",
+        "Membuat desain jaringan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Komponen utama yang biasanya ada dalam RAB adalah...",
+      "opsi": [
+        "Daftar siswa",
+        "Daftar perangkat, harga, dan jumlah",
+        "Daftar guru pengajar",
+        "Jadwal pelajaran",
+        "Daftar nilai siswa"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Biaya yang digunakan untuk membeli perangkat fisik seperti router dan switch disebut...",
+      "opsi": [
+        "Biaya operasional",
+        "Biaya cadangan",
+        "Biaya penyusutan",
+        "Biaya material/peralatan",
+        "Biaya tak terduga"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Dalam penyusunan RAB, harga barang biasanya dihitung berdasarkan...",
+      "opsi": [
+        "Keinginan pembeli",
+        "Harga pasar atau katalog resmi",
+        "Harga yang tidak tetap",
+        "Harga sementara",
+        "Perkiraan asal-asalan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Yang termasuk biaya operasional adalah...",
+      "opsi": [
+        "Pembelian access point",
+        "Gaji teknisi",
+        "Pembelian kabel LAN",
+        "Pembelian server",
+        "Pembelian PC"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Total biaya dalam RAB dihitung dengan cara...",
+      "opsi": [
+        "Menjumlahkan semua jenis barang saja",
+        "Menjumlahkan biaya barang + biaya jasa",
+        "Mengurangi harga barang dengan pajak",
+        "Mengalikan jumlah barang dengan stok",
+        "Menjumlahkan barang termahal saja"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Yang dimaksud biaya tak terduga pada RAB adalah...",
+      "opsi": [
+        "Biaya yang sudah diketahui besarannya",
+        "Biaya tambahan yang tidak direncanakan sebelumnya",
+        "Biaya untuk bonus karyawan",
+        "Biaya yang selalu tetap",
+        "Biaya diskon barang"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Pada jaringan sekolah, pembelian kabel UTP biasanya termasuk dalam kategori...",
+      "opsi": [
+        "Biaya konsumsi",
+        "Biaya material",
+        "Biaya administrasi",
+        "Biaya operasional",
+        "Biaya transportasi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Jika sebuah router berharga Rp550.000 dan dibeli 3 unit, maka subtotalnya adalah...",
+      "opsi": [
+        "Rp550.000",
+        "Rp1.000.000",
+        "Rp1.650.000",
+        "Rp2.000.000",
+        "Rp3.300.000"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "RAB biasanya disusun pada tahap...",
+      "opsi": [
+        "Setelah proyek selesai",
+        "Saat evaluasi proyek",
+        "Sebelum proyek dimulai",
+        "Ketika barang sudah dipasang",
+        "Saat laporan akhir"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Biaya jasa pemasangan jaringan termasuk dalam kategori...",
+      "opsi": [
+        "Biaya barang",
+        "Biaya operasional",
+        "Biaya tenaga kerja",
+        "Biaya tak terduga",
+        "Biaya penyusutan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Komponen RAB yang berisi informasi nama barang, satuan, dan harga disebut...",
+      "opsi": [
+        "Kolom identitas",
+        "Tabel RAB",
+        "Rincian teknis",
+        "Lampiran dokumen",
+        "Penutup laporan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Berikut ini contoh satuan barang dalam RAB, kecuali...",
+      "opsi": [
+        "Unit",
+        "Meter",
+        "Kotak",
+        "Lembar",
+        "Jurusan"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Jika harga 1 roll kabel UTP adalah Rp250.000, maka harga 4 roll adalah...",
+      "opsi": [
+        "Rp250.000",
+        "Rp300.000",
+        "Rp500.000",
+        "Rp1.000.000",
+        "Rp2.500.000"
+      ],
+      "jawaban": "D"
+    }
+  ],
+  "essay": [
+    {
+      "pertanyaan": "Jelaskan apa yang dimaksud dengan Rencana Anggaran Biaya (RAB) dan sebutkan fungsinya dalam proyek jaringan!"
+    },
+    {
+      "pertanyaan": "Mengapa memasukkan biaya tak terduga dalam RAB dianggap penting? Jelaskan!"
+    },
+    {
+      "pertanyaan": "Sebuah proyek jaringan membutuhkan 5 unit access point dengan harga Rp450.000 per unit, kabel UTP 3 roll dengan harga Rp250.000 per roll, dan biaya jasa instalasi sebesar Rp600.000. Hitung total RAB keseluruhan!"
+    },
+    {
+      "pertanyaan": "Model OSI Layer mempunyai 7 lapisan, Tuliskan secara berurutan ke-7 lapisan tersebut beserta fungsinya!"
+    },
+    {
+      "pertanyaan": "Tulis dan jelaskan 5 faktor yang harus diperhatikan dalam media Transmisi Jaringan!"
+    }
+  ]
+}
