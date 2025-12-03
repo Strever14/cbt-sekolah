@@ -56,7 +56,7 @@
       "jawaban": "C"
     },
     {
-      "pertanyaan": "What does happen in this picture?<br><br><img src='cbt-sekolah/soal/img/XI/inggris/picture1.jpg'>",
+      "pertanyaan": "What does happen in this picture?<br><br><img src='soal/img/XI/inggris/picture1.jpg'>",
       "opsi": [
         "The juice is eaten by the girl.",
         "The juice is being drunk by the girl.",
@@ -100,7 +100,7 @@
       "jawaban": "B"
     },
     {
-      "pertanyaan": "What is in the picture?<br><br><img src='cbt-sekolah/soal/img/XI/inggris/picture2.jpg'>",
+      "pertanyaan": "What is in the picture?<br><br><img src='soal/img/XI/inggris/picture2.jpg'>",
       "opsi": [
         "The doctor is checked by the cat",
         "The cat has been treated bad by the doctor",
@@ -375,7 +375,7 @@
       "jawaban": "B"
     },
     {
-      "pertanyaan": "What does happen on the picture?<br><br><img src='cbt-sekolah/soal/img/XI/inggris/picture3.jpg'>",
+      "pertanyaan": "What does happen on the picture?<br><br><img src='soal/img/XI/inggris/picture3.jpg'>",
       "opsi": [
         "The tools have been fixed by a single mom",
         "House will be cleaned by a woman",
