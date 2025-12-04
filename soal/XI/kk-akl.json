@@ -78,7 +78,7 @@
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Berdasarkan tabel berikut, isian titik-titik yang benar adalah........<br><table border='1'><tr><th>No.</th><th>Nama Akun</th><th>Debit</th><th>Kredit</th></tr><tr><td>1</td><td>Aset</td><td>(+)</td><td>(-)</td></tr><tr><td>2</td><td>Liabilitas</td><td>(-)</td><td>(+)</td></tr><tr><td>3</td><td>Ekuitas</td><td>(-)</td><td>(+)</td></tr><tr><td>4</td><td>Pendapatan - LO/ Pendapatan-LRA</td><td>(-)</td><td>(+)</td></tr><tr><td>5</td><td>Beban/ Belanja</td><td>(+)</td><td>(-)</td></tr><tr><td>6</td><td>Penerimaan Pembiayaan</td><td>(-)</td><td>(+)</td></tr><tr><td>7</td><td>Pengeluaran Pembiayaan</td><td>(+)</td><td>(-)</td></tr><tr><td>8</td><td>Perubahan SAL</td><td>menyesuaikan</td><td>menyesuaikan</td></tr><tr><td>9</td><td>Estimasi Pendapatan</td><td>(+)</td><td>.................</td></tr></table>",
+      "pertanyaan": "Berdasarkan tabel tersebut isian titik-titik yang benar adalah........<br><table border='1'><tr><th>No.</th><th>Nama Akun</th><th>Debit</th><th>Kredit</th></tr><tr><td>1</td><td>Aset</td><td>(+)</td><td>(-)</td></tr><tr><td>2</td><td>Liabilitas</td><td>(-)</td><td>(+)</td></tr><tr><td>3</td><td>Ekuitas</td><td>(-)</td><td>(+)</td></tr><tr><td>4</td><td>Pendapatan – LO/ Pendapatan-LRA</td><td>(-)</td><td>(+)</td></tr><tr><td>5</td><td>Beban/ Belanja</td><td>(+)</td><td>(-)</td></tr><tr><td>6</td><td>Penerimaan Pembiayaan</td><td>(-)</td><td>(+)</td></tr><tr><td>7</td><td>Pengeluaran Pembiayaan</td><td>(+)</td><td>(-)</td></tr><tr><td>8</td><td>Perubahan SAL</td><td>menyesuaikan</td><td>menyesuaikan</td></tr><tr><td>9</td><td>Estimasi Pendapatan</td><td>(+)</td><td>.................</td></tr></table>",
       "opsi": [
         "Tidak ada",
         "(+)",
@@ -87,6 +87,39 @@
         "Tidak menyesuaikan"
       ],
       "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Berdasarkan tabel tersebut isian titik-titik yang benar untuk saldo normal liabilitas adalah........<br><table border='1'><tr><th>No.</th><th>Nama Akun</th><th>Saldo Normal</th></tr><tr><td>1</td><td>Aset</td><td>.............</td></tr><tr><td>2</td><td>Liabilitas</td><td>.............</td></tr><tr><td>3</td><td>Ekuitas</td><td>.............</td></tr><tr><td>4</td><td>Pendapatan – LO/ Pendapatan-LRA</td><td>.............</td></tr><tr><td>5</td><td>Beban/ Belanja</td><td>.............</td></tr><tr><td>6</td><td>Penerimaan Pembiayaan</td><td>.............</td></tr><tr><td>7</td><td>Pengeluaran Pembiayaan</td><td>.............</td></tr><tr><td>8</td><td>Perubahan SAL</td><td>.............</td></tr><tr><td>9</td><td>Estimasi Pendapatan</td><td>.............</td></tr></table>",
+      "opsi": [
+        "Debit",
+        "Menyesuaikan",
+        "Kredit",
+        "Tidak ada",
+        "(+)"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Berdasarkan tabel tersebut isian titik-titik yang benar untuk saldo normal perubahan SAL adalah........<br><table border='1'><tr><th>No.</th><th>Nama Akun</th><th>Saldo Normal</th></tr><tr><td>1</td><td>Aset</td><td>.............</td></tr><tr><td>2</td><td>Liabilitas</td><td>.............</td></tr><tr><td>3</td><td>Ekuitas</td><td>.............</td></tr><tr><td>4</td><td>Pendapatan – LO/ Pendapatan-LRA</td><td>.............</td></tr><tr><td>5</td><td>Beban/ Belanja</td><td>.............</td></tr><tr><td>6</td><td>Penerimaan Pembiayaan</td><td>.............</td></tr><tr><td>7</td><td>Pengeluaran Pembiayaan</td><td>.............</td></tr><tr><td>8</td><td>Perubahan SAL</td><td>.............</td></tr><tr><td>9</td><td>Estimasi Pendapatan</td><td>.............</td></tr></table>",
+      "opsi": [
+        "Tidak ada",
+        "Debit",
+        "Kredit",
+        "(-)",
+        "Menyesuaikan"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Dalam pemerintahan daerah, pihak yang bertugas mengelola, melakukan pencatatan akuntansi, dan mempertanggungjawabkan keuangan daerah adalah......",
+      "opsi": [
+        "Satu Kerja Perangkat Desa (SKPD)",
+        "Satuan Kerja Perangkat Daerah (SKPD)",
+        "Satuan Kerja Perangkat Desa (SKPD)",
+        "Satuan Kerja Perisai Daerah (SKPD)",
+        "Satuan Kerja Pemeriksaan Daerah (SKPD)"
+      ],
+      "jawaban": "B"
     },
     {
       "pertanyaan": "Salah satu transaksi yang menimbulkan piutang dagang adalah penjualan kredit. Dalam penjualan kredit, penjual memberikan syarat atau termin pembayaran tertentu. Maka syarat pembayaran 2/10, n/30 adalah .....",
@@ -100,7 +133,7 @@
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Pembayaran yang dilaksanakan sebesar persentase tertentu dari harga jual barang yang telah ditetukan merupakan pengertian dari .....",
+      "pertanyaan": "Pembayaran yang dilaksanakan sebesar persentase tertentu dari dari harga jual barang yang telah ditetukan merupakan pengertian dari .....",
       "opsi": [
         "Pembayaran uang muka",
         "Pembayaran angsuran",
@@ -133,7 +166,7 @@
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Pada tanggal 15 Januari 2010 dibeli barang dagangan seharga Rp. 8.000.000,00. Untuk pembayaran PT. CAHAYA menyerahkan promes 30 hari berbunga 18% setahun. Jurnal untuk mencatat transaksi pembelian barang tersebut adalah .....",
+      "pertanyaan": "Pada tanggal 15 Januari 2010 dibeli barang dagangan seharga Rp. 8.000.000,00. Untuk pembayaran PT. CAHAYA menyerahkan promes 30 hari berbunga 18% setahun. Jurnal untuk mencatat transaksi pembelian barang tersebut adalah ....",
       "opsi": [
         "Beban Pembelian (D) Rp. 8.000.000,00; Beban bunga (D) Rp. 1.200.000,00; Wesel bayar (K) Rp. 9.200.000,00",
         "Pembelian (D) Rp. 8.000.000,00; Wesel bayar (K) Rp. 8.000.000,00",
@@ -144,7 +177,7 @@
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Pada tanggal 1 Januari 2010 PD. HARAPAN JAYA membeli barang dagangan kepada PT. KARTIKA seharga Rp. 20.000.000,00 dengan syarat 3/10, n/3. Maka PD. HARAPAN JAYA akan mencatat transaksi tersebut ke dalam.....",
+      "pertanyaan": "Pada tanggal 1 Januari 2010 PD. HARAPAN JAYA membeli barang dagangan kepada PT. KARTIKA seharga Rp. 20.000.000,00 dengan syarat 3/10, n/30. Maka PD. HARAPAN JAYA akan mencatat transaksi tersebut ke dalam....",
       "opsi": [
         "Jurnal pengeluaran kas",
         "Jurnal penerimaan kas",
@@ -155,7 +188,7 @@
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Transaksi jual beli secara kredit membutuhkan termin pembayaran. Termin 2/10, n/30 mempunyai makna bagi debitur. Apabila debitur melunasi utang lebih dari sepuluh hari setelah tanggal faktur, maka dampaknya.....",
+      "pertanyaan": "Transaksi jual beli secara kredit membutuhkan termin pembayaran. Termin 2/10, n/30 mempunyai makna bagi debitur. Apabila debitur melunasi utang lebih dari sepuluh hari setelah tanggal faktur, maka dampaknya....",
       "opsi": [
         "Mendapat potongan harga sebesar 2%",
         "Tidak mendapat potongan harga",
@@ -163,16 +196,16 @@
         "Mendapat potongan sebesar 10%",
         "Tidak mendapat potongan dan sanksi"
       ],
-      "jawaban": "B"
+      "jawaban": "A"
     },
     {
       "pertanyaan": "Perusahaan menerima pelunasan piutang dari pelanggan. Jurnal yang benar adalah...",
       "opsi": [
-        "Piutang Usaha (D) -- Kas (K)",
-        "Kas (D) -- Piutang Usaha (K)",
-        "Penjualan (D) -- Kas (K)",
-        "Kas (D) -- Penjualan (K)",
-        "Beban Piutang (D) -- Kas (K)"
+        "Piutang Usaha (D) – Kas (K)",
+        "Kas (D) – Piutang Usaha (K)",
+        "Penjualan (D) – Kas (K)",
+        "Kas (D) – Penjualan (K)",
+        "Beban Piutang (D) – Kas (K)"
       ],
       "jawaban": "B"
     },
@@ -355,7 +388,7 @@
   ],
   "essay": [
     {
-      "pertanyaan": "Konsep pendebitan, pengkreditan, dan saldo normal akun. Isilah titik-titik di bawah ini dengan benar!<br><table border='1'><tr><th>No.</th><th>Nama Akun</th><th>Debit</th><th>Kredit</th><th>Saldo Normal</th></tr><tr><td>1</td><td>Aset</td><td>(+)</td><td>(-)</td><td>.................</td></tr><tr><td>2</td><td>Liabilitas</td><td>(-)</td><td>(+)</td><td>.................</td></tr><tr><td>3</td><td>Ekuitas</td><td>(-)</td><td>(+)</td><td>.................</td></tr><tr><td>4</td><td>Pendapatan - LO/ Pendapatan-LRA</td><td>(-)</td><td>(+)</td><td>.................</td></tr><tr><td>5</td><td>Beban/ Belanja</td><td>(+)</td><td>(-)</td><td>.................</td></tr><tr><td>6</td><td>Penerimaan Pembiayaan</td><td>(-)</td><td>(+)</td><td>.................</td></tr><tr><td>7</td><td>Pengeluaran Pembiayaan</td><td>(+)</td><td>(-)</td><td>.................</td></tr><tr><td>8</td><td>Perubahan SAL</td><td>menyesuaikan</td><td>..............</td><td>menyesuaikan</td></tr><tr><td>9</td><td>Estimasi Pendapatan</td><td>(+)</td><td>Tidak ada</td><td>.................</td></tr></table>"
+      "pertanyaan": "Konsep pendebitan, pengkreditan, dan saldo normal akun. Isilah titik-titik di bawah ini dengan benar!<br><table border='1'><tr><th>No.</th><th>Nama Akun</th><th>Debit</th><th>Kredit</th><th>Saldo Normal</th></tr><tr><td>1</td><td>Aset</td><td>(+)</td><td>(-)</td><td>...................</td></tr><tr><td>2</td><td>Liabilitas</td><td>(-)</td><td>(+)</td><td>...................</td></tr><tr><td>3</td><td>Ekuitas</td><td>(-)</td><td>(+)</td><td>...................</td></tr><tr><td>4</td><td>Pendapatan – LO/ Pendapatan-LRA</td><td>(-)</td><td>(+)</td><td>...................</td></tr><tr><td>5</td><td>Beban/ Belanja</td><td>(+)</td><td>(-)</td><td>...................</td></tr><tr><td>6</td><td>Penerimaan Pembiayaan</td><td>(-)</td><td>(+)</td><td>...................</td></tr><tr><td>7</td><td>Pengeluaran Pembiayaan</td><td>(+)</td><td>(-)</td><td>...................</td></tr><tr><td>8</td><td>Perubahan SAL</td><td>menyesuaikan</td><td>...............</td><td>menyesuaikan</td></tr><tr><td>9</td><td>Estimasi Pendapatan</td><td>(+)</td><td>Tidak ada</td><td>...................</td></tr></table>"
     },
     {
       "pertanyaan": "Jelaskan perbedaan utama kartu piutang dan kartu utang!"
