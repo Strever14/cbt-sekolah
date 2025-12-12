@@ -1,0 +1,406 @@
+{
+  "pilihan_ganda": [
+    {
+      "pertanyaan": "<b>Text for questions 1-5</b><br><br><blockquote>GreenStone Library<br>The GreenStone Library is one of the oldest reading facilities in the city. The building is known for its eco-friendly design, using solar panels and recycled materials. The interior is quiet, modern, and filled with digital shelves that allow visitors to search books easily. Every weekend, the library holds community discussions to improve students' reading interest.</blockquote><br>What makes the GreenStone Library unique?",
+      "opsi": [
+        "It only provides printed books",
+        "It uses environmentally friendly materials",
+        "It is newly built and traditional",
+        "It prohibits community activities",
+        "It is open only for students"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "What is the purpose of the text?",
+      "opsi": [
+        "To criticize the facilities",
+        "To describe a unique library",
+        "To explain how to use digital shelves",
+        "To persuade students to read",
+        "To narrate a weekend activity"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "From the text, we can infer that the library...",
+      "opsi": [
+        "is not interested in technology",
+        "focuses on student entertainment",
+        "supports sustainability and innovation",
+        "refuses visitors on weekends",
+        "does not provide digital access"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "The phrase eco-friendly design suggests that...",
+      "opsi": [
+        "the building wastes electricity",
+        "the library uses natural materials",
+        "the library is dangerous",
+        "the library is expensive",
+        "the building uses traditional lamps"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "The community discussions are held to...",
+      "opsi": [
+        "reduce book collections",
+        "attract more tourists",
+        "improve reading interest",
+        "promote library staff",
+        "teach how to recycle"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "<b>Text for question 6</b><br><br><blockquote>The Honest Farmer<br>Once, a young merchant lost his bag of gold while traveling. He searched everywhere but failed. A poor farmer found the bag and returned it to the merchant. However, the merchant claimed some coins were missing and accused the farmer of stealing. The village judge later proved the merchant was lying and returned the bag to the honest farmer.</blockquote><br>What is the moral value of the story?",
+      "opsi": [
+        "Wealth determines honesty",
+        "Helping others is a waste of time",
+        "Honesty will always be rewarded",
+        "People should not travel alone",
+        "Judges should not help villagers"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Who solved the problem in the story?",
+      "opsi": [
+        "The merchant",
+        "The farmer",
+        "The judge",
+        "The villagers",
+        "The merchant's friends"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "<b>Text for questions 8-9</b><br><br><blockquote>Industrial Visit<br>Last month, my school held an industrial visit to a textile company. We learned about production, packaging, and distribution. I was amazed by the large machines used to make fabrics. At the end of the tour, we received souvenirs made from recycled cloth.</blockquote><br>What is the writer's impression about the visit?",
+      "opsi": [
+        "It was boring",
+        "It was disappointing",
+        "It was impressive",
+        "It was unclear",
+        "It was complicated"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "What did the students receive at the end?",
+      "opsi": [
+        "Free lunch",
+        "Tools",
+        "Recycled souvenirs",
+        "Certificates",
+        "Uniforms"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "<b>Text for question 10</b><br><br><blockquote>How to Make a Business Email Account<br>Open your browser → Visit an email provider site → Click \"Create New Account\" → Fill in the required data → Verify your account</blockquote><br>What is the purpose of the text?",
+      "opsi": [
+        "To retell a process",
+        "To describe an email",
+        "To show steps in making an email account",
+        "To explain why email is important",
+        "To promote an email provider"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "If he had prepared earlier, he ________ the interview easily.",
+      "opsi": [
+        "will pass",
+        "would pass",
+        "would have passed",
+        "passes",
+        "has passed"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "The application letter ________ yesterday.",
+      "opsi": [
+        "sends",
+        "is sending",
+        "sent",
+        "has sending",
+        "was sent"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "\"Could I speak to Mr. Arman, please?\" expresses...",
+      "opsi": [
+        "refusal",
+        "complaint",
+        "warning",
+        "introduction",
+        "telephone request"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "<b>Text for questions 14-15</b><br><br><blockquote>I am writing to apply for the position of Sales Assistant at Toko Mandiri. I have strong communication skills and two years of retail experience. I believe I can contribute to your team.</blockquote><br>What position does the applicant apply for?",
+      "opsi": [
+        "Manager",
+        "Cashier",
+        "Sales Assistant",
+        "Supervisor",
+        "Admin"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "What skill is highlighted?",
+      "opsi": [
+        "Mechanical skill",
+        "Cooking skill",
+        "Communication",
+        "Designing",
+        "Programming"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Which behavior is appropriate during an interview?",
+      "opsi": [
+        "Answering clearly and confidently",
+        "Interrupting the interviewer",
+        "Checking the phone",
+        "Lying about experience",
+        "Arriving very late"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Anna and Sarah finished ________ project yesterday.",
+      "opsi": [
+        "his",
+        "her",
+        "them",
+        "their",
+        "ours"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "The receptionist ________ incoming calls.",
+      "opsi": [
+        "answer",
+        "answers",
+        "answered",
+        "is answer",
+        "answering"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "The customer ________ a complaint last night.",
+      "opsi": [
+        "files",
+        "file",
+        "is filing",
+        "filing",
+        "filed"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "\"Your service was too slow.\" This is an example of...",
+      "opsi": [
+        "agreement",
+        "complaint",
+        "refusal",
+        "gratitude",
+        "suggestion"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "<b>Text for questions 21-22</b><br><br><blockquote>Online learning provides flexibility for students. They can study anywhere and manage their own time. Moreover, digital resources allow students to learn faster and more independently.</blockquote><br>What is the writer's opinion?",
+      "opsi": [
+        "Online learning is flexible and useful",
+        "Online learning is harmful",
+        "Students dislike digital resources",
+        "Time management is unnecessary",
+        "Online learning should be banned"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "The text is mostly intended to...",
+      "opsi": [
+        "entertain",
+        "retell",
+        "argue and give reasons",
+        "explain a process",
+        "describe a place"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "<b>Text for questions 23-25</b><br><br><blockquote>Position: Office Administrator<br>Requirements: Minimum 2 years experience, proficient in MS Office, good communication & problem-solving skills, able to work independently<br>Send your application letter to hr@brightdata.com</blockquote><br>What position is offered?",
+      "opsi": [
+        "IT Staff",
+        "Office Administrator",
+        "Sales Staff",
+        "HR Staff",
+        "Receptionist"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Which skill is specifically required?",
+      "opsi": [
+        "Programming",
+        "Graphic Design",
+        "Microsoft Office proficiency",
+        "Driving",
+        "Cooking"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Where should applicants send their application?",
+      "opsi": [
+        "admin@company.com",
+        "hr@brightdata.com",
+        "office@brightdata.com",
+        "apply@brightdata.com",
+        "info@company.com"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "<b>Text for questions 26-27</b><br><br><blockquote>Rina loves visiting the city zoo. The zoo has many animals such as lions, elephants, and colorful birds. Every Saturday, she helps feed the animals and clean their cages. She enjoys learning about the animals' habits and behaviors.</blockquote><br>What is Rina's main activity at the zoo?",
+      "opsi": [
+        "Buying souvenirs",
+        "Feeding animals and helping care for them",
+        "Taking photos only",
+        "Watching movies about animals",
+        "Selling tickets"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Which sentence shows the purpose of Rina's visit?",
+      "opsi": [
+        "\"Rina loves visiting the city zoo\"",
+        "\"She enjoys learning about the animals' habits and behaviors\"",
+        "\"The zoo has many animals\"",
+        "\"Every Saturday\"",
+        "\"The cages are clean\""
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "If the manager approves the project, the team ________ the new system next week.",
+      "opsi": [
+        "implements",
+        "implemented",
+        "would have implemented",
+        "implementing",
+        "will implement"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "The report ________ by the secretary yesterday.",
+      "opsi": [
+        "submit",
+        "submits",
+        "was submitted",
+        "submitting",
+        "submitsed"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Customer: \"The laptop I bought is not working properly.\"<br>What is the customer doing?",
+      "opsi": [
+        "Complaining",
+        "Pra>ising the product",
+        "Asking for a discount",
+        "Giving instructions",
+        "Reporting a delivery delay"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "<b>Text for questions 31-33</b><br><br><blockquote>Electric scooters should be promoted in cities. They reduce traffic congestion and air pollution. Moreover, scooters are cost-effective and easy to use for short distances.</blockquote><br>What is the writer's point of view?",
+      "opsi": [
+        "Electric scooters are dangerous",
+        "Electric scooters should be promoted",
+        "Cars are better than scooters",
+        "Bicycles should be banned",
+        "Scooters are expensive"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Which sentence is the argument?",
+      "opsi": [
+        "\"They reduce traffic congestion and air pollution.\"",
+        "\"Electric scooters should be promoted.\"",
+        "\"Moreover, scooters are cost-effective and easy to use.\"",
+        "Both A and C",
+        "Both B and C"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "What is the main purpose of the text?",
+      "opsi": [
+        "To entertain readers",
+        "To describe the history of scooters",
+        "To persuade readers to support electric scooters",
+        "To explain how to ride a scooter",
+        "To narrate an event"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "If students study regularly, they will achieve good grades. If they ignore lessons, they might fail.<br>What type of conditional is \"If students study regularly, they will achieve good grades\"?",
+      "opsi": [
+        "Zero conditional",
+        "First conditional",
+        "Second conditional",
+        "Third conditional",
+        "Mixed conditional"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Choose the correct continuation: \"If she ________ earlier, she would not be late for the meeting.\"",
+      "opsi": [
+        "leaves",
+        "left",
+        "leaving",
+        "leave",
+        "had left"
+      ],
+      "jawaban": "E"
+    }
+  ],
+  "essay": [
+    {
+      "pertanyaan": "Write a short <b>application letter</b> for a position in a company of your choice. Include: greeting, introduction, experience/qualification, and closing."
+    },
+    {
+      "pertanyaan": "Describe your <b>favorite place in your city</b> in 8–10 sentences."
+    },
+    {
+      "pertanyaan": "Retell a <b>personal experience</b> during your last holiday in 8–10 sentences."
+    },
+    {
+      "pertanyaan": "Write a <b>procedure text</b> on how to make your favorite food or drink."
+    },
+    {
+      "pertanyaan": "Express a <b>complaint</b> about a product or service you received and explain how you want the problem solved."
+    }
+  ]
+}

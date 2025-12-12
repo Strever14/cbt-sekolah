@@ -1,0 +1,406 @@
+{
+  "pilihan_ganda": [
+    {
+      "pertanyaan": "Kapan Jepang mulai menguasai wilayah Indonesia, dengan Belanda menyerah kepada Jepang di Kalijati Subang Jawa Barat pada tanggal?",
+      "opsi": [
+        "8 Maret 1942",
+        "8 Mei 1942",
+        "10 Maret 1942",
+        "10 Mei 1942",
+        "8 Maret 1943"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Siapa yang membentuk BPUPK?",
+      "opsi": [
+        "Belanda",
+        "Jepang",
+        "Soekarno",
+        "M Yamin",
+        "Soepomo"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Kapan pelantikan BPUPK?",
+      "opsi": [
+        "1 Maret 1945",
+        "1 Oktober 1965",
+        "28 Mei 1945",
+        "17 Agustus 1945",
+        "1 Juni 1945"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Siapakah ketua dari BPUPK?",
+      "opsi": [
+        "Ichibangase Yosio",
+        "KRT Radjiman Weyodiningrat",
+        "Raden Pandji Soeroso",
+        "Soekarno",
+        "M Yamin"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "BPUPK Melaksanakan dua kali sidang pada tanggal 29 Mei – 1 Juni dan 10-17 Juli dengan membahas?",
+      "opsi": [
+        "Dasar Negara dan Rancangan Undang-undang dasar",
+        "Panitia persiapan kemerdekaan",
+        "Pemerintahan",
+        "Kementerian",
+        "Kantor Pusat"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Azas dan Dasar Negara Kebangsaan Republik Indonesia, adalah usul tertulis yang disiapkan oleh?",
+      "opsi": [
+        "Soekarno",
+        "Maramis",
+        "Soepomo",
+        "M. Yamin",
+        "K.R.T Radjiman"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "M. Yamin mengajukan usul dalam sidang BPUPK pada tanggal?",
+      "opsi": [
+        "29 Agustus 1945",
+        "29 Mei 1945",
+        "30 Agustus 1945",
+        "12 Mei 1945",
+        "30 Mei 1945"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Bagaimana apabila dikelas kalian ada yang ingin mengganti Pancasila dengan Ideologi lain?",
+      "opsi": [
+        "Dijauhi karena akan mempengaruhi hal yang tidak baik",
+        "Melaporkannya kepada pihak berwajib",
+        "Memaksakan agar menerima pancasila",
+        "Membiarkan karena bagian dari kebebasan berpendapat",
+        "Memberikan pemahaman tentang pancasila"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Bagaimana apabila ada teman di sekolah ini yang berbeda agama dengan kalian?",
+      "opsi": [
+        "Tidak mengintimidasi",
+        "Tidak memaksakan kehendak",
+        "Menghargai dan toleransi",
+        "Senasib sepenanggungan",
+        "Tenggang rasa"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Apa tugas panitia delapan?",
+      "opsi": [
+        "Menyusun pembukaan hukum dasar",
+        "Menampung usulan",
+        "Merancang usulan",
+        "Membuat pembukaan",
+        "Mangumukan pembukaan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Apa tugas panitia sembilan?",
+      "opsi": [
+        "Menyusun pembukaan hukum dasar",
+        "Menampung usulan",
+        "Merancang usulan",
+        "Membuat pembukaan",
+        "Mengumumkan pembukaan"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Dari kedua kepanitiaan tersebut ada yang merangkap jabatan, salah satunya adalah?",
+      "opsi": [
+        "KH. Wachid Hasjim",
+        "Achmad Subardjo",
+        "Soepomo",
+        "Abi Kusno Tjokrosujoso",
+        "Oto Iskandar Dinata"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Usulan yang meminta indonesia merdeka selekas lekasnya, adalah pokok pikiran?",
+      "opsi": [
+        "Panitia sembilan",
+        "Soekarno",
+        "Panitia Delapan",
+        "Moh. Hatta",
+        "Maramis"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Usulan yang meminta mengenai bentuk negara dan kepala negara adalah?",
+      "opsi": [
+        "Panitia sembilan",
+        "Soekarno",
+        "Panitia Delapan",
+        "Moh. Hatta",
+        "Maramis"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Apa yang harus kalian lakukan sebagai siswa demi mengisi kemerdekaan ini dalam lingkungan rumah?",
+      "opsi": [
+        "Membantu pekerjaan rumah orang tua",
+        "Ikut dalam siskamling",
+        "Ikut Kerja Bhakti",
+        "Membuat kepanitiaan peringatan hari besar",
+        "Memberikan penyuluhan tentang pancasila kepada masyarakat"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Ideologi berasal dari kata idea yang berarti gagasan, konsep, pengertian dasar, cita-cita. Adapun logos berarti ilmu, logika, ilmiah. Secara harfiah, ideologi berarti?",
+      "opsi": [
+        "Dasar negara",
+        "Ilmu-ilmu dasar",
+        "Pengertian dasar",
+        "Pengetahuan dasar",
+        "Ilmu pengertian-pengertian dasar"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "<blockquote>Ideologi adalah seperangkat gagasan yang membentuk landasan teori ekonomi dan politik atau yang dipegangi oleh seorang atau sekelompok orang. Ideologi mempunyai tiga unsur esensial yang termuat didalamnya. Salah satunya adalah keyakinan yang berarti?</blockquote>",
+      "opsi": [
+        "Setiap Ideologi selalu menuntut keterlibatan optimal dari semua unsur masyarakatnya",
+        "Setiap ideologi selalu menuntut keterlibatan optimal atas dasar loyalitas dari para subjek pendukungnya",
+        "Setiap ideologi selalu menunjuk adanya gagasan vital yang sudah diyakini kebenarannya untuk dijadikan dasar dan arah strategi untuk mencapai kemakmuran bangsa",
+        "Setiap ideologi selalu menunjuk adanya gagasan vital yang sudah diyakini kebenarannya untuk dijadikan dasar dan arah strategi bagi tercapainya tujuan yang telah ditentukan",
+        "Setiap konsep ideologi selalu memitoskan suatu ajaran yang secara optimis dan dipercaya secara pasti akan menjamin tercapainya tujuan melalui cara-cara yang telah ditentukan pula"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "<blockquote>Ideologi merupakan asas pendapat, pandangan atau keyakinan yang dipakai atau dicita-citakan oleh perorangan golongan dalam masyarakat atau suatu bangsa. Fungsi utama ideologi dalam masyarakat menurut Ramlan Surbakti (1999) ada dua, salah satunya sebagai tujuan atau cita-cita yang hendak dicapai secara bersama oleh?</blockquote>",
+      "opsi": [
+        "Negara",
+        "Suatu Masyarakat",
+        "Kelompok tertentu",
+        "Lembaga-lembaga Negara",
+        "Pemerintah yang berdaulat"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Selain mempunyai fungsi utama sebagai tujuan atau cita-cita yang hendak dicapai dan pemersatu masyarakat, ideologi juga mempunyai enam fungsi lainnya. Berikut yang <b>tidak</b> termasuk fungsi tersebut adalah?",
+      "opsi": [
+        "Memberikan pedoman tentang cara hidup masyarakat",
+        "Memberikan bekal dan jalan bagi seseorang untuk menentukan identitasnya",
+        "Memberikan orientasi dasar dengan membuka wawasan yang memberikan makna serta menunjukkan tujuan dalam kehidupan manusia",
+        "Memberikan kekuasaan yang mampu menyemangati dan mendorong seseorang untuk menjalankan kegiatan dan mencapai tujuan",
+        "Memberikan pendidikan bagi seseorang atau masyarakat untuk memahami, menghayati, serta memolakan tingkah lakunya sesuai dengan orientasi dan norma-norma yang terkandung di dalamnya"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Salah satu ciri ideologi terbuka ialah nilai-nilai dan cita-citanya tidak dipaksakan dari luar, melainkan berasal dari?",
+      "opsi": [
+        "Ideologi bangsa lain",
+        "Nilai-nilai yang diwariskan oleh penjajah",
+        "Kekayaan rohani, moral, dan budaya masyarakatnya sendiri",
+        "Keputusan dan hasil diskusi para elite negara serta kelompok-kelompok kepentingan",
+        "Nilai-nilai yang berasal dari luar dan dipaksakan sesuai kepribadian bangsa sendiri"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Ibu Ani membeli jilbab buatan industri rumahan untuk dibagi-bagikan kepada saudaranya, Hal ini salah satu cara mengatasi ancaman bidang?",
+      "opsi": [
+        "Ideologi",
+        "Politik",
+        "Ekonomi",
+        "Sosial Budaya",
+        "Pertahanan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Berikut yang <b>tidak</b> merupakan cara mengatasi ancaman di bidang sosial budaya adalah?",
+      "opsi": [
+        "Gaya hidup kebarat-baratan",
+        "Punahnya budaya tradisional",
+        "Siswa tidak menghormati guru",
+        "Tukar menukar pelajar",
+        "Kesenjangan strata sosial"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Upaya untuk melumpuhkan ancaman di bidang ekonomi dan memperkuat kemandirian bangsa Indonesia adalah?",
+      "opsi": [
+        "Pertanian dijadikan prioritas utama karena mayoritas penduduk Indonesia bermata pencaharian sebagai petani",
+        "Menerapkan paham Pancasila dalam segala aktivitas berbangsa dan bernegara",
+        "Menumbuhkan rasa nasionalisme pada generasi muda melalui pembelajaran PPKn",
+        "Ikut serta membela dan mewujudkan keutuhan bangsa dan Negara",
+        "Menerapkan sistem pertahanan dan keamanan rakyat semesta"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Konsep dasar dalam persatuan dan kesatuan bangsa yang meliputi aspek alamiah (konsep kewilayahan) dan sosial (politik, sosial, budaya, ekonomi, pertahanan dan keamanan) adalah....",
+      "opsi": [
+        "Konsep persatuan",
+        "Konsep kesatuan dan bangsa",
+        "Konsep integrasi nasional",
+        "Konsep nasionalisme",
+        "Konsep patriotisme"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Berikut merupakan perilaku yang dapat dilakukan dalam menjaga keutuhan negara Indonesia di lingkungan masyarakat, yaitu?",
+      "opsi": [
+        "Bergotong royong membersihkan lingkungan sekitar",
+        "Senantiasa rajin belajar bagi anggota keluarga yang masih bersekolah",
+        "Ikut menjaga harta benda keluarga",
+        "Menaati tata tertib sekolah",
+        "Menghormati guru"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Berikut ini yang termasuk faktor yang menyebabkan terjadinya pelanggaran hak dan pengingkaran kewajiban sebagai warga negara adalah? <b>Kecuali!</b>",
+      "opsi": [
+        "tidak toleran",
+        "egois dan mementingkan diri sendiri",
+        "menyalahgunakan kekuasaan",
+        "kesadaran berbangsa yang rendah",
+        "peduli akan kehidupan berbangsa"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Nilai instrumental merupakan nilai penjabaran dari nilai dasar untuk kurun waktu dan kondisi tertentu, berikut ini yang merupakan contoh nilai tersebut adalah?",
+      "opsi": [
+        "tanggung jawab",
+        "gotong royong",
+        "tata tertib di masyarakat",
+        "peraturan daerah",
+        "Kemanusiaan"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Faktor yang menyebabkan terjadinya pelanggaran hak dan pengingkaran kewajiban sebagai warga negara adalah?",
+      "opsi": [
+        "Sumber Daya Alam",
+        "Sumber Daya Manusia",
+        "kesadaran berbangsa dan bernegara yang rendah",
+        "sosok kepala negara dan kepala pemerintahan",
+        "constitusi di negara tersebut"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Seseorang berusaha mendapatkan haknya, bahkan dengan sengaja melanggar hak orang lain, baik di sekolah maupun lingkungan masyarakat. Hal tersebut merupakan bentuk sikap?",
+      "opsi": [
+        "tidak toleran",
+        "egois dan mementingkan diri sendiri",
+        "menyalahgunakan kekuasaan",
+        "kesadaran akan berbakti kepada bangsa",
+        "peduli akan kehidupan bangsa"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Tujuan dibuatnya peraturan hukum pada umumnya untuk?",
+      "opsi": [
+        "menciptakan keadilan sosial bagi setiap individu",
+        "memberikan hukuman bagi pelanggar hukum",
+        "menciptakan tatanan masyarakat yang tertib",
+        "membuat jera dengan sanksi yang tegas",
+        "menjamin keadilan bagi seluruh rakyat Indonesia"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Sebagai warga negara yang baik seharusnya sikap kita berusaha melaksanakan peraturan sebaik-baiknya karena?",
+      "opsi": [
+        "peraturan itu menguntungkan jabatan kita",
+        "Peraturan itu dibuat oleh badan yang berwenang",
+        "peraturan itu untuk kesejahteraan kita sendiri",
+        "untuk menghindari sanksi yang berat",
+        "mendapatkan penghargaan dari penegak hukum"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Sila Persatuan Indonesia menjamin hak-hak setiap warga negara dalam keberagaman yang terjadi kepada masyarakat Indonesia seperti hak mengembangkan budaya daerah untuk memperkaya budaya nasional. Sila ketiga mengamanatkan kewajiban setiap warga negara untuk? <b>Kecuali!</b>",
+      "opsi": [
+        "menempatkan kepentingan bangsa dan negara di atas kepentingan pribadi atau golongan",
+        "sanggup dan rela berkorban untuk kepentingan bangsa dan negara",
+        "tidak memaksakan suatu agama dan kepercayaan kepada orang lain",
+        "mengembangkan persatuan Indonesia atas dasar Bhinneka Tunggal Ika",
+        "memajukan pergaulan demi persatuan dan kesatuan bangsa"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Sila Keadilan Sosial bagi Seluruh Rakyat Indonesia mengakui hak milik perorangan dan dilindungi pemanfaatannya oleh negara serta memberi kesempatan sebesar-besarnya kepada masyarakat. Sila kelima mengamanatkan setiap warga negara untuk?",
+      "opsi": [
+        "tidak melakukan perbuatan yang merugikan kepentingan umum",
+        "mengutamakan musyawarah mufakat dalam setiap pengambilan keputusan",
+        "memberikan kepercayaan kepada wakil-wakil rakyat yang telah terpilih untuk melaksanakan musyawarah dan menjalankan tugas sebaik-baiknya",
+        "Bekerja bersama-sama",
+        "Memberikan sumbangan"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Pelanggaran HAM dapat dibedakan menjadi dua, yaitu pelanggaran HAM berat dan pelanggaran HAM ringan. Jenis pelanggaran tersebut dibedakan atas, <b>Kecuali?</b>",
+      "opsi": [
+        "Sifatnya",
+        "Kedudukannya",
+        "Sanksinya",
+        "Kekuatannya",
+        "Waktunya"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Contoh pengingkaran kewajiban untuk membela negara adalah?",
+      "opsi": [
+        "melanggar rambu-rambu lalu lintas",
+        "membolos saat di jam pelajaran",
+        "tidak membayar pajak pada waktunya",
+        "tawuran dan merusak fasilitas umum",
+        "melindungi pencuri dari amukan massa"
+      ],
+      "jawaban": "C"
+    }
+  ],
+  "essay": [
+    {
+      "pertanyaan": "Dalam kondisi yang serba digital, banyak budaya asing yang masuk ke Indonesia tanpa hambatan apapun, lalu Pancasila ada sebagai penyaring dari nilai-nilai dan budaya asing tersebut. Apakah kalian setuju dengan pernyataan tersebut? Jelaskan analisis kalian! (minimal 4 paragraf)"
+    },
+    {
+      "pertanyaan": "Apa saja Tantangan dalam penerapan Pancasila beserta upaya untuk menghadapinya? (sebutkan dan jelaskan kelima tantangan tersebut)?"
+    },
+    {
+      "pertanyaan": "Apa dampak negatif dari beragamnya suku, ras, agama, adat dan budaya di Indonesia terhadap persatuan dan kesatuan bangsa?"
+    },
+    {
+      "pertanyaan": "Apa program kalian sebagai siswa agar pelanggaran HAM dapat dikurangi? Jelaskan!"
+    },
+    {
+      "pertanyaan": "Apa yang dimaksud dengan hak asasi manusia dan kewajiban manusia? Jelaskan dan berikan contoh!"
+    }
+  ]
+}
