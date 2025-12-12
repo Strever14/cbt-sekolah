@@ -221,7 +221,7 @@
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Perhatikan gambar berikut ini !<br><img src='soal/img/XII/kk-akl/picture1.PNG'>Jika menggunakan MYOB, maka jurnal yang tepat untuk transaksi di atas adalah .....",
+      "pertanyaan": "Perhatikan gambar berikut ini !<br><img src='soal/img/XII/kk-akl/picture1.png'>Jika menggunakan MYOB, maka jurnal yang tepat untuk transaksi di atas adalah .....",
       "opsi": [
         "Petty Cash (D)<br>Bank Mandiri Loan (K)<br>Interest Expense (K)",
         "Bank Mandiri Loan (D)<br>Interest Revenue (D)<br>Petty Cash (K)",
@@ -232,7 +232,7 @@
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Perhatikan gambar berikut ini !<br><img src='soal/img/XII/kk-akl/picture2.PNG'>Jika menggunakan MYOB, maka langkah awal untuk mencatat transaksi tersebut yaitu melalui jendela ....",
+      "pertanyaan": "Perhatikan gambar berikut ini !<br><img src='soal/img/XII/kk-akl/picture2.png'>Jika menggunakan MYOB, maka langkah awal untuk mencatat transaksi tersebut yaitu melalui jendela ....",
       "opsi": [
         "Banking -> Spend Money",
         "Account -> Record Journal Entry",
@@ -254,7 +254,7 @@
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Perhatikan gambar berikut ini !<br><img src='soal/img/XII/kk-akl/picture3.PNG'>Jika menggunakan MYOB, maka langkah awal untuk mencatat transaksi tersebut yaitu melalui jendela ....",
+      "pertanyaan": "Perhatikan gambar berikut ini !<br><img src='soal/img/XII/kk-akl/picture3.png'>Jika menggunakan MYOB, maka langkah awal untuk mencatat transaksi tersebut yaitu melalui jendela ....",
       "opsi": [
         "Banking -> Spend Money",
         "Purchases -> Pay Bills",
@@ -265,7 +265,7 @@
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Perhatikan gambar berikut ini !<br><img src='soal/img/XII/kk-akl/picture4.PNG'>Jika menggunakan MYOB, maka jurnal yang tepat untuk transaksi di atas adalah .....",
+      "pertanyaan": "Perhatikan gambar berikut ini !<br><img src='soal/img/XII/kk-akl/picture4.png'>Jika menggunakan MYOB, maka jurnal yang tepat untuk transaksi di atas adalah .....",
       "opsi": [
         "Petty Cash (D)<br>Expense Payable (K)",
         "Expense Payable (D)<br>Cash In Bank (K)",
