@@ -1,304 +1,381 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Langkah pertama untuk membuat mesin virtual baru di VirtualBox adalah...",
+      "pertanyaan": "IP Address kelas C memiliki range default pada oktet pertama yaitu...",
       "opsi": [
-        "Mengatur network adapter",
-        "Memilih ISO Debian",
-        "Klik \"New\" dan menentukan nama serta tipe OS",
-        "Menambahkan hard disk tambahan",
-        "Mengatur shared folder"
+        "1 – 126",
+        "128 – 191",
+        "192 – 223",
+        "224 – 239",
+        "240 – 255"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Format file installer Debian yang digunakan saat membuat VM adalah...",
+      "pertanyaan": "Subnet mask default dari IP Address kelas B adalah...",
       "opsi": [
-        ".img",
-        ".ova",
-        ".zip",
-        ".iso",
-        ".deb"
+        "255.0.0.0",
+        "255.255.0.0",
+        "255.254.0.0",
+        "255.255.255.0",
+        "255.255.255.252"
       ],
-      "jawaban": "D"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Pada saat instalasi Debian, partisi \"/swap\" digunakan untuk...",
+      "pertanyaan": "IP Address 255.255.255.255 digunakan untuk...",
       "opsi": [
-        "Penyimpanan log",
-        "Menyimpan file konfigurasi",
-        "Memperluas memori RAM",
-        "Tempat instalasi aplikasi",
-        "Boot loader"
+        "Host tertentu",
+        "Broadcast",
+        "Gateway",
+        "Network ID",
+        "Loopback"
       ],
-      "jawaban": "C"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Mode jaringan VirtualBox yang memungkinkan VM terhubung antar-VM dalam jaringan lokal tanpa internet adalah...",
+      "pertanyaan": "Jika sebuah PC memiliki IP 192.168.1.10/24, maka network ID-nya adalah...",
       "opsi": [
-        "NAT",
-        "NAT Network",
-        "Bridged Adapter",
-        "Host-Only Adapter",
-        "Internal Network"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Perintah untuk mengaktifkan ulang service jaringan setelah mengubah IP adalah...",
-      "opsi": [
-        "systemctl restart inet",
-        "service network restart",
-        "systemctl restart NetworkManager",
-        "/etc/init.d/networking restart",
-        "restart ipservice"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Untuk menguji koneksi SSH ke server digunakan perintah...",
-      "opsi": [
-        "ssh username@ipserver",
-        "ssh connect ip",
-        "ssh client ip",
-        "ssh -run ip",
-        "sshd ip"
+        "192.168.1.0",
+        "192.168.1.1",
+        "192.168.1.10",
+        "192.168.1.255",
+        "192.168.0.0"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Paket utama yang harus diinstal untuk membuat server DNS BIND adalah...",
+      "pertanyaan": "Fungsi utama dari DNS adalah...",
       "opsi": [
-        "bind9utils",
-        "bind-tools",
-        "dns-tools",
-        "bind9",
-        "named-server"
+        "Mengatur alokasi IP Address",
+        "Mengubah nama domain menjadi IP Address",
+        "Melakukan enkripsi data",
+        "Menghubungkan database",
+        "Mengatur hak akses"
       ],
-      "jawaban": "D"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Web Server Apache di Debian dipasang menggunakan perintah...",
+      "pertanyaan": "Record DNS yang digunakan untuk memetakan nama domain ke alamat IPv4 adalah...",
       "opsi": [
-        "apt-get apache",
-        "apt install httpd",
-        "apt install webserver",
-        "apt install apache2",
-        "install apache"
+        "MX",
+        "A",
+        "AAAA",
+        "CNAME",
+        "PTR"
       ],
-      "jawaban": "D"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Saat membuat mesin Debian di VirtualBox, tipe OS yang sebaiknya dipilih adalah...",
+      "pertanyaan": "DHCP bekerja menggunakan model...",
       "opsi": [
-        "Linux 2.4",
-        "Debian (32-bit) meskipun host 64-bit",
-        "Debian (64-bit)",
-        "Ubuntu (64-bit)",
-        "Other Linux"
+        "Client–Client",
+        "Server–Client",
+        "Peer to Peer",
+        "Master–Slave",
+        "DNS–IP"
       ],
-      "jawaban": "C"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Pada proses instalasi Debian, opsi \"Guided -- use entire disk\" berarti...",
+      "pertanyaan": "Lease time dalam DHCP berarti...",
       "opsi": [
-        "Menghapus semua partisi dan mempartisi otomatis",
-        "Menggunakan partisi kosong saja",
-        "Membuat partisi manual",
-        "Instalasi hanya pada USB",
-        "Tidak mengubah partisi apapun"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Perintah untuk melihat IP Address pada Debian adalah...",
-      "opsi": [
-        "Ipconfig",
-        "Showip",
-        "ifconfig / ip a",
-        "netstat --ip",
-        "inet-show"
+        "Jumlah IP yang dibagikan",
+        "Lama transfer file",
+        "Durasi hak penggunaan IP Address",
+        "Waktu enkripsi data",
+        "Waktu sinkronisasi DNS"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "File konfigurasi zona reverse DNS bernama...",
+      "pertanyaan": "Port default yang digunakan oleh protokol SSH adalah...",
       "opsi": [
-        "db.reverse",
-        "reverse.conf",
-        "named.rev",
-        "db.172",
-        "rev.zone"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Jika browser menampilkan pesan \"Forbidden 403\", kemungkinan masalahnya adalah...",
-      "opsi": [
-        "File HTML rusak",
-        "Server mati",
-        "Izin file/direktori salah",
-        "Port 80 tertutup",
-        "DNS belum terpasang"
+        "20",
+        "21",
+        "22",
+        "23",
+        "25"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Pada VirtualBox, fitur yang memungkinkan VM dapat menggunakan IP dari router fisik adalah...",
+      "pertanyaan": "Perintah untuk melakukan koneksi SSH dari terminal adalah...",
       "opsi": [
-        "NAT",
-        "Internal Network",
-        "Host-Only",
-        "Bridged Adapter",
-        "Local Adapter"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Dokumen utama Apache yang menentukan virtual host terletak di direktori...",
-      "opsi": [
-        "/etc/apache2/site/active",
-        "/etc/apache2/conf-available",
-        "/var/www/virtual",
-        "/etc/apache2/sites-available",
-        "/etc/httpd/virtualhost"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Fungsi utama firewall dalam jaringan adalah...",
-      "opsi": [
-        "Membuat topologi jaringan",
-        "Mengatur bandwidth pengguna",
-        "Menyaring lalu lintas jaringan yang masuk dan keluar",
-        "Menggandakan alamat IP",
-        "Mempercepat transfer data"
+        "connect user@ip",
+        "login user@ip",
+        "ssh user@ip",
+        "telnet user@ip",
+        "ftp user@ip"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Firewall bekerja pada layer berapa dalam model OSI?",
+      "pertanyaan": "File konfigurasi utama SSH server di Linux adalah...",
       "opsi": [
-        "Session dan Presentation",
-        "Data Link dan Physical",
-        "Network dan Transport",
-        "Application dan Presentation",
-        "Semua layer OSI"
+        "/etc/ssh/ssh_config",
+        "/etc/ssh/sshd_config",
+        "/etc/resolv.conf",
+        "/etc/network/interfaces",
+        "/etc/dhcp/dhcpd.conf"
       ],
-      "jawaban": "C"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Berikut yang bukan jenis firewall adalah...",
+      "pertanyaan": "Perintah untuk mengecek konfigurasi IP Address di Linux adalah...",
       "opsi": [
-        "Packet Filtering Firewall",
-        "Proxy Firewall",
-        "Stateful Inspection Firewall",
-        "Next Generation Firewall (NGFW)",
-        "Topology Firewall"
+        "ping",
+        "netstat",
+        "nslookup",
+        "ifconfig atau ip addr",
+        "route"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "File konfigurasi utama DHCP Server di Linux Debian adalah...",
+      "opsi": [
+        "/etc/network/interfaces",
+        "/etc/resolv.conf",
+        "/etc/hosts",
+        "/etc/ssh/sshd_config",
+        "/etc/dhcp/dhcpd.conf"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Packet Filtering Firewall melakukan penyaringan berdasarkan...",
+      "pertanyaan": "Perintah untuk melakukan pengecekan DNS di Linux adalah...",
       "opsi": [
-        "Isi file yang dikirim",
-        "Alamat IP dan nomor port",
-        "Jenis server yang digunakan",
-        "Kecepatan koneksi",
-        "GPU server"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Teknologi pada NGFW yang tidak dimiliki firewall tradisional adalah...",
-      "opsi": [
-        "Packet filtering",
-        "Intrusion Prevention System (IPS)",
-        "NAT",
-        "Routing",
-        "Switching"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Firewall yang bertindak sebagai perantara antara client dan internet adalah...",
-      "opsi": [
-        "Packet filtering",
-        "NAT firewall",
-        "Proxy firewall",
-        "VPN firewall",
-        "IDS firewall"
+        "ping",
+        "traceroute",
+        "nslookup atau dig",
+        "ifconfig",
+        "route"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Aturan firewall disebut juga dengan istilah...",
+      "pertanyaan": "Port default yang digunakan oleh FTP adalah...",
       "opsi": [
-        "Route table",
-        "Policy",
-        "NAT Table",
-        "VLAN List",
-        "Subnet rule"
+        "20",
+        "21",
+        "22",
+        "23",
+        "25"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Berikut ini merupakan contoh serangan yang dapat diblok oleh firewall, kecuali...",
+      "pertanyaan": "Fungsi utama Trixbox dalam jaringan VoIP adalah...",
       "opsi": [
-        "Port scanning",
-        "DDoS",
-        "SQL Injection",
-        "Ping flood",
-        "Backup otomatis"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Konsep \"Default Deny\" pada firewall berarti...",
-      "opsi": [
-        "Semua akses diizinkan",
-        "Semua akses ditolak kecuali yang diizinkan",
-        "Semua akses lokal otomatis masuk",
-        "Semua trafik internet diprioritaskan",
-        "Firewall dimatikan"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Stateful firewall dapat memantau...",
-      "opsi": [
-        "Hanya header paket",
-        "Kecepatan bandwidth",
-        "Status koneksi dan sesi komunikasi",
-        "Kondisi kabel jaringan",
-        "Kapasitas penyimpanan server"
+        "Menyediakan layanan email",
+        "Menyediakan layanan VPN",
+        "Menyediakan layanan telepon berbasis IP",
+        "Menyediakan layanan DNS",
+        "Menyediakan layanan file sharing"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Pada gambar diatas angka 4 menunjukkan ......<br><img src='cbt-sekolah/soal/img/XII/kk-tjkt/picture1.png'>",
+      "pertanyaan": "Trixbox berbasis pada sistem operasi...",
       "opsi": [
-        "Mac address",
-        "Ip address",
-        "Identitas mikrotik",
-        "Versi routeros",
-        "Kode routeros"
+        "Ubuntu Server",
+        "Debian",
+        "CentOS Linux",
+        "Windows Server",
+        "Windows 10"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Protokol standar yang digunakan dalam komunikasi VoIP adalah...",
+      "opsi": [
+        "HTTP",
+        "FTP",
+        "SIP",
+        "SMTP",
+        "POP3"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Aplikasi Zoiper dan 3CX Phone berfungsi sebagai...",
+      "opsi": [
+        "Server VoIP",
+        "Database VoIP",
+        "Software Phone",
+        "Media player",
+        "File manager"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Teknologi untuk mengubah suara analog menjadi digital dalam VoIP disebut...",
+      "opsi": [
+        "Firewall",
+        "Proxy",
+        "Codec",
+        "VPN",
+        "Cache"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perangkat yang menghubungkan VoIP dengan jaringan telepon konvensional adalah...",
+      "opsi": [
+        "Switch",
+        "Router",
+        "Gateway",
+        "Hub",
+        "Proxy"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Salah satu fitur yang dapat diimplementasikan menggunakan Trixbox adalah...",
+      "opsi": [
+        "Cloud storage",
+        "Antivirus scanning",
+        "Video conference",
+        "File sharing",
+        "DHCP server"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Kejahatan siber dengan memalsukan identitas pengirim disebut...",
+      "opsi": [
+        "Carding",
+        "Traveling",
+        "Spoofing",
+        "Sniffing",
+        "Streaming"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Kejahatan siber yang menggunakan kartu kredit orang lain secara ilegal disebut...",
+      "opsi": [
+        "Spoofing",
+        "Sniffing",
+        "Phishing",
+        "Carding",
+        "Hacking"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Jika Anda tidak dapat masuk ke Winbox, langkah troubleshooting apa yang harus dilakukan untuk memulihkan akses?",
+      "pertanyaan": "Serangan yang bertujuan menguping komunikasi jaringan disebut...",
       "opsi": [
-        "Mematikan mesin virtual pada interface PC",
-        "Mematikan Interface ethernet pada PC",
-        "Merestart PC/laptop",
-        "Merestart Routerboard",
-        "Mematikan dhcp pada router"
+        "Brute force",
+        "Spoofing",
+        "Sniffing",
+        "Phishing",
+        "Hijacking"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Tujuan utama keamanan jaringan adalah...",
+      "opsi": [
+        "Mempercepat koneksi",
+        "Menambah perangkat",
+        "Melindungi data dan informasi",
+        "Mengurangi biaya",
+        "Menambah bandwidth"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Malware yang menyamar sebagai program normal disebut...",
+      "opsi": [
+        "Worm",
+        "Trojan Horse",
+        "Spyware",
+        "Rootkit",
+        "Adware"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "VPN digunakan untuk...",
+      "opsi": [
+        "Memperbesar bandwidth",
+        "Membuat jaringan aman terenkripsi",
+        "Menghapus virus",
+        "Mengatur IP",
+        "Memblokir iklan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Teknik brute force digunakan untuk...",
+      "opsi": [
+        "Menghapus sistem",
+        "Menebak kata sandi",
+        "Mempercepat server",
+        "Mengubah IP",
+        "Mengirim spam"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Fungsi utama firewall pada Mikrotik adalah...",
+      "opsi": [
+        "Menyimpan data",
+        "Menggandakan bandwidth",
+        "Melindungi jaringan dari akses tidak sah",
+        "Mengatur IP statis",
+        "Menyediakan DNS"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Menu firewall pada Mikrotik dapat diakses melalui...",
+      "opsi": [
+        "Tools → Firewall",
+        "IP → Firewall",
+        "System → Firewall",
+        "Interface → Firewall",
+        "Queue → Firewall"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perbedaan utama antara action Reject dan Drop adalah...",
+      "opsi": [
+        "Reject tanpa pesan",
+        "Drop kirim pesan",
+        "Reject kirim pesan error, Drop tanpa pesan",
+        "Reject hanya TCP",
+        "Reject mempercepat koneksi"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Fungsi NAT (Network Address Translation) pada Mikrotik adalah...",
+      "opsi": [
+        "Membuat VLAN",
+        "Menghapus log",
+        "Menghemat IP Public",
+        "Memblokir port",
+        "Mengatur routing"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Mode WLAN Mikrotik agar dapat berfungsi sebagai Access Point adalah...",
+      "opsi": [
+        "Station",
+        "WDS",
+        "PTP",
+        "AP Bridge",
+        "Station bridge"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Router Mikrotik memiliki fitur yang memungkinkan perangkat secara otomatis melakukan sinkronisasi waktu dengan server di internet. Fitur tersebut adalah...",
+      "pertanyaan": "Fitur Mikrotik untuk sinkronisasi waktu otomatis adalah...",
       "opsi": [
         "DHCP Client",
         "SNTP Client",
@@ -307,100 +384,23 @@
         "SNMP"
       ],
       "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Ada berbagai aplikasi yang bisa digunakan untuk mengakses Routerboard Mikrotik. Di bawah ini, mana yang bukan termasuk aplikasi untuk melakukan manajemen perangkat tersebut?",
-      "opsi": [
-        "telnet",
-        "winbox",
-        "webfig",
-        "Putty",
-        "SSL"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Ketika melakukan ping dari Routerboard Mikrotik ke internet, hasilnya Request Time Out (RTO). Kecuali salah satu dari faktor berikut, apa yang perlu kita cek untuk memecahkan masalah konektivitas tersebut?",
-      "opsi": [
-        "NAT",
-        "DHCP Client",
-        "DNS",
-        "Kabel internet yang terhubung ke Routerboard mikrotik",
-        "layer7 protocol"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Dalam pembangunan jaringan hotspot wireless menggunakan Routerboard, mode wlan apa yang harus dipilih agar dapat berfungsi sebagai titik akses utama yang menghubungkan perangkat client secara langsung?",
-      "opsi": [
-        "PTP",
-        "Station",
-        "station bridge",
-        "WDS",
-        "AP Bridge"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Ketika lab sekolah anda membutuhkan jaringan 14 Unit Komputer dan 1 Server dengan topologi star maka yang akan dibutuhkan minimal :",
-      "opsi": [
-        "2 unit Switch 8 port dan Cable UTP Cat 5E",
-        "2 Unit Switch 16 port dan Cable STP Cat 6",
-        "1 Unit Switch 16 Port dan Cable UTP Cat 5e",
-        "1 Unit Switch 24 Port dan Cable UTP Cat 5e",
-        "1 Unit switch 48 port dan cabel STP Cat 6"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Sebuah lab memiliki jumlah komputer 24 buah untuk siswa, 1 komputer untuk guru dan 1 untuk server. Subnetmask yang paling optimal untuk lab tersebut adalah ....",
-      "opsi": [
-        "255.255.255.224",
-        "255.255.255.192",
-        "255.255.255.248",
-        "255.255.255.128",
-        "255.255.255.0"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Seorang teknisi ingin mereset konfigurasi MikroTik. Ia menginginkan:<br>- Semua konfigurasi lama dihapus agar router kosong tanpa pengaturan bawaan,<br>- Router tidak menyimpan file cadangan (backup) konfigurasi sebelumnya,<br>- User login lama juga ikut dihapus.<br><br>Pengaturan opsi apa yang sebaiknya dipilih pada menu Reset Configuration?",
-      "opsi": [
-        "Centang Keep User Configuration dan Do Not Backup",
-        "Centang No Default Configuration dan Do Not Backup",
-        "Hanya centang Keep User Configuration",
-        "Centang CAPS Mode dan Do Not Backup",
-        "Hanya centang No Default Configuration"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Seorang teknisi jaringan ingin membatasi akses pengguna tertentu agar tidak bisa membuka situs tertentu melalui firewall. Ia menambahkan aturan dengan aksi \"Deny\" untuk alamat IP pengguna tersebut.<br>Apa tujuan penggunaan aksi \"Deny\" dalam kasus ini?",
-      "opsi": [
-        "Mengizinkan akses ke jaringan",
-        "Menolak akses ke jaringan tertentu",
-        "Mempercepat koneksi internet",
-        "Mengatur prioritas lalu lintas",
-        "Membuka akses sementara"
-      ],
-      "jawaban": "B"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Jelaskan fungsi utama dari fitur <i>NAT (Network Address Translation)</i> pada firewall dan sebutkan salah satu keuntungannya!"
+      "pertanyaan": "Jelaskan langkah-langkah melakukan <b>konfigurasi IP statis pada Linux Debian</b>!"
     },
     {
-      "pertanyaan": "Sebutkan dan jelaskan dua jenis serangan jaringan yang dapat dideteksi atau diblok oleh firewall!"
+      "pertanyaan": "Jelaskan <b>perbedaan virus, worm, dan trojan</b> dalam keamanan jaringan!"
     },
     {
-      "pertanyaan": "Jelaskan langkah-langkah untuk melakukan konfigurasi IP statis pada sistem operasi Linux Debian!"
+      "pertanyaan": "Jelaskan secara singkat <b>sejarah perkembangan teknologi VoIP di Indonesia</b>!"
     },
     {
-      "pertanyaan": "Apa fungsi utama dari fitur <b>NAT (Network Address Translation)</b> di Mikrotik?"
+      "pertanyaan": "Menurut pendapat Anda, apa <b>tantangan terbesar dalam menjaga keamanan jaringan di era cloud computing</b>?"
     },
     {
-      "pertanyaan": "Jelaskan perbedaan antara mode jaringan Bridged Adapter dan NAT pada VirtualBox, serta berikan contoh penggunaan yang tepat untuk masing-masing mode!"
+      "pertanyaan": "Jelaskan <b>fungsi utama NAT (Network Address Translation) pada Mikrotik</b>!"
     }
   ]
 }
