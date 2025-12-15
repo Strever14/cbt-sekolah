@@ -88,7 +88,7 @@
     <p><strong>Nomer Peserta : ${noPeserta} </strong></p>
     <p><strong>Nama : ${nama} </strong></p>
     <p><strong>Kelas : ${kelas} </strong></p>
-    <input type="hidden" name="nopeserta" value="${noPeserta}">
+    <input type="hidden" name="no peserta" value="${noPeserta}">
     <input type="hidden" name="nama" value="${nama}">
     <input type="hidden" name="kelas" value="${kelas}">
     `;
@@ -319,10 +319,10 @@
     }
 
     let hari = new Date().getDay(); // 0=minggu,1=senin dst
-    if (hari === 0) hari = 1; // fallback ke Senin
+    if (hari === 0 || hari === 6) hari = 1; // fallback ke Senin
 
     // Variabel global untuk timer
-    let timeLeft = 90 * 60; // 120 minutes in seconds
+    let timeLeft = 120 * 60; // 120 minutes in seconds
     let timerInterval;
     let isAutoSubmitted = false; // Flag untuk mencegah multiple auto-submit
 
@@ -334,7 +334,7 @@
         const tingkatan = localStorage.getItem("tingkatan");
         
         // Load soal JSON sesuai mapel
-        let resSoal = await fetch(`../cbt-sekolah/soal/${tingkatan}/${mapel}.json`);
+        let resSoal = await fetch(`../soal/${tingkatan}/${mapel}.json`);
         let data = await resSoal.json();
 
         let html = `<h2>${mapel.replace("_", " ").toUpperCase()}</h2>`;
@@ -584,6 +584,3 @@
   </script>
 </body>
 </html>
-
-
-
