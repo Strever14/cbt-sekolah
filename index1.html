@@ -212,6 +212,10 @@
       color: #4CAF50;
     }
 
+    /* Timeout modal specific styles */
+    .timeout-modal .modal-icon {
+      color: #ff9800;
+    }
   </style>
 
 </head>
@@ -271,6 +275,20 @@
       </div>
     </div>
 
+    <!-- Modal Waktu Habis -->
+    <div id="timeoutModal" class="modal-overlay">
+      <div class="modal-content timeout-modal">
+        <div class="modal-icon">⏰</div>
+        <div class="modal-title">Waktu Habis!</div>
+        <div class="modal-message">
+          Waktu pengerjaan telah berakhir.<br>
+          Jawaban Anda akan otomatis dikirim.
+        </div>
+        <div class="modal-buttons">
+          <button class="modal-btn modal-btn-ok" onclick="autoSubmitAndRedirect()">OK</button>
+        </div>
+      </div>
+    </div>
 
     <!-- Modal Logout -->
     <div id="logoutModal" class="modal-overlay">
@@ -288,7 +306,7 @@
       </div>
     </div>
 
-    
+    <div class="timer"><h4 id="timer"></h4></div>
     <div>
       <button type="button" class="modal-btn modal-btn-confirm" onclick="showConfirmationModal()">Kirim</button>
       <button class="modal-btn modal-btn-cancel" onclick="showLogoutModal()">⏻ Logout</button>
@@ -302,6 +320,11 @@
 
     let hari = new Date().getDay(); // 0=minggu,1=senin dst
     if (hari === 0) hari = 1; // fallback ke Senin
+
+    // Variabel global untuk timer
+    let timeLeft = 90 * 60; // 120 minutes in seconds
+    let timerInterval;
+    let isAutoSubmitted = false; // Flag untuk mencegah multiple auto-submit
 
 
     async function loadSoal() {
@@ -390,6 +413,40 @@
       }
     }
 
+    // Timer functionality
+    function updateTimer() {
+      const minutes = Math.floor(timeLeft / 60);
+      const seconds = timeLeft % 60;
+      const timerElement = document.getElementById('timer');
+      timerElement.textContent = `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+
+      // Simpan waktu yang tersisa ke localStorage setiap detik
+      localStorage.setItem('remainingTime', timeLeft);
+      
+      if (timeLeft > 0) {
+        timeLeft--;
+      } else {
+        clearInterval(timerInterval);
+        // Hapus waktu dari localStorage ketika waktu habis
+        localStorage.removeItem('remainingTime');
+        localStorage.removeItem('timerStartTime');
+        handleTimeout();
+      }
+    }
+
+    // Fungsi untuk menangani waktu habis
+    function handleTimeout() {
+      if (!isAutoSubmitted) {
+        isAutoSubmitted = true;
+        showTimeoutModal();
+        
+        // Auto submit setelah 5 detik (bisa diubah sesuai kebutuhan)
+        setTimeout(() => {
+          autoSubmitAndRedirect();
+        }, 5000);
+      }
+    }
+
     // Fungsi untuk modal konfirmasi
     function showConfirmationModal() {
       const modal = document.getElementById('confirmationModal');
@@ -416,6 +473,15 @@
       modal.style.display = 'none';
     }
 
+    function showTimeoutModal() {
+      const modal = document.getElementById('timeoutModal');
+      modal.style.display = 'flex';
+    }
+  
+    function hideTimeoutModal() {
+      const modal = document.getElementById('timeoutModal');
+      modal.style.display = 'none';
+    }
 
     function showLogoutModal() {
       const modal = document.getElementById('logoutModal');
@@ -429,12 +495,15 @@
 
     function goToLogin() {
       // Hapus data timer dari localStorage saat pindah ke login
+      localStorage.removeItem('remainingTime');
+      localStorage.removeItem('timerStartTime');
       localStorage.removeItem("isLoggedIn1");
       window.location.href = "login.html";
     }
 
     // Fungsi untuk auto submit dan redirect
     function autoSubmitAndRedirect() {
+      hideTimeoutModal();
       submitForm();
     }
   
@@ -451,6 +520,9 @@
         hideConfirmationModal();
         showSuccessModal();
 
+        // Hapus data timer setelah submit berhasil
+        localStorage.removeItem('remainingTime');
+        localStorage.removeItem('timerStartTime');
 
         // Redirect otomatis ke login setelah 5 detik
         setTimeout(() => {
@@ -464,10 +536,45 @@
       });
     }
 
+    function startTimer() {
+      // Cek apakah ada waktu yang tersimpan di localStorage
+      const savedTime = localStorage.getItem('remainingTime');
+      const startTime = localStorage.getItem('timerStartTime');
+
+      if (savedTime && startTime) {
+        // Hitung waktu yang telah berlalu sejak timer dimulai
+        const elapsedTime = Math.floor((Date.now() - parseInt(startTime)) / 1000);
+        timeLeft = Math.max(0, parseInt(savedTime) - elapsedTime);
+          
+        // Jika waktu sudah habis, trigger auto submit
+        if (timeLeft <= 0) {
+          handleTimeout();
+          return;
+        }
+      } else {
+        // Jika tidak ada waktu tersimpan, mulai dari awal
+        timeLeft = 120 * 60; // 120 menit
+        // Simpan waktu mulai
+        localStorage.setItem('timerStartTime', Date.now().toString());
+        localStorage.setItem('remainingTime', timeLeft.toString());
+      }
+
+      timerInterval = setInterval(updateTimer, 1000);
+    }
+
     function logout() {
+      // Hapus data timer dari localStorage saat logout
+      localStorage.removeItem('remainingTime');
+      localStorage.removeItem('timerStartTime');
+
       localStorage.removeItem("isLoggedIn1");
       window.location.href = "login.html";
     }
+
+    // Inisialisasi
+    loadSoal().then(() => {
+      startTimer();
+    });
 
     // Bersihkan localStorage jika halaman ditutup (opsional)
     window.addEventListener('beforeunload', function() {
@@ -477,4 +584,3 @@
   </script>
 </body>
 </html>
-
