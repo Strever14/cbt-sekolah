@@ -1,406 +1,351 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Teks yang berisi langkah-langkah, proses atau tahapan yang harus ditempuh untuk mencapai tujuan tertentu disebut teks....",
+      "pertanyaan": "Jenis proposal yang penyusunannya bertujuan mendapatkan persetujuan untuk melakukan sebuah observasi disebut.....",
       "opsi": [
-        "laporan",
-        "proposal",
-        "akta",
-        "usul",
-        "prosedur"
+        "bisnis",
+        "proyek",
+        "sponsor",
+        "kegiatan",
+        "penelitian"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Manakah struktur teks prosedur yang tepat.....",
+      "pertanyaan": "Pernyataan yang berisi permasalahan yang akan dibahas dalam sebuah proposal penelitian dituangkan dalam bagian.....",
       "opsi": [
-        "langkah-langkah, isi dan penutup",
-        "tujuan, pendahuluan, isi dan penutup",
-        "pembuka, isi dan penutup",
-        "tujuan, material, langkah-langkah dan penutup",
-        "judul, tujuan, material dan penutup"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Perhatikan kaidah kebahasaan berikut dengan cermat!<br><br>1) menggunakan pronomina<br>2) menggunakan kalimat imperatif<br>3) menggunakan kalimat persuasif<br>4) menggunakan kata teknis<br>5) menggunakan verba material<br>6) menggunakan numeralia<br>7) menggunakan konjungsi temporal<br><br>Kaidah kebahasaan teks prosedur yang tepat ditunjukkan oleh nomor....",
-      "opsi": [
-        "1-2-3-4-5-6",
-        "1-2-4-5-6-7",
-        "2-3-4-5-6-7",
-        "1-3-4-6-2-5",
-        "1-4-5-6-2-3"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Teks prosedur terbagi menjadi........ jenis.",
-      "opsi": [
-        "1",
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Teks prosedur yang hanya terdiri atas dua sampai empat langkah/tahapan disebut......",
-      "opsi": [
-        "teks prosedur kompleks",
-        "teks prosedur sederhana",
-        "teks prosedur protokol",
-        "teks prosedur singkat",
-        "teks prosedur lengkap"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Kalimat imperatif biasanya memiliki akhiran.....",
-      "opsi": [
-        "-kan, -i dan -lah",
-        "-kan, ai dan -kah",
-        "-i, -kan dan mah",
-        "-lah, -kah dan -u",
-        "-kan, -a dan -o"
+        "pendahuluan",
+        "halam judul",
+        "daftar pustaka",
+        "tinjauan pustaka",
+        "metode penelitian"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Kalimat yang mengandung verba material adalah....",
+      "pertanyaan": "Berikut yang <b>bukan</b> tujuan penyusunan proposal adalah....",
       "opsi": [
-        "Tiba-tiba Dika dipukuli oleh dua orang yang tidak dikenal.",
-        "Di Ciparay banyak sekali ditemukan para pedagang kaki lima yang seharusnya segera dialokasikan ke tempat yang lebih layak.",
-        "Kakak pergi ke dapur pukul 08.00 WIB untuk mengupas bawang merah sebanyak dua siung",
-        "Saat ini cuaca sedang tidak baik-baik saja karena sangat banyak sekali polusi yang bertebaran dimana-mana.",
-        "Akhir-akhir ini banyak sekali berita tentang kecelakaan di jalan raya. Alangkah baiknya kita lebih berhati-hati lagi."
+        "mendapat dukungan dari pihak yang berkepentingan",
+        "mendapat persetujuan dari pihak yang berkepentingan",
+        "menginformasikan suatu hal terkait permasalahan tertentu",
+        "memperoleh dana dari sponsor yang diajukan dalam proposal",
+        "memberi gambaran secara detail program yang akan dilaksanakan"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Bacalah teks prosedur berikut!<br><br>1) Setelah itu, tarik pin APAR.<br>2) Bukalah segel APAR dengan cara memutar pinnya.<br>3) Semprot api dengan cara menekan tuas pada APAR.<br>4) Selanjutnya, angkatlah APAR dan arahkan moncong selang ke arah api.<br>5) Semprotkan secara merata hingga api padam.<br><br>Urutan langkah-langkah memadamkan api menggunakan APAR yang benar adalah.....",
+      "pertanyaan": "<blockquote><b>Bacalah teks berikut untuk menjawab soal nomor 4 dan 5!</b><br><br>Kini, teknologi informasi yang berkembang pesat mendorong terjadinya perubahan perspektif sosial-budaya pada generasi muda. Perkembangan teknologi menjadi momentum lahirnya era globalisasi yang mampu menghilangkan batas-batas sosial-budaya. Dampaknya, beragam budaya asing akan lebih mudah masuk ke Indonesia. Hal ini tentu menjadi permasalahan yang serius bagi bangsa Indonesia karena dapat memicu degradasi budaya yang mengancam identitas dan jati diri bangsa Indonesia.</blockquote><br>Dalam teks tersebut dijelaskan bahwa perkembangan teknologi mempunyai dampak negatif, yaitu...",
       "opsi": [
-        "1-2-3-4-5",
-        "2-1-3-5-4",
-        "2-1-4-3-5",
-        "2-4-5-3-1",
-        "3-2-4-5-1"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Berikut kalimat yang <i>tidak</i> mengandung konjungsi temporal adalah......",
-      "opsi": [
-        "Sebelum ban dilepas, standarkan motor Anda terlebih dahulu.",
-        "Gunakan kunci ring yang ukurannya sama dengan baut dan mur as roda motor.",
-        "Setelah selesai, anda dapat mengisi angin dengan standar tekanan sekitar 20-30 psi.",
-        "Selanjutnya, lepaskan ban luar motor dengan mencongkel menggunakan sendok ban.",
-        "Setelah itu, tarik ban luar dengan mengurut lingkarannya secara bertahap dan perlahan sampai semua bagian ban terlepas dari velgnya."
+        "meningkatnya kenakalan remaja",
+        "memicu degradasi budaya Indonesia",
+        "maraknya klaim budaya asli Indonesia",
+        "merebaknya investor asing masuk ke Indonesia",
+        "melemahnya kualitas bangsa Indonesia di mata negara lain"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Bacalah kalimat-kalimat berikut dengan cermat!<br><br>1) Cucilah tangan Anda sebelum masuk kelas.<br>2) Hindarilah kontak langsung dengan penderita.<br>3) Bagaimana cara mendapat kartu prakerja?<br>4) Masukkan potongan buah mangga ke blender.<br>5) Jika sudah selesai, kemaslah produk tersebut menggunakan kemasan yang sesuai.<br><br>Di antara kalimat tersebut, yang <i>bukan</i> kalimat imperatif adalah kalimat nomor.....",
+      "pertanyaan": "Dalam proposal penelitian, teks tersebut merupakan bagian...",
+      "opsi": [
+        "latar belakang penelitian",
+        "rumusan masalah",
+        "tujuan penelitian",
+        "simpulan",
+        "saran"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "<blockquote><b>Bacalah teks berikut untuk menjawab soal nomor 6 dan 7!</b><br><br><b>Judul Proposal</b>: Peringatan Bulan Bahasa Tahun 2025<br><br>(1) Seminar Pemartabatan Bahasa Indonesia untuk peserta didik.<br>(2) Lomba pidato bertema \"Aku Bangga Berbahasa Indonesia\".<br>(3) Lomba cipta 1.000 puisi untuk peserta didik.<br>(4) Lomba memasak masakan tradisional untuk peserta didik.<br>(5) Pentas karya sastra peserta didik.</blockquote><br>Teks tersebut merupakan jenis proposal......",
+      "opsi": [
+        "bisnis",
+        "kegiatan",
+        "proyek",
+        "penelitian",
+        "sponsor"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Jenis kegiatan yang <b>tidak sesuai</b> dengan judul proposal tersebut adalah",
       "opsi": [
         "(1)",
-        "(4)",
         "(2)",
-        "(5)",
-        "(3)"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Manakah di bawah ini yang <i>bukan</i> merupakan contoh teks prosedur?",
-      "opsi": [
-        "Laporan pengamatan kondisi hutan.",
-        "Cara membuat nasi goreng.",
-        "Petunjuk menggunakan mesin fotokopi.",
-        "Panduan mengisi formulir pendaftaran.",
-        "Langkah-langkah menabung di bank mini"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Kata penghubung yang sering digunakan dalam teks prosedur untuk menunjukkan urutan waktu disebut...",
-      "opsi": [
-        "Konjungsi kausalitas",
-        "Konjungsi subordinatif",
-        "Konjungsi koordinatif",
-        "Konjungsi temporal",
-        "Konjungsi substitutif"
+        "(3)",
+        "(4)",
+        "(5)"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Pidato yang berisi informasi, petunjuk, atau nasihat yang bermanfaat bagi pendengar disebut....",
+      "pertanyaan": "<blockquote><b>Bacalah teks berikut untuk menjawab soal nomor 8 dan 9!</b><br><br>Ikan bandeng merupakan sumber protein hewani yang tinggi. Satu porsi ikan bandeng mengandung asupan vitamin B sebanyak 116%, niacin sebanyak 12,44%, vitamin B6 sebanyak 24%, dan asam pantotenat sebanyak 15%. Selain itu, bandeng juga mengandung asam folat serta vitamin A, C, D, E, dan K. Oleh karena itu, <i>Food and Nutrition Board of the Institute of Medicine</i> merekomendasikan anak-anak dan orang dewasa untuk sering mengonsumsi bandeng.<br><br>Ikan bandeng dapat diolah dengan berbagai jenis sayuran, salah satunya wortel. Wortel merupakan jenis sayuran yang kaya akan vitamin A yang membantu menjaga kesehatan mata. Namun, masih banyak orang yang tidak mengonsumsi wortel. Oleh karena itu, melalui pengolahan wortel dengan ikan bandeng menjadi makanan yang kaya akan cita rasa dan nutrisi, diharapkan masyarakat akan tergerak untuk mengonsumsi jenis panganan ini. Selain itu, jenis makanan ini juga dapat dijadikan ide wirausaha di bidang kuliner.</blockquote><br>Kutipan teks tersebut termasuk dalam jenis proposal....",
       "opsi": [
-        "debat",
-        "monolog",
-        "dialog",
-        "gelar wicara",
-        "ceramah"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Jenis ceramah yang bertujuan meyakinkan, mengajak, dan membujuk pendengar disebut ceramah.....",
-      "opsi": [
-        "argumentatif",
-        "persuasif",
-        "informatif",
-        "naratif",
-        "deskriptif"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Berikut yang bukan karakteristik teks ceramah adalah.....",
-      "opsi": [
-        "menggunakan argumentasi untuk memperoleh kemenangan",
-        "menggunakan bahasa yang santun dan mudah dipahami",
-        "isinya logis, jelas, dan dapat dipertanggungjawabkan",
-        "strukturnya terdiri atas pembuka, isi, dan penutup",
-        "berisi informasi tentang bidang tertentu"
+        "bisnis",
+        "proyek",
+        "sponsor",
+        "kegiatan",
+        "penelitian"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Bacalah teks berikut dengan saksama!<br><br><blockquote>Marilah kita curahkan rasa syukur kepada Tuhan Yang Maha Esa atas nikmat yang telah diberikan sehingga kita dapat melaksanakan upacara dengan khidmat dan semangat. Pada kesempatan ini, Bapak akan memberikan sepotong petuah kepada kalian.</blockquote><br>Teks tersebut termasuk struktur bagian.....",
+      "pertanyaan": "Tujuan proposal yang tepat berdasarkan latar belakang teks tersebut adalah...",
       "opsi": [
-        "isi",
-        "saran",
-        "penutup",
-        "simpulan",
-        "pembuka"
+        "Menumbuhkan minat anak agar gemar makan ikan.",
+        "Mengenalkan kandungan vitamin dalam ikan bandeng dan wortel.",
+        "Menjelaskan cara yang tepat memasak ikan bandeng dan wortel.",
+        "Menciptakan produk kuliner yang mempunyai kandungan gizi tinggi bagi masyarakat.",
+        "Menuangkan ide dan gagasan dalam bentuk makanan kekinian yang banyak diminati anak-anak."
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "<blockquote><b>Bacalah teks berikut untuk menjawab soal nomor 10 dan 11!</b><br><br>Tujuan pelaksanaan kegiatan ini adalah sebagai berikut.<br><br>1. Memperkenalkan produk kreatif peserta didik kepada masyarakat.<br>2. Meningkatkan rasa percaya diri peserta didik untuk berwirausaha dengan berinteraksi langsung dengan pelanggan.<br>3. Menjalin kerja sama yang baik antara SMK dan masyarakat sekitar.</blockquote><br>Kutipan teks tersebut tepat diajukan pada proposal kegiatan....",
+      "opsi": [
+        "pentas seni",
+        "lomba pemasaran",
+        "latihan dasar kepemimpinan",
+        "kerja sama Praktik Kerja Lapangan",
+        "pameran produk kreatif peserta didik"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "<b><i>Bacalah teks ceramah berikut untuk menjawab soal nomor 17 dan 18.</i></b><br><br><blockquote>Anak-anakku,<br><br>Media sosial yang kini ada, seperti WhatsApp, Instagram, Twitter, Telegram, dan Facebook, bagaikan dua mata pisau. Di satu sisi, media sosial memudahkan kita dalam mencari informasi. Namun, di sisi lain, media sosial juga bisa menjadi bumerang jika kita tidak selektif menyaring informasi yang diterima.</blockquote><br>Teks tersebut termasuk struktur bagian.....",
+      "pertanyaan": "Sasaran kegiatan dalam proposal tersebut adalah...",
       "opsi": [
-        "isi",
-        "simpulan",
-        "saran",
-        "pembuka",
+        "guru",
+        "masyarakat",
+        "kepala sekolah",
+        "komite sekolah",
+        "peserta didik SMK"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "<blockquote>Demikian proposal kegiatan Latihan Dasar Kepemimpinan (LDK) ini kami buat. Besar harapan kami agar kegiatan ini dapat terlaksana dengan baik dan mendapat dukungan dari pihak sekolah.</blockquote><br>Penggalan proposal tersebut ditulis pada bagian....",
+      "opsi": [
+        "penutup",
+        "pendahuluan",
+        "nama kegiatan",
+        "anggaran dana",
+        "tujuan kegiatan"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Berikut hal yang <b>tidak perlu</b> dicantumkan dalam proposal bisnis adalah....",
+      "opsi": [
+        "tujuan",
+        "nama usaha",
+        "latar belakang",
+        "tinjauan pustaka",
+        "deskripsi produk"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Bagian proposal yang berisi alasan mendasar mengapa sebuah kegiatan atau penelitian penting untuk dilaksanakan disebut...",
+      "opsi": [
+        "sasaran kegiatan",
+        "rumusan masalah",
+        "latar belakang",
+        "dasar pemikiran",
+        "tujuan kegiatan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Ciri kebahasaan proposal yang menggunakan kata-kata bermakna lugas dan tidak ambigu disebut...",
+      "opsi": [
+        "subjektif",
+        "persuasif",
+        "konotatif",
+        "metaforis",
+        "denotatif"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Dalam proposal penelitian, bagian yang berisi teori-teori yang relevan dengan topik yang diangkat adalah...",
+      "opsi": [
+        "landasan teori",
+        "analisis data",
+        "batasan masalah",
+        "metodologi penelitian",
+        "hipotesis"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "<blockquote>'Kegiatan ini diharapkan dapat meningkatkan kreativitas siswa dalam bidang seni.'</blockquote><br>Kalimat tersebut biasanya terdapat pada bagian...",
+      "opsi": [
+        "susunan panitia",
+        "jadwal kegiatan",
+        "anggaran biaya",
+        "tujuan kegiatan",
+        "latar belakang"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Jenis proposal yang digunakan dalam dunia kerja untuk menawarkan kerja sama antarperusahaan disebut...",
+      "opsi": [
+        "proposal proyek",
+        "proposal kegiatan",
+        "proposal skripsi",
+        "proposal bisnis",
+        "proposal penelitian"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Manakah yang merupakan penggunaan kata kerja tindakan dalam proposal?",
+      "opsi": [
+        "adalah",
+        "melaksanakan",
+        "sebaiknya",
+        "mungkin",
+        "merupakan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Salah satu syarat proposal yang baik adalah bersifat sistematis, artinya...",
+      "opsi": [
+        "disusun menurut urutan tertentu yang teratur",
+        "harus menggunakan kertas yang mahal",
+        "bahasa yang digunakan harus sangat puitis",
+        "isinya harus sangat panjang dan tebal",
+        "harus memiliki banyak gambar di dalamnya"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Fungsi utama dari bagian 'Anggaran Biaya' dalam sebuah proposal adalah...",
+      "opsi": [
+        "memperkenalkan panitia kepada donator",
+        "menentukan waktu pelaksanaan",
+        "menjelaskan cara kerja penelitian",
+        "menceritakan sejarah organisasi",
+        "memberikan rincian kebutuhan dana secara transparan"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Kata bermakna perincian yang sering ditemukan dalam proposal adalah...",
+      "opsi": [
+        "cantik",
+        "pertama, kedua, selanjutnya",
+        "atau",
+        "kemudian",
+        "sangat"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Bagian yang berisi rincian waktu, tempat, dan urutan acara dalam proposal kegiatan disebut...",
+      "opsi": [
+        "estimasi waktu",
+        "matriks kegiatan",
+        "jadwal pelaksanaan",
+        "pendahuluan",
+        "latar belakang"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dalam sistematika proposal penelitian, 'Metodologi Penelitian' berisi tentang...",
+      "opsi": [
+        "langkah-langkah dan teknik pengumpulan data",
+        "hasil akhir penelitian",
+        "alasan memilih judul penelitian",
+        "daftar pustaka pendukung",
         "penutup"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Topik teks ceramah tersebut adalah...",
+      "pertanyaan": "Manakah pernyataan yang paling tepat mengenai fungsi proposal bagi pihak sponsor?",
       "opsi": [
-        "Dampak positif dan negatif media sosial.",
-        "Dampak buruk media sosial bagi remaja.",
-        "Fungsi media sosial bagi pengguna internet.",
-        "Cara menggunakan media sosial dengan tepat.",
-        "Peran media sosial dalam mempermudah komunikasi."
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Bacalah teks berikut dengan cermat!<br><br><blockquote>Hadirin yang saya hormati,<br><br>Sebagai generasi muda, sudah selayaknya kita melanjutkan perjuangan para pahlawan untuk bangsa Indonesia. Jika mereka berjuang merebut kemerdekaan, tugas kita adalah berjuang mempertahankan kemerdekaan tersebut. Oleh karena itu, marilah kita isi kemerdekaan ini dengan melakukan hal-hal yang positif.</blockquote><br>Jika dilihat dari tujuannya, kutipan ceramah tersebut bersifat....",
-      "opsi": [
-        "naratif",
-        "deskriptif",
-        "rekreatif",
-        "argumentatif",
-        "persuasif"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Berikut yang tidak termasuk kaidah kebahasaan teks ceramah adalah menggunakan...",
-      "opsi": [
-        "istilah teknis",
-        "kalimat persuasif",
-        "kata kerja mental",
-        "gaya bahasa (majas)",
-        "kata ganti orang pertama"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Bacalah teks berikut dengan saksama.<br><br><blockquote>Kalian adalah bagian dari estafet kepemimpinan masa depan. Oleh karena itu, kalian memiliki hak yang sama untuk tumbuh, berkembang, dan mewujudkan cita-cita. Mari, kita saling menjaga dan menguatkan agar dapat mencapai tujuan bersama. Bapak ingin sekolah kita menjadi tempat yang menyenangkan bagi kalian. Budayakan cinta damai dan hindari segala macam bentuk perundungan di sekolah.</blockquote><br>Permasalahan yang dibahas dalam kutipan teks tersebut adalah ...",
-      "opsi": [
-        "Dampak negatif penggunaan HP bagi peserta didik.",
-        "Pengaruh buruk media sosial di kalangan pelajar.",
-        "Maraknya kasus perundungan di sekolah.",
-        "Tindakan brutal para remaja di sekolah.",
-        "Pelanggaran tata tertib di sekolah."
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Bacalah teks berikut dengan cermat!<br><br><blockquote>Selamat pagi dan salam sejahtera. Pertama-tama, marilah kita panjatkan puji syukur ke hadirat Tuhan Yang Maha Esa karena berkat karunia-Nya kita dapat berkumpul di gedung serbaguna ini dalam keadaan sehat.</blockquote><br>Kalimat \"Selamat pagi dan salam sejahtera\" merupakan bagian....",
-      "opsi": [
-        "salam perpisahan",
-        "salam pembuka",
-        "salam penutup",
-        "salam hormat",
-        "salam sapaan"
+        "sebagai syarat mutlak untuk kelulusan siswa",
+        "sebagai alat untuk menilai kelayakan dan keuntungan kerja sama",
+        "sebagai bukti bahwa kegiatan telah sukses dilaksanakan",
+        "sebagai bahan untuk mengganti susunan kepanitiaan",
+        "sebagai dokumen pemberkasan"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Ceramah rekreatif merupakan jenis ceramah yang bersifat.....",
+      "pertanyaan": "<blockquote>'Berdasarkan fenomena rendahnya minat baca di kalangan remaja...'.</blockquote><br>Potongan kalimat tersebut tepat diletakkan pada bagian...",
       "opsi": [
-        "membujuk",
-        "wisata",
-        "menghibur",
-        "santai",
-        "mendidik"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Berikut kalimat yang menunjukkan hubungan sebab akibat adalah...",
-      "opsi": [
-        "Semoga hal-hal yang saya sampaikan dapat bermanfaat.",
-        "Akhir-akhir ini, kasus perundungan di sekolah marak terjadi.",
-        "Kita sebaiknya jangan terlena dengan prestasi yang telah didapatkan.",
-        "Saya mohon agar kalian dapat mencermati dan melaksanakan hal-hal yang saya sampaikan.",
-        "Maraknya peredaran obat-obatan terlarang harus diwaspadai karena dapat merusak masa depan generasi muda."
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "<b><i>Bacalah teks ceramah berikut untuk menjawab soal nomor 25 dan 26!</i></b><br><br><blockquote>(1) Kepekaan sosial merupakan hal yang penting dalam hidup bermasyarakat. (2) Kita harus menyadari bahwa kita tidak hidup sendiri dan tidak bisa hidup sendiri. (3) Hal-hal yang kita lakukan secara individu akan berdampak pada lingkungan sosial. (4) Jika ingin hidup damai, kita juga harus mengajak dan membuat lingkungan menjadi damai. (5) Oleh karena itu, marilah kita senantiasa memupuk kepekaan sosial terhadap sesama untuk mewujudkan lingkungan yang aman, tenteram, dan damai.</blockquote><br>Kalimat persuasif dalam teks ceramah tersebut ditunjukkan nomor.....",
-      "opsi": [
-        "(1)",
-        "(4)",
-        "(2)",
-        "(5)",
-        "(3)"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Kata ganti yang digunakan dalam teks tersebut adalah....",
-      "opsi": [
-        "orang lain",
-        "orang kedua jamak",
-        "orang kedua tunggal",
-        "orang pertama jamak",
-        "orang pertama tunggal"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Metode ceramah yang dilakukan dengan cara mencatat poin-poin penting ceramah yang akan disampaikan disebut metode.....",
-      "opsi": [
-        "ekstemporan",
-        "membaca",
-        "impromptu",
-        "klasikal",
-        "menghafal"
+        "latar belakang masalah",
+        "tujuan penelitian",
+        "penutup",
+        "anggaran biaya",
+        "rumusan masalah"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Berikut pernyataan yang bukan pengertian teks resensi buku adalah....",
+      "pertanyaan": "Ciri bahasa proposal yang bersifat objektif berarti...",
       "opsi": [
-        "ulasan buku",
-        "penilaian buku",
-        "perdebatan buku",
-        "pembicaraan buku",
-        "pertimbangan buku"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Tujuan kegiatan meresensi buku adalah.....",
-      "opsi": [
-        "memberikan pertimbangan kepada pembaca tentang keunggulan penerbit buku",
-        "memberikan informasi kepada penulis tentang jumlah pembaca bukunya",
-        "melihat persamaan buku tersebut dengan buku lainnya yang sejenis",
-        "menyampaikan hal-hal yang perlu dikoreksi oleh penulis",
-        "memberikan penilaian terhadap buku yang dibaca"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Cermati unsur-unsur berikut!<br><br>(1) Judul resensi<br>(2) Identitas penerbit<br>(3) Sinopsis buku<br>(4) Latar belakang peresensi<br>(5) Keunggulan buku<br>(6) Kelemahan buku<br><br>Unsur-unsur teks resensi buku ditunjukkan nomor....",
-      "opsi": [
-        "1-2-5-6",
-        "1-3-5-6",
-        "1-4-5-6",
-        "2-3-5-6",
-        "3-4-5-6"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Struktur teks resensi yang tepat adalah.....",
-      "opsi": [
-        "judul buku identitas buku - isi resensi penutup resensi",
-        "identitas buku judul buku isi resensi penutup resensi",
-        "judul resensi - isi resensi - identitas buku penutup resensi",
-        "judul resensi- identitas buku - isi resensi - penutup resensi",
-        "identitas buku isi resensi penutup resensi - judul resensi"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Bacalah teks resensi berikut!<br><br><blockquote>Secara keseluruhan, buku ini layak dibaca oleh seluruh masyarakat Indonesia agar lebih memahami dan peduli terhadap kehidupan nelayan, laut, dan kebudayaan bahari bangsa.</blockquote><br>Kutipan teks tersebut merupakan struktur teks resensi bagian....",
-      "opsi": [
-        "penutup resensi",
-        "identitas buku",
-        "judul resensi",
-        "isi resensi",
-        "analisis"
+        "disampaikan berdasarkan fakta dan data yang ada",
+        "isinya harus berdasarkan perasaan penulis",
+        "hanya boleh ditulis oleh para ahli",
+        "menggunakan bahasa yang sulit dimengerti",
+        "menggunakan bahasa daerah"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Berikut yang bukan kaidah kebahasaan teks resensi adalah.....",
+      "pertanyaan": "Salah satu etika dalam menyusun anggaran biaya proposal adalah...",
       "opsi": [
-        "menggunakan konjungsi temporal",
-        "menggunakan konjungsi penerang",
-        "menggunakan pernyataan simpulan",
-        "menyatakan saran atau rekomendasi",
-        "menggunakan konjungsi pertentangan"
+        "hanya mencantumkan total biaya tanpa rincian",
+        "melebihkan harga barang berkali-kali lipat",
+        "menyusun biaya secara realistis dan transparan",
+        "menyembunyikan sumber dana yang lain",
+        "merahasiakan kepada sebagian orang"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "<b><i>Bacalah teks berikut untuk menjawab soal nomor 34 dan 35!</i></b><br><br><blockquote>Meskipun puisi-puisi di dalam buku ini dibuat empat dekade lalu, isu-isunya masih tetap relevan dengan situasi terkini.<br><br>Sepertinya cerita politik ini tidak pernah mati dan Rendra tidak pernah pergi. la tetap hidup dalam sejarah Indonesia ketika kata-kata dalam sajak-sajaknya mengilhami gerakan kemanusiaan dan kebudayaan.</blockquote><br>Konjungsi pertentangan yang terdapat dalam kutipan tersebut adalah.....",
+      "pertanyaan": "Bagian penutup dalam sebuah proposal biasanya berisi...",
       "opsi": [
-        "ketika",
-        "meskipun",
-        "melalui",
-        "sepertinya",
-        "dengan"
+        "perincian honor narasumber",
+        "harapan atas dukungan dan ucapan terima kasih",
+        "alasan kegiatan tersebut dilaksanakan",
+        "daftar hadir peserta rapat",
+        "salam penutup"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Konjungsi temporal yang terdapat dalam kutipan teks tersebut adalah.....",
+      "pertanyaan": "Pernyataan di bawah ini yang paling tepat menggambarkan perbedaan proposal kegiatan dan proposal penelitian adalah...",
       "opsi": [
-        "ketika",
-        "meskipun",
-        "melalui",
-        "sepertinya",
-        "dengan"
+        "proposal kegiatan selalu lebih panjang daripada proposal penelitian.",
+        "proposal kegiatan tidak memerlukan anggaran biaya.",
+        "proposal penelitian memiliki bagian landasan teori, sedangkan kegiatan tidak.",
+        "proposal penelitian tidak perlu mencantumkan judul.",
+        "proposal penelitian usaha sedangkan kegiatan penelitian"
       ],
-      "jawaban": "A"
+      "jawaban": "C"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "<b><i>Bacalah teks resensi berikut dengan cermat!</i></b><br><br><blockquote><b>Harapan dan Perubahan dalam Novel Ladang Perminus</b><br><br><img src='cbt-sekolah/soal/img/XI/indo/picture1.jpg'><br><br>Jenis Buku : Fiksi<br>Judul Buku : Ladang Perminus<br>Pengarang : Ramadhan K.H.<br>Penerbit : PT Pustaka Utama Grafity<br>Tahun Terbit : 1990<br>Cetakan : Pertama<br>Tebal : viii 328 halaman<br>Ukuran : 16 x 19 cm<br><br>Ladang Perminus (1990) merupakan novel karya Ramadhan K.H. yang ditulis sekitar tahun 1982 di Jakarta dan Los Angeles. Novel tersebut kemudian diterbitkan oleh Pustaka Utama Grafiti Jakarta tahun 1990. Novel Ladang Perminus terdiri atas 32 bab. Seperti yang tertulis pada jilid belakang, novel ini disebut sebagai novel kontekstual karena dapat dianggap sebagai sebuah album tentang satu sisi suram kehidupan masyarakat Indonesia pada zamannya.<br><br>Lodang Perminus menceritakan nasib seorang tokoh bernama Hidayat. Hidayat adalah seorang yang berani melawan arus dan tidak dapat menutup mata dari tindak korupsi yang dilakukan oleh atasannya. Sebagai staf teladan di perusahaan Perminus, Hidayat mencoba melawan korupsi yang terjadi. Sebagai bekas pejuang angkatan 45 yang jujur dan idealis, la bersikeras menuruti perintah hati nuraninya meskipun harus mempertaruhkan kariernya sebagai calon gubernur. Ketika ia mengetahui bahwa atasannya, Kahar, mendapat suap puluhan juta dari salah satu perusahaan Eropa, Hidayat memberontak. Sebagai konsekuensi pemberontakan tersebut, Hidayat terpaksa berhenti bekerja di Perminus dan dukungan pencalonannya sebagai gubernur dicabut oleh seorang panglima setelah berunding dengan orang-orang penting di Jakarta. Tidak lama kemudian, Kahar meninggal dunia akibat serangan jantung. Hasil korupsi yang disimpannya di salah satu bank menjadi sengketa antara pihaknya dan Perminus. Atas kejadian tersebut, Hidayat sangat berharap generasi yang akan datang akan hidup dalam suasana keadilan, kejujuran, dan tanpa korupsi.<br><br>Buku ini memiliki gaya bahasa yang singkat dan padat sehingga maksud dari isi cerita mudah dipahami. Watak atau karakter tokohnya pun dipaparkan dengan kuat. Namun, di dalam novel yang cukup tebal ini terdapat kata-kata dan jargon yang kurang dikenal secara umum. Selain itu, novel ini terkesan ditujukan kepada para pejabat yang selama ini lebih dekat dengan hal-hal yang berbau korupsi. Meskipun demikian, dengan membaca novel Ladang Perminus, kita bisa memetik banyak pelajaran di balik segala kejadian yang menimpa tokoh.<br><br>Bertolt Damhausser, pengajar Sastra Indonesia di University Bonn, Jerman, dalam resensinya yang dimuat di harian Kompas dan majalah Horison (1991) menyatakan. tema atau permasalahan yang dibicarakan dalam Lodong Perminus tetap aktual di Indonesia saat ini. Hal tersebut membuat Ladang Perminus penting untuk dibaca dan dijadikan bahan untuk diskusi. Bertolt juga menambahkan, novel yang membicarakan tema cerita aktual biasanya belum pasti menjadi novel besar apabila tidak ditulis dengan gaya sastra yang matang, tetapi Lodong Perminus memenuhi syarat-syarat tersebut.<br><br><i>(Sumber: http://ensiklopedia kemdikbud.go.id/sostra/artikel/Lodong, Perminus dengan penyesuaian)</i></blockquote><br>Berdasarkan teks resensi di atas dimanakah Ramadhan K.H menulis novel Ladang Perminus?"
+      "pertanyaan": "Bayangkan kamu adalah ketua OSIS yang ingin mengadakan kegiatan \"Bakti Sosial di Panti Asuhan\".<br><br>Identifikasi siapa saja <i>Sasaran dan Pihak Terkait</i> yang harus kamu cantumkan dalam proposal agar kegiatan tersebut mendapatkan dukungan maksimal!"
     },
     {
-      "pertanyaan": "Bagaimana penggunaan bahasa dalam novel tersebut?"
+      "pertanyaan": "Tuliskan jenis proposal berdasarkan tujuan dan fungsinya!"
     },
     {
-      "pertanyaan": "Mengapa novel Ladang Perminus penting untuk dibaca dan dijadikan bahan diskusi?"
+      "pertanyaan": "Salah satu ciri kebahasaan proposal adalah penggunaan kata-kata denotatif .<br><br>Mengapa penggunaan bahasa kiasan (konotatif) harus dihindari dalam penulisan proposal?"
     },
     {
-      "pertanyaan": "Tuliskan minimal 1 konjungsi penerang yang terdapat pada teks resensi di atas!"
+      "pertanyaan": "Tuliskan struktur teks proposal kegiatan!"
     },
     {
-      "pertanyaan": "Tuliskan minimal 1 konjungsi temporal yang terdapat pada teks resensi di atas!"
+      "pertanyaan": "Sebutkan jenis proposal berdasarkan bentuknya!"
     }
   ]
 }
