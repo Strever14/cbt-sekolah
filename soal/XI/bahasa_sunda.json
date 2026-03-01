@@ -1,406 +1,351 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Naon anu dimaksud biantara?",
+      "pertanyaan": "Dongeng kaasup kana karya sastra lisan anu miboga sipat...",
       "opsi": [
-        "Nulis pidangan di harepeun batur",
-        "Kagiatan nyarita di harepeun batur pikeun nepikeun informasi atawa beja",
-        "Ngajelaskeun carita sorangan",
-        "Macakeun sajak di tempat umum",
-        "Ngahaleuang di harepeun batur"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Tujuan utama maca biantara nyaeta...",
-      "opsi": [
-        "Ngajak, mere informasi, ngayakinkeun",
-        "Ngawurkeun ide anu teu jelas",
-        "Ngalawak pikeun ngahibur",
-        "Nyaritakeun pangalaman sorangan",
-        "Nyaritakeun pangalaman batur"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Salah sahiji ciri biantara anu alus nyaeta...",
-      "opsi": [
-        "Ngagunakeun basa anu kasar",
-        "Henteu runtut jeung teu jelas",
-        "Make basa anu sopan sarta komunikasi anu lancar",
-        "Ngabodor ngenaan diri sorangan",
-        "Nyaritakeun hal anu teu aya hubunganana"
+        "Ilmiah jeung faktual",
+        "Realistis jeung logis",
+        "Imajinatif jeung teu kabuktian sacara ilmiah",
+        "Historis jeung kronologis",
+        "Dokumenter"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Naha basa Sunda penting dina biantara?",
+      "pertanyaan": "Struktur dongeng biasana ngawengku...",
       "opsi": [
-        "Pikeun ngajaga budaya jeung identitas",
-        "Sangkan hese dipikaharti ku audiens",
-        "Pikeun ngahibur ku cara anu beda",
-        "Pikeun dipake ku sakumna dunya",
-        "Sangkan gaya kadengena"
+        "Bubuka -- Masalah -- Akhir carita",
+        "Abstrak -- Orientasi -- Reorientasi",
+        "Tesis -- Argumentasi -- Penegasan ulang",
+        "Identifikasi - Deskripsi",
+        "Prolog -- Dialog - Epilog"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Naon anu kudu diperhatikeun dina sora nalika biantara?",
+      "pertanyaan": "Dongeng <i>Sangkuriang</i> kaasup kana golongan dongeng...",
       "opsi": [
-        "Ejaan",
-        "Panjang teks",
-        "Durasi teks",
-        "Sora leutik tanpa control",
-        "Sora jelas, intonasi pas, jeung lancar"
+        "Fabel",
+        "Mite",
+        "Legenda",
+        "Parable",
+        "Sage"
       ],
-      "jawaban": "E"
+      "jawaban": "C"
     },
     {
-      "pertanyaan": "Anu maca biantara disebut...",
+      "pertanyaan": "Ciri utama dongeng fabel nyaéta...",
       "opsi": [
-        "Pangarang",
-        "Orator",
-        "Biografer",
-        "Juru tulis",
-        "Koreografer"
+        "Nyarioskeun kahirupan karajaan",
+        "Tokohna sato nu bisa nyarita siga manusa",
+        "Nyokot carita tina sajarah",
+        "Eusina ngeunaan dewa-dewi",
+        "Nyarioskeun asal-usul tempat wungkul"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Naon anu kudu dipigawe lamun biantara diharepeun masyarakat?",
+      "pertanyaan": "Dongeng <i>Ciung Wanara</i> nyaritakeun konflik utama antara...",
       "opsi": [
-        "Ngahormat jeung mere salam heula",
-        "Ngobrol langsung ka topic utama",
-        "Henteu ngajenan anu ngadenge",
-        "Cicing terus nyiapkeun tulisan",
-        "Heureuy sangkan nyinggeng nu ngadenge"
+        "Sangkuriang jeung Tumang",
+        "Ciung Wanara jeung Prabu Barma Wijaya",
+        "Ciung Wanara jeung Hariang Banga",
+        "Dewi Pangrenyep jeung Dayang Sumbi",
+        "Ciung Wanara jeung Tumang"
       ],
-      "jawaban": "A"
+      "jawaban": "C"
     },
     {
-      "pertanyaan": "Hal anu penting dina nyieun biantara nyaeta...",
+      "pertanyaan": "Amanat dina dongeng biasana ditepikeun sacara...",
       "opsi": [
-        "Nyieun runtuyan anu jelas sarta latihan",
-        "Ngagunakeun basa kasar pikeun narik perhatian",
-        "Nyaritakeun hal anu eweuh gunana",
-        "Nyombongkeun tokoh",
-        "Henteu nyiapkeun naon-naon"
+        "Langsung jeung écés",
+        "Tersirat ngaliwatan lampah tokoh",
+        "Dina bentuk angka",
+        "Dina bentuk tabel",
+        "Ngaliwatan grafik"
       ],
-      "jawaban": "A"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Naon anu disebut intonasi dina biantara?",
+      "pertanyaan": "Tema utama dongeng <i>Sangkuriang</i> nyaéta...",
       "opsi": [
-        "Cara nyarios kalayan sora tarik pisan",
-        "Cara nyerat biantara dina kertas",
-        "Ngagunakeun sora anu datar tanpa variasi",
-        "Parobahan nada sora pikeun nepikeun maksud pesen",
-        "Cara nepikeun fakta tanpa nyarita tegas"
+        "Kahirupan Patani",
+        "Cinta terlarang eung takdir",
+        "Parebutan tahta",
+        "Persahabatan sato",
+        "Perdagangan laut"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Nu jadi sabab Ciung Wanara bisa jadi raja nyaéta...",
+      "opsi": [
+        "Kakuatan fisikna",
+        "Harta banda",
+        "Kacerdasan jeung kaadilan",
+        "Bantuan ti dewa",
+        "Kasaktian nagawiru"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Unsur intrinsik anu patali jeung waktu jeung tempat dina dongeng disebut....",
+      "opsi": [
+        "Tema",
+        "Amanat",
+        "Latar",
+        "Alur",
+        "Tokoh"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Alur dina dongeng biasana maké alur...",
+      "opsi": [
+        "Mundur",
+        "Campuran",
+        "Maju",
+        "Sorot balik",
+        "Paralel"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dongeng anu nyaritakeun asal-usul hiji tempat disebut...",
+      "opsi": [
+        "Fabel",
+        "Parable",
+        "Legenda",
+        "Mite",
+        "Hikayat"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dina <i>Sangkuriang</i>, Tumang sabenerna nyaéta...",
+      "opsi": [
+        "Raja",
+        "Jalma biasa",
+        "Anjing sakti",
+        "Dewa",
+        "Panglima"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Sipat Dewi Pangrenyep dina dongeng <i>Ciung Wanara</i> nyaéta...",
+      "opsi": [
+        "Jujur jeung sabar",
+        "Sirik jeung licik",
+        "Adil jeung wijaksana",
+        "Gagah jeung wani",
+        "Satia jeug bageur"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Konflik dina dongeng biasana dimimitian dina bagian...",
+      "opsi": [
+        "Resolusi",
+        "Orientasi",
+        "Komplikasi",
+        "Amanat",
+        "Epilog"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Nilai moral anu bisa dicokot tina dongeng <i>Ciung Wanara</i> nyaéta....",
+      "opsi": [
+        "Kakuatan leueih penting tibatan kaadilan",
+        "Kaujuran jeung kaadilan bakal meunang",
+        "Bohong teh meunangkeun kauntungan",
+        "Kakawasaan teu bisa diganggu",
+        "Sirik the hal anu biasa"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Dina dongeng, tokoh protagonis nyaéta tokoh anu...",
+      "opsi": [
+        "Nyieun konflik",
+        "Miboga sipat jahat",
+        "Jadi lawan utama",
+        "Dipikaresep jeung boga sipat hade",
+        "Teu penting"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Kumaha cara ngajaga perhatian audien dina biantara?",
+      "pertanyaan": "Dongeng biasana sumebar sacara...",
       "opsi": [
-        "Nyarita kalayan sora tarik sarta henteu runtut",
-        "Ngagunakeun basa anu jelas, kalimat anu runtut, sarta intonasi anu pas",
-        "Ngalangkungkeun bagian bubuka jeung panutup",
-        "Nyarita bari teu merhatikeun nu ngadéngé",
-        "Nyarioskeun hal anu teu aya hubunganana jeung topic"
+        "Tulisan ilmiah",
+        "Lisan ti generasi ka generasi",
+        "Media sosial",
+        "Buku pelejaran",
+        "Arsip nagara"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Debat dina basa Sunda disebut oge...",
+      "pertanyaan": "Salah sahiji ciri basa dina dongeng nyaéta...",
       "opsi": [
-        "Pasanggiri",
-        "Adung alas",
-        "Adung adu pamadegan",
-        "Paguneman santai",
-        "Musyawarah"
+        "Ngagunakeun basa resmi pisan",
+        "Pinuh ku istilah ilmiah",
+        "Naggunakeun basa sederhana jeung imajinatif",
+        "Basa statistik",
+        "Basa teknis"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Tujuan utama debat nyaeta...",
+      "pertanyaan": "Upama hiji dongeng nyaritakeun déwa jeung kajadian gaib anu dipercaya ku masarakat baheula, éta disebut...",
       "opsi": [
-        "Ngajawab soal",
-        "Ngabuktikeun bebeneran ku argumen",
-        "Ngahibur batur",
-        "Ngeunahkeun pamadegan",
-        "Nyieun carita"
+        "Legenda",
+        "Fabel",
+        "Mite",
+        "Parabel",
+        "Carpon"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dina struktur dongeng, bagian ahir anu eusina ngaréngsékeun masalah disebut...",
+      "opsi": [
+        "Orientasi",
+        "Komplikasi",
+        "Resolusi",
+        "Abstrak",
+        "Tesis"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Naon sababna Sangkuriang gagal ngawujudkeun parahu dina sapeuting?",
+      "opsi": [
+        "Kurang alat",
+        "Ditipu Dayang Sumbi",
+        "Teu boga kakuatan",
+        "Diserang musuh",
+        "Hujan badai"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Tokoh anu ngajelaskeun posisi kelompok atawa tim debat nyaeta...",
+      "pertanyaan": "Nilai budaya anu kaciri dina dongeng <i>Sangkuriang</i> nyaéta...",
       "opsi": [
-        "Panumbu catur",
-        "Girang serat",
-        "Penyangga",
-        "Panengah",
-        "Girang pangajen"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Tim anu satuju kana topik debat nyaeta...",
-      "opsi": [
-        "Oposisi",
-        "Moderator",
-        "Pro",
-        "Kontra",
-        "Panonton"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Mosi dina debat hartina...",
-      "opsi": [
-        "Pidato pamungkas",
-        "Naskah argumentasi",
-        "Topik anu di perdebatkeun",
-        "Catetan notulen",
-        "Saran debat"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Tim anu henteu sapuk kana topik debat nyaeta...",
-      "opsi": [
-        "Kontra",
-        "Pro",
-        "Girang serat",
-        "Girang pangajen",
-        "Panumbu catur"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Dina debat argumen udu dumasar kana...",
-      "opsi": [
-        "Karep pribadi",
-        "Fakta jeung data",
-        "Emosi",
-        "Logika hungkul",
-        "Hayalan"
+        "Sistem demokrasi",
+        "Hormat ka kolot",
+        "Industrialisasi",
+        "Urbanisasi",
+        "Globalisasi"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Salah sahiji pancen panumbu catur nyaeta...",
+      "pertanyaan": "Ciung Wanara bisa salamet sabab...",
       "opsi": [
-        "Ngadukung salah sahiji tim",
-        "Ngarang data",
-        "Ngatur jalanna debat",
-        "Manasan pamilon",
-        "Nyieun catetan"
+        "Disalametkeun",
+        "Dibuang ka leuweung",
+        "Diasuh ku Aki Balangantrang",
+        "Diasuh ku Nagawiru",
+        "Diasuh ku Dewa"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Ungkara logis dina basa Sunda disebut...",
+      "pertanyaan": "Peran Aki Balangantrang dina dongeng <i>Ciung Wanara</i> nyaéta...",
       "opsi": [
-        "Gugah",
-        "Alasan",
-        "Pangjurung",
-        "Argumentasi",
-        "Tembung goring"
+        "Antagonis",
+        "Tokoh tambahan teu penting",
+        "Nu ngasuh jeung ngadidik Ciung Wanara",
+        "Raja",
+        "Musuh utama"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Debat biasana dilaksanakeun ku cara...",
+      "pertanyaan": "Salah sahiji konflik batin dina dongeng <i>Sangkuriang</i> nyaéta...",
       "opsi": [
-        "Sauran",
-        "Pasualan",
-        "Monolog",
-        "Tukeur pamadegan",
-        "Ngalawak"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Struktur debat nyaeta...",
-      "opsi": [
-        "Bubuka, eusi, panutup",
-        "Bubuka, panutup, salam",
-        "Eusi, bubuka, panutup",
-        "Panutup, eusi, bubuka",
-        "Bubuka, inti carita, panutup"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Dina bubuka debat, panumbu catur biasana...",
-      "opsi": [
-        "Nyangka jeung nyerang",
-        "Ngenalkeun topik debat",
-        "Nuliskeun catetan ringkes",
-        "Ngawih heula",
-        "Sakainget"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Dina akhir debat biasana..",
-      "opsi": [
-        "Nutup debat",
-        "Nyieun kasalahan",
-        "Ngarobah mosi debat",
-        "Ngajawab pananya",
-        "Nyimpulkeun pendapat"
+        "Dayang Sumbi bingung milih pakean",
+        "Dayang sumbi teu sadar yen eta budakna",
+        "Sangkuriang teu boga pakarang",
+        "Tumang gering",
+        "Dayang Sumbi sadar eta budakna tapi kudu nolak"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Kalimah anu digunakeun pikeun nyanghareupan argumen laawan disebut...",
+      "pertanyaan": "Dongeng miboga fungsi sosial nyaéta...",
       "opsi": [
-        "Rebuttal",
-        "Mosi anyar",
-        "Fakta tambahan",
-        "Parancah",
-        "Panutup"
+        "Hiburan jeung pangajaran moral",
+        "Ngitung peran",
+        "Dagang",
+        "Propaganda politik",
+        "Uji coba ilmiah"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Dina rebuttal kudu aya...",
+      "pertanyaan": "Upama tokoh boga dua sipat (hade jeung goréng), éta disebut...",
       "opsi": [
-        "Sumpah serapah",
-        "Fakta jeung logika",
-        "Parancah hungkul",
-        "pantun sisindiran",
-        "Musik latar"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Supaya debat teu ricuh, panumbu catur kudu...",
-      "opsi": [
-        "Asup kana salah sahiji tim",
-        "Netral jeung tegas",
-        "Ngakeuheulkeun hiji tim",
-        "Ngagugulung argumen",
-        "Nahan data"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Dina basa Sund, kecap \"nolak\" dina debat bisa disebut...",
-      "opsi": [
-        "Sangsang",
-        "Nampa",
-        "Nyarankeun",
-        "Nantukeun",
-        "Nyaritakeun"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Dina ngadukung argumen, data statistik kaasup kana...",
-      "opsi": [
-        "Fakta",
-        "Opini",
-        "Gosip",
-        "Ngaran",
-        "Carita rakyat"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Pamasihan conto dina argumen disebut...",
-      "opsi": [
-        "Nyatana",
-        "Misalna",
-        "Bohongna",
-        "Sing saha",
-        "Teu pati penting"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Basa anu dipake dina debat kudu...",
-      "opsi": [
-        "Lugas jeung jelas",
-        "Wah jeung sombong",
-        "Ngamaki batur",
-        "Saeutik kecap",
-        "Sakar-kasarna"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Tantangan dina debat nyaeta...",
-      "opsi": [
-        "Nyokot pendapat batur",
-        "Mere bantahan logis",
-        "Ngalakukeun paripolah kasar",
-        "Ngadamel guyonan",
-        "Ngatur jalma nu ngomong"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "\"Sakumaha pamaman abdi..\" magrupakeun contoh kalimah...",
-      "opsi": [
-        "Pananya",
-        "Bantahan sopan",
-        "Ngajawab kasar",
-        "Ngadukung argument lawan",
-        "Ngajawab bari ambek"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "\"Kuring teu satuju sabab..\" kaasup kana...",
-      "opsi": [
-        "Afirmasi",
-        "Rebuttal",
-        "Data penting",
-        "Salam bubuka",
-        "panutup"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Upama lawan nyebut fakta palsu, tim sejen kudu...",
-      "opsi": [
-        "Ngahina tim",
-        "Nahan argument sorangan",
-        "Mere bantahan ku cara lain",
-        "Seuri",
-        "Ngarobah topik"
+        "Tokoh datar",
+        "Tokoh statis",
+        "Tokoh kompleks",
+        "Tokoh tambahan",
+        "Tokoh figuran"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Girang serat miboga pancen...",
+      "pertanyaan": "Dina dongeng <i>Ciung Wanara</i>, adu hayam ngalambangkeun...",
       "opsi": [
-        "Ngatur jalanna acara",
-        "Ngadukung tim",
-        "Ngabahas data",
-        "Nyieun mosi",
-        "Nyatet hasil debat"
+        "Hiburan biasa",
+        "Parebut kakawasaan",
+        "Kaulinan barudak",
+        "Upacara adat",
+        "Perdagangan"
       ],
-      "jawaban": "E"
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Salah sahiji unsur ekstrinsik dina dongeng nyaéta...",
+      "opsi": [
+        "Alur",
+        "Latar",
+        "Kaayaan sosial masyarakat",
+        "Tokoh",
+        "Amanat"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Upama dongeng dianalisis tina ajén moralna, pendekatan anu dipaké nyaéta...",
+      "opsi": [
+        "Struktural",
+        "Mroral",
+        "Linguistik",
+        "Statistik",
+        "Grafis"
+      ],
+      "jawaban": "B"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Naon bedana girang serat jeung panumbu catur?"
+      "pertanyaan": "Jelaskeun béda antara mite, legenda, jeung fabel! Pasihan conto masing-masing hiji!!"
     },
     {
-      "pertanyaan": "Naon wae anu kudu diperhatikeun dina nyusun argumen anu sae dina debat?"
+      "pertanyaan": "Analisis unsur intrinsik (tema, alur, tokoh, latar, amanat) dina dongeng <i>Sangkuriang</i>!!"
     },
     {
-      "pertanyaan": "Kunaon basa anu sopan penting dina kagiatan debat? Bere contoh kalimah sopan dina nyanggah im sejen!"
+      "pertanyaan": "Naon ajén moral jeung ajén budaya anu bisa dicokot tina dongeng <i>Ciung Wanara</i>? Jelaskeun!"
     },
     {
-      "pertanyaan": "Kumaha carana sangkan bisa maham kana topik debat? Jeung kumaha jadina lamun urang poho kana argumentasi sorangan?"
+      "pertanyaan": "Kumaha peran tokoh awéwé dina dongeng <i>Sangkuriang</i> jeung <i>Ciung Wanara</i>? Bandingkeun!"
     },
     {
-      "pertanyaan": "Pek hidep jieun conto topik debat ngenaan budaya Sunda!"
+      "pertanyaan": "Numutkeun pamadegan anjeun, naha dongeng masih penting diajarkeun ka generasi ngora dina jaman digital ayeuna? Jelaskeun ku alesan anu logis!"
     }
   ]
 }
