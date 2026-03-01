@@ -56,7 +56,7 @@
       "jawaban": "C"
     },
     {
-      "pertanyaan": "<img src='soal/img/X/dpk-tjkt/picture1.jpeg'><br><br>Gambar Berikut Termasuk Kategori...",
+      "pertanyaan": "<img src='soal/img/X/dpk-tjkt/picture1.jpg'><br><br>Gambar Berikut Termasuk Kategori...",
       "opsi": [
         "Media Penyimpanan",
         "Alat Input",
@@ -100,7 +100,7 @@
       "jawaban": "E"
     },
     {
-      "pertanyaan": "<img src='soal/img/X/dpk-tjkt/picture2.jpeg'><br><br>Untuk Langkah Memasang Random Access Memory Ditunjukkan Pada Bagian...",
+      "pertanyaan": "<img src='soal/img/X/dpk-tjkt/picture2.jpg'><br><br>Untuk Langkah Memasang Random Access Memory Ditunjukkan Pada Bagian...",
       "opsi": [
         "Bagian 2",
         "Bagian 5",
@@ -111,7 +111,7 @@
       "jawaban": "B"
     },
     {
-      "pertanyaan": "<img src='soal/img/X/dpk-tjkt/picture3.jpeg'><br><br>Perhatikan Gambar Berikut Pada Bagian No 14 Adalah ...",
+      "pertanyaan": "<img src='soal/img/X/dpk-tjkt/picture3.jpg'><br><br>Perhatikan Gambar Berikut Pada Bagian No 14 Adalah ...",
       "opsi": [
         "Port Power",
         "Port SATA",
