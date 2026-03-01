@@ -1,406 +1,351 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Servis pendek dalam permainan bulutangkis biasanya digunakan dalam nomor...",
+      "pertanyaan": "Permainan softball berasal dari negara?",
       "opsi": [
-        "Tunggal putra",
-        "Tunggal putri",
-        "Ganda putra",
-        "Ganda campuran",
-        "Semua nomor ganda"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Teknik pukulan keras dan tajam yang diarahkan ke bawah dengan kecepatan tinggi disebut...",
-      "opsi": [
-        "Drive",
-        "Netting",
-        "Smash",
-        "Clear",
-        "Servis"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Alat yang digunakan untuk memukul shuttlecock dalam permainan bulutangkis adalah...",
-      "opsi": [
-        "Net",
-        "Bet",
-        "Raket",
-        "Stick",
-        "Bola"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Gerakan memukul shuttlecock secara pelan dan diarahkan tepat di depan net disebut...",
-      "opsi": [
-        "Netting",
-        "Drive",
-        "Smash",
-        "Lob",
-        "Dropshot"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Teknik memegang raket yang paling umum digunakan dan fleksibel untuk berbagai pukulan adalah...",
-      "opsi": [
-        "Frying pan grip",
-        "Backhand grip",
-        "Forehand grip",
-        "Continental grip",
-        "Power grip"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Kebugaran jasmani adalah kemampuan tubuh untuk...",
-      "opsi": [
-        "Menangani beban fisik yang berat",
-        "Beradaptasi dengan perubahan cuaca",
-        "Melakukan aktivitas fisik dengan baik dan efisien",
-        "Menghindari cedera dalam aktivitas fisik",
-        "Mengatur pola makan yang sehat"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Komponen utama dari kebugaran jasmani meliputi...",
-      "opsi": [
-        "Kekuatan, daya tahan, kelenturan, dan kecepatan",
-        "Kekuatan, kecepatan, daya tahan, dan komposisi tubuh",
-        "Daya tahan, kelenturan, koordinasi, dan komposisi tubuh",
-        "Kelenturan, daya tahan, kecepatan, dan ketahanan mental",
-        "Kekuatan, kelincahan, daya tahan, dan kelenturan"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Tes daya tahan tubuh yang sering digunakan adalah...",
-      "opsi": [
-        "Tes lari 12 menit",
-        "Tes angkat beban",
-        "Tes jumping jack",
-        "Tes push-up",
-        "Tes plank"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Salah satu cara untuk meningkatkan komposisi tubuh yang sehat adalah dengan...",
-      "opsi": [
-        "Melakukan latihan kekuatan dan kardio",
-        "Menghindari makan sayuran",
-        "Hanya berfokus pada latihan beban",
-        "Mengurangi tidur",
-        "Melakukan latihan kelincahan"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Salah satu latihan untuk meningkatkan kekuatan otot adalah...",
-      "opsi": [
-        "Push-up",
-        "Jogging",
-        "Lompat tali",
-        "Lari sprint",
-        "Yoga"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Dalam permainan sepak bola, ukuran lapangan yang standar adalah...",
-      "opsi": [
-        "60 meter x 100 meter",
-        "70 meter x 110 meter",
-        "90 meter x 120 meter",
-        "100 meter x 130 meter",
-        "64 meter x 104 meter"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Pukulan pertama dalam sepak bola yang dilakukan untuk memulai pertandingan disebut...",
-      "opsi": [
-        "Tendangan bebas",
-        "Tendangan sudut",
-        "Kick-off",
-        "Tendangan penalti",
-        "Tendangan gawang"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Berikut ini yang bukan merupakan posisi pemain dalam sepak bola adalah...",
-      "opsi": [
-        "Kiper",
-        "Bek",
-        "Gelandang",
-        "Penyerang",
-        "Pelatih"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Teknik dasar menendang bola yang digunakan untuk menendang bola jauh adalah...",
-      "opsi": [
-        "Tendangan menggunakan punggung kaki",
-        "Tendangan menggunakan sisi kaki",
-        "Tendangan menggunakan ujung kaki",
-        "Tendangan menggunakan bagian dalam kaki",
-        "Tendangan menggunakan kepala"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Jika bola keluar melewati garis gawang (tanpa gol tercipta), maka tendangan yang dilakukan adalah...",
-      "opsi": [
-        "Tendangan bebas",
-        "Tendangan sudut",
-        "Tendangan gawang",
-        "Tendangan penalti",
-        "Kick-off"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Dalam pertandingan sepak bola, tendangan sudut dilakukan ketika bola...",
-      "opsi": [
-        "Keluar lewat garis samping",
-        "Terkena tangan pemain lawan di dalam kotak penalti",
-        "Keluar lewat garis gawang dan tidak ada gol yang tercipta",
-        "Terkena pemain dari tim yang melakukan tendangan gawang",
-        "Keluar lewat garis gawang setelah dibelokkan oleh pemain bertahan"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Berikut ini yang termasuk dalam teknik dasar sepak bola adalah...",
-      "opsi": [
-        "Menjaga posisi tubuh",
-        "Menendang bola, mengontrol bola, dan menggiring bola",
-        "Berlari cepat",
-        "Menghentikan bola dengan tangan",
-        "Memukul bola dengan kepala"
+        "Inggris",
+        "Amerika Serikat",
+        "Jepang",
+        "Kanada",
+        "Australia"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Dalam permainan bola voli, jumlah pemain dalam setiap tim adalah...",
+      "pertanyaan": "Induk organisasi softball di indonesia adalah?",
       "opsi": [
-        "5 orang",
-        "6 orang",
+        "PERBASI",
+        "PBVSI",
+        "WBSC",
+        "IAAF",
+        "PERBASASI"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Jumlah pemain dalam satu regu softball adalah?",
+      "opsi": [
         "7 orang",
         "8 orang",
-        "9 orang"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Dalam permainan bola voli, posisi pemain yang bertugas untuk menerima servis dari lawan adalah...",
-      "opsi": [
-        "Setter",
-        "Libero",
-        "Penyerang",
-        "Pemain belakang",
-        "Pemain depan"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Teknik servis dalam bola voli yang dilakukan dengan bola dipukul dari atas kepala disebut...",
-      "opsi": [
-        "Servis bawah",
-        "Servis samping",
-        "Servis atas",
-        "Servis lambung",
-        "Servis cepat"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Dalam bola voli, jumlah set dalam sebuah pertandingan adalah...",
-      "opsi": [
-        "1 set",
-        "3 set",
-        "5 set",
-        "7 set",
-        "9 set"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Jika bola voli jatuh di luar garis lapangan, maka keputusan yang tepat adalah...",
-      "opsi": [
-        "Bola keluar, tim yang melakukan servis mendapat poin",
-        "Bola keluar, tim lawan mendapat poin",
-        "Bola harus dimasukkan kembali ke dalam lapangan",
-        "Bola dihitung sebagai servis ulang",
-        "Bola dianggap sebagai gol"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Setiap tim dalam permainan bola voli memiliki 3 posisi utama, yaitu...",
-      "opsi": [
-        "Pemain depan, pemain belakang, dan libero",
-        "Setter, penyerang, dan libero",
-        "Penyerang, setter, dan pemblokir",
-        "Pemain depan, pemblokir, dan libero",
-        "Pemain depan, pemain tengah, dan pemain belakang"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Jika sebuah tim mencetak 15 poin dalam set pertama dan 25 poin di set kedua, maka mereka menang jika pertandingan terdiri dari 3 set. Keputusan ini berlaku jika tim lawan hanya mendapat...",
-      "opsi": [
-        "5 poin di set pertama dan 10 poin di set kedua",
-        "10 poin di set pertama dan 15 poin di set kedua",
-        "20 poin di set pertama dan 15 poin di set kedua",
-        "10 poin di set pertama dan 5 poin di set kedua",
-        "15 poin di set pertama dan 10 poin di set kedua"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Jumlah pemain dalam satu tim pada permainan bola basket adalah...",
-      "opsi": [
-        "5 orang",
-        "7 orang",
-        "6 orang",
+        "9 orang",
         "10 orang",
-        "8 orang"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Dalam permainan bola basket, tinggi ring basket dari permukaan lantai adalah...",
-      "opsi": [
-        "2,5 meter",
-        "3,05 meter",
-        "3,5 meter",
-        "2 meter",
-        "4 meter"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Berikut ini yang merupakan teknik dasar dalam permainan bola basket adalah...",
-      "opsi": [
-        "Passing, shooting, dribbling, dan rebounding",
-        "Menendang, menggiring, menahan",
-        "Menyundul, memblokir, menahan bola",
-        "Berlari, melompat, mengoper",
-        "Menyundul, menggiring, memblokir"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Dalam bola basket, dribbling adalah...",
-      "opsi": [
-        "Mengoper bola ke teman",
-        "Menembak bola ke ring",
-        "Menggiring bola sambil berjalan atau berlari",
-        "Menahan bola dari serangan lawan",
-        "Menyundul bola ke atas"
+        "11 orang"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Teknik untuk menembak bola ke ring basket disebut...",
+      "pertanyaan": "Lama permainan softball adalah?",
       "opsi": [
-        "Passing",
-        "Shooting",
-        "Dribbling",
-        "Rebounding",
-        "Blocking"
+        "5 inning",
+        "6 inning",
+        "7 inning",
+        "8 inning",
+        "9 inning"
       ],
-      "jawaban": "B"
+      "jawaban": "C"
     },
     {
-      "pertanyaan": "Berikut adalah contoh pelanggaran dalam bola basket, kecuali...",
+      "pertanyaan": "Teknik memukul bola dalam softball disebut?",
       "opsi": [
-        "Traveling",
-        "Double dribble",
-        "Memegang bola lebih dari 5 detik",
-        "Menyundul bola",
-        "Mendorong lawan"
+        "Dribbling",
+        "Shooting",
+        "Passing",
+        "Batting",
+        "Service"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Gaya renang yang dilakukan dengan posisi tubuh tengkurap dan kedua tangan bergerak seperti mendayung disebut...",
+      "pertanyaan": "Pemain yang bertugas melempar bola kepada pemukul disebut?",
       "opsi": [
-        "Gaya bebas (crawl)",
-        "Gaya dada",
-        "Gaya punggung",
-        "Gaya kupu-kupu",
-        "Gaya guling"
+        "Catcher",
+        "Pitcher",
+        "Shortstop",
+        "Batter",
+        "Runner"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Jarak antara setiap base pada permainan softball adalah?",
+      "opsi": [
+        "15 meter",
+        "18 meter",
+        "20 meter",
+        "23 meter",
+        "25 meter"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Permainan tenis meja pertama kali berkembang di negara?",
+      "opsi": [
+        "Amerika Serikat",
+        "Jepang",
+        "Inggris",
+        "Cina",
+        "Jerman"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Induk organisasi tenis meja di indonesia adalah?",
+      "opsi": [
+        "FIFA",
+        "PSSI",
+        "ITF",
+        "PTMSI",
+        "PERBASI"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Panjang meja tenis meja adalah?",
+      "opsi": [
+        "2,74 m",
+        "2,50 m",
+        "2,60 m",
+        "3,00 m",
+        "2,80 m"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Berikut adalah manfaat dari berenang secara teratur, kecuali...",
+      "pertanyaan": "Lebar meja tenis meja adalah?",
       "opsi": [
-        "Meningkatkan daya tahan tubuh",
-        "Meningkatkan kekuatan otot",
-        "Meningkatkan fleksibilitas tubuh",
-        "Meningkatkan kesehatan mental",
-        "Menurunkan berat badan secara signifikan dalam waktu singkat"
+        "1,25 m",
+        "1,52 m",
+        "1,60 m",
+        "1,75 m",
+        "1,80 m"
       ],
-      "jawaban": "E"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Dalam gaya bebas (crawl), posisi kaki yang benar adalah...",
+      "pertanyaan": "Tinggi net pada permainan tenis meja adalah?",
       "opsi": [
-        "Kedua kaki dalam posisi lurus dengan gerakan naik turun secara bergantian",
-        "Kedua kaki dalam posisi terbuka lebar",
-        "Kedua kaki bergerak ke samping",
-        "Kaki bergerak ke bawah saja",
-        "Kaki bergerak lurus ke depan"
+        "13 cm",
+        "14 cm",
+        "15,25 cm",
+        "16 cm",
+        "17 cm"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Pukulan pembuka dalam permainan tenis meja disebut?",
+      "opsi": [
+        "Smash",
+        "Chop",
+        "Service",
+        "Drive",
+        "Block"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Jumlah poin untuk memenangkan satu set dalam tenis meja adalah?",
+      "opsi": [
+        "15 poin",
+        "21 poin",
+        "11 poin",
+        "25 poin",
+        "10 poin"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Pegangan bet yang populer di Asia disebut?",
+      "opsi": [
+        "Shakehand grip",
+        "American grip",
+        "Western grip",
+        "Penhold grip",
+        "Backhand grip"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Pukulan keras dan tajam untuk mematikan lawan disebut?",
+      "opsi": [
+        "Chop",
+        "Push",
+        "Smash",
+        "Block",
+        "Lob"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Jika skor 10--10 dalam satu set, maka permainan dilanjutkan hingga selisih?",
+      "opsi": [
+        "1 poin",
+        "2 poin",
+        "3 poin",
+        "4 poin",
+        "5 poin"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Permainan bola basket pertama kali diciptakan oleh?",
+      "opsi": [
+        "William G. Morgan",
+        "James Naismith",
+        "Pierre de Coubertin",
+        "Thomas Edison",
+        "Michael Jordan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Bola basket diciptakan pada tahun?",
+      "opsi": [
+        "1891",
+        "1895",
+        "1900",
+        "1888",
+        "1910"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Posisi tubuh yang benar saat melakukan gaya bebas adalah...",
+      "pertanyaan": "Induk organisasi bola basket dunia adalah?",
       "opsi": [
-        "Tubuh berada dalam posisi lurus dan sejajar dengan permukaan air",
-        "Tubuh membungkuk ke depan",
-        "Tubuh menghadap ke bawah dengan posisi kaki lebih tinggi",
-        "Tubuh membentuk sudut 45 derajat",
-        "Tubuh bergerak naik dan turun secara bergantian"
+        "FIFA",
+        "FIBA",
+        "IBF",
+        "NBA",
+        "IAAF"
       ],
-      "jawaban": "A"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Salah satu keuntungan berenang untuk kesehatan adalah...",
+      "pertanyaan": "Jumlah pemain dalam satu tim bola basket di lapangan adalah?",
       "opsi": [
-        "Menurunkan kadar kolesterol",
-        "Meningkatkan kebugaran mental",
-        "Meningkatkan fleksibilitas tubuh",
-        "Meningkatkan kekuatan jantung",
-        "Semua jawaban benar"
+        "4 orang",
+        "5 orang",
+        "6 orang",
+        "7 orang",
+        "8 orang"
       ],
-      "jawaban": "E"
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Lama permainan bola basket menurut aturan internasional adalah?",
+      "opsi": [
+        "2 x 20 menit",
+        "4 x 8 menit",
+        "4 x 10 menit",
+        "4 x 12 menit",
+        "2 x 15 menit"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Induk organisasi sepak bola dunia adalah?",
+      "opsi": [
+        "FIBA",
+        "FIFA",
+        "AFC",
+        "UEFA",
+        "IOC"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Jumlah pemain dalam satu tim sepak bola di lapangan adalah?",
+      "opsi": [
+        "9 orang",
+        "10 orang",
+        "11 orang",
+        "12 orang",
+        "13 orang"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Lama permainan sepak bola dalam satu pertandingan adalah?",
+      "opsi": [
+        "2 x 30 menit",
+        "2 x 35 menit",
+        "2 x 40 menit",
+        "2 x 45 menit",
+        "2 x 50 menit"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Gaya renang yang paling cepat dalam perlombaan adalah gaya?",
+      "opsi": [
+        "Dada",
+        "Punggung",
+        "Kupu-kupu",
+        "Bebas",
+        "Katak"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Pada gaya dada, gerakan kaki menyerupai gerakan?",
+      "opsi": [
+        "Menendang lurus",
+        "Gunting",
+        "Katak",
+        "Lumba-lumba",
+        "Memutar"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Pernapasan pada gaya bebas dilakukan dengan cara?",
+      "opsi": [
+        "Mengangkat kepala ke depan",
+        "Memutar kepala ke samping",
+        "Menengadah ke atas",
+        "Menyelam ke bawah",
+        "Menghadap ke belakang"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Sikap badan yang benar saat meluncur adalah?",
+      "opsi": [
+        "Tegak lurus",
+        "Miring ke kiri",
+        "Sejajar dengan permukaan air",
+        "Membungkuk",
+        "Duduk di air"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Induk organisasi renang indonesia adalah?",
+      "opsi": [
+        "PBVSI",
+        "FIBA",
+        "PRSI",
+        "PSSI",
+        "ITF"
+      ],
+      "jawaban": "C"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Jelaskan teknik dasar dalam gaya bebas dalam renang, termasuk posisi tubuh, gerakan tangan, gerakan kaki, dan cara bernapas yang benar!"
+      "pertanyaan": "Jelaskan pengertian, sejarah, dan perkembangan olahraga softball di Indonesia!"
     },
     {
-      "pertanyaan": "Jelaskan teknik dasar dalam permainan bola basket, seperti teknik dribbling, passing, shooting!"
+      "pertanyaan": "Sebutkan dan jelaskan teknik-teknik dasar yang harus dikuasai dalam olahraga softball!"
     },
     {
-      "pertanyaan": "Jelaskan teknik dasar dalam permainan bulutangkis, termasuk cara memegang raket, teknik servis, teknik pukulan dasar (seperti forehand, backhand)!"
+      "pertanyaan": "Dalam permainan softball, terdapat posisi-posisi tertentu yang dimainkan oleh setiap anggota tim. Jelaskan secara rinci tugas dan tanggung jawab masing-masing posisi dalam tim softball!"
     },
     {
-      "pertanyaan": "Jelaskan pengertian dan tujuan dari permainan sepak bola, serta aturan dasar yang harus diketahui oleh setiap pemain!"
+      "pertanyaan": "Jelaskan teknik-teknik dasar dalam permainan tenis meja dan bagaimana cara melakukan teknik tersebut dengan benar!"
     },
     {
-      "pertanyaan": "Jelaskan teknik dasar dalam permainan bola voli, seperti teknik servis, passing, dan spike, serta cara melakukannya dengan benar!"
+      "pertanyaan": "Jelaskan perlengkapan yang digunakan dalam permainan tenis meja serta fungsi masing-masing perlengkapan tersebut!"
     }
   ]
 }
