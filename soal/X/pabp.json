@@ -1,406 +1,351 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Setiap muslim diperintahkan untuk melakukan mujahadah an-nafsi. Dibawah ini yang merupakan pengertian mujahadah an-nafsi adalah ....",
+      "pertanyaan": "Batasan aurat perempuan adalah....",
       "opsi": [
-        "Perjuangan sungguh-sungguh melawan hawa nafsu",
-        "Bersungguh-sungguh untuk berserah diri kepada Allah SWT",
-        "Perjuangan sungguh-sungguh melawan orang kafir",
-        "Bersungguh-sungguh bersabar menerima cobaan dari Allah SWT",
-        "Perjuangan sungguh-sungguh menahan rasa takut"
+        "dari siku sampai lutut",
+        "dari pusat sampai lutut",
+        "dari leher sampai pergelangan kaki",
+        "seluruh tubuh kecuali wajah dan telapak kaki",
+        "seluruh tubuh kecuali wajah dan telapak tangan"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Pakaian seseorang adalah....",
+      "opsi": [
+        "Identitas seorang manusia",
+        "harta seorang manusia",
+        "harga seorang manusia",
+        "kekayaan seorang manusia",
+        "kemewahan seorang manusia"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Lafadz <img src='soal/img/X/pabp/picture1.png'> berarti ....",
+      "pertanyaan": "Dalam Islam pakaian harus....",
       "opsi": [
-        "Dan jangan kalian mencari kesalahan orang lain",
-        "Dan jangan kalian mengumpat",
-        "Dan jangan kalian berputus asa",
-        "Dan jangan kalian membantu orang kafir",
-        "Dan jangan kalian meminta bantuan orang lain"
+        "mahal dan bagus",
+        "mewah dan menarik",
+        "bersih, rapi, dan sopan",
+        "mewah dan bersih",
+        "mahal dan mewah"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Salah satu perwujudan husnudhon adalah dengan selalu bersyukur atas semua nikmat dan karunia yang diberikan Allah SWT. Dibawah ini yang bukan cara bersyukur kepada Allah SWT adalah ....",
+      "pertanyaan": "Sebelum berpakaian hendaknya hendaklah kita mengawali dengan.....",
       "opsi": [
-        "Mengucapkan tahmid ketika mendapat nikmat",
-        "Mengucapkan istighfar ketika mendapat nikmat",
-        "Menggunakan semua nikmat dijalan Allah SWT",
-        "Merasa cukup atas pemberian Allah SWT",
-        "Mensedekahkan sebagian rezeki untuk kaum dhuafa"
+        "Berdoa",
+        "Bercermin",
+        "Berhias",
+        "Mandi",
+        "Berwudhu"
       ],
-      "jawaban": "B"
+      "jawaban": "A"
     },
     {
-      "pertanyaan": "Potongan ayat yang berbunyi <img src='soal/img/X/pabp/picture2.png'> artinya adalah ....",
+      "pertanyaan": "Ketika hendak berpakaian, maka mulailah dengan bagian tubuh sebelah....",
       "opsi": [
-        "Bertaqwalah kepada Allah SWT agar mendapat rahmat",
-        "Orang beriman senantiasa menjaga lisan dan perbuatannya",
-        "Karena itu damaikanlah antara kedua saudaramu (yang berselisih)",
-        "Berserah dirilah kepada Allah SWT agar mendapat ridho-Nya",
-        "Janganlah kalian mengadu-domba sesama orang mu'min"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Dalam setiap kehidupan kita harus selalu berpikir positif, yang dalam istilah islam disebut.....",
-      "opsi": [
-        "Berprasangka baik",
-        "Baik sangka",
-        "Husnuzan",
-        "Suuzan",
-        "Berpikir positif"
+        "Atas",
+        "Bawah",
+        "Kanan",
+        "Kiri",
+        "benar semua"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Lawan kata husnuzan adalah.....",
+      "pertanyaan": "Bagian tubuh yang tidak boleh diperlihatkan menurut ajaran Islam disebut....",
       "opsi": [
-        "Takabur",
-        "Hasad",
-        "Ria",
-        "Suuzan",
-        "Ghibah"
+        "Hiasan",
+        "Pakaian",
+        "Gamis",
+        "Aurat",
+        "Aksesoris"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Karunia alloh dapat mendatangkan manfaat disebut.....",
+      "pertanyaan": "Surah yang menjelaskan tentang larangan untuk melakukan berapakain, makan, dan minum secara berlebihan adalah...",
       "opsi": [
-        "Hidayah",
-        "Rahmat",
-        "Syafaat",
-        "Rezeki",
-        "Hikmah"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Hikmah yang dapat di ambil dari sikap Husnuzan, kecuali.....",
-      "opsi": [
-        "Ketenangan",
-        "Kedamaian",
-        "Ketentraman",
-        "Was was/ragu",
-        "Gairah ibadah"
+        "Q.S. Al A'raf [7]: 31",
+        "Q.S. Al A'raf [7]: 32",
+        "Q.S. Al A'raf [7]: 33",
+        "Q.S. Al A'raf [7]: 34",
+        "Q.S. Al A'raf [7]: 35"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Husnuzan kepada diri sendiri dapat menanamkan sikap.....",
+      "pertanyaan": "Menurut surah Al A'raf ayat 26 pakaian yang paling baik di mata Allah SWT, adalah....",
       "opsi": [
-        "Mencintai keluarga",
-        "Semakin cinta kepada alloh",
-        "Silaturohim terhadap sesama",
-        "Terhindar dari segala penyakit hati",
-        "Semangat beribadah"
+        "pakaian adat",
+        "pakaian Arab",
+        "pakaian gamis",
+        "pakaian berwarna putih",
+        "pakaian taqwa"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Batasan aurat laki-laki adalah....",
+      "opsi": [
+        "dari siku sampai lutut",
+        "dari pusat sampai lutut",
+        "dari leher sampai pergelangan kaki",
+        "seluruh tubuh kecuali wajah dan telapak kaki",
+        "seluruh tubuh kecuali wajah dan telapak tangan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Fungsi pakaian adalah....",
+      "opsi": [
+        "untuk dipamerkan",
+        "dari pusat sampai lutut",
+        "dari leher sampai pergelangan kaki",
+        "seluruh tubuh kecuali wajah dan telapak kaki",
+        "seluruh tubuh kecuali wajah dan telapak tangan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Jujur merupakan ciri seorang muslim, sedangkan bohong atau  tidak jujur merupakan ciri dari....",
+      "opsi": [
+        "mu'in",
+        "Muhsin",
+        "Mutttaqin",
+        "Munafiqin",
+        "Muslimin"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Perhatikan ayat berikut ini: <img src='soal/img/X/pabp/picture3.png'> Arti dari ayat ayat tersebut adalah ....",
+      "pertanyaan": "Berikut yang tidak termasuk akhlak terpuji adalah....",
       "opsi": [
-        "Dan janganlah kamu melakukan zina",
-        "Dan tidaklah kamu mendekati zina",
-        "Dan janganlah kamu mendekati zina",
-        "Maka janganlah kamu mendekati zina",
-        "Maka janganlah kamu melakukan zina"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Dalam hukum Islam yang dimaksud dengan perbuatan zina adalah ....",
-      "opsi": [
-        "Dipaksa melakukan hubungan seksual di luar tali pernikahan yang sah",
-        "Dipaksa melakukan pernikahan yang sah padahal tidak saling mencintai",
-        "Melakukan hubungan seksual layaknya suami isteri di luar tali pernikahan",
-        "Melakukan hubungan biologis oleh suami isteri yang tidak saling mencintai",
-        "Suami melakukan pernikahan dengan memiliki lebih dari satu istri"
+        "Berbohong",
+        "Jujur",
+        "percaya diri",
+        "hidup sederhana",
+        "rendah hati"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Perhatikan ayat berikut ini: <img src='soal/img/X/pabp/picture4.png'> Ayat ayat tersebut berisi tentang ....",
+      "pertanyaan": "Bersikap apa adanya dinamakan....",
       "opsi": [
-        "Hukuman bagi para pelaku perbuatan zina",
-        "Sangsi bagi para pelaku perbuatan kriminal",
-        "Zina merupakan salah satu perbuatan asusila",
-        "Zina merupakan salah satu perbuatan kriminal",
-        "Hukuman bagi para pelaku perbuatan asusila"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Hukuman bagi pelaku zina menurut QS. An Nur (24) ayat 2 adalah didera sebanyak ....",
-      "opsi": [
-        "3 kali",
-        "7 kali",
-        "10 kali",
-        "99 kali",
-        "100 kali"
+        "percaya diri",
+        "rajin",
+        "boros",
+        "hemat",
+        "juju"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Allah memiliki sifat Al Karim yang tercantum dalam sura ....",
+      "pertanyaan": "Orang jujur akan berkata....",
       "opsi": [
-        "Al Hadid ayat 3",
-        "Al A'raf ayat 180",
-        "Naml ayat 40",
-        "Taha ayat 8",
-        "Ali 'Imran ayat 173"
+        "Benar",
+        "Salah",
+        "Seenaknya",
+        "Marah",
+        "bohong"
       ],
-      "jawaban": "C"
+      "jawaban": "A"
     },
     {
-      "pertanyaan": "Allah memiliki sifat Al Matin, yang berarti bahwa ...",
+      "pertanyaan": "Orang yang berbuat jujur perbuatannya selalu..",
       "opsi": [
-        "Penjamin",
-        "Kebesaran",
-        "Hanya",
-        "Akhirnya",
-        "Kuat"
+        "Berbalik",
+        "Berliku",
+        "Menyimpang",
+        "Berbelok",
+        "Lurus"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Allah memiliki sifat Al Matin yang tercantum dalam Sura ....",
+      "pertanyaan": "Lawan jujur adalah....",
       "opsi": [
-        "Al Hadid ayat 3",
-        "Al A'raf ayat 180",
-        "An-Naml ayat 40",
-        "Taha ayat 8",
-        "Az Zariyat ayat 58"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Salah satu Asmaul Husna adalah Al 'Adl, yang berarti bahwa ...",
-      "opsi": [
-        "Pertemuan",
-        "Mahaadil",
-        "Terakhir kali",
-        "Mahakuasa",
-        "Favorit saya"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Allah maha mengumpulkan adalah makna dari asmaul husnah ....",
-      "opsi": [
-        "Al Jami",
-        "Al'Adl",
-        "Al Akhir",
-        "Al'Azim",
-        "Al'Aziz"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Sifat adil Allah berlaku untuk ...",
-      "opsi": [
-        "Masing-masing",
-        "Hanya orang kaya",
-        "Para pejabat",
-        "Orang miskin",
-        "Pribadi ilahi"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Salah satu Asmaul Husna adalah Al Akhir, yang berarti ...",
-      "opsi": [
-        "Mahakuasa",
-        "Maha Adil",
-        "Bukan berakhir atau fana",
-        "Mahakuasa",
-        "Favorit saya"
+        "Riya",
+        "Munafiqin",
+        "Dusta",
+        "Khianat",
+        "rendah diri"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Keberadaan Asmaul Husna, dijelaskan dalam Surat Al-Qur'an ...",
+      "pertanyaan": "Orang yang suka berbohong termasuk orang....",
       "opsi": [
-        "Taha ayat 6",
-        "Taha ayat 7",
-        "Taha ayat 8",
-        "Taha ayat 9",
-        "Taha ayat 10"
+        "Muslim",
+        "Syirik",
+        "Munafiq",
+        "Murtad",
+        "mu'min"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Arti fana adalah....",
+      "pertanyaan": "Mengerjakan tugas tepat waktu disebut....",
       "opsi": [
-        "Kekal",
-        "Tidak kekal",
-        "Abadi",
-        "Selamanya",
-        "Tidak ada akhir"
+        "Jujur",
+        "Rajin",
+        "Optimis",
+        "Disiplin",
+        "percaya diri"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Rasulullah SAW. selalu berkata....",
+      "opsi": [
+        "Bohong",
+        "Jujur",
+        "Munafiq",
+        "Dusta",
+        "Menyimpang"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Allah memiliki sifat Al Karim, artinya Allah Maha",
+      "pertanyaan": "Perilaku baik yang dimiliki manusia disebut....",
       "opsi": [
-        "Pemberi keamanan",
-        "Mulia",
-        "Akhir",
-        "Kokoh",
-        "Adil"
+        "akhlak tercela",
+        "akhlak terpuji",
+        "ibadah",
+        "akhlak khabisah",
+        "akhlak sayyi'ah"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Allah memiki sifat Al Karim, yang tercantum dalam surah....",
+      "pertanyaan": "Sifat dasar hukum Alquran adalah keseimbangan dalam hal aspek material dan psikologis, yang disebut sebagai ....",
       "opsi": [
-        "Al Hadid ayat 3",
-        "Al A'raf ayat 180",
-        "An-Naml ayat 40",
-        "Taha ayat 8",
-        "Ali 'Imran ayat 173"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Allah memiliki sifat Al Matin, artinya Allah Maha....",
-      "opsi": [
-        "Pemberi Keamanan",
-        "Mulia",
-        "Adil",
-        "Akhir",
-        "Kokoh"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Allah memiliki sifat Al Matin, yang tercantum dalam surat...",
-      "opsi": [
-        "Al Hadid ayat 3",
-        "Al A'raf ayat 180",
-        "An-Naml ayat 40",
-        "Taha ayat 8",
-        "Az-Zariyat ayat 58"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Salah satu Asmaul Husna adalah Al 'Adl yang artinya adalah....",
-      "opsi": [
-        "Maha Mengumpulkan",
-        "Maha adil",
-        "Maha akhir",
-        "Maha kuasa",
-        "Maha Pengasih"
+        "Takamul",
+        "Wasatiyyah",
+        "Harakah",
+        "Hannya",
+        "Khuludiyah"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Allah Maha Mengumpulkan merupakan arti dari....",
+      "pertanyaan": "Al-Quran dimulai dengan surat Al Fatihah (pembukaan) dan berakhir dengan surat ...",
       "opsi": [
-        "Al Jami'",
-        "Al 'Adl",
-        "Al Akhir",
-        "Al 'Azim",
-        "Al 'Aziz"
+        "Al Baqarah",
+        "Al 'Alaq",
+        "Al Ma'idah",
+        "An-Nas",
+        "Al Falaq"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Al-Quran adalah panduan untuk bimbingan dan belas kasihan manusia bagi mereka yang beriman. Ini dikonfirmasikan oleh Allah dalam Surat.....",
+      "opsi": [
+        "Al Jasiyah [45]: 20",
+        "Ali Imran [3]: 138",
+        "Al Jasiyah [45]: 45",
+        "Ali Imran [13]: 13",
+        "Al Baqarah [2]: 2"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Sifat adil Allah berlaku untuk...",
+      "pertanyaan": "Al-Qur'an bertindak sebagai Hudan, artinya ....",
       "opsi": [
-        "Semua orang",
-        "Orang kaya saja",
-        "Para pejabat",
-        "Orang miskin",
-        "Orang saleh"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Salah satu Asmaul Husna adalah Al Akhir yang artinya adalah....",
-      "opsi": [
-        "Maha Esa",
-        "Maha Adil",
-        "Maha Akhir",
-        "Maha Kuasa",
-        "Maha Pengasih"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Allah SWT selalu menempatkan sesuatu pada tempat yang semestinya, sesuai dengan keadilan-Nya yang Maha Sempurna. Dia bersih dari sifat aniaya, baik dalam hukum-Nya maupun dalam perbuatan-Nya. Hal ini mengandung asmaul husna ....",
-      "opsi": [
-        "Al-Adl",
-        "Al-Karim",
-        "Al-Jami'",
-        "Al-Akhir",
-        "Al-Mu'min"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Sebagai hamba alloh kita di tuntut untuk benar-benar menjalankan.....",
-      "opsi": [
-        "Perintah alloh",
-        "Amanah Alloh",
-        "Tugas sebagai khalifah",
-        "Ketentuaan Alloh",
-        "Kehidupan Dengan Baik"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Batas aurat bagi wanita adalah ....",
-      "opsi": [
-        "Dari siku ke lutut",
-        "Dari tengah ke lutut",
-        "Dari leher ke pergelangan kaki",
-        "Seluruh tubuh kecuali wajah dan kaki",
-        "Seluruh tubuh kecuali wajah dan telapak tangan"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Dalam Islam, pakaian harus ....",
-      "opsi": [
-        "Mahal dan bagus",
-        "Mewah dan menarik",
-        "Bersih, rapi dan sopan",
-        "Mewah dan bersih",
-        "Mahal dan mewah"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Batasan aurat bagi pria adalah ....",
-      "opsi": [
-        "Dari siku ke lutut",
-        "Dari tengah perut/pusar sampai mata kaki",
-        "Dari leher ke pergelangan kaki",
-        "Seluruh tubuh kecuali wajah dan kaki",
-        "Seluruh tubuh kecuali wajah dan telapak tangan"
+        "Dekorasi",
+        "sebuah petunjuk",
+        "korek api",
+        "penyelesaian",
+        "undang-undang"
       ],
       "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Dalam Surat Al Baqarah ayat 2, Allah berfirman bahwa Alquran adalah pedoman untuk ...",
+      "opsi": [
+        "Munafikin",
+        "Musyrikin",
+        "Mukhlisin",
+        "Muttaqin",
+        "Muslim"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Alquran bertindak sebagai keinginan. Ini terkandung dalam surat dan ayat ....",
+      "opsi": [
+        "Al Jasiyah [45]: 20",
+        "Ali Imran [3]: 138",
+        "Al Jasiyah [45]: 45",
+        "Ali Imran [13]: 13",
+        "Al Baqarah [2]: 2"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Hukum waris Islam sepenuhnya di atur dalam ....",
+      "opsi": [
+        "Al-Quran",
+        "Hadis",
+        "ijma ulama",
+        "qiyas",
+        "KUHP"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Hukum yang mengatur hubungan manusia dengan Tuhan secara lahiriah, manusia dengan sesama manusia dan orang-orang dengan lingkungannya disebut hukum ....",
+      "opsi": [
+        "Amaliyah",
+        "Jinayah",
+        "I'tiqadiyah",
+        "Khuluqiyah",
+        "Siyasah"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Hukum yang berkaitan dengan perilaku moral manusia dalam kehidupan disebut hukum ....",
+      "opsi": [
+        "Amaliyah",
+        "Jinayah",
+        "I'tiqadiyah",
+        "Khuluqiyah",
+        "Siyasah"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Sumber hukum tertinggi dalam Islam adalah ....",
+      "opsi": [
+        "Al-Quran",
+        "Sunnah",
+        "Ijtihad",
+        "Qiyas",
+        "Ijama"
+      ],
+      "jawaban": "A"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Apa pengertian dari kontrol diri dan prasangka baik?"
+      "pertanyaan": "Sebutkan batas-batas aurat laki-laki dan perempuan ?"
     },
     {
-      "pertanyaan": "Sebutkan pengertian zina menurut bahasa dan istilah?"
+      "pertanyaan": "Apa saja yang menjadi ciri bahwa seseorang mempunyai sipat jujur ?"
     },
     {
-      "pertanyaan": "Sebutkan macam-macam zinah dan pengertian nya?"
+      "pertanyaan": "Sebutkan pungsi pakaian untuk manusia selain sebagai penutup tubuh ?"
     },
     {
-      "pertanyaan": "Sebutkan 10 nama-nama alloh yang terdapat dalam asmaul husna?"
+      "pertanyaan": "Pakaian bagaimanakah yang harus di pakai menurut syariat islam ?"
     },
     {
-      "pertanyaan": "Sebutkan batasan-batasan aurat laki-laki dan perempuan?"
+      "pertanyaan": "Apa saja dasar hukum islam sebutkan?"
     }
   ]
 }
