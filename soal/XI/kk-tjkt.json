@@ -234,11 +234,11 @@
     {
       "pertanyaan": "Dalam sebuah perlombaan cyber security, peserta diminta membuat SSID yang paling panjang namun tetap memenuhi standar teknis ASCII. Manakah dari pilihan berikut yang merupakan SSID paling panjang yang masih diizinkan?",
       "opsi": [
-        "Jaringan_Nirkabel_Terproteksi_Maksimal_Sekali (42 Karakter)",
-        "Wifi-Kantor-Pusat-Lantai-5-Ruang-Meeting-Utama (45 Karakter)",
-        "Admin_Router_Pusat_Data_Gedung_Cyber_1_JKT (40 Karakter)",
-        "Pusat_Informasi_Digital_Akses_Publik_L-1 (39 Karakter)",
-        "Hotspot_Area_Lt1_Gedung_Serbaguna_A1 (32 Karakter)"
+        "Jaringan_Nirkabel_Terproteksi_ Maksimal_Sekali (42 Karakter)",
+        "Wifi-Kantor-Pusat-Lantai-5-Ruang -Meeting-Utama (45 Karakter)",
+        "Admin_Router_Pusat_Data_Gedung _Cyber_1_JKT (40 Karakter)",
+        "Pusat_Informasi_Digital_Akses _Publik_L-1 (39 Karakter)",
+        "Hotspot_Area_Lt1_Gedung _Serbaguna_A1 (32 Karakter)"
       ],
       "jawaban": "E"
     },
