@@ -1,397 +1,351 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Pandu's Grandmother : Oh hello there, welcome! Make yourself at home.<br>Denis : Thank you, madam.<br>Pandu's Grandmother : Of course, dear. I'll leave you two alone.<br>Denis : What is your grandma's age, Pandu?<br>Pandu : It's 85 years old this year. How about your grandma?<br>Denis : Just three years older than your grandma.<br>Pandu : She is ......... years old? I see.",
+      "pertanyaan": "Adinda and her family .... in Solo last month.",
       "opsi": [
-        "eight five",
-        "eighteen eight",
-        "eight eight",
-        "eighty eight",
-        "eighteen five"
+        "saw",
+        "took",
+        "made",
+        "loved",
+        "lived"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "During Ramadan holiday 5 days ago, Nia ...... some limited matcha puddings around street vendor before iftar.",
+      "opsi": [
+        "slept",
+        "stood",
+        "bought",
+        "fed",
+        "sang"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "<blockquote><b>Look at this map below to answer the question number 3 -- 5!</b><br><br><img src='soal/img/X/inggris/picture1.png'></blockquote><br>We are between t-junction and the big maroon chinese building. Could you tell me the way to the gas station, please?",
+      "opsi": [
+        "Go straight down this road over market and the t-junction until you find a big house near t-junction. From there, turn left then turn right at first junction. And gas station is on your left.",
+        "From where we are, go to the t-junction near the maroon building, turn left and go straight down the beach road until you find a museum near t-junction. After that, go ahead over another t-junction and gas station is before tire center.",
+        "Go straight over market then turn right at t-junction. Go straight down this road and turn left at second junction. Go straight down this road until road corner. Gas station is on your left.",
+        "At t-junction near the chinese building, turn right and go straight ahead. Turn right at first junction over three trees. Go straight a little and gas station is on your left next to the tree to the right.",
+        "Just go straight ahead and gas station is next to the market."
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "You are in front of the School and you want to see your friend Nazma in her house. Which directions are correct?",
+      "opsi": [
+        "Follow this road over three big trees then at t-junction turn left. Go straight down this road then turn left over the big maroon building. Nazma's house is on your left beside market.",
+        "Go straight down this road over one tree next to the school then turn right at t-junction. Go straight and Nazma's house is on your left next to Dika's house.",
+        "Follow this road over the tree next to the school then turn left at second t-junction. Go straight down this road and turn left at second junction. Nazma's house is on your left.",
+        "Follow this road over the tree next to the school then turn right at first t-junction. Go straight down this road over two houses. Follow this road and turn right at second t-junction. Nazma's house is on your right, after the t-junction.",
+        "Go straight down this road over the tree next to the school then turn right at second t-junction. Go straight and Nazma's house is on your left."
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "<b><i>Study the schedule below to answer number 2 - 4!</i></b><br><img src='soal/img/X/inggris/picture1.png'>",
+      "pertanyaan": "You are at Market and you plan to see your classmate named Dika in his house to hangout with him to go Circus together. Where is the house located?",
       "opsi": [
-        "a quarter past eleven",
-        "a quarter past ten",
-        "a quarter to nine",
-        "a quarter past eleven",
-        "a quarter to ten"
+        "Go straight down this road over two large houses then turn right at t-junction. Follow this road and you will see Dika's house is beside another house.",
+        "Go straight down this road over two big houses then turn left at t-junction. Follow this road over t-junction and a fountain. When you are at the corner, just go straight a little. Dika's house is there on your right after another house.",
+        "Follow this road and then turn right at t-junction near the big maroon chinese building. Go straight then turn right at first t-junction. Go straight over three fruit trees. Go straight again and Dika's house is there.",
+        "Go straight and then turn right at t-junction. Go straight again and then turn left at first junction. Go straight a little bit and Dika's house is in front of you.",
+        "Follow this road and then turn left at t-junction near the big maroon chinese building. Go straight down this road and go around the beach road. When you see t-junction, go straight again and Dika's house is in front of you."
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "How many times is English lesson in 3 weeks?",
+      "pertanyaan": "On the office, Andy ............ some company documents because of the deadline last night.",
       "opsi": [
-        "six times",
-        "zero time",
-        "two times",
-        "many times",
-        "three times"
+        "leaned",
+        "organized",
+        "visited",
+        "watched",
+        "lurked"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "<blockquote><b>Read carefully the text below to answer number 7 -- 9!</b><br><br>When I was a kid, I lived with my elderly grandparents in a small village which was so far away from the city. They asked me to go to school by foot every morning because they wanted me to be a stronger girl in the future. Therefore I was late to school quite often. Because of it, I asked my grandparents to buy me a bicycle. I finally got it as a gift because I got the ranked first in my class.<br><br>Early one morning, I went to school by bicycle. It was my first time riding a bicycle to school. I rode it so fast because the road was empty. On the way, I didn't notice the big hole beside the road and I feel down into the hole. I hurt my hand and my leg and they were bleeding. A man saw me and quickly helped me. Finally, I was in a hospital to get medical treatment. I recovered from my injury after a few days then started riding carefully.</blockquote><br>What is the aim of the text?",
+      "opsi": [
+        "to retell a story about bicycle",
+        "to retell the writer's experience when she was at school",
+        "to retell the history of the big hole",
+        "to retell the writer's experience getting bicycle accident",
+        "to retell the family in small village"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "<blockquote>...<u>they</u> were bleeding.</blockquote><br>The underlined word refers to ...",
+      "opsi": [
+        "writer and bicycle",
+        "bleeding",
+        "hole and road",
+        "the man and hospital",
+        "hand and leg"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Why was the writer often late to school?",
+      "opsi": [
+        "She asked for bicycle",
+        "She helped her grandparents first",
+        "She wanted to be stronger",
+        "She got the ranked first",
+        "She went to school by feet"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Cindi and Cantika said they ...... around Braga and just met with vice President Gibran.",
+      "opsi": [
+        "walked",
+        "typed",
+        "consumed",
+        "covered",
+        "submitted"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "How long is Informatics on Tuesday?",
+      "pertanyaan": "Last week at suhoor time, Linda ...... Daniel's homemade fried rice that he made for her.",
       "opsi": [
-        "four hours",
-        "three hours",
-        "sixty minutes",
-        "one hour thirty minutes",
-        "ninety minutes"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Khairul is ........ students among students here.",
-      "opsi": [
-        "more smarter",
-        "the most smart",
-        "smarter",
-        "the smarter",
-        "the smartest"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "What time is it?<br><img src='soal/img/X/inggris/picture2.png'>",
-      "opsi": [
-        "It's three and two o'clock",
-        "It's twenty minutes past fourteen",
-        "It's four minutes past two",
-        "It's fifteen and twenty minutes",
-        "It's a half past two"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "<b>3 March 2015</b><br>How do we say this?",
-      "opsi": [
-        "Third of March two thousand one five",
-        "March three twelve and fifteen",
-        "Three of March twenty and fifteen",
-        "March third two thousand fifteen",
-        "Three March two thousand fiveteen"
+        "went",
+        "consume",
+        "ate",
+        "helped",
+        "drank"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "$\\frac{5}{4} + \\frac{3}{4} = \\frac{8}{4} = 2$<br>The Latin version of the numbers is ........?",
+      "pertanyaan": "<blockquote><b>Read carefully the text below to answer number 12 -- 16!</b><br><br>Last year during the month of Ramadan, I had the opportunity to take a week-long holiday to celebrate this special month with my family. Ramadan is a holy month for Muslims, which we fasted from dawn until dusk and focused on prayer, charity, and reflection.<br><br>On the first day of the holiday, we woke up early to have our pre-dawn meal called suhoor. After doing the Fajr prayer, we began our day of fasting. It was difficult at first, but we soon adjusted to the routine. We spent most of the day at home, reading the Quran and doing good deeds. As the sun began to set we eagerly awaited the call to prayer, signaling for iftar. We broke our fast with dates and water and then had a delicious meal with our family. We talked about our day and how we could improve our fasting experiences in the coming days.<br><br>Throughout the week we continue this routine, breaking our fast together as a family and spending time in prayer and reflection. We also took the opportunity to visit our local mosque and attend taraweeh, the night prayer which are held only during Ramadan.<br><br>On the last day of our holiday, we celebrated Eid al-Fitr, which marks the end of Ramadan. We woke up early to perform the Eid prayer and then visited friends and family to exchange gifts and share festive meals.</blockquote><br>What is the purpose of the text?",
       "opsi": [
-        "Fifth and fourth plus third and fourth equal to eighth and fourth equal to second",
-        "Fif and four plus three and four equal to eight and four equal to two",
-        "Five and four plus three and four equal to eight and four equal to second",
-        "Five and fourth plus three and fourth equal to eight and fourth equal to two",
-        "Fifth and four plus third and four equal to eighth and four equal to two"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "<b><i>Read the text below to answer number 9 - 12!</i></b><br><br>My Uncle Martin is my mother's elder brother. He is my favourite among my mother's brothers. He is a very interesting man. He lives quite near us with my Aunt Angela and my cousins Anne and Bob. I often go to his house. He is about 45 with grey hair. He is still quite good-looking. He is tall and well-built. He has blue eyes and a strong face. He wears glasses. He is short sighted. He takes them off when he doesn't work. Uncle Martin is a textile engineer. He works for a big firm in the city. He travels widely in his job. He is an expert in solving problems with machines. At present, he is in the United States. He is visiting the firm's customers there. He is very fond of the sea. He has a boat at seaside. He goes there every weekend in summer to sail it. I sometimes stay with my cousins at their house on the coast. When Uncle Martin is at home, he usually takes us out in the boat.<br><br>Uncle Martin is ............",
-      "opsi": [
-        "Anne's uncle",
-        "Aunt Angela's neighbour",
-        "Bob's father",
-        "My mother's uncle",
-        "Martin's son in law"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "What is Uncle Martin's job?",
-      "opsi": [
-        "Sailor",
-        "Teacher",
-        "Engineer",
-        "Pilot",
-        "Boat Seller"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "How many family members does Uncle Martin have?",
-      "opsi": [
-        "3",
-        "1",
-        "5",
-        "4",
-        "2"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "When does Uncle Martin sail a boat?",
-      "opsi": [
-        "Once in three days",
-        "Twice every weekend",
-        "Once in a month",
-        "Once in a year",
-        "Summer weekend"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "<b>$ 14.49</b><br>How do we say this?",
-      "opsi": [
-        "Forty dollars and fourteen nine cents",
-        "Fourteen dollars forty nine cents",
-        "Fourteen dollars and fourteen nine cents",
-        "Fourty dollars and four nine cents",
-        "Fourteen point four nine dollars"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "<b><i>Study the schedule below to answer number 14 - 16!</i></b><br><img src='soal/img/X/inggris/picture3.jpg'>",
-      "opsi": [
-        "two destinations",
-        "nine destinations",
-        "five destinations",
-        "just one destination",
-        "three destinations"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "What is the flight numbers for the destination Dusseldorf?",
-      "opsi": [
-        "di, es, four, three, o, seven",
-        "di, bi, one, two, three, four",
-        "eits, kei, four, seven, o, one",
-        "bi, ei, two, five, seven, eight",
-        "ou, es, two, five, eight"
+        "to tell the writer's experience during Ramadan month",
+        "to retell the writer's experience about taraweeh",
+        "to announce the writer's iftar meals",
+        "to celebrate the writer's achievement in Ramadan month",
+        "to tell the writer's story about Eid"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "What time is the arrival schedule for the destination to Bologna?",
+      "pertanyaan": "What did the writer do to spend the day at home?",
       "opsi": [
-        "Thirty minutes past three in the afternoon",
-        "Three minutes to thirteen in the morning",
-        "Threety and three minutes at night",
-        "Three and o three in the morning",
-        "Thirteen o three in the afternoon"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "What do you see in picture?<br><img src='soal/img/X/inggris/picture4.jpg'>",
-      "opsi": [
-        "His hair is long and black",
-        "He wears blue tidy shirt",
-        "The man has dark skin",
-        "He has no moustache",
-        "He wear broken eyeglasses"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "What do you see in picture?<br><img src='soal/img/X/inggris/picture5.jpg'>",
-      "opsi": [
-        "She has very dark brown skin.",
-        "She wears light blue hairpin.",
-        "She have skirt blue",
-        "She wear red sweater",
-        "She have curly long black hair."
+        "breaking fast",
+        "reading Quran",
+        "awaiting prayer call",
+        "visiting friends",
+        "signaling for iftar"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "What do you see in picture?<br><img src='soal/img/X/inggris/picture6.jpg'>",
+      "pertanyaan": "What is suhoor based on the text?",
       "opsi": [
-        "She are a woman",
-        "Her hair is curly and blonde",
-        "She has dark skin",
-        "The woman is with a man",
-        "She wears blue dress"
+        "week-long holiday",
+        "dawn until dusk",
+        "festive meals",
+        "pre-dawn meal",
+        "good deeds"
       ],
-      "jawaban": "B"
+      "jawaban": "D"
     },
     {
-      "pertanyaan": "<b>19:11 pm.</b><br>How do we tell the time?",
+      "pertanyaan": "What did the writer do after performing the Eid prayer?",
       "opsi": [
-        "A quarter past nineteen in the evening",
-        "Nineteen and eleven in the morning",
-        "Eleven minutes past seven at night",
-        "Ninth past eleven in the afternoon",
-        "One nine and one one in the evening"
+        "talked about our day",
+        "improved our fasting",
+        "spent time in prayer",
+        "visited friends and family",
+        "took a week-long holiday"
       ],
-      "jawaban": "C"
+      "jawaban": "D"
     },
     {
-      "pertanyaan": "<b>173 cm</b><br>How do we read the numbers?",
+      "pertanyaan": "What did the writer do when he visited local mosque during night?",
       "opsi": [
-        "One hundred seven thousand centimeters",
-        "One seven three centimeters",
-        "One thousand seven hundred and three centimeters",
-        "One and seventy three centimeters",
-        "One hundred seventy three centimeters"
+        "adjusted to the routine.",
+        "continued this routine",
+        "broke the fast",
+        "woke up early",
+        "attended taraweeh"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Nazwan : Hey Rifano! I heard you participated in drawing competition. How is the result?<br>Rifano : I could only get ......... (2<sup>nd</sup>) position.<br>Nazwan : Wow! That's great, man!<br>Rifano : Thanks.",
+      "pertanyaan": "Jajang did not study last night. So, he .......... on the English exam today.",
       "opsi": [
-        "runner up",
-        "two",
-        "third",
-        "second runner up",
-        "first"
+        "educated",
+        "investigated",
+        "cheated",
+        "injured",
+        "confirmed"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "<blockquote><b>Look at this map below to answer the question number 18 -- 20! (indonesian version for roundabout)</b><br><br><img src='soal/img/X/inggris/picture2.png'></blockquote><br>I'm driving. We are in front of the park across the Vocational High. Could you please tell me where hospital is?",
+      "opsi": [
+        "Take the second left at the roundabout and then go straight down this road until you see restaurant and hospital is across the post office on your right side.",
+        "From the school, just take the first left and go straight down this road over train station and when you see t-junction, turn left and go ahead until you see one tree, turn left at the junction and hospital is on your left.",
+        "At roundabout, take the third left then go straight down this road over elementary school and cinema until you see a t-junction then turn right and just go straight and hospital is on your left.",
+        "When you see the mall, go straight ahead until the corner, then turn left and go straight ahead until you see t-junction near the side of the bakery, then turn right. Just go ahead a little bit and hospital is after railroad on your left.",
+        "Turn right at the t-junction before café, then go straight down this road until you see another t-junction, turn right. Go straight over the t-junction after hotel and hospital is there on your right after another café."
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "I'm riding a motorcycle. We are between bank and mosque. Could you please tell me the way to the nearest café?",
+      "opsi": [
+        "Turn right at t-junction, go ahead and turn left at another t-junction. And the café is on your right.",
+        "Go ahead and turn left at t-junction after farm. Then, go straight until you see roundabout and take the third left. Go ahead and café is on your left.",
+        "Go ahead over bank and turn left at t-junction. Go straight over library and take first left at roundabout. Go ahead over vocational high and café is on your right.",
+        "Turn right at t-junction after the mosque then go straight down this road over church and café is after church on your left.",
+        "From bank, go straight until you see t-junction after farm. Then, turn left and go ahead, take the second left at roundabout. Go straight down this road then turn left and café is on your left."
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "I'm using a car. We are across swimming pool. Could you tell me where market is?",
+      "opsi": [
+        "From post office, go straight to restaurant over police office and take the third left. Go straight down this road and turn left at t-junction. Go straight over hotel and market is after t-junction onyour left.",
+        "From swimming pool, go straight over restaurant and police office. When you see roundabout, take the first left and go ahead over cinema and library. Turn right at t-junction and go straight over bank. And market is on your right.",
+        "From post office, go straight down this road over police office. At roundabout, take the third left. Go straight down this road over rail road then turn right at t-junction over café. The market is on your right.",
+        "From across swimming pool, go ahead over restaurant and when you see roundabou, take the second left. Go straight over mall and market is on your right before the church.",
+        "From across the post office, go straight down this road over restaurant and police office. And when you see roundabout, take the second left. Then, go straight down this road until corner and market is there in front of you."
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Which option is the best for this picture below?<br><img src='soal/img/X/inggris/picture7.png'>",
+      "pertanyaan": "<blockquote><b>Read carefully the text below to answer number 21 -- 23!</b><br><br>Last Sunday when I was feeding my cat, I saw that he had no appetite. I looked carefully at his body and I found that his left leg had a scratch. I bought medicine and brought some bandages and then cleaned the wound with antibiotics before applying bandages to the injured skin. The next day, I changed the bandages and I treated him very well. Three days later, he seemed to start regaining his usual appetite. I was very happy his leg healed and he has returned to play with me as usual.</blockquote><br>What did the text talk about?",
       "opsi": [
-        "Meilina is the most handsome in the group.",
-        "Michael has darker shade of skin than Bertha.",
-        "Joe is the tallest person in the group.",
-        "Leonardo's hair is the straightest in the group",
-        "Both Isabella and Meilina have the same height size"
+        "The method to make bandages",
+        "The writer's cat medicine shop",
+        "The writer's injured cat",
+        "The way to apply bandages",
+        "The writer's animal feeding journey"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Adri : Today is ......... than yesterday.<br>Naufal : I agree, mate.<br>Adri : I need to go home as soon as possible.<br>Naufal : Yeah, so do I. I'm so thirsty.",
+      "pertanyaan": "These treatments were done by the writer for his cat, <u>except</u>....?",
       "opsi": [
-        "more bigger",
-        "coldest",
-        "most dry",
-        "tallest",
-        "hotter"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Sapira buys Radishes 2 items. How much money should Sapira give to the seller?<br><img src='soal/img/X/inggris/picture8.jpg'>",
-      "opsi": [
-        "Two dollars nineteen cents",
-        "Three dollars and nine cents",
-        "Two dollars ninety eight cents",
-        "Three dollars and nineteen cents",
-        "Three dollars and ninety eight cents"
+        "changed the bandages",
+        "bought medicine",
+        "applying bandages to all body",
+        "treating the cat well",
+        "cleaned the wound with antibiotics"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "<b>October, 20<sup>th</sup> 1988</b><br>What should we say this?",
+      "pertanyaan": "What was the day the cat regained his appetite?",
       "opsi": [
-        "October two o one nine eight eight",
-        "October twentieth nineteen and eighty eight",
-        "October twenty one thousand nine hundred eighty eight",
-        "October twentieth ninety and eighteen",
-        "October twenty nineteen and eighty eight"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "<b><i>Look at this menu below, study carefully to answer number 27 - 29!</i></b><br><img src='soal/img/X/inggris/picture9.jpg'>",
-      "opsi": [
-        "Maryland Crab Soup",
-        "Mixed Grill",
-        "LumpCrab Cake Combo",
-        "Pudding",
-        "Chesapeake Crab Alfredo"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "These sentences are correct according to menu, <u>except</u>?",
-      "opsi": [
-        "Soft Shells are cheaper than Soft Shell Pasta",
-        "Georgia Peach Bread Pudding is cheaper than Classic Cannoli",
-        "Maryland Crab Soup is more expensive than Teriyaki Pork Belly Bao Bun",
-        "Greek Salad is more expensive than Maryland Crab Hush Puppy",
-        "Georgia Peach Bread Pudding is the cheapest in menu"
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Rizki buys one Soft Shell Pasta, one Pudding and one Caesar Salad. How much should he pay according to the menu? One hundred cents are one dollar.",
+      "pertanyaan": "Galih and Putra ......... their team into 3 groups during our camping last month.",
       "opsi": [
-        "Twenty one dollars ninety eight cents",
-        "Thirty dollars forty eight cents",
-        "Twenty four dollars ninety nine cents",
-        "Thirty two dollars ninety seven cents",
-        "Forty seven dollars ninety eight cents"
+        "joined",
+        "killed",
+        "supported",
+        "divided",
+        "dismissed"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "<b>50.5 kg</b><br>We read the numbers as ...........?",
+      "pertanyaan": "<blockquote><b>Read carefully the text below to answer number 25 -- 28!</b><br><br>Mr. Fandy and his two sons went to Panama for holiday. At first, they searched for a travel agencyand reserved flight tickets. Then, they came to the Embassy of of Spain to get tourist visas. Finally, they had been given permission to go for fourteen days. Their trip had included travel, acommodation, and tours around the city.<br><br>Mr. Fandy and his sons were on a large Boeing flight for fourteen hours flight. All the attendants were very helpful. They provided newspapers and magazines to all passengers. They also delivered some food and beverages to their seats. When Mr. Fandy and his sons arrived at Tocument International Airport, they came to Customs and Immigration to check the documents. The immigration officers were also very nice. The documents were verified accurately by them. Although they were assertive, but they had polite manners. Mr. Fandy and his sons gathered their luggage. After that, they went to Welcome Desk to arrange their transfer to a hotel. The hotel was a four-star hotel. The room had a miraculous park to see. Beside the key, they also got an inserted key card to unlock the door. There was also a restaurant with Asian and European cuisine located on the third floor of the hotel. They were also offered variety of menus.<br><br>The two weeks went by fast. Mr. Fandy and his sons felt so tired, but they were very excited to have had a trip in Panama.</blockquote><br>What is the purpose of the text?",
       "opsi": [
-        "Fifty point five kilograms",
-        "Fiveteen point five kilograms",
-        "Fifteen point five kilograms",
-        "Five, o point five kilograms",
-        "Fivety point five kilograms"
+        "to retell Mr. Fandy's experience to Panama with his sons",
+        "to announce the trip to Panama with Mr. Fandy and his sons",
+        "to describe the beauty of miraculous park inside four-star hotel",
+        "to retell Mr. Fandy's sons experience to Panama with their mother",
+        "to retell the writer's past events about trip to Panama"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "<img src='soal/img/X/inggris/picture10.jpg'>",
+      "pertanyaan": "Based on the text, the attendants gave these facilities to the passengers, <u>except</u>.....",
       "opsi": [
-        "Sneaker shoes are the cheapest among all products.",
-        "Flipflops are way more expensive than sneaker shoes.",
-        "Rain boots are cheaper than flip flops.",
-        "Flipflops are the most expensive of all.",
-        "Sneaker shoes are more expensive than rain boots."
+        "magazines",
+        "television",
+        "beverages",
+        "newspapers",
+        "food"
       ],
-      "jawaban": "E"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "<b>¥ 88,500</b><br>How should we read this numbers?",
+      "pertanyaan": "What are the generic structures of the text?",
       "opsi": [
-        "Eight and eight thousand and five hundred yen",
-        "Eighteen thousand eight and five hundred yen",
-        "Eighty eight point five hundred yen",
-        "Eight eight point five o o yen",
-        "Eighty eight thousand five hundred yen"
+        "identification, sequences of events, re-orientation",
+        "orientation, events, re-orientation",
+        "opening, content, closing arguments",
+        "identification, descriptions",
+        "identification, events"
       ],
-      "jawaban": "E"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Nesya : Why do you like Matcha Latte?<br>Zivana : Because for me, Matcha Latte is the ......... drink of all.",
+      "pertanyaan": "Where did Mr. Fandy and his sons find a restaurant at the hotel?",
       "opsi": [
-        "more expensive",
-        "worst",
-        "most better",
-        "tastiest",
-        "more famous"
+        "at miraculous park outside the hotel",
+        "the third floor of the hotel",
+        "at welcome desk of the hotel",
+        "around Tocumen International Airport",
+        "inside the basement of the hotel"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Leon ......... some water into the glass for you just now.",
+      "opsi": [
+        "cooked",
+        "drank",
+        "melted",
+        "poured",
+        "heated"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Abigail : Have you watched Vampire 2?<br>Selina : Not yet. Why are you interested in it?<br>Abigail : It is so cool!<br>Selina : You know what? Zombie movie is .........than that one you said. I want to watch it tomorrow.",
+      "pertanyaan": "Willy just ............ one table for his dinner date later with Noelle.",
       "opsi": [
-        "further",
-        "better",
-        "best",
-        "worse",
-        "elder"
+        "cancelled",
+        "roamed",
+        "broke",
+        "founded",
+        "reserved"
       ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "How do you say the time on this clock?<br><img src='soal/img/X/inggris/picture11.png'>",
-      "opsi": [
-        "Eight minutes to six",
-        "Forty minutes past five",
-        "A quarter to six",
-        "Fourty minutes to six",
-        "A half past six"
-      ],
-      "jawaban": "B"
+      "jawaban": "E"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "<b>[X TJKT 1 & 2]</b><br>How do we say these numbers in English? Write the Latin version!<br>1) 02:45 a.m<br>2) 175.5 km/h<br>3) 22<sup>nd</sup> January 1559<br>4) Rp.402,100<br>5) $\\frac{13}{5} \\times \\frac{3}{7} = \\frac{39}{35} = 1\\frac{4}{35}$"
+      "pertanyaan": "<blockquote><b>Look at this map below and direct to the spot mentioned! (foreign version for roundabout)</b><br><br><img src='soal/img/X/inggris/picture3.png'></blockquote><br>You are Calvin. I'm using orange car and we are beside your house, the green colored house. Could you please tell me the way to the small pool across the small brown villa? The small brown villa is across the influencer's house named Ilmi, the green colored house."
     },
     {
-      "pertanyaan": "<b>[X AKL]</b><br>How do we say these numbers in English? Write the Latin version!<br>1) $ 62.43<br>2) ¥ 1,500.45<br>3) Rp.5,309,700<br>4) 27<sup>th</sup> May 1779<br>5) 18:25 p.m"
+      "pertanyaan": "I'm using motorcycle. We are in front of the small brown house and across big blue building and between two trees. Could you please tell me where is my friend's house named Syaila? The color of her house is yellow and it is near the baseball field."
+    },
+    {
+      "pertanyaan": "<b>Translate these Indonesian past sentence into English version!</b><br><br>Saudara laki-laki Annisa pergi ke rumah saya Oktober lalu"
+    },
+    {
+      "pertanyaan": "Empat hari yang lalu, saya tidak membawa buku bahasa inggris"
+    },
+    {
+      "pertanyaan": "Danda dan Galang marah kepada Farik kemarin"
     }
   ]
 }
