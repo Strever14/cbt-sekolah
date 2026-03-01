@@ -1,0 +1,351 @@
+{
+  "pilihan_ganda": [
+    {
+      "pertanyaan": "Partisi yang digunakan sebagai memori cadangan pada Linux disebut ...",
+      "opsi": [
+        "Root",
+        "Home",
+        "Boot",
+        "Swap",
+        "Var"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Direktori root pada Linux ditandai dengan simbol ...",
+      "opsi": [
+        "/",
+        "\\\\",
+        "$",
+        "#",
+        "*"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Perintah untuk memperbarui daftar repository paket pada Debian adalah ...",
+      "opsi": [
+        "apt-get remove",
+        "apt-get clean",
+        "apt-get update",
+        "apt-get upgrade",
+        "apt-get install"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "File konfigurasi IP statis pada Debian terdapat pada ...",
+      "opsi": [
+        "/etc/passwd",
+        "/home/user",
+        "/etc/network/interfaces",
+        "/var/log",
+        "/boot/grub"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perintah untuk melihat alamat IP pada Linux adalah ...",
+      "opsi": [
+        "Ipconfig",
+        "Netstat",
+        "ifconfig / ip addr",
+        "traceroute",
+        "mkdir"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Penulisan konfigurasi IP statis yang benar adalah ...",
+      "opsi": [
+        "iface eth0 inet dhcp",
+        "auto eth0",
+        "address 192.168.1.10",
+        "hostname server",
+        "mount /dev"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Paket untuk mengaktifkan layanan SSH Server di Debian adalah ...",
+      "opsi": [
+        "Samba",
+        "apache2",
+        "openssh-server",
+        "vsftpd",
+        "bind9"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Port default SSH adalah ...",
+      "opsi": [
+        "21",
+        "22",
+        "23",
+        "80",
+        "443"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Paket DHCP Server pada Debian adalah ...",
+      "opsi": [
+        "dhcpd-server",
+        "isc-dhcp-server",
+        "dns-server",
+        "net-server",
+        "file-server"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Proses permintaan IP pada DHCP diawali dengan pesan ...",
+      "opsi": [
+        "ACK",
+        "Request",
+        "Discover",
+        "Offer",
+        "Release"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Interface Mikrotik yang biasanya digunakan untuk koneksi ke ISP adalah...",
+      "opsi": [
+        "ether2",
+        "ether3",
+        "ether1",
+        "wlan1",
+        "bridge1"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Alamat IP 192.168.10.1/24 yang diberikan secara manual pada ether2 termasuk jenis konfigurasi...",
+      "opsi": [
+        "DHCP Server",
+        "DHCP Client",
+        "Static IP",
+        "NAT",
+        "DNS Dynamic"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Jika ISP tidak menyediakan DHCP, maka Mikrotik pada interface WAN akan...",
+      "opsi": [
+        "Otomatis terhubung internet",
+        "Mendapat IP lokal",
+        "Tidak mendapatkan IP Address",
+        "Membuat IP sendiri",
+        "Mengaktifkan NAT otomatis"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Fungsi utama NAT dengan action masquerade pada Mikrotik adalah...",
+      "opsi": [
+        "Memblokir website",
+        "Mengubah IP lokal menjadi IP publik agar bisa akses internet",
+        "Membatasi bandwidth",
+        "Memberikan IP ke client",
+        "Mengaktifkan firewall"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perintah untuk mengecek IP di Windows adalah...",
+      "opsi": [
+        "ping",
+        "traceroute",
+        "ipconfig",
+        "ifconfig",
+        "netstat"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Teknologi FTTH menggunakan media transmisi berupa...",
+      "opsi": [
+        "Kabel tembaga",
+        "Gelombang radio",
+        "Sinyal listrik langsung",
+        "Cahaya melalui fiber optik",
+        "Bluetooth"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Perangkat yang berfungsi mengubah sinyal listrik menjadi sinyal cahaya adalah...",
+      "opsi": [
+        "Router Access Point",
+        "Mikrotik",
+        "HTB B",
+        "HTB A",
+        "Switch"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Jenis kabel fiber optik yang digunakan pada FTTH adalah...",
+      "opsi": [
+        "Multi Mode",
+        "Single Mode",
+        "Coaxial",
+        "Cat6",
+        "STP"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Jika WiFi terhubung tetapi tidak bisa internet, kemungkinan penyebabnya adalah...",
+      "opsi": [
+        "DHCP aktif",
+        "NAT belum disetting",
+        "IP publik tersedia",
+        "Fiber bagus",
+        "DNS mati total"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Keunggulan utama FTTH dibandingkan kabel UTP biasa adalah...",
+      "opsi": [
+        "Lebih murah",
+        "Mudah disambung tanpa alat",
+        "Tidak terpengaruh interferensi listrik",
+        "Menggunakan listrik rendah",
+        "Tidak membutuhkan router"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Seorang teknisi mengonfigurasi router dengan SSID \"Lantai_2_Server\". Namun, saat staf IT mencoba menghubungkan perangkat secara manual, mereka mengetikkan \"lantai_2_server\". Apa yang akan terjadi pada proses koneksi tersebut?",
+      "opsi": [
+        "Koneksi berhasil karena sistem Windows/Android mengabaikan perbedaan huruf kapital.",
+        "Koneksi gagal karena SSID bersifat case-sensitive, sehingga perbedaan huruf dianggap identitas berbeda.",
+        "Koneksi berhasil, tetapi perangkat akan ditandai sebagai \"Tamu\" (Guest).",
+        "Router akan mengirimkan pesan \"Wrong SSID Name\" secara otomatis ke layar perangkat.",
+        "Perangkat akan terhubung ke jaringan cadangan terdekat secara otomatis."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Dalam sebuah perlombaan cyber security, peserta diminta membuat SSID yang paling panjang namun tetap memenuhi standar teknis ASCII. Manakah dari pilihan berikut yang merupakan SSID paling panjang yang masih diizinkan?",
+      "opsi": [
+        "Jaringan_Nirkabel_Terproteksi_Maksimal_Sekali (42 Karakter)",
+        "Wifi-Kantor-Pusat-Lantai-5-Ruang-Meeting-Utama (45 Karakter)",
+        "Admin_Router_Pusat_Data_Gedung_Cyber_1_JKT (40 Karakter)",
+        "Pusat_Informasi_Digital_Akses_Publik_L-1 (39 Karakter)",
+        "Hotspot_Area_Lt1_Gedung_Serbaguna_A1 (32 Karakter)"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Bagaimana sebuah laptop yang baru dinyalakan bisa langsung mengetahui ada Wi-Fi di sekitarnya tanpa pengguna melakukan refresh manual?",
+      "opsi": [
+        "Laptop mengirimkan tegangan listrik melalui antena untuk memicu router.",
+        "Router Wireless memancarkan sinyal Beacon Frame yang berisi SSID secara terus-menerus.",
+        "Laptop menggunakan sensor suhu untuk mendeteksi panas dari perangkat router.",
+        "Router Wireless mendeteksi alamat MAC laptop dan langsung mengirimkan undangan koneksi.",
+        "Terjadi pertukaran data melalui kabel optik yang tertanam di dinding."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Dalam skenario manakah penggunaan Broadcast SSID (Visible) paling tepat dan efisien untuk diterapkan?",
+      "opsi": [
+        "Jaringan rahasia milik intelijen negara.",
+        "Jaringan internal pusat data yang berisi informasi perbankan.",
+        "Jaringan Wi-Fi publik di bandara agar mudah ditemukan pelancong.",
+        "Jaringan antar server di dalam ruangan tertutup.",
+        "Jaringan pribadi yang hanya digunakan oleh satu orang pemilik rumah."
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "WPA2 diwajibkan untuk sertifikasi Wi-Fi sejak tahun 2006. Standar enkripsi apa yang digunakannya sehingga dianggap sangat aman hingga saat ini?",
+      "opsi": [
+        "WEP-24 dengan algoritma RC4.",
+        "TKIP dengan algoritma RC4.",
+        "AES (Advanced Encryption Standard).",
+        "MD5 Hashing dengan algoritma Blowfish.",
+        "RSA Encryption dengan panjang kunci 1024-bit."
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Manakah dari protokol berikut yang merupakan standar keamanan setelah WEP dan sudah dianggap tidak aman lagi?",
+      "opsi": [
+        "WPA",
+        "WPA2",
+        "AES",
+        "WEP",
+        "WEP-Enterprise"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Jika Anda membangun jaringan Wi-Fi untuk sebuah kafe kecil, standar mana yang paling praktis dan cukup aman untuk digunakan?",
+      "opsi": [
+        "WPA2-Enterprise",
+        "Tanpa Enkripsi",
+        "WEP",
+        "WPA2-Personal",
+        "WPA-Enterprise"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Seorang administrator jaringan ingin mengimplementasikan 'WPA2-Enterprise'. Komponen tambahan apa yang wajib dimiliki agar sistem ini dapat berjalan?",
+      "opsi": [
+        "Satu password tunggal yang diketahui seluruh staf",
+        "Kabel UTP kategori 6 diseluruh Gedung",
+        "Server autentikasi terpusat seperti RADIUS server",
+        "Router wireless dengan antenna 4 buah",
+        "Koneksi internet dengan kecepatan 500 Mbps"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Manakah pernyataan yang paling akurat mengenai perbandingan antara WPA-Personal dan WPA2-Personal?",
+      "opsi": [
+        "WPA2-Personal menggunakan algoritma AES, sedangkan WPA-Personal menggunakan RC4.",
+        "WPA2-Personal hanya bisa digunakan di komputer, bukan smartphone.",
+        "WPA-Personal lebih aman karena menggunakan TKIP.",
+        "WPA-Personal wajib digunakan jika ingin terhubung ke server RADIUS.",
+        "Keduanya menggunakan algoritma yang sama tetapi berbeda panjang passwordnya."
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Sebuah kantor menggunakan pengaturan Hidden SSID demi alasan privasi. Apa langkah yang wajib dilakukan oleh karyawan baru agar bisa menghubungkan laptop mereka ke Wi-Fi kantor tersebut?",
+      "opsi": [
+        "Menunggu di dekat router sampai nama jaringan muncul sendiri.",
+        "Menekan tombol reset pada router agar SSID berubah menjadi visible.",
+        "Memasukkan nama SSID secara manual pada menu \"Add Network\" di perangkat.",
+        "Mematikan fitur firewall pada laptop agar SSID yang tersembunyi bisa dideteksi.",
+        "Cukup memasukkan password saja tanpa perlu mengetahui nama jaringannya."
+      ],
+      "jawaban": "C"
+    }
+  ],
+  "essay": [
+    {
+      "pertanyaan": "File konfigurasi DHCP Server berada di ..."
+    },
+    {
+      "pertanyaan": "Jelaskan perbedaan antara DHCP Client dan DHCP Server pada Mikrotik serta fungsi masing-masing dalam jaringan!"
+    },
+    {
+      "pertanyaan": "Jelaskan alur data pada instalasi jaringan FTTH mulai dari ISP hingga pengguna menerima WiFi!"
+    },
+    {
+      "pertanyaan": "Mengapa jaringan FTTH memiliki kecepatan tinggi dan latensi rendah dibandingkan jaringan berbasis kabel tembaga? Jelaskan berdasarkan prinsip kerjanya!"
+    },
+    {
+      "pertanyaan": "<blockquote>Sebuah kafe baru ingin memasang jaringan Wi-Fi untuk pelanggannya. Pemilik kafe memberikan nama jaringan \"FreeWifi_Kafe_Banteng\" agar pelanggan mudah menemukannya. Namun, ia merasa khawatir jika ada orang asing di luar kafe yang ikut menggunakan internetnya tanpa izin.<br><br>Berdasarkan kasus diatas, jelaskan:<br><br>Apa istilah teknis untuk nama jaringan \"FreeWifi_Kafe_Banteng\" dan Sebutkan satu cara yang paling umum digunakan agar hanya pelanggan kafe saja yang bisa masuk ke jaringan tersebut?</blockquote>"
+    }
+  ]
+}
