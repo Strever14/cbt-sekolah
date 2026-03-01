@@ -1,112 +1,299 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Tujuan utama dari permainan sepak bola adalah....",
+      "pertanyaan": "Induk organisasi tenis meja tingkat dunia adalah?",
       "opsi": [
-        "Menguasai bola selama mungkin",
-        "Mempertahankan daerah sendiri",
-        "Memasukkan bola ke gawang lawan",
-        "Menghalau serangan lawan",
-        "Mengatur posisi pemain"
+        "FIFA",
+        "IBF",
+        "FIBA",
+        "ATP",
+        "ITTF"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Induk organisasi tenis meja di Indonesia adalah?",
+      "opsi": [
+        "PBSI",
+        "PSSI",
+        "PTMSI",
+        "PERBASI",
+        "PRSI"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Teknik dasar untuk memberikan umpan jarak jauh adalah....",
+      "pertanyaan": "Panjang meja tenis meja sesuai standar internasional adalah?",
       "opsi": [
-        "Heading",
-        "Dribbling",
-        "Shooting",
-        "Long pass",
-        "Intercept"
+        "2,54 meter",
+        "2,64 meter",
+        "2,74 meter",
+        "2,84 meter",
+        "2,94 meter"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Tinggi meja tenis meja dari lantai adalah?",
+      "opsi": [
+        "70 cm",
+        "72,5 cm",
+        "75 cm",
+        "76 cm",
+        "80 cm"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Bagian kaki yang biasa digunakan untuk menendang bola dengan akurasi tinggi adalah....",
+      "pertanyaan": "Pukulan yang dilakukan dengan gerakan mendorong dan biasanya untuk mengembalikan bola pendek disebut?",
       "opsi": [
-        "Punggung kaki",
-        "Tumit",
-        "Telapak kaki",
-        "Kaki bagian dalam",
-        "Kaki bagian luar"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Induk organisasi sepak bola dunia adalah....",
-      "opsi": [
-        "KONI",
-        "PSSI",
-        "AFC",
-        "FIFA",
-        "UEFA"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Durasi pertandingan sepak bola standar internasional adalah....",
-      "opsi": [
-        "2 × 30 menit",
-        "2 × 35 menit",
-        "2 × 40 menit",
-        "2 × 45 menit",
-        "2 × 50 menit"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Jumlah pemain dalam satu tim bola voli adalah....",
-      "opsi": [
-        "5 orang",
-        "6 orang",
-        "7 orang",
-        "8 orang",
-        "9 orang"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Pada permainan bola voli, teknik untuk menahan bola yang datang dengan kedua tangan terbuka dan di atas kepala disebut....",
-      "opsi": [
-        "Passing bawah",
-        "Passing atas",
-        "Set",
         "Smash",
+        "Chop",
+        "Push",
+        "Drive",
         "Block"
       ],
-      "jawaban": "B"
+      "jawaban": "C"
     },
     {
-      "pertanyaan": "Tujuan utama dari blok dalam permainan bola voli adalah....",
+      "pertanyaan": "Jumlah pemain dalam satu regu softball adalah?",
       "opsi": [
-        "Menerima servis",
-        "Menyerang bola",
-        "Menghentikan serangan lawan",
-        "Memberikan umpan",
-        "Melakukan serve"
+        "7 orang",
+        "8 orang",
+        "9 orang",
+        "10 orang",
+        "11 orang"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Saat bola voli menyentuh garis lapangan, bola tersebut dianggap....",
+      "pertanyaan": "Lama permainan softball dalam satu pertandingan adalah?",
       "opsi": [
-        "Keluar",
-        "Masuk",
-        "Terlambat",
-        "Tidak sah",
-        "Posisi net"
+        "5 inning",
+        "6 inning",
+        "7 inning",
+        "8 inning",
+        "9 inning"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Pemain yang bertugas melempar bola ke arah pemukul disebut?",
+      "opsi": [
+        "Catcher",
+        "Pitcher",
+        "Shortstop",
+        "Umpire",
+        "Runner"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Ketika bola menyentuh net pada saat servis namun tetap masuk ke lapangan, maka servis tersebut....",
+      "pertanyaan": "Pemain yang bertugas menangkap bola di belakang pemukul adalah?",
       "opsi": [
-        "Diulang",
-        "Diterima oleh lawan",
-        "Dinyatakan gagal",
-        "Diteruskan tanpa penalti",
-        "Dibatalkan"
+        "Pitcher",
+        "Runner",
+        "Catcher",
+        "Baseman",
+        "Shortstop"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Pukulan yang dilakukan tanpa ayunan penuh untuk mengelabui lawan disebut?",
+      "opsi": [
+        "Swing",
+        "Smash",
+        "Bunt",
+        "Home run",
+        "Slide"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Pukulan keras dan tajam untuk mematikan lawan dalam permainan tenis meja disebut?",
+      "opsi": [
+        "Lob",
+        "Smash",
+        "Chop",
+        "Block",
+        "Service"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Pegangan bet yang seperti berjabat tangan disebut?",
+      "opsi": [
+        "Shakehand grip",
+        "Penhold grip",
+        "Seemiller grip",
+        "Backhand grip",
+        "Forehand grip"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Dalam permainan tenis meja, satu set dimenangkan oleh pemain yang terlebih dahulu mencapai angka?",
+      "opsi": [
+        "15",
+        "21",
+        "11",
+        "25",
+        "10"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dalam permainan softball terdapat berapa base?",
+      "opsi": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Wasit dalam permainan softball disebut?",
+      "opsi": [
+        "Referee",
+        "Judge",
+        "Linesman",
+        "Umpire",
+        "Starter"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Renang gaya dada disebut juga dengan istilah?",
+      "opsi": [
+        "Crawl stroke",
+        "Backstroke",
+        "Butterfly",
+        "Breaststroke",
+        "Sidestroke"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Posisi tubuh saat melakukan renang gaya dada adalah?",
+      "opsi": [
+        "Tegak di air",
+        "Miring",
+        "Telentang",
+        "Telungkup sejajar permukaan air",
+        "Berdiri"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Gerakan kaki pada renang gaya dada menyerupai gerakan?",
+      "opsi": [
+        "Katak",
+        "Kupu-kupu",
+        "Anjing",
+        "Ikan",
+        "Lumba-lumba"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Urutan gerakan kaki gaya dada yang benar adalah?",
+      "opsi": [
+        "Lurus -- buka -- tendang -- rapat",
+        "Buka -- lurus -- rapat -- tendang",
+        "Tekuk -- buka -- tendang -- rapat",
+        "Tendang -- buka -- tekuk -- rapat",
+        "Tekuk -- rapat -- buka -- tendang"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Apa yang dimaksud dengan teknik clear dalam bulutangkis?",
+      "opsi": [
+        "Pukulan untuk menyerang bola ke depan lawan",
+        "Pukulan untuk mengembalikan bola ke belakang atas lapangan lawan",
+        "Pukulan untuk menempatkan bola ke sisi kiri lapangan lawan",
+        "Pukulan untuk menempatkan bola ke sisi kanan lapangan lawan",
+        "Pukulan untuk menghindari bola mengenai net"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Pada pertandingan bulutangkis, berapa poin yang diperlukan untuk memenangkan satu set?",
+      "opsi": [
+        "11 poin",
+        "15 poin",
+        "30 poin",
+        "25 poin",
+        "21 poin"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Dalam bulutangkis, jenis permainan apa yang dimainkan oleh dua orang pemain dalam satu tim di masing-masing sisi lapangan?",
+      "opsi": [
+        "Tunggal putra",
+        "Tunggal putri",
+        "Ganda putra",
+        "Ganda campuran",
+        "Ganda putri"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Pukulan smash dalam bulutangkis dilakukan dengan tujuan untuk?",
+      "opsi": [
+        "Mengembalikan bola secara perlahan",
+        "Menyerang bola dengan pukulan keras dan tajam",
+        "Menempatkan bola di sudut belakang lawan",
+        "Membuat bola melewati net dengan lembut",
+        "Menghindari bola agar keluar lapangan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Apa yang dimaksud dengan offside dalam permainan sepak bola?",
+      "opsi": [
+        "Ketika bola keluar dari garis lapangan",
+        "Ketika pemain berada di posisi lebih dekat dengan gawang lawan dibandingkan bola dan pemain lawan saat bola diberikan kepadanya",
+        "Ketika pemain melakukan pelanggaran terhadap lawan",
+        "Ketika pemain mengoper bola kepada rekan setim yang berada lebih dekat dengan gawang sendiri",
+        "Ketika bola menyentuh tangan pemain"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Siapa yang bertanggung jawab untuk menjaga gawang dalam permainan sepak bola?",
+      "opsi": [
+        "Bek tengah",
+        "Penyerang",
+        "Gelandang",
+        "Kiper",
+        "Bek sayap"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Apa yang dimaksud dengan pemain bertahan dalam sepak bola?",
+      "opsi": [
+        "Pemain yang bertugas untuk mencetak gol",
+        "Pemain yang mengatur aliran bola di tengah lapangan",
+        "Pemain yang bertugas untuk menjaga dan melindungi gawang dari serangan lawan",
+        "Pemain yang bertugas untuk melakukan tendangan bebas",
+        "Pemain yang memberikan assist kepada penyerang"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Apa yang terjadi jika bola keluar garis samping dalam sepak bola?",
+      "opsi": [
+        "Diberikan tendangan penalti kepada tim yang memegang bola terakhir kali",
+        "Diberikan tendangan sudut (corner kick)",
+        "Diberikan tendangan bebas langsung kepada tim yang terakhir menyentuh bola",
+        "Diberikan lemparan ke dalam (throw-in)",
+        "Diberikan tendangan bebas tidak langsung"
       ],
       "jawaban": "D"
     },
@@ -122,7 +309,7 @@
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Latihan yang bertujuan untuk meningkatkan daya tahan jantung dan paru-paru disebut....",
+      "pertanyaan": "Latihan yang bertujuan untuk meningkatkan daya tahan jantung dan paru-paru disebut?",
       "opsi": [
         "Latihan kekuatan",
         "Latihan kelincahan",
@@ -133,7 +320,7 @@
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Tes kebugaran yang digunakan untuk mengukur daya tahan jantung dan paru-paru adalah....",
+      "pertanyaan": "Tes kebugaran yang digunakan untuk mengukur daya tahan jantung dan paru-paru adalah?",
       "opsi": [
         "Tes sit-up",
         "Tes lari 12 menit",
@@ -142,265 +329,23 @@
         "Tes jumping jack"
       ],
       "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Latihan kekuatan otot yang melibatkan beban berat untuk meningkatkan massa otot disebut....",
-      "opsi": [
-        "Latihan fleksibilitas",
-        "Latihan kekuatan",
-        "Latihan ketahanan",
-        "Latihan kecepatan",
-        "Latihan keseimbangan"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Pentingnya melakukan pemanasan sebelum berolahraga adalah....",
-      "opsi": [
-        "Untuk meningkatkan berat badan",
-        "Untuk menyiapkan tubuh agar siap beraktivitas dan mencegah cedera",
-        "Agar tubuh terlihat lebih kekar",
-        "Untuk meningkatkan kekuatan otot secara langsung",
-        "Agar lebih cepat lelah"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Jumlah pemain dalam satu tim bola basket adalah....",
-      "opsi": [
-        "5 orang",
-        "6 orang",
-        "7 orang",
-        "8 orang",
-        "9 orang"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Posisi pemain yang bertugas untuk mencetak poin dengan cara melakukan tembakan ke ring disebut....",
-      "opsi": [
-        "Point guard",
-        "Center",
-        "Forward",
-        "Shooting guard",
-        "Small forward"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Tembakan dalam permainan bola basket yang dilakukan dari luar garis 3 poin disebut....",
-      "opsi": [
-        "Layup",
-        "Free throw",
-        "Jump shot",
-        "Three-point shot",
-        "Hook shot"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Pemain yang memiliki tugas utama untuk mengatur serangan dan mendistribusikan bola kepada rekan satu tim disebut....",
-      "opsi": [
-        "Forward",
-        "Center",
-        "Shooting guard",
-        "Point guard",
-        "Small forward"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Apabila sebuah tim melanggar aturan \"3 detik\" dalam menyerang, maka yang terjadi adalah....",
-      "opsi": [
-        "Tim lawan mendapatkan bola",
-        "Tim diberi tendangan bebas",
-        "Tim yang melanggar kehilangan bola",
-        "Pemain yang melanggar dikenai hukuman 2 lemparan bebas",
-        "Tim yang melanggar dikenai penalti"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Jumlah pemain dalam satu tim pada permainan bulutangkis ganda adalah....",
-      "opsi": [
-        "1 orang",
-        "2 orang",
-        "3 orang",
-        "4 orang",
-        "5 orang"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Pada permainan bulutangkis, shuttlecock yang digunakan untuk bermain disebut....",
-      "opsi": [
-        "Raket",
-        "Shuttle",
-        "Net",
-        "Court",
-        "Ball"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Berapa panjang lapangan bulutangkis untuk permainan ganda (dalam meter)?",
-      "opsi": [
-        "12,8 meter",
-        "13,4 meter",
-        "14 meter",
-        "14,5 meter",
-        "15 meter"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Pukulan yang dilakukan dengan raket dari bawah dan diarahkan ke belakang atau ke sudut lapangan lawan disebut....",
-      "opsi": [
-        "Pukulan drive",
-        "Pukulan net",
-        "Pukulan smash",
-        "Pukulan lob",
-        "Pukulan servis"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Pada pertandingan bulutangkis, sistem permainan yang digunakan untuk menentukan pemenang adalah....",
-      "opsi": [
-        "Sistem 5 set",
-        "Sistem 3 set",
-        "Sistem 7 set",
-        "Sistem 1 set",
-        "Sistem 2 set"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Pada gaya dada, teknik pernapasan dilakukan dengan cara....",
-      "opsi": [
-        "Menghirup udara saat kedua tangan sedang di depan",
-        "Menghirup udara saat kedua tangan di belakang",
-        "Menghirup udara saat kedua tangan bergerak ke luar",
-        "Menghirup udara saat kepala keluar dari permukaan air",
-        "Menghirup udara saat kaki sedang tendangan"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Panjang kolam renang standar internasional adalah....",
-      "opsi": [
-        "25 meter",
-        "50 meter",
-        "75 meter",
-        "100 meter",
-        "150 meter"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Gerakan kaki dalam gaya dada dilakukan dengan cara....",
-      "opsi": [
-        "Kaki ditekuk seperti gerakan melingkar",
-        "Kaki bergerak lurus ke depan",
-        "Kaki bergerak seperti tendangan kaki ke belakang",
-        "Kaki bergerak seperti gerakan menyapu",
-        "Kaki bergerak naik turun secara bergantian"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Manfaat dari renang bagi kesehatan antara lain adalah....",
-      "opsi": [
-        "Meningkatkan kekuatan tulang dan otot",
-        "Meningkatkan daya tahan tubuh, kebugaran, dan sistem pernapasan",
-        "Menurunkan kadar kolesterol secara langsung",
-        "Mempercepat proses pembakaran kalori",
-        "Semua jawaban benar"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Pada gaya dada, posisi tubuh yang benar saat berenang adalah....",
-      "opsi": [
-        "Tubuh harus tenggelam dan kepala berada di bawah permukaan air",
-        "Tubuh harus sejajar dengan permukaan air dan kepala berada di atas",
-        "Tubuh harus miring ke kiri atau ke kanan",
-        "Kepala harus terus berada di dalam air sepanjang waktu",
-        "Kepala dan tubuh harus berada dalam posisi tegak"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Narkoba (Narkotika dan Obat-obatan Berbahaya) adalah zat atau obat yang....",
-      "opsi": [
-        "Hanya dapat digunakan oleh dokter",
-        "Menyebabkan ketergantungan dan kerusakan tubuh",
-        "Hanya boleh dikonsumsi di rumah sakit",
-        "Tidak berbahaya jika digunakan secara benar",
-        "Tidak memiliki efek samping"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Dampak negatif yang paling signifikan dari penyalahgunaan narkoba adalah....",
-      "opsi": [
-        "Meningkatkan kreativitas dan energi",
-        "Menghancurkan kesehatan fisik dan mental",
-        "Membantu seseorang tidur lebih nyenyak",
-        "Meningkatkan hubungan sosial",
-        "Meningkatkan kemampuan belajar"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Salah satu cara untuk menghindari pergaulan bebas adalah dengan....",
-      "opsi": [
-        "Bergaul dengan siapa saja tanpa memilih teman",
-        "Memiliki prinsip hidup yang baik dan disiplin",
-        "Tidak mengikuti kegiatan ekstrakurikuler",
-        "Sering mengikuti tren yang ada",
-        "Menjauhi keluarga dan orang yang peduli"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Pergaulan bebas dapat menyebabkan....",
-      "opsi": [
-        "Meningkatkan prestasi akademik",
-        "Kehilangan masa depan dan membahayakan kesehatan",
-        "Meningkatkan rasa tanggung jawab",
-        "Membuka peluang karier yang lebih baik",
-        "Semua jawaban benar"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Apa yang harus dilakukan seseorang jika merasa terjerumus dalam penyalahgunaan narkoba?",
-      "opsi": [
-        "Mencoba berhenti sendiri tanpa bantuan",
-        "Mengabaikan masalahnya dan terus menggunakan narkoba",
-        "Berkonsultasi dengan keluarga atau profesional untuk mendapatkan bantuan",
-        "Tidak perlu memberi tahu siapa pun dan berusaha menghadapinya sendiri",
-        "Menghentikan penggunaan narkoba secara tiba-tiba tanpa perencanaan"
-      ],
-      "jawaban": "C"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Jelaskan jenis-jenis pukulan dalam bulutangkis dan bagaimana cara melakukannya dengan benar!"
+      "pertanyaan": "Jelaskan pengertian tenis meja, sejarah singkat perkembangannya!"
     },
     {
-      "pertanyaan": "Jelaskan komponen-komponen kebugaran jasmani dan bagaimana cara melatih masing-masing komponen tersebut!"
+      "pertanyaan": "Jelaskan teknik dasar dalam permainan tenis meja beserta fungsinya masing-masing!"
     },
     {
-      "pertanyaan": "Jelaskan strategi dalam permainan bola voli untuk menyerang dan bertahan yang efektif, serta bagaimana cara menerapkannya dalam pertandingan!"
+      "pertanyaan": "Jelaskan teknik dasar dalam permainan softball beserta fungsinya!"
     },
     {
-      "pertanyaan": "Jelaskan cara melakukan dribbling dalam permainan basket! Apa saja variasi dribbling yang bisa dilakukan?"
+      "pertanyaan": "Jelaskan peran dan tugas masing-masing posisi pemain dalam softball!"
     },
     {
-      "pertanyaan": "Jelaskan tugas-tugas utama pemain di setiap posisi dalam sepak bola!"
+      "pertanyaan": "Jelaskan langkah-langkah melakukan renang gaya dada!"
     }
   ]
 }
