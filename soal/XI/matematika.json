@@ -1,351 +1,290 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Tentukan $\\left( \\frac{1}{8} \\right)^{4}:\\ \\left( \\frac{1}{4} \\right)^{2}$ adalah ...",
+      "pertanyaan": "Tentukan determinan dari matriks N = $\\begin{pmatrix} - 1 & 2 & - 3 \\\\ 0 & 5 & - 4 \\\\ 1 & 4 & 0 \\end{pmatrix}$ adalah...",
       "opsi": [
-        "$2^{- 5}$",
-        "$2^{- 6}$",
-        "$2^{- 7}$",
-        "$2^{- 8}$",
-        "$2^{- 9}$"
+        "9",
+        "-9",
+        "10",
+        "-10",
+        "11"
       ],
-      "jawaban": "D"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Tentukan ($\\sqrt{5}$ + $\\sqrt{6}$ ) ($\\sqrt{5}$ +$\\sqrt{6}$ ) adalah ...",
+      "pertanyaan": "Tentukan invers dari matriks C = $\\begin{pmatrix} - 4 & 7 \\\\ - 2 & 4 \\end{pmatrix}$ adalah ...",
       "opsi": [
-        "$10 + 2 \\sqrt{30}$",
-        "$11 - 2 \\sqrt{30}$",
-        "$11 + 2 \\sqrt{30}$",
-        "$11 + 3 \\sqrt{30}$",
-        "$11 + 4 \\sqrt{30}$"
+        "$\\begin{pmatrix} - 2 & 3\\frac{1}{2} \\\\ - 1 & 2 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 2 & 3\\frac{1}{2} \\\\ - 1 & 2 \\end{pmatrix}$",
+        "$\\begin{pmatrix} - 2 & 3\\frac{1}{2} \\\\ 1 & 2 \\end{pmatrix}$",
+        "$\\begin{pmatrix} - 2 & - 3\\frac{1}{2} \\\\ - 1 & 2 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 2 & 3\\frac{1}{2} \\\\ - 1 & - 2 \\end{pmatrix}$"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Hitunglah pola bilangan dari 20, 18, 16, 14, ...",
+      "opsi": [
+        "12",
+        "10",
+        "8",
+        "4",
+        "2"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Hitunglah pola bilangan dari 2,6,12,20,...",
+      "opsi": [
+        "25",
+        "30",
+        "35",
+        "40",
+        "45"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Hitunglah pola bilangan dari 0,2,5,10,17,28, ...",
+      "opsi": [
+        "29",
+        "32",
+        "41",
+        "42",
+        "56"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Tentukan nilai-nilai dari soal berikut ini. $4_{\\log 8}$ adalah...",
+      "pertanyaan": "Suku ke-n pada barisan aritmatika 2, 6, 10, 14, ... bisa dinyatakan dengan ...",
       "opsi": [
-        "$\\frac{3}{2}$",
-        "$\\frac{5}{2}$",
-        "$3$",
-        "$4$",
-        "$6$"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Tentukan nilai dari $\\log{2 + \\log{200 - \\log{6 + \\log{5 - \\log{3 + \\log{18 - \\log 2}}}}}}$ adalah...",
-      "opsi": [
-        "$2$",
-        "$3$",
-        "$4$",
-        "$5$",
-        "$6$"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Tentukan determinan matriks dari R = $\\begin{bmatrix} 5 & - 2 \\\\ - 4 & 3 \\end{bmatrix}$ Adalah ...",
-      "opsi": [
-        "$5$",
-        "$6$",
-        "$7$",
-        "$8$",
-        "$9$"
+        "$u_{n} = \\ 4n\\  + 4$",
+        "$u_{n} = \\ 4n\\  + 2$",
+        "$u_{n} = \\ 4n\\  - 2$",
+        "$u_{n} = \\ 4n\\  + 1$",
+        "$u_{n} = \\ 4n\\  - 1$"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Matriks dari A = $\\begin{bmatrix} 3 & - 2 \\\\ 2 & 1 \\end{bmatrix}$ dan B = $\\begin{bmatrix} 2 & 1 \\\\ - 5 & 3 \\end{bmatrix}$, Tentukan matriks A + B adalah ...",
+      "pertanyaan": "Suku ke -20 pada barisan aritmatika 13, 10, 7, 4, ...",
       "opsi": [
-        "$\\begin{bmatrix} 5 & - 1 \\\\ - 3 & 4 \\end{bmatrix}$",
-        "$\\begin{bmatrix} 5 & 1 \\\\ 3 & 4 \\end{bmatrix}$",
-        "$\\begin{bmatrix} 5 & - 1 \\\\ 3 & 4 \\end{bmatrix}$",
-        "$\\begin{bmatrix} 5 & 1 \\\\ - 3 & 4 \\end{bmatrix}$",
-        "$\\begin{bmatrix} - 5 & 1 \\\\ - 3 & 4 \\end{bmatrix}$"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Tentukan determinan dari matriks dari N = $\\begin{bmatrix} - 1 & 2 & - 3 \\\\ 0 & 5 & - 4 \\\\ 1 & 4 & 0 \\end{bmatrix}$ adalah ...",
-      "opsi": [
-        "$-8$",
-        "$-9$",
-        "$-10$",
-        "$-11$",
-        "$-12$"
+        "-43",
+        "-44",
+        "-45",
+        "-56",
+        "-60"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Tentukanlah persamaan garis lurus yang melalui titik (3,-4) dan (-2,6) adalah ...",
+      "pertanyaan": "Suku keempat suatu deret aritmatika adalah 9 dan jumlah suku keenam dan kedelapan adalah 30. Jumlah 20 suku pertama deret tersebut adalah ...",
       "opsi": [
-        "$y = -2x + 2$",
-        "$y = -3x + 2$",
-        "$y = -2x + 3$",
-        "$y = -3x + 3$",
-        "$y = 2x + 2$"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Tentukan 2 suku dari pola barisan 1,5,5,3,9,1,13,-1,...",
-      "opsi": [
-        "$17, -3$",
-        "$-17, -3$",
-        "$-17, 3$",
-        "$18, -3$",
-        "$-18, 3$"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "23, -5, 11, -13, 19, -21, ...",
-      "opsi": [
-        "$26, 28$",
-        "$27, -28$",
-        "$27, -29$",
-        "$27, 29$",
-        "$28, 29$"
+        "240",
+        "400",
+        "440",
+        "600",
+        "640"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Tentukan 2 suku yang pertamanya dan suku ke -30 jika suatu barisan memiliki pola $U_{n}$ sebagai berikut $U_{n} = 5n - 7$",
+      "pertanyaan": "Dari deret aritmatika diketahui $U_{6}\\  + \\ U_{9}\\  + U_{12}\\  + \\ U_{15}\\  = \\ 20,\\ $maka $s_{20}$ = ...",
       "opsi": [
-        "$-2, 3$, dan suku ke- 30 adalah $143$",
-        "$-3, 2$ dan suku ke -30 adalah $144$",
-        "$-2, -3$ dan suku ke-30 adalah $145$",
-        "$2, 3$ dan suku ke-30 adalah $146$",
-        "$-3,-2$ dan suku ke -30 adalah $147$"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Tentukan 2 suku yang pertamanya dan suku ke -50 jika suatu barisan memiliki pola $U_{n}$ sebagai berikut $U_{n} = \\ \\frac{2n}{(n + 2)\\ (2n - 1)}$ adalah ...",
-      "opsi": [
-        "$\\frac{2}{3}$, $\\frac{1}{3}$, dan suku ke- 50 adalah $\\frac{25}{1287}$",
-        "$\\frac{1}{3},\\ \\frac{2}{3},\\ $ dan suku ke-50 adalah $\\frac{25}{1286}$",
-        "$\\frac{1}{4},\\ \\frac{1}{5},\\ $ dan suku ke-50 adalah $\\frac{25}{1285}$",
-        "$- \\frac{1}{3},\\ \\frac{2}{3},\\ $ dan suku ke-50 adalah $\\frac{25}{1286}$",
-        "$\\frac{2}{3},\\ \\frac{1}{3},\\ $ dan suku ke-50 adalah $\\frac{25}{1286}$"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Tentukan nilai dari $$\\sum_{x = 5}^{8}{{2x}^{3}\\ adalah\\ldots}$$",
-      "opsi": [
-        "$1024$",
-        "$1025$",
-        "$1458$",
-        "$1460$",
-        "$1465$"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Tentukan nilai dari $$\\sum_{x = 6}^{10}{{(n}^{2} - 1)adalah\\ldots}$$",
-      "opsi": [
-        "$324$",
-        "$325$",
-        "$326$",
-        "$327$",
-        "$328$"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Tentukan suku ke-100 dari barisan aritmatika -5, -1, 3, 7, 11, ...",
-      "opsi": [
-        "$390$",
-        "$391$",
-        "$392$",
-        "$393$",
-        "$394$"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Tentukan suku ke -20 dari barisan aritmatika 35, 32,29,26, ...",
-      "opsi": [
-        "$-21$",
-        "$-22$",
-        "$-23$",
-        "$-24$",
-        "$-25$"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Tentukan suku ke-100 dari barisan aritmatika 1,7,13,19,25,...",
-      "opsi": [
-        "$594$",
-        "$595$",
-        "$596$",
-        "$597$",
-        "$598$"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Tentukan suku tengah dari 3,5,7,9, ... , 75",
-      "opsi": [
-        "$39$",
-        "$40$",
-        "$42$",
-        "$45$",
-        "$48$"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Tentukan b, a, suku ke-n, suku ke-80 dari suku ke-3 = 20 dan suku ke-8 = 40",
-      "opsi": [
-        "$A= 26$ $b = 2$ dan suku ke- 80 = $184$",
-        "$A = -2$ $b = 26$ dan suku ke-80 = $184$",
-        "$A= 26$ $b = -2$ dan suku ke-80 = $185$",
-        "$A= -2$ $b = 26$ dan suku ke-80 = $185$",
-        "$A = 26$ $b = 2$ dan suku ke- 80 = $-184$"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Tentukan nilai dari deret 2 + 8 +14+20 +... (sampai 25 suku)",
-      "opsi": [
-        "$1.845$",
-        "$1.850$",
-        "$1.855$",
-        "$1.857$",
-        "$1.859$"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "3 + 10 + 17+ 31+...+262",
-      "opsi": [
-        "$5033$",
-        "$5034$",
-        "$5035$",
-        "$5040$",
-        "$5045$"
+        "50",
+        "80",
+        "100",
+        "200",
+        "400"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "1, $\\frac{1}{5}$, $\\frac{1}{25}$, $\\frac{1}{125}$, $\\frac{1}{625}$ tentukan rasio dari barisan berikut ...",
+      "pertanyaan": "Suku ke-7 dari barisan geometri 3,6,12, ... adalah...",
       "opsi": [
-        "$1$",
-        "$\\frac{1}{5}$",
-        "$\\frac{1}{25}$",
-        "$- \\frac{1}{5}$",
-        "$-1$"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Tentukan barisan geometri dari 1,3,9,27,81, ...",
-      "opsi": [
-        "$241$",
-        "$242$",
-        "$243$",
-        "$244$",
-        "$245$"
+        "185",
+        "186",
+        "192",
+        "196",
+        "198"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Hitunglah jumlah deret geometri dari 2 + 6 + 18 + ...",
+      "pertanyaan": "Tentukan jumlah 5 suku pertama dari deret geometri 3 + (-6) + 12 + (-24)+ ... !",
       "opsi": [
-        "$727$",
-        "$728$",
-        "$729$",
-        "$730$",
-        "$732$"
+        "30",
+        "33",
+        "35",
+        "40",
+        "45"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Tentukan suku ke -15 dari barisan geometri 3, 6, 12, 24, 48, ...",
+      "pertanyaan": "Diketahui deret geometri 7 + 14 + 28 + 56 + ... Tentukan jumlah 7 suku pertama adalah ...",
       "opsi": [
-        "$49.152$",
-        "$49.153$",
-        "$49.154$",
-        "$49.155$",
-        "$49.156$"
+        "889",
+        "890",
+        "900",
+        "980",
+        "990"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Diketahui suatu barisan suku ke-6 adalah 96 dan suku ke-9 adalah 768. Tentukan suku ke-12.",
+      "pertanyaan": "Tentukan mean dari data 8,6,6,5,7,8,7,9,7 adalah ...",
       "opsi": [
-        "$6143$",
-        "$6144$",
-        "$6145$",
-        "$6146$",
-        "$6147$"
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Tentukan jumlah 9 suku pertama dari deret geometri 3 + 6 + 12 + 24 + 48 + ...",
+      "pertanyaan": "Tentukan median dari data 4,5,6,5,7,3,5 adalah ...",
       "opsi": [
-        "$1535$",
-        "$1536$",
-        "$1556$",
-        "$1565$",
-        "$1575$"
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Tentukan modus dari data 2,6,7,8,8,2,2,2,7,7,9,7,8,5,7 adalah ...",
+      "opsi": [
+        "6, 2",
+        "2",
+        "7",
+        "7, 8",
+        "2, 7, 8"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "<blockquote><b>Nilai matematika 40 siswa disajikan dalam tabel berikut.</b><br><br><table><tr><th>Nilai</th><th>F</th></tr><tr><td>41-50</td><td>2</td></tr><tr><td>51-60</td><td>5</td></tr><tr><td>61-70</td><td>10</td></tr><tr><td>71-80</td><td>13</td></tr><tr><td>81-90</td><td>6</td></tr><tr><td>91-100</td><td>4</td></tr></table></blockquote><br>Tentukan Tepi atas dari interval kelas ke- 5 adalah ...",
+      "opsi": [
+        "80,5",
+        "81,5",
+        "90,5",
+        "89,5",
+        "91"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "<blockquote><table><tr><th>Berat Badan</th><th>F</th></tr><tr><td>21-25</td><td>2</td></tr><tr><td>26-30</td><td>8</td></tr><tr><td>31-35</td><td>9</td></tr><tr><td>36-40</td><td>6</td></tr><tr><td>41-45</td><td>3</td></tr><tr><td>46-50</td><td>2</td></tr></table></blockquote><br>Tentukan Batas Bawah & Batas Atas dari interval kelas ke- 4 adalah ...",
+      "opsi": [
+        "36,5 -- 40,5",
+        "35,5 -- 39,5",
+        "36 -- 40",
+        "40 -- 36",
+        "35 - 39"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "<blockquote><b>Panjang interval dari data berikut ini adalah ...</b><br><br><table><tr><th>Nilai</th><th>Frekuensi</th></tr><tr><td>1-5</td><td>4</td></tr><tr><td>6-10</td><td>8</td></tr><tr><td>11-15</td><td>2</td></tr><tr><td>16-20</td><td>6</td></tr><tr><td>21-25</td><td>9</td></tr><tr><td>26-30</td><td>5</td></tr></table></blockquote><br>Panjang interval dari data berikut ini adalah ...",
+      "opsi": [
+        "1",
+        "5",
+        "6",
+        "7",
+        "10"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "<blockquote><b>Berdasarkan data pada tabel berikut</b><br><br><table><tr><th>Nilai</th><th>Frekuensi</th></tr><tr><td>1-5</td><td>4</td></tr><tr><td>6-10</td><td>8</td></tr><tr><td>11-15</td><td>2</td></tr><tr><td>16-20</td><td>6</td></tr><tr><td>21-25</td><td>9</td></tr><tr><td>26-30</td><td>5</td></tr></table></blockquote><br>Tentukana Mean data kelompok dari data di atas adalah ...",
+      "opsi": [
+        "16",
+        "16,5",
+        "16,38",
+        "18,3",
+        "18,38"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Tentukan Quartil data ke-2 dari 6,7,6,8,10,8,11,10 adalah ...",
+      "opsi": [
+        "7",
+        "8",
+        "8,5",
+        "9",
+        "10"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Diketahui suatu barisan geometri suku ke-6 adalah 96 dan suku ke-9 adalah 768. Tentukan suku ke-12.",
+      "opsi": [
+        "6142",
+        "6143",
+        "6144",
+        "6145",
+        "6146"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Tentukan jumlahnya dari deret geometri 1+2+4+8+...(sampai 13 Suku)",
+      "opsi": [
+        "8190",
+        "8191",
+        "8192",
+        "8193",
+        "8194"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Tentukan nilai dari $$\\sum_{i = 1}^{100}{(2i + 5}) = \\ldots.$$",
+      "opsi": [
+        "10600",
+        "10601",
+        "10602",
+        "10603",
+        "10604"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Tentukan rasio dari deret geometri 2 + 6 + 18 + 54+...",
+      "pertanyaan": "Tentukan persamaan garis lurus yang bergadien $- \\frac{2}{3}$ dan melalui (-6, 2) adalah ...",
       "opsi": [
-        "$2$",
-        "$3$",
-        "$4$",
-        "$5$",
-        "$6$"
+        "3y = -2x-6",
+        "3y = 2x+6",
+        "3y= -2x -- 6",
+        "-3y = 2x-6",
+        "3y = -2+6"
       ],
-      "jawaban": "B"
+      "jawaban": "A"
     },
     {
-      "pertanyaan": "Tentukan suku tengah dari 3,5,7,9, ..., 75",
+      "pertanyaan": "Tentukan desil-2 dari data 2, 11, 1, 10, 3, 9 adalah ...",
       "opsi": [
-        "$30$",
-        "$31$",
-        "$38$",
-        "$39$",
-        "$40$"
+        "1,2",
+        "1,3",
+        "1,4",
+        "1,5",
+        "1,6"
       ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Suku ke-4 adalah 81, dan suku ke-6 adalah 729. Tentukan suku pertama dan rasionya dari barisan geometri ?",
-      "opsi": [
-        "$a = 2, r = 2$",
-        "$a = 3, r = 3$",
-        "$a = 4, r = 4$",
-        "$a = 5, r = 5$",
-        "$a = 6, r = 6$"
-      ],
-      "jawaban": "B"
+      "jawaban": "C"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Tentukan nilai dari $$\\sum_{i = 5}^{8}{2i^{3}} = \\ldots$$"
+      "pertanyaan": "Tentukan jumlah 10 suku pertama dari deret aritmatika 3 + 5 + 7 + 9, ..."
     },
     {
-      "pertanyaan": "Tentukan beda, suku pertama, rumus ke-n dan rumus ke-75 dari barisan aritmatika, Suku ke-15 = 52 dan suku ke-8 = 31"
+      "pertanyaan": "Sebuah barisan geometri memiliki suku ke-6 sebesar 2430 dan suku ke-3 sebesar 90. Maka, jumlah 4 suku pertama adalah ..."
     },
     {
-      "pertanyaan": "Tentukan nilai dari deret aritmatika 1 + 5 + 9 + 13 +... ( Sampai 75 Suku)"
-    },
-    {
-      "pertanyaan": "Tentukan rumus suku ke-n dan suku ke-15 dari barisan geometri 3,6,12,24,48,..."
-    },
-    {
-      "pertanyaan": "Tentukan jumlahnya dari deret geometri 1+2+4+8+... (sampai 13 suku)"
+      "pertanyaan": "<blockquote><b>Nilai Matematika 40 siswa disajikan dalam tabel berikut.</b><br><br><table><tr><th>Nilai</th><th>F</th></tr><tr><td>41-50</td><td>2</td></tr><tr><td>51-60</td><td>5</td></tr><tr><td>61-70</td><td>10</td></tr><tr><td>71-80</td><td>13</td></tr><tr><td>81-90</td><td>6</td></tr><tr><td>91-100</td><td>4</td></tr></table></blockquote><br>Tentukan :<br><br>A. Mean data kelompok<br>B. Median data kelompok<br>C. Modus data kelompok"
     }
   ]
 }
