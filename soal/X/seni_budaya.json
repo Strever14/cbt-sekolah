@@ -1,406 +1,351 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Teknik dasar yang paling penting dalam mengatur kekuatan suara saat bernyanyi adalah...",
+      "pertanyaan": "Seni rupa adalah cabang seni yang mengekspresikan gagasan dna perasaan melalui media yang dapat...",
       "opsi": [
-        "Vibrato",
-        "Resonansi",
-        "Pernapasan diafragma",
-        "Artikulasi",
-        "Falsetto"
+        "Didengar",
+        "Dilihat dan diraba",
+        "Dirasakan secara batin saja",
+        "Dinyanyikan",
+        "Diraba"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Unsur seni rupa yang menjadi dasar terbentuknya semua visual adalah...",
+      "opsi": [
+        "Bidang",
+        "Warna",
+        "Titik",
+        "Ruang",
+        "Tekstur"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Bagian tubuh yang paling dominan bekerja pada pernapasan diafragma adalah...",
+      "pertanyaan": "Gabungan beberapa titik yang memanjang akan membentuk...",
       "opsi": [
-        "Bahu",
-        "Leher",
-        "Dada atas",
-        "Perut bawah",
-        "Pipi"
+        "Warna",
+        "Garis",
+        "Tekstur",
+        "Ruang",
+        "Komposisi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perbedaan antara panjang dan lebar yang memiliki batas disebut...",
+      "opsi": [
+        "Ruang",
+        "Garis",
+        "Volume",
+        "Bidang",
+        "Irama"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Timbre adalah...",
+      "pertanyaan": "Kesan gelap-terang dalam karya dua dimensi disebut...",
       "opsi": [
-        "Tinggi rendah nada",
-        "Warna atau karakter suara",
-        "Kekuatan suara",
-        "Irama dalam lagu",
-        "Kecepatan lagu"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Berikut ini yang seharusnya tidak dilakukan saat bernapas diafragma...",
-      "opsi": [
-        "Bahu terangkat",
-        "Perut mengembang",
-        "Tubuh rileks",
-        "Napas dari bawah",
-        "Otot perut mengatur udara"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Proyeksi suara berguna untuk...",
-      "opsi": [
-        "Mengubah nada",
-        "Mengeluarkan suara kuat tanpa tegang",
-        "Membuat suara menjadi lembut",
-        "Menurunkan tempo",
-        "Menghilangkan artikulasi"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Resonansi suara pada vokal terjadi pada...",
-      "opsi": [
-        "Hidung, mulut, rongga dada",
-        "Pipi, telinga, leher",
-        "Perut, jari, pipi",
-        "Lidah, gigi, rahang",
-        "Kepala, pundak, lutut"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Latihan vokal yang melatih artikulasi adalah...",
-      "opsi": [
-        "Lip trill",
-        "La-la-la cepat",
-        "Huruf konsonan berulang",
-        "Pernapasan 4-4-4",
-        "Vibrato"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Yang termasuk faktor baik dalam manajemen suara adalah...",
-      "opsi": [
-        "Postur bungkuk",
-        "Leher tegang",
-        "Tubuh rileks",
-        "Bahu terangkat",
-        "Napas pendek"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Teknik pengaturan kalimat lagu agar sesuai dengan makna dan jeda napas yang tepat disebut...",
-      "opsi": [
-        "Artikulasi",
-        "Improvisasi",
-        "Phrasering",
-        "Intonasi",
-        "Vibrato"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Hal yang memungkinkan menyebabkan penyanyi cepat kehabisan napas adalah...",
-      "opsi": [
-        "Pernapasan dada",
-        "Pernapasan diafragma",
-        "Membungkukan badan",
-        "Tubuh kurang rileks",
-        "Tidak fokus"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Proses mengatur kestabilan nada saat bernyanyi agar tidak fals disebut...",
-      "opsi": [
-        "Artikulasi",
-        "Vibrato",
-        "Intonasi",
-        "Phrasering",
-        "Resonansi"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Kesalahan umum ketika melakukan improvisasi adalah...",
-      "opsi": [
-        "Menjaga nada dasar",
-        "Mengikuti irama musik",
-        "Keluar dari tema lagu",
-        "Menggunakan dinamika",
-        "Menjaga artikulasi"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Intonasi yang buruk menyebabkan lagu terdengar...",
-      "opsi": [
-        "Jelas",
-        "Harmonis",
-        "Fals",
-        "Kuat",
-        "Lembut"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Saat artikulasi tidak jelas, maka pendengar akan kesulitan...",
-      "opsi": [
-        "Mengetahui tempo lagu",
-        "Mendengar suara musik",
-        "Memahami lirik lagu",
-        "Menyimak ritme musik",
-        "Menyimak nada tinggi"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Improvisasi pada vokal bertujuan untuk...",
-      "opsi": [
-        "Mengubah total isi lagu",
-        "Memberi variasi tanpa menghilangkan melodi dasar",
-        "Menyanyikan lagu lebih cepat",
-        "Menghapus dinamika lagu",
-        "Menghindari harmoni"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Apakah yang dimaksud dengan dinamika dalam musik?",
-      "opsi": [
-        "Kecepatan lagu",
-        "Volume suara yang dimainkan",
-        "Jenis alat musik yang digunakan",
-        "Ritme dalam lagu",
-        "Gaya vokal penyanyi"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Apa yang dimaksud dengan interval dalam musik?",
-      "opsi": [
-        "Jarak antara dua ketukan",
-        "Jarak antara nada satu dengan nada lainnya",
-        "Jarak antara dua instrument",
-        "Perbedaan antara dua tempo",
-        "Jarak antara dua notasi"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Apa itu tangga nada pentatonik?",
-      "opsi": [
-        "Tangga nada yang terdiri 7 nada",
-        "Tangga nada yang terdiri 8 nada",
-        "Tangga nada yang terdiri 5 nada",
-        "Tangga nada yang terdiri 3 nada",
-        "Tangga nada yang memiliki interval setengah"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Apa itu tangga nada diatonik?",
-      "opsi": [
-        "Tangga nada yang terdiri 7 nada",
-        "Tangga nada yang terdiri 8 nada",
-        "Tangga nada yang terdiri 5 nada",
-        "Tangga nada yang terdiri 3 nada",
-        "Tangga nada yang memiliki interval setengah"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Apa yang dimaksud dengan melodi?",
-      "opsi": [
-        "Pola ketukan dalam musik",
-        "Urutan nada yang membentuk suatu lagu",
-        "Pengulangan ritme",
-        "Bagian paling keras dari sebuah lagu",
-        "Irama lagu"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Manakah yang merupakan jenis vokal tertinggi pada pria?",
-      "opsi": [
-        "Bariton",
-        "Tenor",
-        "Bas",
-        "Sopran",
-        "Alto"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Manakah yang merupakan jenis vokal tertinggi pada wanita?",
-      "opsi": [
-        "Bariton",
-        "Tenor",
-        "Bas",
-        "Sopran",
-        "Alto"
+        "Perspektif",
+        "Komposisi",
+        "Gradasi",
+        "Gelap terang (value)",
+        "Harmoni"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Manakah yang merupakan jenis vokal terendah pada pria?",
+      "pertanyaan": "Prinsip seni rupa yang menekankan keseimbangan visual disebut...",
       "opsi": [
-        "Bariton",
-        "Tenor",
-        "Bas",
-        "Sopran",
-        "Alto"
+        "Kontras",
+        "Proporsi",
+        "Balance",
+        "Irama",
+        "Dominasi"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Manakah yang merupakan jenis vokal terendah pada wanita?",
+      "pertanyaan": "Warna merah, kuning, dan biru disebut warna...",
       "opsi": [
-        "Bariton",
-        "Tenor",
-        "Bas",
-        "Sopran",
-        "Alto"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Apa yang dimaksud dengan \"staccato\"?",
-      "opsi": [
-        "Memainkan nada dengan sambung atau lancar",
-        "Memainkan nada secara terputus-putus",
-        "Memainkan nada dengan penekanan",
-        "Memainkan dengan kecepatan tinggi",
-        "Memainkan dengan volume keras"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Apa yang dimaksud dengan alat musik chordophone?",
-      "opsi": [
-        "Alat musik yang menghasilkan suara melalui getaran udara",
-        "Alat musik yang menghasilkan suara berasal dari rangkaian senar atau dawai",
-        "Alat musik yang menghasilkan suara dengan cara ditiup",
-        "Alat musik yang menghasilkan suara dengan melalui tabuhan",
-        "Alat musik yang menghasilkan suara berasal dari alat musik itu sendiri"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Manakah yang termasuk ke dalam kategori aerophone?",
-      "opsi": [
-        "Gitar",
-        "Biola",
-        "Flute",
-        "Drum",
-        "Piano"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Alat musik membranophone menghasilkan suara melalui...",
-      "opsi": [
-        "Getaran senar",
-        "Getaran selaput tipis",
-        "Getaran logam",
-        "Getaran udara",
-        "Vibrasi kayu yang dipukul"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Alat musik membranophone yang berperan sebagai pengiring gamelan pada musik tradisional Jawa, Bali, Sunda dan Banten adalah...",
-      "opsi": [
-        "Gendang",
-        "Kecrek",
-        "Bonang",
-        "Rebana",
-        "Seruling"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Jenis alat musik yang sumber suaranya berasal dari rangkaian electronica yang ada di alat musiknya itu sendiri adalah...",
-      "opsi": [
-        "Aerophone",
-        "Idiophone",
-        "Membranophone",
-        "Electrophone",
-        "Chordophone"
+        "Sekunder",
+        "Tersinder",
+        "Netral",
+        "Primer",
+        "Analog"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Berapa jumlah formasi <i>kuartet</i> dalam formasi permainan musik...",
+      "pertanyaan": "Warna hasil pencampuran dua warna primer disebut warna...",
       "opsi": [
-        "Dua orang",
-        "Tiga orang",
-        "Empat orang",
-        "Lebih dari 28 orang",
-        "Satu orang"
+        "Primer",
+        "Sekunder",
+        "Tersier",
+        "Komplementer",
+        "Netral"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Karya seni rupa dua dimensi memiliki ukuran...",
+      "opsi": [
+        "Panjang, lebar, dan tinggi",
+        "Tinggi dan volume",
+        "Panjang dan lebar",
+        "Volume dan massa",
+        "Berat dan ruang"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Manakah dibawah ini yang tidak termasuk ke dalam ciri-ciri vokal grup...",
+      "pertanyaan": "Contoh karya seni rupa dua dimensi adalah...",
       "opsi": [
-        "Terdiri dari beberapa kumpulan penyanyi",
-        "Terdiri dari beberapa penyanyi yang mampu membawakan jenis variasi suara",
-        "Tidak mempunyai pemandu atau dirigen",
-        "Improvisasi lebih dominan",
-        "Improvisasi sesuai keinginan sendiri"
+        "Patung",
+        "Relief",
+        "Lukisan",
+        "Keramik",
+        "Instalasi"
       ],
-      "jawaban": "E"
+      "jawaban": "C"
     },
     {
-      "pertanyaan": "Agar suara tidak serak saat bernyanyi, sebaiknya...",
+      "pertanyaan": "Teknik menggambar dengan mengandalkan garis luar objek tanpa detail disebut teknik...",
       "opsi": [
-        "Minum es sebelum bernyanyi",
-        "Minum air hangat",
-        "Berteriak keras",
-        "Tidak pemanasan",
-        "Tidur larut malam"
+        "Blok",
+        "Dusel",
+        "Arsir",
+        "Outline",
+        "Pointilis"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Teknik menggambar menggunakan titik-titik disebut...",
+      "opsi": [
+        "Arsir",
+        "Blok",
+        "Pointilis",
+        "Dusel",
+        "Linear"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Prinsip seni rupa yang menunjukan pengulangan unsur secara teratur disebut...",
+      "opsi": [
+        "Irama",
+        "Kontras",
+        "Kesatuan",
+        "Proporsi",
+        "Harmoni"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Susunan unsur-unsur seni rupa dalam suatu karya disebut...",
+      "opsi": [
+        "Komposisi",
+        "Perspektif",
+        "Sketsa",
+        "Teknik",
+        "Ekspresi"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Perbandingan ukuran antara bagian satu dengan yang lain disebut...",
+      "opsi": [
+        "Irama",
+        "Proporsi",
+        "Kontras",
+        "Dominasi",
+        "Ritme"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Latihan bernyanyi dilakukan dengan menutup bibir sambil menggetarkan disebut...",
+      "pertanyaan": "Unsur seni rupa yang berkaitan dengan kesan permukaan kasar atau halus adalah...",
       "opsi": [
-        "Humming",
-        "Lip roll",
-        "Vibrato",
-        "Artikulasi",
-        "Falsetto"
+        "Bidang",
+        "Warna",
+        "Tekstur",
+        "Ruang",
+        "Gelap terang"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Warna yang berseberangan dalam lingkaran warna disebut warna...",
+      "opsi": [
+        "Analog",
+        "Primer",
+        "Sekunder",
+        "Komplementer",
+        "Netral"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Ilusi kedalaman pada karya dua dimensi dapat diciptakan melalui Teknik...",
+      "opsi": [
+        "Kolase",
+        "Perspektif",
+        "Cetak",
+        "Aquarel",
+        "Blok"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Teknik falsetto sering digunakan pada nada...",
+      "pertanyaan": "Salah satu fungsi seni rupa dalam kehidupan sehari-hari Adalah...",
       "opsi": [
-        "Rendah",
+        "Hiburan saa",
+        "Ekspresi dan fungsi pakai",
+        "Pendidikan saja",
+        "Upacara saja",
+        "Estetika saja"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Gambar rancangan awal sebelum membuat karya disebut...",
+      "opsi": [
+        "Ilustrasi",
+        "Sketsa",
+        "Mozaik",
+        "Poster",
+        "Karikatur"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Harmoni dalam karya seni rupa berarti...",
+      "opsi": [
+        "Adanya perbedaan mencolok",
+        "Susunan yang bertentangan",
+        "Keselarasan antar unsur",
+        "Pengulangan berlebihan",
+        "Dominasi satu warna"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Contoh karya seni rupa dua dimensi yang memiliki fungsi komunikasi visual adalah...",
+      "opsi": [
+        "Patung",
+        "Lukisna abstrak",
+        "Poster",
+        "Kerajinan kayu",
+        "Relief batu"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Teknik arsir digunakan untuk menampilkan...",
+      "opsi": [
+        "Warna cerah",
+        "Gelap terang",
+        "Tekstur kasar saja",
+        "Bentuk geometris saja",
+        "Warna primer"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Unsur ruang dalam karya dua dimensi bersifat...",
+      "opsi": [
+        "Nyata",
+        "Fisik",
+        "Tiga dimensi",
+        "Semu (ilusi)",
+        "Berwujud"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Prinsip dominasi dalam karya seni bertujuan untuk...",
+      "opsi": [
+        "Menyamakan semua unsur",
+        "Menghilangkan fokus",
+        "Menciptakan pusat perhatian",
+        "Mengurangi estetika",
+        "Menghapus warna"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Contoh karya seni rupa dua dimensi murni adalah..",
+      "opsi": [
+        "Desain kemasan",
+        "Poster iklan",
+        "Lukisna ekspresionis",
+        "Logo perusahaan",
+        "Ilustrasi buku pelajaran"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Warna yang dihasilkan dari campuran warna primer dan sekunder disebut...",
+      "opsi": [
+        "Netral",
+        "Analog",
+        "Tersier",
+        "Primer",
+        "Monokrom"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Karya dua dimensi tidak memiliki...",
+      "opsi": [
+        "Panjang",
+        "Lebar",
         "Tinggi",
-        "Sedang",
-        "Bas",
-        "Alto"
+        "Warna",
+        "Garis"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Teknik pewarnaan menggunakan sapuan tipis dan transparan disebut teknik...",
+      "opsi": [
+        "Plakat",
+        "Aquarel",
+        "Kolase",
+        "Cetak tinggi",
+        "Blok"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Kesatuan dalam karya seni rupa dapat dicapai dengan cara...",
+      "opsi": [
+        "Mengacak unsur visual",
+        "Mengulang unsur tertentu secara selaras",
+        "Menggunakan semua waeran secara acak",
+        "Menghilangkan komposisi",
+        "Menghindari proporsi"
       ],
       "jawaban": "B"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Jelaskan prinsip kerja pernapasan diafragma dan mengapa penting bagi penyanyi!"
+      "pertanyaan": "Jelaskan perbedaan mendasar antara seni rupa dua dimensi dan tiga dimensi dari segi unsur, prinsip, dan pengalaman visual penikmatnya!"
     },
     {
-      "pertanyaan": "Apa fungsi artikulasi dalam vokal? Jelaskan akibat jika penyanyi tidak memperhatikan artikulasi!"
+      "pertanyaan": "Jika kamu diminta membuat karya dua dimensi bertema \"Identitas Remaja SMK\", jelaskan: 1) konsep karya 2) unsur seni rupa yang dominan 3) prinsip yang akan kamu terapkan"
     },
     {
-      "pertanyaan": "Jelaskan pengertian phrasering dalam bernyanyi dan mengapa phrasering berpengaruh terhadap pesan lagu yang dibawakan?"
+      "pertanyaan": "Jelaskan bagaimana gelap-terang dan perspektif dapat menciptakan ilusi ruang pada karya dua dimensi. Berikan contoh penerapannya!?"
     },
     {
-      "pertanyaan": "Mengapa sikap badan yang benar dapat meningkatkan kualitas suara penyanyi? Jelaskan hubungan sikap tubuh dengan pernapasan!"
+      "pertanyaan": "Menurut pendapatmu, apakah semua karya seni rupa dua dimensi harus memenuhi seluruh prinsip seni rupa (keseimbangan, harmoni, irama, dominasi, proporsi, kesatuan)? Jelaskan jawabanmu dengan argument yang logis!"
     },
     {
-      "pertanyaan": "Apa peran intonasi saat bernyanyi? Jelaskan apa yang akan terjadi jika penyanyi bernyanyi dengan intonasi yang tidak stabil dan bagaimana cara memperhatikannya?"
+      "pertanyaan": "Buatlah sebuah karya seni rupa dua dimensi dengan memanfaatkan unsur titik sebagai media unsur utama!"
     }
   ]
 }
