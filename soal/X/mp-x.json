@@ -1,406 +1,351 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "HTML merupakan singkatan dari...",
+      "pertanyaan": "Bahasa pemrograman Python termasuk bahasa yang bersifat ...",
       "opsi": [
-        "Hyperlink Markup Language",
-        "HyperText Markup Language",
-        "HyperText Machine Language",
-        "HighText Markup Language",
-        "High Transfer Markup Link"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Elemen dari HTML yang menampilkan judul halaman pada tab browser adalah...",
-      "opsi": [
-        "&lt;body&gt;",
-        "&lt;header&gt;",
-        "&lt;html&gt;",
-        "&lt;title&gt;",
-        "&lt;meta&gt;"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Tag &lt;p&gt; dalam HTML digunakan untuk...",
-      "opsi": [
-        "Membuat garis horizontal",
-        "Membuat baris baru",
-        "Membuat paragraf baru",
-        "Membuat tulisan tebal",
-        "Menyisipkan gambar"
+        "Low level",
+        "Machine language",
+        "High level",
+        "Assembly",
+        "Biner"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Atribut yang digunakan untuk menentukan lokasi file gambar pada tag &lt;img&gt; adalah...",
+      "pertanyaan": "Perintah untuk menampilkan teks ke layar pada Python adalah ...",
       "opsi": [
-        "Alt",
-        "Link",
-        "href",
-        "src",
-        "height"
+        "show()",
+        "print()",
+        "input()",
+        "tampil()",
+        "echo()"
       ],
-      "jawaban": "D"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "AI singkatan dari ...",
+      "pertanyaan": "Fungsi dari input() adalah ...",
       "opsi": [
-        "Artificial Intercommunication",
-        "Artificial Intercom",
-        "Artificial Integrated",
-        "Artificial Intelligence",
-        "Artificial Internet"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Manfaat kecerdasan buatan (AI) dalam kehidupan sehari hari adalah, kecuali ...",
-      "opsi": [
-        "Otomatisasi dibidang manufacture",
-        "Peningkatan efisiensi dan produktivitas",
-        "Analisis data yang cepat dan akurat",
-        "Pengembangan solusi inovatif di berbagai sektor seperti kesehatan dan pemerintahan",
-        "Risiko privasi dan keamanan data"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Sisi negatif kecerdasan buatan (AI) meliputi, kecuali ...",
-      "opsi": [
-        "potensi pengangguran massal karena otomatisasi",
-        "bias algoritma yang dapat menimbulkan diskriminasi",
-        "serta potensi penyalahgunaan teknologi",
-        "risiko privasi dan keamanan data",
-        "pengambilan keputusan yang lebih baik di berbagai sektor seperti bisnis, pendidikan, dan transportasi"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Contoh penerapan kecerdasan buatan (AI) dalam pendidikan meliputi, kecuali ...",
-      "opsi": [
-        "digunakan sebagai asisten digital seperti chatbot",
-        "otomatisasi tugas administrasi seperti penilaian otomatis dan penjadwalan",
-        "bisa digunakan untuk membantu mengerjakan ujian/ulangan di sekolah",
-        "analisis data pembelajaran untuk meningkatkan efektivitas pengajaran",
-        "digunakan untuk membuat pembelajaran personalisasi seperti tutor virtual dan platform adaptif"
+        "Menampilkan teks",
+        "Menghapus data",
+        "Menerima masukan dari pengguna",
+        "Menghitung data",
+        "Menyimpan file"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Aplikasi kota pintar (smart city) Adalah contoh penerapan teknologi AI dalam bidang...",
+      "pertanyaan": "Manakah penulisan variabel yang benar di Python?",
       "opsi": [
-        "Pendidikan",
-        "Pertanian",
-        "Kesehatan",
-        "Pemerintahan",
-        "Manufaktur"
+        "1nama = \"Budi\"",
+        "nama siswa = \"Budi\"",
+        "nama_siswa = \"Budi\"",
+        "nama-siswa = \"Budi\"",
+        "class = \"Budi\""
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Tipe data untuk bilangan bulat adalah ...",
+      "opsi": [
+        "Float",
+        "String",
+        "Bool",
+        "Int",
+        "Char"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Hunian yang dilengkapi sistem terintegrasi untuk mengendalikan dan mengotomatiskan berbagai peralatan elektronik rumah tangga, seperti lampu, AC, keamanan, dan peralatan dapur, melalui koneksi internet dan perangkat pintar seperti smartphone atau tablet, Adalah pengertian dari ...",
+      "pertanyaan": "Hasil dari 5 + 3 * 2 adalah ...",
       "opsi": [
-        "Smart city",
-        "Smart car",
-        "Smart phone",
-        "Smart home",
-        "Smart people"
+        "16",
+        "11",
+        "13",
+        "10",
+        "8"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Operator untuk pembagian di Python adalah ...",
+      "opsi": [
+        ":",
+        "//",
+        "%",
+        "/",
+        "X"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Contoh Artificial Intelligence (AI) di bidang medis meliputi, kecuali ...",
+      "pertanyaan": "Simbol untuk komentar satu baris di Python adalah ...",
       "opsi": [
-        "analisis citra medis untuk diagnosis dini penyakit",
-        "sistem pemantauan pasien jarak jauh",
-        "otomatisasi tugas administratif seperti pengelolaan klaim dan pembayaran untuk meningkatkan efisiensi.",
-        "robot bedah untuk presisi tinggi",
-        "penulisan resep dokter"
+        "//",
+        "<!-- -->",
+        "#",
+        "/* */",
+        "**"
       ],
-      "jawaban": "E"
+      "jawaban": "C"
     },
     {
-      "pertanyaan": "Tujuan utama AI adalah ...",
+      "pertanyaan": "<blockquote>x = 10<br>y = 5<br>print(x > y) ,</blockquote> Output nya adalah :",
       "opsi": [
-        "Menggantikan manusia sepenuhnya",
-        "Meniru kecerdasan manusia",
-        "Membuat perangkat keras",
-        "Membuat website",
-        "Membangun jaringan computer"
+        "15",
+        "5",
+        "True",
+        "False",
+        "Error"
       ],
-      "jawaban": "B"
+      "jawaban": "C"
     },
     {
-      "pertanyaan": "Contoh penerapan AI di kehidupan sehari-hari adalah ...",
+      "pertanyaan": "Operator logika AND pada Python ditulis ...",
       "opsi": [
-        "Microsoft Excel",
-        "Chatbot e-commerce",
-        "Paint",
-        "Notepad",
-        "Winamp"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Google Assistant merupakan contoh ...",
-      "opsi": [
-        "Expert System",
-        "Virtual Assistant",
-        "Operating System",
-        "Machine Learning",
-        "Programming IDE"
+        "&&",
+        "And",
+        "AND",
+        "&",
+        "||"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Proses debugging dalam pemrograman berarti ...",
+      "pertanyaan": "Percabangan pada Python menggunakan kata kunci ...",
       "opsi": [
-        "Menambahkan komentar",
-        "Menghapus file",
-        "Mencari dan memperbaiki kesalahan",
+        "Switch",
+        "Case",
+        "If",
+        "Select",
+        "Choose"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Struktur percabangan yang benar adalah ...",
+      "opsi": [
+        "if kondisi then",
+        "if (kondisi) { }",
+        "if kondisi:",
+        "if kondisi do",
+        "if = kondisi"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perulangan yang digunakan ketika jumlah pengulangan sudah diketahui adalah ...",
+      "opsi": [
+        "If",
+        "While",
+        "For",
+        "Switch",
+        "Break"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perintah untuk menghentikan perulangan adalah ...",
+      "opsi": [
+        "Stop",
+        "Exit",
+        "Continue",
+        "Break",
+        "Close"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Tipe data Boolean hanya memiliki nilai ...",
+      "opsi": [
+        "0 dan 1",
+        "Ya dan Tidak",
+        "True dan False",
+        "Benar dan Salah",
+        "1 dan -1"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Fungsi len() digunakan untuk ...",
+      "opsi": [
+        "Menghapus data",
+        "Menghitung panjang data",
+        "Menambah data",
         "Mengurutkan data",
-        "Membuat algoritma baru"
+        "Menampilkan data"
       ],
-      "jawaban": "C"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Bahasa pemrograman untuk membuat Website Adalah ...",
+      "pertanyaan": "Hasil dari 10 % 3 adalah ...",
       "opsi": [
-        "Visual Basic",
-        "Microsoft Access",
-        "HTML",
-        "Phyton",
-        "Autocad"
+        "3",
+        "1",
+        "0",
+        "2",
+        "10"
       ],
-      "jawaban": "C"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Website terbagi menjadi 2 jenis yaitu ...",
+      "pertanyaan": "Untuk mengubah input menjadi bilangan bulat digunakan ...",
       "opsi": [
-        "Website aktif dan pasif",
-        "Website berita dan hiburan",
-        "Website statis dan dinamis",
-        "Website sekolah dan pemerintahan",
-        "Website commerce dan e commerce"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Penggunaan AI yang tidak etis adalah ...",
-      "opsi": [
-        "Chatbot untuk customer service",
-        "Analisis data Kesehatan",
-        "Penyebaran berita palsu",
-        "Rekomendasi film",
-        "Pendeteksi spam"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "AI dapat membantu guru dengan cara ...",
-      "opsi": [
-        "Memberikan laporan belajar otomatis",
-        "Menggantikan guru sepenuhnya",
-        "Membuat game online",
-        "Menghilangkan kurikulum",
-        "Menghapus data siswa"
+        "int()",
+        "str()",
+        "float()",
+        "bool()",
+        "chr()"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "AI dalam bidang transportasi digunakan untuk ...",
+      "pertanyaan": "List pada Python ditulis menggunakan tanda ...",
       "opsi": [
-        "Membuat rambu jalan",
-        "Sistem navigasi dan mobil otonom",
-        "Menggambar peta manual",
-        "Mengatur lalu lintas dengan polisi",
-        "Membuat tiket kertas"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "AI di bidang akuntansi digunakan untuk ...",
-      "opsi": [
-        "Melukis gambar",
-        "Deteksi transaksi mencurigakan",
-        "Menjual makanan",
-        "Membuat music",
-        "Menulis puisi"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Salah satu kelebihan AI adalah ...",
-      "opsi": [
-        "Tidak pernah salah 100%",
-        "Bisa bekerja tanpa Lelah",
-        "Tidak memerlukan data",
-        "Bisa hidup seperti manusia",
-        "Tidak perlu computer"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "AI dapat membantu petani dengan cara ...",
-      "opsi": [
-        "Membuat game pertanian",
-        "Menganalisis cuaca dan tanah",
-        "Membuat robot perang",
-        "Menjual bibit online",
-        "Menggambar lahan"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Istilah <i>Big Data</i> dalam AI berarti ...",
-      "opsi": [
-        "Data kecil",
-        "Data yang sangat besar dan kompleks",
-        "Data sederhana",
-        "Data yang tidak digunakan",
-        "Data yang sama berulang-ulang"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Etika penggunaan AI menekankan pada ...",
-      "opsi": [
-        "Kecepatan teknologi",
-        "Keadilan, transparansi, dan privasi",
-        "Persaingan global",
-        "Perkembangan hardware",
-        "Produksi massal"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Instruksi, masukan, atau pertanyaan yang diberikan pengguna kepada sistem kecerdasan buatan (AI) untuk mendapatkan respons atau hasil tertentu,merupakan pengertian dari ...",
-      "opsi": [
-        "Algoritma",
-        "Koding",
-        "Syntax",
-        "Prompt AI",
-        "Debug"
+        "()",
+        "{}",
+        "<>",
+        "[]",
+        "\"\""
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Teknik menyusun prompt secara strategis agar AI memberikan hasil sesuai dengan harapan, disebut dengan ...",
+      "pertanyaan": "Contoh list yang benar adalah ...",
       "opsi": [
-        "Prompt Marketing",
-        "Prompt Selling",
-        "Prompt Engineering",
-        "Prompt Printing",
-        "Prompt Sniffing"
+        "list = (1,2,3)",
+        "list = [1,2,3]",
+        "list = {1,2,3}",
+        "list = <1,2,3>",
+        "list = \"1,2,3\""
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "<blockquote>for i in range(3):<br>print(i)</blockquote> Adalah ...",
+      "opsi": [
+        "1 2 3",
+        "0 1 2",
+        "0 1 2 3",
+        "1 2",
+        "3"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Fungsi range(5) menghasilkan angka dari ...",
+      "opsi": [
+        "1--5",
+        "0--5",
+        "0--4",
+        "1--4",
+        "5--10"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Prinsip dari prompt engineering adalah, kecuali",
+      "pertanyaan": "Struktur perulangan while digunakan ketika ...",
       "opsi": [
-        "Spesifik: Sampaikan dengan jelas dan tidak ambigu",
-        "Terarah: Sertakan konteks atau tujuan",
-        "Berformat: Jika butuh hasil dalam format tertentu (daftar, paragraf, tabel), jelaskan.",
-        "Contoh: Sertakan contoh agar AI memahami maksud dengan lebih baik.",
-        "Menggunakan istilah teknis yang tidak familiar, yang bisa membingungkan pelanggan dan AI sekaligus"
+        "Jumlah pengulangan pasti",
+        "Kondisi masih bernilai benar",
+        "Tidak ada kondisi",
+        "Selalu 10 kali",
+        "Hanya sekali"
       ],
-      "jawaban": "E"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Tag yang digunakan untuk membuat baris pada tabel adalah...",
+      "pertanyaan": "Perintah continue berfungsi untuk ...",
       "opsi": [
-        "&lt;tr&gt;",
-        "&lt;td&gt;",
-        "&lt;th&gt;",
-        "&lt;br&gt;",
-        "&lt;img&gt;"
+        "Menghentikan program",
+        "Keluar dari perulangan",
+        "Melewati satu iterasi",
+        "Mengulang dari awal program",
+        "Menghapus variable"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "<blockquote>x = \"10\"<br>y = 5<br>print(int(x) + y)</blockquote> Adalah ...",
+      "opsi": [
+        "105",
+        "15",
+        "Error",
+        "10",
+        "5"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Indentasi pada Python digunakan untuk ...",
+      "opsi": [
+        "Mempercantik kode",
+        "Menentukan blok kode",
+        "Memberi komentar",
+        "Menghapus error",
+        "Menyimpan file"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Keyword untuk kondisi alternatif selain if adalah ...",
+      "opsi": [
+        "Else",
+        "For",
+        "While",
+        "Def",
+        "Try"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Tag yang digunakan untuk membuat kolom pada tabel adalah...",
+      "pertanyaan": "Hasil dari Boolean (0) adalah ...",
       "opsi": [
-        "&lt;tr&gt;",
-        "&lt;td&gt;",
-        "&lt;th&gt;",
-        "&lt;br&gt;",
-        "&lt;img&gt;"
+        "True",
+        "False",
+        "0",
+        "1",
+        "Error"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Tag yang digunakan untuk membuat tulisan tercetak tebal pada halaman Web adalah...",
+      "pertanyaan": "Tipe data untuk teks adalah ...",
       "opsi": [
-        "&lt;bold&gt;",
-        "&lt;em&gt;",
-        "&lt;strong&gt;",
-        "&lt;big&gt;",
-        "&lt;u&gt;"
+        "Int",
+        "Float",
+        "Str",
+        "Bool",
+        "List"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Bagian dari struktur dasar HTML yang berisi konten utama adalah...",
+      "pertanyaan": "Fungsi Python bersifat case sensitive artinya ...",
       "opsi": [
-        "&lt;head&gt;",
-        "&lt;body&gt;",
-        "&lt;title&gt;",
-        "&lt;meta&gt;",
-        "&lt;src&gt;"
+        "Tidak membedakan huruf besar kecil",
+        "Tidak bisa error",
+        "Membedakan huruf besar dan kecil",
+        "Semua huruf harus besar",
+        "Semua huruf harus kecil"
       ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Tag HTML untuk membuat judul besar pada halaman adalah...",
-      "opsi": [
-        "&lt;h6&gt;",
-        "&lt;strong&gt;",
-        "&lt;big&gt;",
-        "&lt;h1&gt;",
-        "&lt;em&gt;"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Dokumen HTML dimulai dengan deklarasi...",
-      "opsi": [
-        "&lt;doctype html&gt;",
-        "&lt;!HTML&gt;",
-        "&lt;html version=\"5\"&gt;",
-        "&lt;!DOCTYPE html&gt;",
-        "&lt;head&gt;"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Tag &lt;a&gt; dalam HTML digunakan untuk...",
-      "opsi": [
-        "Membuat table",
-        "Membuat link atau hyperlink",
-        "Menampilkan gambar",
-        "Menampilkan video",
-        "Membuat daftar"
-      ],
-      "jawaban": "B"
+      "jawaban": "C"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Jelaskan pengertian dari koding !"
+      "pertanyaan": "Jelaskan apa yang kalian ketahui mengenai pemrograman Python (misalkan siapa yang menciptakan nya, fungsi nya untuk membuat aplikasi apa) !"
     },
     {
-      "pertanyaan": "Sebutkan dampak teknologi AI pada kehidupan kita sehari hari (dampak positif dan negatif nya masing masing minimal 2 ) !"
+      "pertanyaan": "Apa kelebihan Bahasa pemrograman Python dengan pemrograman yang lainnya ?"
     },
     {
-      "pertanyaan": "Jelaskan fungsi dari tag berikut :<br><br>&lt;title&gt; :<br>&lt;h1&gt; hingga &lt;h6&gt; :<br>&lt;p&gt; :"
+      "pertanyaan": "Buatlah contoh penulisan <i>statement</i> Python untuk menampilkan Text \" Saya Sedang Belajar Pemrograman Python \" !"
     },
     {
-      "pertanyaan": "Tuliskan kode HTML menampilkan gambar , dengan nama File : \"Fotoku\" dengan ukuran lebar:300px dan tinggi: 400px !"
+      "pertanyaan": "Jelaskan arti dari <i>case sensitive</i> pada Bahasa Pemrograman !"
     },
     {
-      "pertanyaan": "Tuliskan kode HTML untuk menampilkan Halaman Profil Siswa berikut :<br><br>Nama : <strong>( diisi nama sendiri dengan Tulisan Tebal )</strong><br><br>Kelas / Jurusan: <u>( diisi dengan Kelas masing masing dan Jurusan nya , tulisan digaris bawahi )</u><br><br>Hobi : <i>(diisi dengan hobi masing masing di tulis secara cetak miring)</i>"
+      "pertanyaan": "Apa yang dimaksud dengan tipe data? Sebutkan minimal 4 tipe data dalam Python !"
     }
   ]
 }
