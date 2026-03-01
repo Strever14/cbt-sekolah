@@ -1,406 +1,351 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Sejarah sebagai ilmu yang mempelajari...",
+      "pertanyaan": "Teori yang menyatakan penyebaran Hindu dilakukan oleh kaum pendeta adalah....",
       "opsi": [
-        "masa depan manusia",
-        "kehidupan manusia pada masa lampau",
-        "ramalan peristiwa",
-        "mitos dan legenda",
-        "zaman neozikum"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Berikut yang <i>tidak</i> merupakan ciri sejarah sebagai ilmu adalah...",
-      "opsi": [
-        "memiliki metode",
-        "memiliki objek kajian",
-        "membutuhkan pembuktian",
-        "bersifat imajinatif",
-        "ada kritik sumber"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Ruang lingkup sejarah dibagi menjadi...",
-      "opsi": [
-        "sejarah lokal, nasional, dan dunia",
-        "sejarah ekonomi dan budaya saja",
-        "antropologi dan sosiologi",
-        "mitologi dan folklore",
-        "sosiologi"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Tahap verifikasi dalam metode sejarah berarti...",
-      "opsi": [
-        "mengumpulkan sumber",
-        "menulis sejarah",
-        "menguji kebenaran sumber",
-        "menafsirkan data",
-        "meniilai data"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Heuristik berarti...",
-      "opsi": [
-        "mencari dan mengumpulkan sumber",
-        "menyeleksi sumber",
-        "menyusun laporan",
-        "menulis interpretasi",
-        "Menulis"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Konsep waktu dalam sejarah merujuk pada...",
-      "opsi": [
-        "masa depan",
-        "kapan peristiwa terjadi",
-        "siapa pelaku sejarah",
-        "tempat kejadian",
-        "kronologi"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Proklamasi Kemerdekaan Indonesia terjadi di...",
-      "opsi": [
-        "Bandung",
-        "Surabaya",
-        "Jakarta",
-        "Yogyakarta",
-        "Medan"
+        "Ksatria",
+        "Waisya",
+        "Brahmana",
+        "Arus Balik",
+        "Sudra"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Keberlanjutan adalah...",
+      "pertanyaan": "Tokoh pendukung teori Ksatria adalah...",
       "opsi": [
-        "perubahan total",
-        "peristiwa tanpa makna",
-        "perubahan kecil",
-        "kondisi yang tetap berlangsung",
-        "sebelum peristiwa"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Kronologi berarti...",
-      "opsi": [
-        "mengurutkan peristiwa berdasarkan waktu",
-        "mengurutkan peristiwa berdasarkan tempat",
-        "membandingkan dua peristiwa",
-        "meneliti data ekonomi",
-        "menafsirkan data sejarah"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Pendekatan sinkronik menekankan pada...",
-      "opsi": [
-        "kajian meluas dalam satu waktu",
-        "kajian panjang dari masa ke masa",
-        "perubahan budaya",
-        "hubungan sosial",
-        "Terbuang dalam waktu"
+        "R.C. Majumda",
+        "N.J. Krom",
+        "Coedes",
+        "I-Tsing",
+        "J.C. van Leur"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Kritik sumber bertujuan untuk...",
+      "pertanyaan": "Dasar teori Waisya adalah aktivitas...",
       "opsi": [
-        "menciptakan fakta baru",
-        "membuang sumber",
-        "menguji keaslian dan keabsahan sumber",
-        "membuat teori baru",
-        "Menulis sejarah"
+        "Pendidikan",
+        "Perdagangan",
+        "Penaklukan",
+        "Dakwah",
+        "Pertanian"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Teori Arus Balik menyatakan bahwa...",
+      "opsi": [
+        "India menjajah Nusantara",
+        "Pendeta diutus raja India",
+        "Bangsa Nusantara belajar ke India",
+        "Pedagang memaksa rakyat",
+        "Raja India berkuasa langsung"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Contoh cagar budaya benda adalah...",
+      "pertanyaan": "Kelebihan teori Brahmana adalah...",
       "opsi": [
-        "upacara adat",
-        "arca dan prasasti",
-        "tari tradisional",
-        "musik daerah",
-        "lagu nasional"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Berikut yang termasuk upaya pelestarian budaya adalah...",
-      "opsi": [
-        "konservasi bangunan bersejarah",
-        "merusak situs",
-        "perdagangan ilegal artefak",
-        "menyembunyikan Sejarah",
-        "mencuri barang peningalan"
+        "Sesuai bukti prasasti Sanskerta",
+        "Didukung legenda rakyat",
+        "Berdasar mitos",
+        "Tidak ada bukti",
+        "Bersifat spekulatif"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Sejarah penting bagi identitas bangsa karena...",
+      "pertanyaan": "Kelemahan teori Ksatria adalah...",
       "opsi": [
-        "membuat konflik",
-        "menghilangkan perbedaan",
-        "mempersulit perkembangan",
-        "membentuk kesadaran jati diri",
-        "hanya untuk tontonan"
+        "Tidak ada bukti perang besar",
+        "Tidak ada prasasti",
+        "Tidak logis",
+        "Tidak sesuai budaya",
+        "Ditolak semua ahli"
       ],
-      "jawaban": "D"
+      "jawaban": "A"
     },
     {
-      "pertanyaan": "Makna keteladanan dari tokoh nasional adalah...",
+      "pertanyaan": "Sistem kerajaan di Indonesia merupakan bentuk akulturasi dalam bidang...",
       "opsi": [
-        "meniru semua perbuatannya",
-        "menolak nilai perjuangannya",
-        "mengambil nilai positif perjuangannya",
-        "mengabaikan Sejarah",
-        "tidak menghargai pahlawan"
+        "Ekonomi",
+        "Politik",
+        "Sosial",
+        "Bahasa",
+        "Seni"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Candi di Indonesia berbeda dengan India karena adanya unsur...",
+      "opsi": [
+        "Gurun",
+        "Punden berundak",
+        "Piramida",
+        "Tembok besar",
+        "Menara tinggi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Bahasa Sanskerta digunakan dalam...",
+      "opsi": [
+        "Hikayat",
+        "Prasasti",
+        "Lagu rakyat",
+        "Dongeng",
+        "Cerpen"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Kitab Bharatayudha ditulis pada masa..",
+      "opsi": [
+        "Kutai",
+        "Sriwijaya",
+        "Kediri",
+        "Tarumanegara",
+        "Singasari"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Seseorang mempelajari sejarah pada mulanya berangkat dari kecenderungan membangkitkan masa lalu untuk dibaca lagi dan dicari unsur-unsur yang berguna untuk kehidupan masa kini dan masa yang akan datang. Berdasarkan uraian tersebut dapat disimpulkan bahwa tujuan seseorang mempelajari sejarah adalah...",
+      "pertanyaan": "Perpaduan Siwa dan Buddha disebut...",
       "opsi": [
-        "Fakta sejarah digunakan sebagai argumentasi untuk meyakinkan orang",
-        "Kehidupan merupakan proses yang bertumpu pada warisan masa lalu",
-        "Mengenal pengetahuan, pengalaman, dan kebijakan antargenerasi",
-        "Kehausan yang muncul untuk mengetahui apa yang tidak diketahui",
-        "Hanya sekedar tau"
+        "Monoteisme",
+        "Sinkretisme",
+        "Animisme",
+        "Dinamisme",
+        "Totemisme"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Raja terkenal Kutai adalah...",
+      "opsi": [
+        "Purnawarman",
+        "Mulawarman",
+        "Balaputradewa",
+        "Airlangga",
+        "Hayam Wuruk"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Prasasti Ciaruteun peninggalan kerajaan...",
+      "opsi": [
+        "Kutai",
+        "Sriwijaya",
+        "Tarumanegara",
+        "Kediri",
+        "Singasari"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Pernyataan berikut yang merupakan fakta adalah...",
+      "pertanyaan": "Pusat Sriwijaya berada di...",
       "opsi": [
-        "\"Proklamasi terjadi pada 17 Agustus 1945.\"",
-        "\"Indonesia seharusnya merdeka lebih cepat.\"",
-        "\"Soekarno adalah presiden terbaik.\"",
-        "\"Masyarakat dulu lebih baik.\"",
-        "'Nenek Moyang tidak ada\""
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Interpretasi sejarah dilakukan untuk...",
-      "opsi": [
-        "memalsukan fakta",
-        "mengabaikan data",
-        "membuat cerita fiksi",
-        "menafsirkan makna fakta Sejarah",
-        "menilai"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Periodisasi adalah...",
-      "opsi": [
-        "penomoran data",
-        "pembabakan waktu",
-        "pembagian wilayah",
-        "penelitian moral",
-        "jeda"
+        "Jawa Timur",
+        "Sumatera Selatan",
+        "Kalimantan",
+        "Bali",
+        "Sulawesi"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Yang termasuk sumber tradisional adalah...",
+      "pertanyaan": "Sriwijaya dikenal sebagai kerajaan...",
       "opsi": [
-        "babad",
-        "arsip modern",
-        "foto digital",
-        "dokumen elektronik",
-        "kertas"
+        "Agraris",
+        "Maritim",
+        "Industri",
+        "Modern",
+        "Kolonial"
       ],
-      "jawaban": "A"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Diakronik mengkaji peristiwa secara...",
+      "pertanyaan": "Dinasti Mataram Kuno adalah...",
       "opsi": [
-        "memanjang dalam waktu",
-        "meluas dalam ruang",
-        "terputus-putus",
-        "tidak berurutan",
-        "Terbuang dalam waktu"
+        "Iskandar & Syailendra",
+        "Sanjaya & Syailendra",
+        "Rajasa & Sanjaya",
+        "Warmadewa & Iskandar",
+        "Rajasa & Warmadewa"
       ],
-      "jawaban": "A"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Sumber primer adalah...",
+      "pertanyaan": "Candi Borobudur dibangun oleh dinasti...",
       "opsi": [
-        "hasil interpretasi guru",
-        "buku pelajaran",
-        "saksi mata atau dokumen asli",
-        "ringkasan Sejarah",
-        "web"
+        "Sanjaya",
+        "Rajasa",
+        "Syailendra",
+        "Warmadewa",
+        "Kediri"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Artefak merupakan...",
+      "pertanyaan": "Raja Kediri yang terkenal adalah...",
       "opsi": [
-        "tradisi lisan",
-        "benda hasil budaya manusia",
-        "upacara keagamaan",
-        "lagu daerah",
-        "Baju tradisional"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Salah satu unsur nasionalisme adalah...",
-      "opsi": [
-        "egoisme kelompok",
-        "penindasan",
-        "ketidakpedulian",
-        "rasa cinta tanah air",
-        "Tidak peduli"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Yang merupakan hubungan sebab-akibat adalah...",
-      "opsi": [
-        "Penjajahan → muncul perlawanan",
-        "Proklamasi → masa kolonial",
-        "Revolusi → masa penjajahan",
-        "Indonesia merdeka → Portugis datang",
-        "Orde Baru"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Sejarah lokal adalah...",
-      "opsi": [
-        "sejarah seluruh dunia",
-        "sejarah masa depan",
-        "sejarah suatu daerah tertentu",
-        "sejarah imajinatif",
-        "Sejarah kita"
+        "Ken Arok",
+        "Airlangga",
+        "Jayabaya",
+        "Hayam Wuruk",
+        "Anusapati"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Historiografi adalah...",
+      "pertanyaan": "Singasari runtuh akibat pemberontakan...",
       "opsi": [
-        "penulisan sejarah",
-        "pertempuran",
-        "perjanjian",
-        "politik colonial",
-        "pertemuan singkat"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Durasi dalam sejarah berarti...",
-      "opsi": [
-        "lamanya peristiwa berlangsung",
-        "tempat terjadinya",
-        "pelaku sejarah",
-        "mitos yang berkembang",
-        "Mengapa terjadi"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Fungsi utama museum adalah...",
-      "opsi": [
-        "tempat pertunjukan musik",
-        "tempat menyimpan dan memamerkan benda bersejarah",
-        "tempat bermain",
-        "tempat hiburan",
-        "tempat nongkrong"
+        "Ken Arok",
+        "Jayakatwang",
+        "Gajah Mada",
+        "Purnawarman",
+        "Mulawarman"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Sejarah memperkuat persatuan melalui...",
+      "pertanyaan": "Pendiri Singasari adalah...",
       "opsi": [
-        "konflik etnis",
-        "pertentangan budaya",
-        "pemahaman pengalaman kolektif bangsa",
-        "propaganda politik",
-        "Persamaan"
+        "Ken Arok",
+        "Hayam Wuruk",
+        "Airlangga",
+        "Jayabaya",
+        "Purnawarman"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Sumpah Palapa diucapkan oleh...",
+      "opsi": [
+        "Hayam Wuruk",
+        "Ken Arok",
+        "Gajah Mada",
+        "Jayabaya",
+        "Balaputradewa"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Kehidupan masyarakat praaksara mulai menetap (bercoocok tanam) pada zaman...",
+      "pertanyaan": "Tujuan Sumpah Palapa adalah...",
       "opsi": [
-        "Mesolitikum",
-        "Neolitikum",
-        "Paleolitikum",
-        "Megalitikum",
-        "Zaman batu"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Contoh sumber dokumenter adalah...",
-      "opsi": [
-        "arsip",
-        "lagu",
-        "mitos",
-        "legenda",
-        "Batu"
+        "Menguasai Nusantara",
+        "Menguasai India",
+        "Menaklukkan China",
+        "Menyerang Arab",
+        "Berdagang"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Dampak kolonialisme Belanda adalah...",
+      "pertanyaan": "Salah satu faktor kejayaan Majapahit adalah...",
       "opsi": [
-        "kebebasan penuh",
-        "hilangnya budaya lokal",
-        "berkembangnya imperialisme",
-        "munculnya perlawanan rakyat",
-        "Perpecahan Bangsa"
+        "Armada laut kuat",
+        "Tidak punya musuh",
+        "Dijajah India",
+        "Tanpa pajak",
+        "Tanpa raja"
       ],
-      "jawaban": "D"
+      "jawaban": "A"
     },
     {
-      "pertanyaan": "Situs sejarah berfungsi sebagai...",
+      "pertanyaan": "Faktor keruntuhan Majapahit adalah...",
       "opsi": [
-        "tempat hiburan modern",
-        "sumber belajar",
-        "area komersial",
-        "tempat perburuan",
-        "Hanya tau saja"
+        "Perang saudara",
+        "Kemenangan besar",
+        "Ekonomi stabil",
+        "Armada kuat",
+        "Pajak tinggi"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Raja terbesar Majapahit adalah...",
+      "opsi": [
+        "Ken Arok",
+        "Hayam Wuruk",
+        "Jayabaya",
+        "Mulawarman",
+        "Purnawarman"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Pancasila lahir dari...",
+      "pertanyaan": "Kitab Nagarakretagama ditulis oleh...",
       "opsi": [
-        "proses sejarah panjang bangsa Indonesia",
-        "debat politik asing",
-        "budaya luar",
-        "penjajahan Jepang",
-        "Keterpaksaan"
+        "Empu Prapanca",
+        "Empu Tantular",
+        "Ken Arok",
+        "Gajah Mada",
+        "Airlangga"
       ],
       "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Corak pemerintahan Hindu-Buddha adalah...",
+      "opsi": [
+        "Demokrasi",
+        "Monarki",
+        "Republik",
+        "Liberal",
+        "Parlementer"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Bukti pengaruh India dalam seni adalah..",
+      "opsi": [
+        "Batik",
+        "Candi",
+        "Rumah adat",
+        "Keris",
+        "Lagu daerah"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Kerajaan agraris bergantung pada...",
+      "opsi": [
+        "Laut",
+        "Pertanian",
+        "Tambang",
+        "Industri",
+        "Pariwisata"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Akulturasi menunjukkan bahwa bangsa Indonesia bersifat...",
+      "opsi": [
+        "Tertutup",
+        "Selektif",
+        "Pasif",
+        "Fanatik",
+        "Individualis"
+      ],
+      "jawaban": "B"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Jelaskan 4 tahapan penelitian Sejarah?"
+      "pertanyaan": "Analisislah bentuk akulturasi budaya Hindu-Buddha yang masih ada di lingkungan sekitar Anda!"
     },
     {
-      "pertanyaan": "Jelaskan perbedaan antara corak kehidupan <i>food gathering</i> dan <i>food producing</i> pada masa praaksara!"
+      "pertanyaan": "Bandingkan kelebihan dan kekurangan teori Brahmana dan Arus Balik, lalu simpulkan pendapat Anda!"
     },
     {
-      "pertanyaan": "Berdasarkan ilmu geologi proses peambentukan kulit bumi terbagi kedalam beberapa periode, jelaskan!"
+      "pertanyaan": "Awalnya Singasari hanya daerah kecil yang disebut Tumapel, ketika Ken Arok berkuasa di Tumapel, para brahmana Kediri meminta perlindungan kepada Ken Arok. Apa alasan para brahmana tersebut?"
     },
     {
-      "pertanyaan": "Sebutkan 5 situs kuno masa praaksara di Indonesia yang kamu ketahui!"
+      "pertanyaan": "Jelaskan relevansi kejayaan maritim Sriwijaya dengan kondisi Indonesia saat ini!"
     },
     {
-      "pertanyaan": "Sebutkan jenis-jenis manusia purba yang kamu ketahui!!"
+      "pertanyaan": "Kerajaan Kutai terletak di Kalimantan, kerajaan Kutai dianggap sebagai kerajaan Hindu tertua di Indonesia, apa alasannya?"
     }
   ]
 }
