@@ -1,406 +1,351 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Program aplikasi lembar kerja (spreadsheet) yang digunakan untuk mengelola, menghitung, menganalisis, dan memvisualisasikan data adalah pengertian dari ...",
+      "pertanyaan": "Menu Home pada Ribbon terdiri dari beberapa group. Jika seorang siswa ingin mengubah jenis font, ukuran font, warna teks, atau menambahkan efek teks seperti bold, italic, underline, highlight, atau shadow, group mana yang harus digunakan?",
       "opsi": [
-        "Microsoft Word",
-        "Microsoft Excel",
-        "Microsoft PowerPoint",
-        "Microsoft Access",
-        "Microsoft Publisher"
+        "Clipboard",
+        "Font",
+        "Paragraph",
+        "Styles",
+        "Editing"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "<b><i>Perhatikan gambar berikut untuk menjawab soal no 2 sampai no 6</i></b><br><img src='soal/img/XI/mp-tjkt/image1.jpg'>Bagian pada antarmuka Excel yang menampilkan hasl penulisan rumus atau isi sel ditandai dengan nomor 7 disebut...",
+      "pertanyaan": "<b>Perhatikan struktur laporan berikut yang masih acak!</b><br><br>(1) BAB IV Penutup<br>(2) BAB I Pendahuluan<br>(3) BAB II Profil Perusahaan<br>(4) Kata Pengantar<br>(5) Halaman Sampul<br>(6) Daftar Isi<br>(7) Daftar Pustaka<br>(8) BAB III Pembahasan<br>(9) Daftar Gambar<br>(10) Lembar Pengesahan<br><br>Berdasarkan teks diatas urutan struktur laporan yang benar adalah ...",
       "opsi": [
-        "Ribbon",
-        "Formula Bar",
-        "Name Box",
-        "Quick Access Toolbar",
-        "Title Bar"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Bagian paling atas yang menampilkan nama file Excel yang sedang dibuka ditandai dengan nomor 2 disebut...",
-      "opsi": [
-        "Ribbon",
-        "Formula Bar",
-        "Name Box",
-        "Quick Access Toolbar",
-        "Title Bar"
+        "5--4--10--6--9--2--3--8--1--7",
+        "5--10--6--4--9--2--3--8--1--7",
+        "5--10--4--9--6--2--3--8--1--7",
+        "10--5--4--6--9--2--3--8--1--7",
+        "5--10--4--6--9--2--3--8--1--7"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Tombol-tombol perintah yang bisa dipakai sebagai shortcut seperti Save, Undo, dan Redo yang ditandai dengan nomor 1 terdapat pada...",
+      "pertanyaan": "Dalam laporan PKL, bagian yang berisi ringkasan seluruh isi laporan/kesimpulan dan saran biasanya terdapat pada ...",
       "opsi": [
-        "Ribbon",
-        "Formula Bar",
-        "Name Box",
-        "Quick Access Toolbar",
-        "Title Bar"
+        "Kata Pengantar",
+        "Lembar Pengesahan",
+        "Halaman Sampul",
+        "Bab I Pendahuluan",
+        "Bab IV Penutup"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Dalam laporan PKL, identitas seperti nama siswa, nama sekolah, kompetensi keahlian, tempat pelaksanaan, dan tahun kegiatan ditulis secara formal dan lengkap. Bagian laporan yang memuat seluruh informasi tersebut secara sistematis terdapat pada ...",
+      "opsi": [
+        "Kata Pengantar",
+        "Lembar Pengesahan",
+        "Halaman Sampul",
+        "Bab I Pendahuluan",
+        "Bab IV Penutup"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dalam laporan PKL, istilah \"Profil Perusahaan\" biasanya memuat ...",
+      "opsi": [
+        "Sejarah, visi-misi, struktur organisasi, dan kegiatan perusahaan",
+        "Data pribadi siswa dan guru pembimbing",
+        "Alamat lengkap dan kontak perusahaan saja",
+        "Ringkasan kegiatan dan kesimpulan laporan",
+        "Daftar pustaka dan referensi pendukung"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Dalam laporan PKL, bagian yang berisi ucapan terima kasih, tujuan, dan harapan dibuat pada ...",
+      "opsi": [
+        "Kata Pengantar",
+        "Lembar Pengesahan",
+        "Halaman Sampul",
+        "Bab I Pendahuluan",
+        "Bab IV Penutup"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Pada lembar pengesahan laporan terdapat kolom tanda tangan pembimbing. Apabila nama pembimbing ingin digarisbawahi, fitur Microsoft Word yang digunakan adalah ...",
+      "opsi": [
+        "Bold",
+        "Italic",
+        "Underline",
+        "Highlight",
+        "Strikethrough"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Agar setiap bab dalam laporan selalu dimulai di halaman baru secara otomatis, fitur Microsoft Word yang digunakan adalah ...",
+      "opsi": [
+        "Section Break",
+        "Column Break",
+        "Line Break",
+        "Margin Settings",
+        "Page Break"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Dalam penyusunan laporan, salah satu aspek penting agar dokumen terlihat rapi dan konsisten adalah pengaturan jarak antarbaris. Jika jarak antarbaris terlalu rapat, teks akan sulit dibaca, jika terlalu renggang, dokumen akan terlihat tidak proporsional dan memakan banyak halaman. Berdasarkan kaidah penulisan laporan formal, jarak antarbaris yang umum digunakan adalah ...",
+      "opsi": [
+        "1,0",
+        "1,15",
+        "1,5",
+        "2,0",
+        "3,0"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Pemilihan ukuran kertas merupakan salah satu aspek penting agar laporan mudah dibaca dan dapat dicetak secara standar. Berdasarkan praktik umum penulisan laporan, ukuran kertas yang sering digunakan adalah ...",
+      "opsi": [
+        "Letter (21,6 cm x 27,9 cm)",
+        "Legal (21,6 cm x 35,6 cm)",
+        "A3 (29,7 cm x 42 cm)",
+        "A4 (21 cm x 29,7 cm)",
+        "B5 (17,6 cm x 25 cm)"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Berdasarkan gambar antarmuka Excel, bagian yang ditunjukkan oleh nomor 5 disebut ...",
+      "pertanyaan": "Rafly sedang menyusun laporan dan ingin mengatur jarak antara teks dengan sisi kertas. Menu yang harus dipilih Rafly adalah ...",
       "opsi": [
-        "Ribbon",
-        "Formula Bar",
-        "Name Box",
-        "Quick Access Toolbar",
-        "Title Bar"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Bagian yang menampilkan nama sel aktif, seperti A1, B3, atau C5, yang ditunjukkan oleh nomor 6 disebut ...",
-      "opsi": [
-        "Ribbon",
-        "Formula Bar",
-        "Name Box",
-        "Quick Access Toolbar",
-        "Title Bar"
+        "Insert → Page Number",
+        "Home → Styles/Heading",
+        "Layout → Margins",
+        "References → Table of Contents",
+        "Insert → Page Break"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Dari data berikut, manakah yang bukan termasuk tipe data yang digunakan pada Microsoft Excel?",
+      "pertanyaan": "Daniel sedang menyusun laporan dan diminta mengatur batas tepi kiri 4 cm, kanan 3 cm, atas 3 cm, dan bawah 3 cm pada dokumen sesuai ketentuan sekolah. Agar dapat mengatur ukuran tersebut secara khusus, Daniel harus memilih opsi ...",
       "opsi": [
-        "Character / String / Teks",
-        "Numeric /Angka",
-        "Arithmetic / Aritmetika",
-        "Currency / Mata Uang",
-        "Date / Tanggal"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Tipe data manakah yang tidak dapat dihitung dengan operasi matematika?",
-      "opsi": [
-        "Character / String / Teks",
-        "Numeric /Angka",
-        "Arithmetic / Aritmetika",
-        "Currency / Mata Uang",
-        "Date / Tanggal"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Tipe data yang digunakan untuk menampilkan simbol \"Rp\", \"$\", atau \"£\" adalah ...",
-      "opsi": [
-        "Character / String / Teks",
-        "Numeric /Angka",
-        "Arithmetic / Aritmetika",
-        "Currency / Mata Uang",
-        "Date / Tanggal"
+        "Normal",
+        "Narrow",
+        "Wide",
+        "Custom Margins",
+        "Moderate"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Operator yang digunakan untuk menghitung perpangkatan adalah...",
+      "pertanyaan": "Pak Guru meminta siswa mengatur sisi kiri halaman lebih lebar dibandingkan sisi lainnya karena laporan akan dikumpulkan dalam bentuk hard file. Jika pengaturan tersebut tidak dilakukan, kemungkinan dampak yang paling tepat adalah ...",
       "opsi": [
-        "%",
-        "!",
-        "^",
-        "*",
-        "&"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Untuk menghitung akar kuadrat dari nilai sel A1, rumus yang benar adalah...",
-      "opsi": [
-        "=SQRT(A1)",
-        "=A1/SQRT",
-        "=ROOT*A1",
-        "=A1(1/2)",
-        "=SQRT-A1"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Fungsi / rumus yang digunakan untuk mencari nilai rata-rata pada suatu data adalah...",
-      "opsi": [
-        "SUM",
-        "AVERAGE",
-        "MAX",
-        "MIN",
-        "COUNT"
+        "Tata letak paragraf menjadi tidak rata kanan-kiri",
+        "Sebagian isi teks berisiko tertutup atau terpotong saat proses penjilidan",
+        "Nomor halaman berubah secara otomatis",
+        "Ukuran huruf menyesuaikan dengan lebar kertas",
+        "Jarak antarbaris menjadi lebih renggang"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Fungsi / rumus SUM digunakan untuk...",
+      "pertanyaan": "Dewi sedang menulis laporan, agar isi paragraf terlihat rapi dan rata di sisi kiri dan kanan halaman, format paragraf yang harus Dewi digunakan adalah ...",
       "opsi": [
-        "Mencari nilai terbesar",
-        "Menghitung nilai rata-rata",
-        "Menjumlahkan data",
-        "Mencari nilai terkecil",
-        "Menghitung jumlah sel"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "<b><i>Perhatikan gambar berikut untuk menjawab soal no 14 sampai no 16</i></b><br><img src='soal/img/XI/mp-tjkt/image2.png'>Manakah rumus yang tepat untuk menghitung nilai rata-rata milik Adit?",
-      "opsi": [
-        "=AVERAGE(C2:E2)",
-        "=AVERAGE(C2:C6)",
-        "=AVERAGE(B2:E2)",
-        "=AVERAGE(E2:E6)",
-        "=AVERAGE(A2:E2)"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Jika ingin mencari nilai tertinggi pada kolom Nilai 3, rumus yang digunakan adalah...",
-      "opsi": [
-        "=HIGH(E2:E6)",
-        "=TOP(E2:E6)",
-        "=MAX(E2:E6)",
-        "=MIN(E2:E6)",
-        "=SUM(E2:E6)"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Rumus yang digunakan untuk mencari nilai terkecil pada kolom Nilai 1 adalah...",
-      "opsi": [
-        "=MIN(C2:E2)",
-        "=MIN(C2:C6)",
-        "=MIN(B2:E2)",
-        "=MIN(E2:E6)",
-        "=MIN(A2:E2)"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Fungsi IF digunakan untuk...",
-      "opsi": [
-        "Mengurutkan data secara otomatis",
-        "Membandingkan dua kondisi dan menghasilkan nilai sesuai syarat",
-        "Menjumlahkan seluruh data",
-        "Menggabungkan dua teks",
-        "Mencari nilai terbesar"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Rumus dasar IF pada Microsoft Excel adalah...",
-      "opsi": [
-        "=IF(kondisi; nilai_jika_salah; nilai_jika_benar)",
-        "=IF(kondisi; nilai_jika_benar; nilai_jika_salah)",
-        "=IF(nilai_jika_benar; kondisi; nilai_jika_salah)",
-        "=IF(nilai1; nilai2; kondisi)",
-        "=IF(kondisi)"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "<b><i>Perhatikan gambar berikut untuk menjawab soal no 19 sampai no 24</i></b><br><br><img src='soal/img/XI/mp-tjkt/image3.png'><br>Rumus =IF(B2>=75;\"Lulus\";\"Tidak Lulus\") artinya...",
-      "opsi": [
-        "Jika nilai lebih dari 100 maka lulus",
-        "Jika nilai lebih kecil dari 75 maka lulus",
-        "Jika nilai lebih besar dari 75 maka tidak lulus",
-        "Jika nilai B2 minimal 75 maka lulus, selain itu tidak lulus",
-        "Jika nilai B2 negatif maka lulus"
+        "Align Left",
+        "Align Right",
+        "Center",
+        "Justify",
+        "Bold"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Rumus =IF(B2<50;\"Remedial\";\"Tidak Remedial\") akan bernilai \"Remedial\" apabila...",
+      "pertanyaan": "Dimas ingin membuat daftar isi otomatis, langkah pertama yang harus Dimas lakukan adalah ...",
       "opsi": [
-        "B2 = 80",
-        "B2 = 60",
-        "B2 = 50",
-        "B2 = 49",
-        "B2 = 100"
+        "Mengatur ukuran kertas",
+        "Memberi nomor halaman",
+        "Memberi caption pada gambar",
+        "Menggunakan Heading Style pada judul",
+        "Mengetik daftar isi manual"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Berdasarkan tabel rumus yang benar untuk menentukan status nilai Erika berdasarkan kriteria berikut:<br>Kriteria:<br>- ≥ 75 : \"Lulus\"<br>- ≥ 60 : \"Perbaikan\"<br>- < 60 : \"Tidak Lulus\"",
+      "pertanyaan": "Dalam penyusunan laporan, penggunaan Heading 1, Heading 2, dan Heading 3 biasanya digunakan untuk ...",
       "opsi": [
-        "=IF(B6>=75;\"Lulus\"; IF(B2>60;\"Perbaikan\";\"Tidak Lulus\"))",
-        "=IF(B6>=75;\"Lulus\";IF(B2>=60;\"Perbaikan\";\"Tidak Lulus\"))",
-        "=IF(B6>=75;Lulus; IF(B2>60;Perbaikan;Tidak Lulus))",
-        "=IF(B6>=75;\"Lulus\");IF(B2>=60;\"Perbaikan\";\"Tidak Lulus\")",
-        "=IF(B6>=75;Lulus); IF(B2>60;Perbaikan;Tidak Lulus)"
+        "Mengatur tingkatan judul bab, subbab, dan sub-subbab dalam dokumen",
+        "Mengatur format paragraf agar memiliki jarak dan perataan yang konsisten",
+        "Mengatur penomoran bab dan subbab secara otomatis tanpa pengaturan tambahan",
+        "Mengelompokkan teks berdasarkan gaya huruf agar tampilan lebih seragam",
+        "Mengatur struktur halaman agar setiap bagian memiliki format yang berbeda"
       ],
-      "jawaban": "B"
+      "jawaban": "A"
     },
     {
-      "pertanyaan": "Berdasarkan tabel, rumus yang tepat untuk menentukan kategori nilai Dimas adalah...<br>Kriteria:<br>- ≥ 90 : \"A\"<br>- ≥ 75 : \"B\"<br>- ≥ 60 : \"C\"<br>- Selain itu : \"D\"",
+      "pertanyaan": "Gema telah memberi format Heading 1 pada judul bab dan Heading 2 pada subbab dalam dokumennya. Agar bab dan subbab tersebut dapat ditampilkan secara otomatis lengkap dengan nomor halaman dalam satu halaman khusus, maka Gema harus menggunakan fitur ...",
       "opsi": [
-        "=IF(B2>=90;\"A\";IF(B2>=75;\"B\";IF(B2>=60;\"C\";\"D\")))",
-        "=IF(B3>=90;\"A\";IF(B2>=75;\"B\";IF(B2>=60;\"C\";\"D\")))",
-        "=IF(B4>=90; \"A\";IF(B2>=75;\"B\";IF(B2>=60;\"C\";\"D\")))",
-        "=IF(B5>=90; \"A\";IF(B2>=75;\"B\";IF(B2>=60;\"C\";\"D\")))",
-        "=IF(B6<=90; \"A\";IF(B2>=75;\"B\";IF(B2>=60;\"C\";\"D\")))"
+        "Insert → Page Number",
+        "Home → Styles/Heading",
+        "Layout → Margins",
+        "References → Table of Contents",
+        "Insert → Page Break"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Berdasarkan tabel dan kriteria, rumus yang kondisi keduanya harus terpenuhi untuk menentukan nilai Citra adalah...<br>Kriteria:<br>- Nilai ≥ 75 dan<br>- Kehadiran ≥ 80%",
+      "pertanyaan": "Syahrika telah membuat daftar isi secara otomatis. Setelah mendapat revisi, ia menambahkan satu subbab baru dan sudah diberi format Heading yang sesuai. Namun, daftar isi belum menampilkan subbab tersebut. Apa yang harus dilakukan Syahrika agar daftar isi menampilkan subbab yang baru ditambahkan?",
       "opsi": [
-        "=IF(OR(B4>=75;C2>=80%);\"Lulus\";\"Tidak Lulus\")",
-        "=IF(AND(B4<75;C2<80%);\"Lulus\";\"Tidak Lulus\")",
-        "=IF(OR(B4>=75;C2<=80%);\"Lulus\";\"Tidak Lulus\")",
-        "=IF(AND(B4>=75;C2>=80%);\"Lulus\";\"Tidak Lulus\")",
-        "=IF(B4>=75;\"Lulus\";\"Tidak Lulus\")"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Berdasarkan tabel dan kriteria, rumus yang digunakan jika salah satu syarat terpenuhi untuk menentukan apakah Citra lulus atau remedial adalah...",
-      "opsi": [
-        "=IF(OR(B4>=75;C2>=80%);\"Lulus\";\"Tidak Lulus\")",
-        "=IF(AND(B4<75;C2<80%);\"Lulus\";\"Tidak Lulus\")",
-        "=IF(OR(B4>=75;C2<=80%);\"Lulus\";\"Tidak Lulus\")",
-        "=IF(AND(B4>=75;C2>=80%);\"Lulus\";\"Tidak Lulus\")",
-        "=IF(B4>=75;\"Lulus\";\"Tidak Lulus\")"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Fungsi dari rumus SUMIF pada Microsoft Excel adalah...",
-      "opsi": [
-        "Menghitung rata-rata dari seluruh data dalam sebuah range",
-        "Menentukan nilai terbesar dari suatu kumpulan data",
-        "Menjumlahkan data berdasarkan satu kriteria tertentu",
-        "Mengurutkan data dari yang terkecil ke terbesar",
-        "Menghitung jumlah sel yang tidak kosong dalam suatu range"
+        "Memilih References → Insert Caption lalu menyegarkan dokumen",
+        "Menghapus daftar isi lalu mengetiknya kembali secara manual",
+        "Mengklik daftar isi kemudian memilih Update Table/Update Field",
+        "Mengaktifkan Link to Previous pada bagian header",
+        "Mengubah Format Page Numbers pada menu Page Number"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Rumus umum yang digunakan untuk menjumlahkan data berdasarkan satu kriteria tertentu pada Microsoft Excel adalah...",
+      "pertanyaan": "Menu yang digunakan untuk menambahkan nomor halaman secara otomatis pada dokumen adalah ...",
       "opsi": [
-        "=SUM(range)",
-        "=SUMIF(range; criteria; sum_range)",
-        "=COUNTIF(range; criteria)",
-        "=AVERAGEIF(range; criteria; average_range)",
-        "=SUMIFS(sum_range; criteria_range)"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "<b><i>Perhatikan gambar berikut untuk menjawab soal no 27 sampai no 29</i></b><br><br><img src='soal/img/XI/mp-tjkt/image4.png'>Berdasarkan tabel, rumus yang digunakan untuk menjumlahkan total penjualan Buku adalah...",
-      "opsi": [
-        "=SUM(B2:B6)",
-        "=SUMIF(C2:C6;\"Buku\";B2:B6)",
-        "=SUMIF(B2:B6;\"Buku\";C2:C6)",
-        "=SUMIF(B2;\"Buku\";C2)",
-        "=SUMIF(B2:B6;\"Pensil\";C2:C6)"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Hasil dari rumus =SUMIF(C2:C6;\"<10\") berdasarkan tabel adalah...",
-      "opsi": [
-        "27",
-        "22",
-        "17",
-        "12",
-        "3"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Hasil dari rumus =SUMIF(B2:B6;\"*u*\";C2:C6) berdasarkan tabel adalah...",
-      "opsi": [
-        "27",
-        "22",
-        "17",
-        "12",
-        "3"
+        "Insert → Page Number",
+        "Home → Styles/Heading",
+        "Layout → Margins",
+        "References → Table of Contents",
+        "Insert → Page Break"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Fungsi COUNT digunakan untuk menghitung...",
+      "pertanyaan": "Dalam penyusunan laporan resmi, beberapa bagian biasanya tidak diberi nomor halaman agar format dokumen tetap sesuai kaidah. Bagian mana yang umumnya tidak menampilkan nomor halaman?",
       "opsi": [
-        "Semua sel yang berisi teks",
-        "Semua sel yang berisi angka",
-        "Semua sel yang tidak kosong",
-        "Sel yang memenuhi lebih dari satu kriteria",
-        "Sel yang kosong"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Rumus umum COUNTIF yang digunakan untuk menghitung jumlah sel berdasarkan satu kriteria tertentu adalah...",
-      "opsi": [
-        "=COUNTIF(criteria; range)",
-        "=COUNTIF(range; criteria)",
-        "=COUNTIF(range)",
-        "=COUNTIF(criteria)",
-        "=COUNTIF(criteria_range1; criteria1; [criteria_range2];[ criteria2];...)"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "<b><i>Perhatikan gambar berikut untuk menjawab soal no 32 sampai no 35</i></b><br><br><img src='soal/img/XI/mp-tjkt/image5.png'>Rumus COUNT yang benar untuk menghitung jumlah produk yang memiliki nilai stok adalah...",
-      "opsi": [
-        "=COUNT(A2:C2)",
-        "=COUNT(B2:B6)",
-        "=COUNT(C2:C6)",
-        "=COUNT(C2:C6;\"=Stok\")",
-        "=COUNT(C2:C6;\"Stok\")"
+        "Kata Pengantar",
+        "Lembar Pengesahan",
+        "Halaman Sampul",
+        "Bab I Pendahuluan",
+        "Lampiran"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Rumus COUNTA yang benar untuk menghitung jumlah nama produk yang tidak kosong adalah...",
+      "pertanyaan": "Jika nomor halaman ingin ditampilkan di bagian bawah tengah setiap halaman dokumen, opsi mana yang harus dipilih?",
       "opsi": [
-        "=COUNTA(A2:A6)",
-        "=COUNTA(B2:B6)",
-        "=COUNTA(C2:C6)",
-        "=COUNTA(A2:C2)",
-        "=COUNTA(A2:A6;\"<>\")"
+        "Top of Page",
+        "Page Margins",
+        "Bottom of Page",
+        "Current Position",
+        "Page Color"
       ],
-      "jawaban": "A"
+      "jawaban": "C"
     },
     {
-      "pertanyaan": "Rumus COUNTIFS yang digunakan untuk menghitung jumlah produk yang termasuk kategori Kebutuhan dan memiliki stok kurang dari 20 adalah...",
+      "pertanyaan": "Ripandi sedang menyusun laporan PKL, semua halaman laporan sudah diberi nomor secara otomatis. Saat sampai pada Bab I Pendahuluan, ia melihat halaman tersebut tercatat sebagai halaman 5, padahal Bab I seharusnya dimulai dari nomor 1 sesuai aturan penulisan laporan. Langkah atau fitur mana yang tepat digunakan agar nomor halaman Bab I dimulai dari 1 tanpa mengubah nomor halaman di bagian sebelumnya?",
       "opsi": [
-        "=COUNTIFS(B2:B6;\"Kebutuhan\")",
-        "=COUNTIFS(B2:B6;\"Kebutuhan\";C2:C6;\"<20\")",
-        "=COUNTIFS(C2:C6;\"<20\";B2:B6;\"Alat Tulis\")",
-        "=COUNTIFS(A2:A6;\"Kebutuhan\";C2:C6;\"<20\")",
-        "=COUNTIFS(C2;\"<20\";B2;\"Kebutuhan\")"
+        "Menggunakan Page Break agar Bab I dimulai di halaman baru",
+        "Menggunakan Section Break → lalu mengatur Format Page Number mulai dari 1",
+        "Menghapus semua nomor halaman dan mengetik nomor Bab I secara manual",
+        "Menambahkan Page Number pada Current Position dan mengganti angka menjadi 1",
+        "Menambahkan Columns → Break"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Berdasarkan tabel, berapa hasil dari rumus berikut?<br>=COUNTIFS(B2:B6,\"Alat Tulis\", C2:C6,\"<50\")",
+      "pertanyaan": "Manakah dari pilihan berikut yang merupakan perbedaan antara Page Break dan Section Break dalam dokumen?",
       "opsi": [
-        "0",
-        "1",
-        "2",
-        "3",
-        "4"
+        "Page Break digunakan untuk mengatur jarak antarbaris",
+        "Section Break membagi dokumen menjadi beberapa bagian berbeda",
+        "Page Break menghapus halaman",
+        "Section Break menambahkan baris baru",
+        "Semua jawaban salah"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Dalam pembuatan laporan PKL, gambar sering digunakan untuk memperjelas penjelasan, misalnya foto kegiatan, diagram, atau hasil pekerjaan. Cara yang tepat untuk menambahkan gambar ke dalam laporan menggunakan Microsoft Word adalah ...",
+      "opsi": [
+        "Klik menu Insert lalu pilih Shapes",
+        "Klik menu Insert lalu pilih Pictures",
+        "Klik menu Insert lalu pilih Text Box",
+        "Klik menu Home lalu pilih Border",
+        "Klik menu Insert lalu pilih Icons"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Sebelum membuat daftar gambar otomatis di laporan, syarat apa yang harus dipenuhi agar setiap gambar muncul di daftar?",
+      "opsi": [
+        "Menambahkan Page Break pada setiap gambar",
+        "Memberi caption pada setiap gambar",
+        "Mengubah margin halaman agar cukup untuk daftar gambar",
+        "Memberi Heading pada gambar",
+        "Mengubah ukuran gambar agar sesuai"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Fajar menambahkan keterangan pada sebuah gambar di laporan dan memberi style khusus, seperti warna font, ukuran, dan jenis huruf. Ia ingin menerapkan style yang sama pada keterangan gambar lain dengan cepat tanpa mengatur satu per satu. Fitur yang paling tepat digunakan adalah...",
+      "opsi": [
+        "Menyalin teks dan menempelkannya",
+        "Mengubah font di setiap keterangan secara manual",
+        "Menambahkan border pada keterangan",
+        "Menggunakan fitur Styles di menu Home",
+        "Menggunakan Format Painter"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Lita ingin menampilkan semua gambar beserta nomor halamannya di halaman khusus secara otomatis, menu mana yang harus Lita digunakan?",
+      "opsi": [
+        "References → Insert Table of Figures",
+        "Insert → Page Number → Format Page number → Start at",
+        "Home → Styles → Heading 1",
+        "References → Table of Contents",
+        "References → Insert Citation"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Dalam penulisan karya ilmiah seperti makalah, laporan, atau skripsi, penulis sering menggunakan berbagai sumber seperti buku, jurnal, dan artikel untuk mendukung isi tulisannya. Semua sumber yang digunakan tersebut dicantumkan pada bagian akhir karya tulis yang disebut daftar pustaka, tujuan utama penulisan daftar pustaka adalah untuk ...",
+      "opsi": [
+        "Memperpanjang isi karya tulis agar terlihat lebih lengkap",
+        "Menghias bagian akhir karya tulis agar lebih menarik",
+        "Menjelaskan isi seluruh buku yang digunakan sebagai referensi",
+        "Menyimpulkan seluruh isi karya tulis yang telah dibuat",
+        "Menunjukkan sumber referensi yang digunakan dalam karya tulis"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Apa yang akan terjadi jika sebuah laporan menggunakan banyak referensi tetapi tidak menyertakan daftar pustaka?",
+      "opsi": [
+        "Laporan terlihat kurang lengkap dan tidak resmi",
+        "Laporan bisa dianggap plagiat dan tidak valid secara akademik",
+        "Laporan sulit dinilai karena sumber informasi tidak jelas",
+        "Laporan akan kehilangan kredibilitas akademik",
+        "Laporan tetap sah tapi terlihat kurang rapi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Daftar pustaka biasanya diletakkan pada bagian tertentu dalam struktur laporan. Penempatan ini bertujuan agar pembaca dapat dengan mudah menemukan sumber-sumber yang digunakan dalam penulisan laporan. Bagian yang tepat untuk menempatkan daftar pustaka adalah ...",
+      "opsi": [
+        "Pada bagian awal sebelum kata pengantar",
+        "Setelah halaman judul laporan",
+        "Di tengah-tengah pembahasan laporan",
+        "Pada bagian akhir setelah penutup",
+        "Di setiap akhir halaman laporan"
       ],
       "jawaban": "D"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Tuliskan fungsi dari rumus berikut:<br>a. SUM<br>b. AVERAGE<br>c. MAX<br>d. MIN"
+      "pertanyaan": "Tuliskan struktur laporan PKL secara lengkap dan berurutan yang biasanya digunakan dalam penulisan laporan menggunakan Microsoft Word!"
     },
     {
-      "pertanyaan": "Tuliskan perbedaan antara SUM dengan SUMIF!"
+      "pertanyaan": "Tuliskan langkah-langkah mengatur margin khusus (custom margin) pada dokumen menggunakan Microsoft Word secara singkat!"
     },
     {
-      "pertanyaan": "<b><i>Perhatikan gambar berikut untuk menjawab soal no 3 sampai no 4</i></b><br><br><img src='soal/img/XI/mp-tjkt/image6.png'>Berdasarkan data pada tabel diatas, tuliskan rumus untuk menentukan status nilai UAS Farah dengan kriteria sebagai berikut:<br>- Jika nilai UAS Farah >=75 maka staus nilainya Lulus<br>- Jika nilai UAS Farah <75 maka status nilainya Remedial"
+      "pertanyaan": "Tuliskan langkah-langkah membuat daftar isi otomatis pada dokumen menggunakan Microsoft Word secara singkat!"
     },
     {
-      "pertanyaan": "Berdasarkan data pada tabel diatas, tuliskan rumus untuk membuat predikat nilai UTS Dinda dengan kriteria sebagai berikut:<br>- Jika nilai UTS Dinda >=90 maka predikat nilainya A<br>- Jika nilai UTS Dinda >=80 maka predikat nilainya B<br>- Jika nilai UTS Dinda >=70 maka predikat nilainya C<br>- Jika nilai UTS Dinda < 70 maka predikat nilainya D"
+      "pertanyaan": "Tuliskan langkah-langkah membuat daftar gambar otomatis pada dokumen menggunakan Microsoft Word secara singkat!"
     },
     {
-      "pertanyaan": "Tuliskan perbedaan antara Count, Counta, dan CountIF!"
+      "pertanyaan": "Tuliskan langkah-langkah membuat penomoran halaman otomatis pada dokumen menggunakan Microsoft Word secara singkat!"
     }
   ]
 }
