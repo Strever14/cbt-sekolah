@@ -1,0 +1,351 @@
+{
+  "pilihan_ganda": [
+    {
+      "pertanyaan": "Seorang siswa tidak sengaja menulis rumus di sel yang salah karena tidak memperhatikan alamat sel. Bagian Excel yang seharusnya diperhatikan terlebih dahulu adalah ...",
+      "opsi": [
+        "Ribbon",
+        "Formula Bar",
+        "Worksheet",
+        "Status Bar",
+        "Name Box"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Guru ingin siswa memahami bahwa satu file Excel dapat berisi banyak lembar kerja. Istilah yang tepat untuk satu file Excel adalah ...",
+      "opsi": [
+        "Sheet",
+        "Cell",
+        "Range",
+        "Workbook",
+        "Column"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Jika guru ingin memastikan siswa mengetahui lokasi penulisan rumus dan fungsi, maka bagian jendela Excel yang harus dijelaskan adalah ...",
+      "opsi": [
+        "Ribbon",
+        "Formula Bar",
+        "Name Box",
+        "Status Bar",
+        "Scroll Bar"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Dalam kegiatan praktik, siswa diminta berpindah cepat ke sel tertentu (misalnya C10). Fitur yang paling efisien digunakan adalah ...",
+      "opsi": [
+        "Ribbon",
+        "Worksheet",
+        "Name Box",
+        "Formula Bar",
+        "Status Bar"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Jika seluruh menu perintah seperti pengaturan font, alignment, dan grafik tidak terlihat, kemungkinan bagian Excel yang disembunyikan adalah ...",
+      "opsi": [
+        "Status Bar",
+        "Ribbon",
+        "Worksheet",
+        "Formula Bar",
+        "Name Box"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Data nilai siswa per bulan ingin dianalisis kecenderungan naik-turunnya. Grafik yang paling tepat adalah ...",
+      "opsi": [
+        "Pie Chart",
+        "Column Chart",
+        "Line Chart",
+        "Scatter Chart",
+        "Doughnut Chart"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Jika guru ingin membandingkan jumlah siswa tiap jurusan dalam satu tahun, jenis grafik yang paling efektif adalah ...",
+      "opsi": [
+        "Line",
+        "Pie",
+        "Column",
+        "Area",
+        "Scatter"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Seorang siswa langsung memilih menu Insert → Chart tanpa memblok data. Akibat yang paling mungkin terjadi adalah ...",
+      "opsi": [
+        "Grafik tidak bisa diedit",
+        "Excel menutup otomatis",
+        "Grafik tidak sesuai data",
+        "Grafik lebih rapi",
+        "Data hilang"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Data komposisi pengeluaran sekolah ingin ditampilkan dalam bentuk persentase. Grafik yang paling tepat adalah ...",
+      "opsi": [
+        "Column",
+        "Line",
+        "Area",
+        "Pie",
+        "Scatter"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Grafik XY (Scatter) lebih tepat digunakan dibanding grafik Line apabila ...",
+      "opsi": [
+        "Data berupa kategori",
+        "Data berbentuk persentase",
+        "Data menunjukkan hubungan dua variabel numerik",
+        "Data hanya satu variabel",
+        "Data bersifat perbandingan sederhana"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Grafik sudah benar, tetapi sulit dipahami karena tidak ada keterangan warna. Komponen grafik yang perlu ditambahkan adalah ...",
+      "opsi": [
+        "Chart Title",
+        "Axis",
+        "Legend",
+        "Data Table",
+        "Gridlines"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Jika judul grafik tidak menggambarkan isi data, dampak yang paling mungkin adalah ...",
+      "opsi": [
+        "Grafik menjadi salah",
+        "Grafik tidak bisa dicetak",
+        "Pembaca salah menafsirkan data",
+        "Warna grafik berubah",
+        "Data hilang"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Guru ingin nilai setiap batang grafik langsung terlihat tanpa melihat tabel. Fitur yang harus diaktifkan adalah ...",
+      "opsi": [
+        "Axis",
+        "Legend",
+        "Data Label",
+        "Chart Area",
+        "Gridlines"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perubahan warna grafik bertujuan utama untuk ...",
+      "opsi": [
+        "Mengubah data",
+        "Mempercantik tampilan tanpa makna",
+        "Mempermudah membedakan data",
+        "Menghapus grafik",
+        "Menyembunyikan kesalahan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Jika area grafik terlalu sempit sehingga data tidak jelas, solusi terbaik adalah ...",
+      "opsi": [
+        "Menghapus grafik",
+        "Mengubah jenis grafik",
+        "Mengatur ukuran Chart Area",
+        "Menghapus data",
+        "Menutup worksheet"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Seorang siswa menulis rumus A1+B1 dan hasil tidak muncul. Kesalahan utama adalah ...",
+      "opsi": [
+        "Salah sel",
+        "Tidak ada operator",
+        "Tidak menggunakan tanda sama dengan",
+        "Angka terlalu kecil",
+        "Salah worksheet"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Jika A1=10 dan B1=5, hasil rumus =A1-B1*2 adalah ...",
+      "opsi": [
+        "0",
+        "5",
+        "10",
+        "-10",
+        "20"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Rumus yang paling efisien untuk menjumlahkan data A1 sampai A10 adalah ...",
+      "opsi": [
+        "=A1+A2+...+A10",
+        "=COUNT(A1:A10)",
+        "=AVERAGE(A1:A10)",
+        "=SUM(A1:A10)",
+        "=MAX(A1:A10)"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Seorang siswa mendapatkan hasil error (#DIV/0!). Kemungkinan penyebabnya adalah ...",
+      "opsi": [
+        "Rumus salah ketik",
+        "Sel pembagi bernilai nol",
+        "Data berupa teks",
+        "Salah operator",
+        "Grafik belum dibuat"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Jika rumus =5+10/5 menghasilkan 7, maka konsep yang diterapkan Excel adalah ...",
+      "opsi": [
+        "Penjumlahan dahulu",
+        "Urutan penulisan",
+        "Prioritas operasi matematika",
+        "Pembulatan angka",
+        "Penggunaan fungsi"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Untuk menghitung total nilai lalu menampilkannya dalam grafik, urutan kerja yang benar adalah ...",
+      "opsi": [
+        "Grafik → rumus → data",
+        "Data → grafik → rumus",
+        "Rumus → data → grafik",
+        "Data → rumus → grafik",
+        "Grafik → data → rumus"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Jika hasil perhitungan berubah, grafik juga ikut berubah. Hal ini menunjukkan bahwa grafik di Excel bersifat ...",
+      "opsi": [
+        "Statis",
+        "Manual",
+        "Dinamis",
+        "Tetap",
+        "Terpisah"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Seorang guru ingin menilai pemahaman siswa tentang fungsi Excel. Aktivitas yang paling tepat adalah ...",
+      "opsi": [
+        "Menghafal menu",
+        "Menyalin tabel",
+        "Mengolah data lalu menyajikannya dalam grafik",
+        "Mengganti warna sel",
+        "Menutup aplikasi"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Jika data salah, tetapi grafik terlihat bagus, sikap yang paling tepat adalah ...",
+      "opsi": [
+        "Membiarkannya",
+        "Menghapus grafik",
+        "Memperbaiki data terlebih dahulu",
+        "Mengganti warna grafik",
+        "Menyimpan file"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Kesalahan paling fatal dalam penggunaan rumus Excel adalah ...",
+      "opsi": [
+        "Salah warna sel",
+        "Salah ukuran grafik",
+        "Salah data yang dihitung",
+        "Salah font",
+        "Salah tema"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Penggunaan grafik dalam laporan bertujuan utama untuk ...",
+      "opsi": [
+        "Menghias laporan",
+        "Mengurangi data",
+        "Mempermudah analisis dan pemahaman",
+        "Mengganti tabel",
+        "Menghemat waktu mengetik"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Jika siswa diminta membandingkan dua data berbeda secara visual, maka grafik lebih unggul dibanding tabel karena ...",
+      "opsi": [
+        "Lebih kecil ukurannya",
+        "Lebih cepat dipahami",
+        "Lebih sulit dibuat",
+        "Lebih banyak warna",
+        "Lebih sedikit angka"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Rumus =A1+A2*A3 berbeda hasil dengan (A1+A2)*A3 karena ...",
+      "opsi": [
+        "Sel berbeda",
+        "Grafik mempengaruhi",
+        "Urutan operasi matematika",
+        "Kesalahan Excel",
+        "Angka tidak valid"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Jika grafik tidak sesuai dengan tujuan penyajian data, maka tindakan terbaik adalah ...",
+      "opsi": [
+        "Menghapus data",
+        "Mengganti jenis grafik",
+        "Mengganti warna sel",
+        "Mengunci worksheet",
+        "Menutup file"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Kombinasi kemampuan yang paling tepat dalam pembelajaran Excel adalah ...",
+      "opsi": [
+        "Menghafal menu",
+        "Menyalin rumus",
+        "Memahami data, menghitung, dan menyajikannya secara visual",
+        "Mengganti tema",
+        "Mengatur margin"
+      ],
+      "jawaban": "C"
+    }
+  ],
+  "essay": [
+    {
+      "pertanyaan": "Jelaskan mengapa pemilihan jenis grafik yang tepat sangat penting dalam penyajian data!"
+    },
+    {
+      "pertanyaan": "Sebuah data nilai siswa sudah dihitung dengan rumus, tetapi grafik tidak berubah. Analisis kemungkinan penyebabnya!"
+    },
+    {
+      "pertanyaan": "Bandingkan fungsi grafik Column dan Pie dalam konteks laporan sekolah!"
+    },
+    {
+      "pertanyaan": "Mengapa memahami urutan operasi matematika penting dalam penggunaan rumus Excel?"
+    },
+    {
+      "pertanyaan": "Jelaskan hubungan antara pengolahan data, penggunaan rumus, dan pembuatan grafik di Microsoft Excel!"
+    }
+  ]
+}
