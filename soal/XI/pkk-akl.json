@@ -1,0 +1,351 @@
+{
+  "pilihan_ganda": [
+    {
+      "pertanyaan": "Penjualan adalah kegiatan untuk ...",
+      "opsi": [
+        "Membuat produk",
+        "Menawarkan dan menjual produk kepada konsumen",
+        "Menyimpan barang",
+        "Menghitung pajak",
+        "Mengemas produk"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Tujuan utama kegiatan penjualan adalah ...",
+      "opsi": [
+        "Mengurangi produksi",
+        "Mendapatkan keuntungan",
+        "Menambah karyawan",
+        "Mengurangi konsumen",
+        "Menyimpan barang"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Penjualan yang dilakukan langsung kepada konsumen tanpa perantara disebut ...",
+      "opsi": [
+        "Penjualan grosir",
+        "Penjualan kredit",
+        "Penjualan langsung",
+        "Penjualan tidak langsung",
+        "Penjualan lelang"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Penjualan dalam jumlah besar kepada pedagang lain disebut ...",
+      "opsi": [
+        "Penjualan eceran",
+        "Penjualan grosir",
+        "Penjualan tunai",
+        "Penjualan kredit",
+        "Penjualan online"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Penjualan yang pembayarannya dilakukan di kemudian hari disebut ...",
+      "opsi": [
+        "Penjualan tunai",
+        "Penjualan langsung",
+        "Penjualan kredit",
+        "Penjualan cepat",
+        "Penjualan lelang"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dokumen yang dibuat sebagai bukti transaksi penjualan disebut ...",
+      "opsi": [
+        "Nota penjualan",
+        "Surat jalan",
+        "Faktur pembelian",
+        "Proposal",
+        "Laporan produksi"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Sikap yang harus dimiliki seorang tenaga penjual adalah ...",
+      "opsi": [
+        "Ramah dan jujur",
+        "Pemarah",
+        "Tidak peduli",
+        "Acuh tak acuh",
+        "Tertutup"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Kegiatan menawarkan produk secara langsung kepada calon pembeli disebut ...",
+      "opsi": [
+        "Produksi",
+        "Personal selling",
+        "Distribusi",
+        "Konsumsi",
+        "Administrasi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Penjualan melalui internet disebut ...",
+      "opsi": [
+        "Penjualan tradisional",
+        "Penjualan manual",
+        "Penjualan online",
+        "Penjualan grosir",
+        "Penjualan lelang"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Layanan purna jual bertujuan untuk ...",
+      "opsi": [
+        "Mengurangi kualitas produk",
+        "Meningkatkan kepuasan pelanggan",
+        "Menambah harga",
+        "Mengurangi konsumen",
+        "Menghapus garansi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Diskon diberikan kepada pembeli dengan tujuan untuk ...",
+      "opsi": [
+        "Mengurangi keuntungan",
+        "Menarik minat beli",
+        "Mengurangi stok saja",
+        "Menutup usaha",
+        "Menghentikan produksi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Penjualan eceran biasanya dilakukan kepada ...",
+      "opsi": [
+        "Distributor",
+        "Pedagang besar",
+        "Konsumen akhir",
+        "Agen",
+        "Produsen"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Surat jalan digunakan untuk ...",
+      "opsi": [
+        "Bukti pembayaran",
+        "Bukti pengiriman barang",
+        "Bukti produksi",
+        "Bukti pajak",
+        "Bukti promosi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Tenaga penjual disebut juga ...",
+      "opsi": [
+        "Investor",
+        "Sales",
+        "Distributor",
+        "Supplier",
+        "Konsumen"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Komunikasi yang baik dalam penjualan bertujuan untuk ...",
+      "opsi": [
+        "Membingungkan pelanggan",
+        "Meningkatkan kepercayaan pelanggan",
+        "Mengurangi minat beli",
+        "Mengurangi kualitas",
+        "Menutup toko"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Target penjualan ditetapkan agar ...",
+      "opsi": [
+        "Usaha tidak berkembang",
+        "Ada tujuan yang ingin dicapai",
+        "Konsumen berkurang",
+        "Harga naik terus",
+        "Stok habis"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Strategi upselling adalah ...",
+      "opsi": [
+        "Menawarkan produk lebih murah",
+        "Menawarkan produk dengan kualitas lebih tinggi",
+        "Menurunkan harga",
+        "Menghentikan penjualan",
+        "Mengurangi stok"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Cross selling berarti ...",
+      "opsi": [
+        "Menawarkan produk tambahan yang berkaitan",
+        "Mengurangi harga",
+        "Menghentikan promosi",
+        "Mengganti produk",
+        "Menghapus diskon"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Penanganan keluhan pelanggan harus dilakukan dengan ...",
+      "opsi": [
+        "Emosi",
+        "Acuh",
+        "Sabar dan solusi yang tepat",
+        "Menyalahkan pelanggan",
+        "Mengabaikan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Laporan penjualan berfungsi untuk ...",
+      "opsi": [
+        "Mengetahui hasil penjualan",
+        "Mengurangi stok",
+        "Menambah biaya",
+        "Menyimpan barang",
+        "Mengurangi pelanggan"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Retur penjualan terjadi apabila ...",
+      "opsi": [
+        "Barang rusak atau tidak sesuai pesanan",
+        "Barang habis",
+        "Harga naik",
+        "Toko tutup",
+        "Diskon besar"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Penjualan melalui marketplace termasuk penjualan ...",
+      "opsi": [
+        "Offline",
+        "Tradisional",
+        "Online",
+        "Grosir",
+        "Langsung"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Sikap profesional dalam penjualan ditunjukkan dengan ...",
+      "opsi": [
+        "Berpakaian rapi",
+        "Datang terlambat",
+        "Berbicara kasar",
+        "Tidak sopan",
+        "Mengabaikan pelanggan"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Harga jual ditentukan berdasarkan ...",
+      "opsi": [
+        "Biaya produksi dan keuntungan",
+        "Warna produk",
+        "Jumlah karyawan",
+        "Ukuran toko",
+        "Jumlah rak"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Pelayanan yang cepat dan tepat dapat ...",
+      "opsi": [
+        "Menurunkan kepuasan",
+        "Meningkatkan loyalitas pelanggan",
+        "Mengurangi penjualan",
+        "Menambah complain",
+        "Mengurangi kualitas"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Sistem pembayaran menggunakan kartu debit termasuk penjualan ...",
+      "opsi": [
+        "Kredit",
+        "Tunai non-tunai",
+        "Lelang",
+        "Grosir",
+        "Konsinyasi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Konsinyasi adalah sistem penjualan di mana ...",
+      "opsi": [
+        "Barang dibayar di muka",
+        "Barang dititipkan kepada penjual",
+        "Barang dijual langsung ke pabrik",
+        "Tidak ada perantara",
+        "Tanpa nota"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Promosi dalam penjualan bertujuan untuk ...",
+      "opsi": [
+        "Mengurangi pembeli",
+        "Meningkatkan volume penjualan",
+        "Mengurangi stok",
+        "Menghentikan usaha",
+        "Mengurangi kualitas"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Penjualan tunai berarti ...",
+      "opsi": [
+        "Pembayaran dilakukan secara cicilan",
+        "Pembayaran dilakukan saat transaksi",
+        "Pembayaran dilakukan tahun depan",
+        "Tanpa pembayaran",
+        "Tanpa nota"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Hubungan baik dengan pelanggan akan berdampak pada ...",
+      "opsi": [
+        "Penurunan penjualan",
+        "Kerugian usaha",
+        "Pembelian ulang",
+        "Pengurangan stok",
+        "Penutupan usaha"
+      ],
+      "jawaban": "C"
+    }
+  ],
+  "essay": [
+    {
+      "pertanyaan": "Apa yang dimaksud dengan penjualan?"
+    },
+    {
+      "pertanyaan": "Apa tujuan memberikan diskon kepada pelanggan?"
+    },
+    {
+      "pertanyaan": "Jelaskan pentingnya laporan penjualan dalam pengambilan keputusan manajemen?"
+    },
+    {
+      "pertanyaan": "Analisislah dampak pelayanan yang buruk terhadap proses penjualan dan keberlangsungan usaha?"
+    },
+    {
+      "pertanyaan": "Suatu perusahaan mengalami penurunan penjualan meskipun produk berkualitas baik. Analisis kemungkinan penyebabnya dari sisi strategi penjualan?"
+    }
+  ]
+}
