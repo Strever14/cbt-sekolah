@@ -1,406 +1,351 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Teknik mengetik 10 jari bertujuan untuk ...",
+      "pertanyaan": "Jaringan komputer adalah ...",
       "opsi": [
-        "Membuat tulisan lebih indah",
-        "Mengetik dengan dua jari secara cepat",
-        "Mengetik dengan semua jari agar efisien dan cepat",
-        "Mengetik hanya dengan jari telunjuk",
-        "Menghafal letak tombol tanpa melihat layar"
+        "Sekumpulan komputer yang berdiri sendiri",
+        "Sistem operasi berbasis jaringan",
+        "Dua atau lebih komputer yang saling terhubung untuk berbagi data",
+        "Program untuk mengakses internet",
+        "Perangkat keras komputer"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Jari telunjuk kanan pada teknik mengetik 10 jari diletakkan di tombol ...",
+      "pertanyaan": "Kepanjangan dari LAN adalah ...",
       "opsi": [
-        "F",
-        "J",
-        "K",
-        "D",
-        "L"
+        "Large Area Network",
+        "Local Area Network",
+        "Limited Area Network",
+        "Long Area Network",
+        "Link Area Network"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Saat mengetik menggunakan 10 jari, pandangan sebaiknya difokuskan pada ...",
+      "pertanyaan": "Jaringan yang mencakup wilayah sangat luas seperti antar negara disebut ...",
       "opsi": [
-        "Keyboard",
-        "Jari-jari tangan",
-        "Layar monitor",
-        "Meja kerja",
-        "Buku panduan mengetik"
+        "LAN",
+        "MAN",
+        "WAN",
+        "PAN",
+        "CAN"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Berikut ini adalah manfaat dari mengetik dengan 10 jari, kecuali ...",
+      "pertanyaan": "Perangkat yang berfungsi menghubungkan dua jaringan berbeda adalah ...",
       "opsi": [
-        "Meningkatkan kecepatan mengetik",
-        "Mengurangi kesalahan pengetikan",
-        "Membuat tangan cepat lelah",
-        "Meningkatkan efisiensi kerja",
-        "Membantu konsentrasi pada isi teks"
+        "Switch",
+        "Hub",
+        "Router",
+        "Repeater",
+        "NIC"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Jari tengah kanan digunakan untuk menekan tombol ...",
+      "pertanyaan": "Alat yang digunakan untuk memperkuat sinyal jaringan adalah ...",
       "opsi": [
-        "K",
-        "L",
-        "H",
-        "U",
-        "O"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Posisi yang benar saat mengetik 10 jari adalah ...",
-      "opsi": [
-        "Tangan kaku di atas keyboard",
-        "Bahu menempel pada meja",
-        "Punggung tegak dan pandangan ke layar",
-        "Kepala menunduk terus ke keyboard",
-        "Tangan kanan bekerja lebih banyak dari kiri"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "TIK merupakan singkatan dari ...",
-      "opsi": [
-        "Teknologi Industri dan Komputer",
-        "Teknologi Informasi dan Komunikasi",
-        "Teknik Informasi dan Komputer",
-        "Teknologi Internet dan Komputerisasi",
-        "Teknologi Inovatif Komunikatif"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Perangkat keras komputer yang berfungsi menampilkan hasil pengolahan data adalah ...",
-      "opsi": [
-        "CPU",
-        "Keyboard",
-        "Printer",
-        "Mouse",
-        "Scanner"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Berikut ini yang termasuk perangkat input adalah ...",
-      "opsi": [
-        "Monitor",
-        "Printer",
-        "Keyboard",
-        "Speaker",
-        "Proyektor"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Sistem operasi termasuk dalam jenis ...",
-      "opsi": [
-        "Perangkat keras",
-        "Perangkat lunak",
-        "Perangkat tambahan",
-        "Perangkat penyimpanan",
-        "Perangkat komunikasi"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Fungsi utama CPU adalah ...",
-      "opsi": [
-        "Mencetak dokumen",
-        "Menyimpan data sementara",
-        "Mengolah data dan mengontrol perangkat",
-        "Menampilkan gambar",
-        "Menghubungkan jaringan internet"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Internet adalah ...",
-      "opsi": [
-        "Jaringan lokal antar komputer",
-        "Jaringan komputer internasional",
-        "Perangkat keras komputer",
-        "Program pengolah kata",
-        "Media penyimpanan data"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Perangkat yang digunakan untuk menghubungkan komputer ke jaringan internet adalah ...",
-      "opsi": [
-        "Mouse",
-        "Scanner",
+        "Router",
+        "Repeater",
+        "Bridge",
         "Modem",
-        "Speaker",
-        "Flashdisk"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Berikut ini merupakan contoh komunikasi menggunakan TIK, kecuali ...",
-      "opsi": [
-        "Video call",
-        "Email",
-        "Surat pos",
-        "Chatting",
-        "Telekonferensi"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Perangkat lunak pengolah kata adalah ...",
-      "opsi": [
-        "Microsoft Word",
-        "Microsoft Excel",
-        "CorelDRAW",
-        "Adobe Photoshop",
-        "Google Chrome"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Aplikasi yang digunakan untuk presentasi adalah ...",
-      "opsi": [
-        "Microsoft Excel",
-        "Microsoft Word",
-        "Microsoft PowerPoint",
-        "Paint",
-        "Notepad"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Virus komputer dapat merusak ...",
-      "opsi": [
-        "Hanya perangkat keras",
-        "Hanya monitor",
-        "Hanya sistem operasi",
-        "Data dan sistem komputer",
-        "Komponen listrik komputer"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Media sosial berikut yang berfungsi utama untuk berbagi foto adalah ...",
-      "opsi": [
-        "Twitter",
-        "Instagram",
-        "LinkedIn",
-        "WhatsApp",
-        "Zoom"
+        "Access Point"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Keamanan data pribadi di internet dapat dijaga dengan cara ...",
+      "pertanyaan": "Kepanjangan dari IP adalah ...",
       "opsi": [
-        "Menggunakan password yang mudah ditebak",
-        "Membagikan akun kepada teman",
-        "Mengabaikan pembaruan sistem",
-        "Menggunakan antivirus dan password kuat",
-        "Mengakses situs tidak resmi"
+        "Internet Process",
+        "Internal Protocol",
+        "Internet Protocol",
+        "Integrated Program",
+        "Internet Program"
       ],
-      "jawaban": "D"
+      "jawaban": "C"
     },
     {
-      "pertanyaan": "Pengertian linking dalam dokumen adalah ...",
+      "pertanyaan": "Contoh alamat IP versi 4 adalah ...",
       "opsi": [
-        "Menyisipkan data dari file lain yang akan berubah otomatis jika file sumber diubah",
-        "Menyalin data dari file lain tanpa bisa berubah",
-        "Menulis ulang isi file lain",
-        "Menghapus tautan antar file",
-        "Menyimpan file dengan nama berbeda"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Pengertian embedding adalah ...",
-      "opsi": [
-        "Menyisipkan data dari file lain yang tidak terhubung ke file sumber",
-        "Menyambungkan file agar datanya selalu diperbarui",
-        "Menghapus objek yang tertanam",
-        "Menautkan dokumen dengan internet",
-        "Membuat hyperlink antar file"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Kelebihan dari linking adalah ...",
-      "opsi": [
-        "Ukuran file menjadi lebih kecil dan data otomatis diperbarui",
-        "Data tetap sama walau file sumber diubah",
-        "Tidak memerlukan file sumber",
-        "Dapat digunakan tanpa koneksi file",
-        "File tertaut tidak bisa dibuka"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Kekurangan dari embedding adalah ...",
-      "opsi": [
-        "Data tidak ikut tersimpan di dokumen",
-        "Ukuran file menjadi lebih besar",
-        "Data berubah otomatis saat sumber berubah",
-        "Harus terhubung ke internet",
-        "Tidak bisa disalin"
+        "2001:db8::1",
+        "192.168.1.1",
+        "www.google.com",
+        "FF:AA:BB:CC",
+        "1234-5678"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Jika file Excel di-embed ke dalam dokumen Word, maka ...",
+      "pertanyaan": "Protokol yang digunakan untuk mengirim email adalah ...",
       "opsi": [
-        "Data di Word akan berubah otomatis jika file Excel diubah",
-        "Data Excel akan tersimpan di dalam file Word",
-        "File Word dan Excel saling terhubung permanen",
-        "File Excel tidak bisa dihapus",
-        "Word hanya menampilkan tautan"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Dalam Microsoft Word, perintah untuk menyisipkan objek dari file lain dapat diakses melalui menu ...",
-      "opsi": [
-        "Home → Insert Object",
-        "Insert → Object",
-        "File → Import",
-        "Data → Get External Data",
-        "Tools → Options"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Opsi \"Link to file\" pada dialog Insert Object digunakan untuk ...",
-      "opsi": [
-        "Menyematkan data tanpa koneksi ke file sumber",
-        "Membuat salinan permanen dari file sumber",
-        "Menyambungkan dokumen ke file sumber",
-        "Menghapus tautan antar file",
-        "Menyalin data menjadi gambar"
+        "HTTP",
+        "FTP",
+        "SMTP",
+        "TCP",
+        "UDP"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Salah satu contoh penggunaan linking adalah ...",
+      "pertanyaan": "Perangkat keras yang menghubungkan komputer ke jaringan disebut ...",
       "opsi": [
-        "Menyisipkan grafik Excel ke Word agar diperbarui otomatis",
-        "Menyalin tabel dari Excel dan ditempel sebagai teks",
-        "Menggambar diagram di Word secara manual",
-        "Menyimpan file Word ke dalam Excel",
-        "Membuat catatan kaki di Word"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Jika file sumber pada dokumen yang di-link dihapus atau dipindahkan, maka ...",
-      "opsi": [
-        "Tautan tetap berfungsi",
-        "Data akan otomatis diperbarui",
-        "Tautan akan rusak dan data tidak bisa diperbarui",
-        "File baru otomatis dibuat",
-        "Word menyalin file sumber"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Tujuan utama penggunaan linking and embedding adalah ...",
-      "opsi": [
-        "Mempermudah pertukaran data antar aplikasi",
-        "Membatasi ukuran file",
-        "Menyembunyikan data antar program",
-        "Menonaktifkan pembaruan data",
-        "Menambah keamanan file"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Perintah CUT dapat dilakukan dengan menekan pada keyboard...",
-      "opsi": [
-        "CTRL + P",
-        "CTRL + V",
-        "CTRL + C",
-        "CTRL + X",
-        "CTRL + O"
+        "RAM",
+        "Harddisk",
+        "VGA",
+        "NIC",
+        "CPU"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Cut dalam bahasa indonesia memiliki arti...",
+      "pertanyaan": "Topologi jaringan berbentuk lingkaran disebut ...",
       "opsi": [
-        "Menggabungkan",
-        "Menyalin",
-        "Memotong",
-        "Menempelkan",
-        "Menghubungkan"
+        "Star",
+        "Bus",
+        "Ring",
+        "Tree",
+        "Mesh"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Fitur lanjut MS Word yang dapat dimanfaatkan untuk membuat surat yang sama, tetapi memiliki beberapa komponen yang berbeda seperti nama dan alamat adalah...",
+      "pertanyaan": "Kepanjangan dari DNS adalah ...",
       "opsi": [
-        "Mail merge",
-        "Linking",
-        "Embedding",
-        "Data validation",
-        "Copy, cut, dan paste"
+        "Domain Name System",
+        "Data Name System",
+        "Digital Network Service",
+        "Domain Network Server",
+        "Data Network System"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Cara untuk melihat hasil akhir pada fitur lanjut mail merge pada MS. Word dengan mengklik...",
+      "pertanyaan": "Fungsi DNS adalah ...",
       "opsi": [
-        "Mailings",
-        "Select recipients",
-        "Exiting list",
-        "Merge field",
-        "Preview result"
+        "Mengirim email",
+        "Mengubah domain menjadi alamat IP",
+        "Mengatur bandwidth",
+        "Menghubungkan printer",
+        "Menghapus virus"
       ],
-      "jawaban": "E"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Fitur lanjut pada MS. Excel yang bertujuan untuk memastikan data memenuhi kriteria yang ditentukan adalah...",
+      "pertanyaan": "Perangkat yang berfungsi sebagai pusat koneksi dalam topologi star adalah ...",
       "opsi": [
-        "Mail merge",
-        "Linking",
-        "Embedding",
-        "Data validation",
-        "Copy, cut, dan paste"
+        "Router",
+        "Switch",
+        "Repeater",
+        "Modem",
+        "Bridge"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Internet merupakan singkatan dari ...",
+      "opsi": [
+        "Internal Network",
+        "Interconnected Network",
+        "International Network",
+        "Inter Network System",
+        "Integrated Network"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Protokol utama yang digunakan pada internet adalah ...",
+      "opsi": [
+        "IPX/SPX",
+        "NetBEUI",
+        "TCP/IP",
+        "AppleTalk",
+        "Bluetooth"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Jaringan dalam satu gedung sekolah termasuk jenis ...",
+      "opsi": [
+        "WAN",
+        "MAN",
+        "LAN",
+        "PAN",
+        "SAN"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Media transmisi tanpa kabel disebut ...",
+      "opsi": [
+        "Wired",
+        "Fiber Optic",
+        "Wireless",
+        "Coaxial",
+        "UTP"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Protokol untuk mengakses halaman web adalah ...",
+      "opsi": [
+        "FTP",
+        "HTTP",
+        "SMTP",
+        "POP3",
+        "SNMP"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Kepanjangan dari WWW adalah ...",
+      "opsi": [
+        "World Wide Web",
+        "Wide World Web",
+        "Web World Wide",
+        "World Web Wide",
+        "Wide Web World"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Perangkat yang mengubah sinyal digital menjadi analog dan sebaliknya adalah ...",
+      "opsi": [
+        "Switch",
+        "Router",
+        "Modem",
+        "Bridge",
+        "Hub"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Topologi yang semua komputer terhubung ke satu kabel utama disebut ...",
+      "opsi": [
+        "Ring",
+        "Mesh",
+        "Star",
+        "Bus",
+        "Tree"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Cara paling umum dalam mengintegrasikan data, teks ataupun gambar antar aplikasi perkantoran adalah....",
+      "pertanyaan": "Keamanan jaringan untuk mencegah akses tidak sah disebut ...",
       "opsi": [
-        "Linking",
-        "Embedding",
-        "Clipboard",
-        "Cut, copy dan paste",
-        "Object linking dan embedding"
+        "Firewall",
+        "Browser",
+        "Search Engine",
+        "Server",
+        "Client"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Contoh browser adalah ...",
+      "opsi": [
+        "Windows",
+        "Linux",
+        "Chrome",
+        "Excel",
+        "PowerPoint"
       ],
       "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perangkat yang menyediakan layanan dalam jaringan disebut ...",
+      "opsi": [
+        "Client",
+        "Server",
+        "Router",
+        "Hub",
+        "NIC"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Jaringan pribadi dalam suatu organisasi disebut ...",
+      "opsi": [
+        "Internet",
+        "Extranet",
+        "Intranet",
+        "WAN",
+        "LAN"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Alamat unik yang dimiliki setiap perangkat jaringan disebut ...",
+      "opsi": [
+        "Domain",
+        "URL",
+        "IP Address",
+        "DNS",
+        "Gateway"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "MAN adalah jaringan yang mencakup area ...",
+      "opsi": [
+        "Rumah",
+        "Sekolah",
+        "Kota",
+        "Negara",
+        "Dunia"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Internet digunakan untuk ...",
+      "opsi": [
+        "Menghubungkan komputer agar bisa berbagi informasi",
+        "Mempercepat kerja CPU",
+        "Menambah kapasitas RAM",
+        "Mengganti sistem operasi",
+        "Menghapus file secara otomatis"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Contoh perangkat yang digunakan untuk mengakses internet adalah ...",
+      "opsi": [
+        "Printer",
+        "Scanner",
+        "Monitor",
+        "Smartphone",
+        "Speaker"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Orang yang menggunakan layanan jaringan disebut ...",
+      "opsi": [
+        "Server",
+        "Client",
+        "Router",
+        "Admin",
+        "Operator"
+      ],
+      "jawaban": "B"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Sebutkan manfaat adanya perintah dari cut, copy, dan paste!"
+      "pertanyaan": "Jelaskan pengertian jaringan komputer dan sebutkan manfaatnya?"
     },
     {
-      "pertanyaan": "Apa tujuan data validation pada MS Excel?"
+      "pertanyaan": "Sebutkan dan jelaskan jenis-jenis jaringan komputer berdasarkan jangkauan wilayahnya?"
     },
     {
-      "pertanyaan": "Tuliskan minimal 5 perintah Ctrl + ... pada keyboard berikut manfaatnya!"
+      "pertanyaan": "Apa yang dimaksud dengan alamat IP dan apa fungsinya?"
     },
     {
-      "pertanyaan": "Sebutkan 2 kegunaan fitur lanjut mail merge pada Ms. Word!"
+      "pertanyaan": "Jelaskan pengertian internet dan manfaatnya dalam kehidupan sehari-hari?"
     },
     {
-      "pertanyaan": "Gambarkan aplikasi Ms. Excel dan Ms. Word!"
+      "pertanyaan": "Jelaskan perbedaan antara jaringan berkabel dan jaringan nirkabel?"
     }
   ]
 }
