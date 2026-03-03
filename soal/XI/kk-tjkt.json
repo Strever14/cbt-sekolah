@@ -1,6 +1,61 @@
 {
   "pilihan_ganda": [
     {
+      "pertanyaan": "Sebagai konsultan TKJ, Anda diminta mengaudit topologi jaringan perusahaan klien yang kerap putus sambung. Dalam laporannya, Anda menemukan sebuah Workstation milik direktur dipasang IP statis 224.0.0.10 oleh teknisi lama. Menurut standarisasi IANA (Internet Assigned Numbers Authority), alasan spesifik mengapa konfigurasi tersebut menyebabkan kecacatan jaringan adalah?",
+      "opsi": [
+        "IP tersebut adalah IP APIPA yang dilarang dipasang manual karena fungsi aslinya sebagai sistem cadangan ketika DHCP gagal",
+        "IP tersebut termasuk IP Kelas A publik yang di-blacklist oleh ISP lokal sehingga rentan penyadapan",
+        "IP tersebut merupakan blok TEST-NET yang secara eksklusif dikhususkan untuk sampel modul dokumentasi / buku panduan",
+        "IP tersebut tergolong alamat Multicast (Kelas D) yang difungsikan untuk pengiriman ke grup/protokol routing, bukan untuk NIC pengguna tunggal (Unicast)",
+        "IP tersebut merupakan IP Cadangan Eksperimental (Kelas E) yang ditolak mentah-mentah oleh BIOS dan MAC perangkat keras"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "IP Address dalam jaringan dibedakan menjadi dua jenis, yaitu Ipv4 dan Ipv6. Ipv6 mempunyai jumlah bit sebanyak ....",
+      "opsi": [
+        "32 bit",
+        "48 bit",
+        "64 bit",
+        "128 bit",
+        "256 bit"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "IP Address dalam jaringan dibedakan menjadi dua jenis, yaitu IPv4 dan IPv6. IPv4 mempunyai jumlah bit sebanyak ....",
+      "opsi": [
+        "32 bit",
+        "48 bit",
+        "64 bit",
+        "128 bit",
+        "256 bit"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Berdasarkan dokumen RFC 1918, manakah dari IP Address berikut yang tidak tepat jika digunakan jaringan lokal?",
+      "opsi": [
+        "172.30.10.1",
+        "172.18.20.5",
+        "192.168.10.1",
+        "10.254.34.2",
+        "192.169.20.3"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Manakah IP address dibawah ini yang merupakan Automatic Private IP Addressing (APIPA)?",
+      "opsi": [
+        "127.0.5.1",
+        "169.254.0.0",
+        "169.254.0.1",
+        "224.0.0.1",
+        "192.168.10.1"
+      ],
+      "jawaban": "C"
+    },
+    {
       "pertanyaan": "Partisi yang digunakan sebagai memori cadangan pada Linux disebut ...",
       "opsi": [
         "Root",
@@ -100,17 +155,6 @@
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Proses permintaan IP pada DHCP diawali dengan pesan ...",
-      "opsi": [
-        "ACK",
-        "Request",
-        "Discover",
-        "Offer",
-        "Release"
-      ],
-      "jawaban": "C"
-    },
-    {
       "pertanyaan": "Interface Mikrotik yang biasanya digunakan untuk koneksi ke ISP adalah...",
       "opsi": [
         "ether2",
@@ -129,17 +173,6 @@
         "Static IP",
         "NAT",
         "DNS Dynamic"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Jika ISP tidak menyediakan DHCP, maka Mikrotik pada interface WAN akan...",
-      "opsi": [
-        "Otomatis terhubung internet",
-        "Mendapat IP lokal",
-        "Tidak mendapatkan IP Address",
-        "Membuat IP sendiri",
-        "Mengaktifkan NAT otomatis"
       ],
       "jawaban": "C"
     },
@@ -186,17 +219,6 @@
         "Switch"
       ],
       "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Jenis kabel fiber optik yang digunakan pada FTTH adalah...",
-      "opsi": [
-        "Multi Mode",
-        "Single Mode",
-        "Coaxial",
-        "Cat6",
-        "STP"
-      ],
-      "jawaban": "B"
     },
     {
       "pertanyaan": "Jika WiFi terhubung tetapi tidak bisa internet, kemungkinan penyebabnya adalah...",
@@ -337,12 +359,6 @@
     },
     {
       "pertanyaan": "Jelaskan perbedaan antara DHCP Client dan DHCP Server pada Mikrotik serta fungsi masing-masing dalam jaringan!"
-    },
-    {
-      "pertanyaan": "Jelaskan alur data pada instalasi jaringan FTTH mulai dari ISP hingga pengguna menerima WiFi!"
-    },
-    {
-      "pertanyaan": "Mengapa jaringan FTTH memiliki kecepatan tinggi dan latensi rendah dibandingkan jaringan berbasis kabel tembaga? Jelaskan berdasarkan prinsip kerjanya!"
     },
     {
       "pertanyaan": "<blockquote>Sebuah kafe baru ingin memasang jaringan Wi-Fi untuk pelanggannya. Pemilik kafe memberikan nama jaringan \"FreeWifi_Kafe_Banteng\" agar pelanggan mudah menemukannya. Namun, ia merasa khawatir jika ada orang asing di luar kafe yang ikut menggunakan internetnya tanpa izin.<br><br>Berdasarkan kasus diatas, jelaskan:<br><br>Apa istilah teknis untuk nama jaringan \"FreeWifi_Kafe_Banteng\" dan Sebutkan satu cara yang paling umum digunakan agar hanya pelanggan kafe saja yang bisa masuk ke jaringan tersebut?</blockquote>"
