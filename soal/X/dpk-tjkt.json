@@ -144,114 +144,114 @@
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Perkakasan Untuk Menghasilkan Elemen Audio Adalah...",
+      "pertanyaan": "Sebuah komputer klien dikonfigurasi dengan IP Address 192.168.1.10 dan Subnet Mask 255.255.255.0. Jika dianalogikan dengan sistem pengiriman pos, bagian mana dari IP tersebut yang bertindak sebagai \"Nama Jalan\" (Network ID) agar komputer dapat mengetahui bahwa tujuan datanya masih berada di lingkungan yang sama?",
       "opsi": [
-        "VGA Card",
-        "Sound Card",
-        "Harddisk",
-        "LAN Card",
-        "Processor"
+        "192.168",
+        "192.168.1",
+        "10",
+        "1.10",
+        "192.168.1.10"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Salah Satu Langkah Pertama Yang Harus Dilakukan Ketika Komputer Tidak Mau Hidup Adalah...",
+      "pertanyaan": "IP Address dalam jaringan dibedakan menjadi dua jenis, yaitu IPv4 dan IPv6. IPv4 mempunyai jumlah bit sebanyak ....",
       "opsi": [
-        "Mengganti Harddisk",
-        "Menginstal Ulang Sistem Operasi",
-        "Mengecek Kabel Power Dan Koneksi Listrik",
-        "Mengganti RAM",
-        "Membersihkan Monitor"
+        "32 bit",
+        "48 bit",
+        "64 bit",
+        "128 bit",
+        "256 bit"
       ],
-      "jawaban": "C"
+      "jawaban": "A"
     },
     {
-      "pertanyaan": "Profesi adalah pekerjaan yang...",
+      "pertanyaan": "IP Address dalam jaringan dibedakan menjadi dua jenis, yaitu Ipv4 dan Ipv6. Ipv6 mempunyai jumlah bit sebanyak ....",
       "opsi": [
-        "Tidak memerlukan pendidikan khusus",
-        "Dilakukan untuk mengisi waktu luang",
-        "Memerlukan keahlian dan pendidikan khusus",
-        "Menghasilkan keuntungan besar",
-        "Dapat dilakukan tanpa tanggung jawab"
+        "32 bit",
+        "48 bit",
+        "64 bit",
+        "128 bit",
+        "256 bit"
       ],
-      "jawaban": "C"
+      "jawaban": "D"
     },
     {
-      "pertanyaan": "Berikut yang termasuk contoh profesi profesional adalah...",
+      "pertanyaan": "Sebuah sekolah ingin membangun jaringan lokal (LAN) untuk lab komputernya. Admin tidak ingin jaringan tersebut terhubung langsung ke internet terbuka menggunakan alamat IP publik karena alasan biaya dan keamanan. Berdasarkan dokumen RFC 1918, manakah dari IP Address berikut yang paling sah dan tepat untuk digunakan sebagai IP jaringan lokal lab tersebut?",
       "opsi": [
-        "Pedagang kaki lima",
-        "Dokter",
-        "Penjual pulsa",
-        "Pengamen",
-        "Reseller online"
+        "8.8.8.8",
+        "172.16.10.5",
+        "169.254.1.1",
+        "224.0.0.5",
+        "127.0.0.1"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Sikap yang harus dimiliki oleh seorang wirausahawan adalah...",
+      "pertanyaan": "Komputer A dan Komputer B dihubungkan menggunakan kabel UTP secara langsung tanpa adanya konfigurasi IP manual maupun DHCP Server. Saat diperiksa menggunakan perintah ipconfig, Komputer A mendapatkan IP Address 169.254.10.5. Apa makna teknis dari IP Address tersebut bagi operasional Komputer A?",
       "opsi": [
-        "Ceroboh",
-        "Tidak disiplin",
-        "Bertanggung jawab",
-        "Mudah menyerah",
-        "Tidak jujur"
+        "Komputer A sedang berkomunikasi dengan dirinya sendiri untuk proses testing (Loopback)",
+        "Komputer A menggunakan IP Public resmi yang diberikan secara otomatis oleh ISP",
+        "Komputer A menggunakan Automatic Private IP Addressing (APIPA) untuk komunikasi lokal dalam satu segmen kabel",
+        "Komputer A bertindak sebagai pengirim Broadcast Address utama di jaringan tersebut",
+        "Komputer A mengalami malfungsi pada kartu jaringan sehingga IP diacak oleh sistem"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Kewirausahaan adalah kemampuan seseorang dalam...",
+      "pertanyaan": "Seorang teknisi menemukan perangkat asing dengan MAC Address 00:1A:2B:9C:5D:7E terhubung ke switch perusahaannya. Jika teknisi tersebut ingin mengetahui identitas perusahaan atau pabrik yang memproduksi kartu jaringan (NIC) perangkat tersebut untuk keperluan pelacakan, bagian mana dari MAC Address tersebut yang harus dianalisis?",
       "opsi": [
-        "Menghabiskan modal",
-        "Mengatur keuangan pribadi",
-        "Menciptakan sesuatu yang baru dan bernilai jual",
-        "Bekerja di perusahaan besar",
-        "Mengikuti perintah atasan"
+        "9C:5D:7E",
+        "00:1A:2B:9C:5D:7E",
+        "00:1A:2B",
+        "2B:9C:5D",
+        "5D:7E"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Tujuan utama kewirausahaan adalah...",
+      "pertanyaan": "Sebagai konsultan TKJ, Anda diminta mengaudit topologi jaringan perusahaan klien yang kerap putus sambung. Dalam laporannya, Anda menemukan sebuah Workstation milik direktur dipasang IP statis 224.0.0.10 oleh teknisi lama. Menurut standarisasi IANA (Internet Assigned Numbers Authority), alasan spesifik mengapa konfigurasi tersebut menyebabkan kecacatan jaringan adalah?",
       "opsi": [
-        "Mendapatkan pujian",
-        "Menghindari risiko",
-        "Menciptakan lapangan kerja dan keuntungan",
-        "Menghabiskan waktu",
-        "Meniru usaha orang lain"
+        "IP tersebut adalah IP APIPA yang dilarang dipasang manual karena fungsi aslinya sebagai sistem cadangan ketika DHCP gagal",
+        "IP tersebut termasuk IP Kelas A publik yang di-blacklist oleh ISP lokal sehingga rentan penyadapan",
+        "IP tersebut merupakan blok TEST-NET yang secara eksklusif dikhususkan untuk sampel modul dokumentasi / buku panduan",
+        "IP tersebut tergolong alamat Multicast (Kelas D) yang difungsikan untuk pengiriman ke grup/protokol routing, bukan untuk NIC pengguna tunggal (Unicast)",
+        "IP tersebut merupakan IP Cadangan Eksperimental (Kelas E) yang ditolak mentah-mentah oleh BIOS dan MAC perangkat keras"
       ],
-      "jawaban": "C"
+      "jawaban": "D"
     },
     {
-      "pertanyaan": "Orang yang berani mengambil risiko dalam usaha disebut...",
+      "pertanyaan": "Dari IP Address berikut ini, manakah yang merupakan IP Address kelas B?",
       "opsi": [
-        "Konsumen",
-        "Distributor",
-        "Wirausahawan",
-        "Investor",
-        "Karyawan"
+        "126.24.3.5",
+        "190.25.4.57",
+        "195.46.57.7",
+        "200.6.8.78",
+        "236.57.26.8"
       ],
-      "jawaban": "C"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Berikut yang bukan ciri-ciri wirausahawan adalah...",
+      "pertanyaan": "Alamat fisik yang sudah tertanam permanen di dalam kartu jaringan sejak perangkat itu dibuat di pabrik adalah ....",
       "opsi": [
-        "Kreatif",
-        "Inovatif",
-        "Mudah putus asa",
-        "Percaya diri",
-        "Berani mengambil risiko"
+        "Media Access Control",
+        "IP Address",
+        "Network Interface Card",
+        "Address Resolution Protocols",
+        "Network Identifier"
       ],
-      "jawaban": "C"
+      "jawaban": "A"
     },
     {
-      "pertanyaan": "Langkah awal dalam memulai usaha adalah...",
+      "pertanyaan": "Bagian pada MAC Address yang berfungsi untuk mengidentifikasi nama perusahaan atau produsen yang membuat kartu jaringan (NIC) terletak pada .....",
       "opsi": [
-        "Membuka cabang",
-        "Membuat laporan pajak",
-        "Menyusun perencanaan usaha",
-        "Merekrut banyak karyawan",
-        "Membeli kendaraan operasional"
+        "24 bit pertama pada MAC Address",
+        "24 bit terakhir pada MAC Address",
+        "8 bit pertama pada MAC Address",
+        "8 bit pertama pada MAC Address",
+        "32 bit pertama pada MAC Address"
       ],
-      "jawaban": "C"
+      "jawaban": "A"
     },
     {
       "pertanyaan": "Modal dalam usaha dapat berupa...",
