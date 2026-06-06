@@ -1,29 +1,73 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Tentukan hasil dari $2\\frac{1}{5} - 1\\frac{3}{7}$ adalah ...",
+      "pertanyaan": "$0,5\\%$ setara dengan ...",
       "opsi": [
-        "$\\frac{27}{35}$",
-        "$\\frac{28}{35}$",
-        "$\\frac{29}{35}$",
-        "$\\frac{30}{35}$",
-        "$\\frac{32}{35}$"
+        "$\\frac{1}{200}$",
+        "$\\frac{1}{2000}$",
+        "$\\frac{5}{10}$",
+        "$\\frac{5}{10.000}$",
+        "0,05"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Konversikan ke bentuk decimal dari $\\frac{1}{40}$ adalah ...",
+      "pertanyaan": "Tentukan nilai $2\\frac{1}{5}\ :4\\frac{3}{7}$ adalah ...",
       "opsi": [
-        "0,25",
-        "0,025",
-        "0,0025",
-        "0,00025",
-        "0,000025"
+        "$\\frac{77}{155}$",
+        "$\\frac{155}{77}$",
+        "$\\frac{156}{77}$",
+        "$\\frac{77}{156}$",
+        "77"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Tentukan nilai dari $\\left( 2^{3} \\right)^{4} \\times \\left( 2^{3} \\right)^{- 5}$ adalah ...",
+      "opsi": [
+        "16",
+        "8",
+        "$\\frac{1}{8}$",
+        "$\\frac{1}{16}$",
+        "32"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Di bawah ini Adalah contoh dari bilangan rasional, Kecuali ...",
+      "opsi": [
+        "30$\\%$",
+        "$\\sqrt{16}$",
+        "3,14",
+        "$\\frac{25}{11}$",
+        "Log 2"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Tentukan nilai dari $81^{\\frac{1}{4}}:\\ {(9}^{2})^{\\frac{3}{4}}$ adalah ...",
+      "opsi": [
+        "80",
+        "81",
+        "82",
+        "83",
+        "84"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Tentukan hasil dari $6\\sqrt{3} + 2\\sqrt{12} - 4\\sqrt{27} + 2\\sqrt{75}$ adalah...",
+      "pertanyaan": "Tentukan ($\\sqrt{5}$ + $\\sqrt{6}$ ) ($\\sqrt{5}$ +$\\sqrt{6}$ ) adalah ...",
+      "opsi": [
+        "10 + 2 $\\sqrt{30}$",
+        "11 - 2 $\\sqrt{30}$",
+        "11 + 2 $\\sqrt{30}$",
+        "11 + 3 $\\sqrt{30}$",
+        "11 + 4 $\\sqrt{30}$"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Tentukan nilai dari $4\\sqrt{3} + 3\\sqrt{12} - \\sqrt{27}$ adalah ...",
       "opsi": [
         "$6\\sqrt{3}$",
         "$7\\sqrt{3}$",
@@ -31,128 +75,40 @@
         "$9\\sqrt{3}$",
         "$10\\sqrt{3}$"
       ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Hasil dari $\\sqrt{20}$ x $\\sqrt{27}$ adalah...",
-      "opsi": [
-        "$5\\sqrt{15}$",
-        "$6\\sqrt{15}$",
-        "$7\\sqrt{15}$",
-        "$8\\sqrt{15}$",
-        "$9\\sqrt{15}$"
-      ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Hasil dari $10^{- 3}$adalah ...",
+      "pertanyaan": "Tentukan nilai dari $5_{\\log}10 + 5_{\\log}50 - 5_{\\log}4$ adalah ...",
       "opsi": [
-        "-100",
-        "-30",
-        "-0,3",
-        "0,01",
-        "0,001"
+        "3",
+        "5",
+        "8",
+        "25",
+        "125"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Jika log 2 = 0,3010 dan log 3 = 0,4771, tentukan nilai log 75 adalah ...",
+      "opsi": [
+        "0, 7781",
+        "0, 9209",
+        "1, 0791",
+        "1, 2552",
+        "1, 8751"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Diketahui a = $\\frac{1}{8}$ ; b = 16 dan c = 4, maka nilai $a^{- 1\\frac{1}{3}}$ . $b^{\\frac{1}{4}}$ . $c^{- 1\\frac{1}{2}}$ adalah ...",
+      "pertanyaan": "Tentukan nilai x dari persamaan $\\frac{1}{3}(6x + 9) = \\ \\frac{1}{4}(2x + 4)$ adalah ...",
       "opsi": [
-        "2",
-        "3",
-        "4",
-        "5",
-        "6"
+        "-3$\\frac{1}{3}$",
+        "-2$\\frac{1}{3}$",
+        "-1$\\frac{1}{3}$",
+        "-$\\frac{1}{3}$",
+        "-$\\frac{1}{2}$"
       ],
       "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Bentuk sederhana dari $\\frac{4}{3\\  + \\ \\sqrt{11}}$ adalah ...",
-      "opsi": [
-        "$- 2\\ (\\ 3 - \\ \\sqrt{11})\\ $",
-        "$- 2\\ (\\ 3 + \\ \\sqrt{11})\\ $",
-        "$\\ 2\\ (\\ 3 - \\ \\sqrt{11})\\ $",
-        "$2\\ (\\ 3 + \\ \\sqrt{11})\\ $",
-        "$4(\\ 3 - \\ \\sqrt{11})\\ $"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Hasil dari $3\\sqrt{6\\ } \\times$ $2\\sqrt{2}$ + $4\\sqrt{3}$ adalah ...",
-      "opsi": [
-        "$15\\sqrt{3}$",
-        "$16\\sqrt{3}$",
-        "$17\\sqrt{3}$",
-        "$28\\sqrt{3}$",
-        "$50\\sqrt{3}$"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Jika $2_{\\log 7} = a$ maka $8_{\\log 49}$= ...",
-      "opsi": [
-        "$\\frac{3}{2}\\ a$",
-        "$\\frac{2}{3}\\ a$",
-        "$\\frac{2}{7}\\ a$",
-        "$\\frac{7}{2}\\ a$",
-        "$\\frac{7}{4}\\ a$"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Hitunglah nilai dari $\\frac{2_{\\log 9}.3_{\\log 32} - 4_{\\log 16}}{2_{\\log 16} + \\ 3_{\\log 81}} = \\ldots$",
-      "opsi": [
-        "-1",
-        "0",
-        "1",
-        "2",
-        "3"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Tentukan sistem persamaan linier dua variable dari persamaan $\\left\\{ \\begin{array}{r} - y = 2x - 6 \\\\ x + y = 1 \\end{array} \\right.\\ $",
-      "opsi": [
-        "$HP\\left\\{ 5,\\ \\  - 4 \\right\\}$",
-        "$HP\\left\\{ - 4,\\ \\ 5 \\right\\}$",
-        "$HP\\left\\{ - 5,\\ \\ 4 \\right\\}$",
-        "$HP\\left\\{ 5,\\ \\ 4 \\right\\}$",
-        "$HP\\left\\{ - 5,\\ \\  - 4 \\right\\}$"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Hitunglah persamaan dari $\\frac{2}{3}(6x - 9)$ = $\\frac{1}{2}(4x - 8)$ =...",
-      "opsi": [
-        "0",
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Hitunglah pertidaksamaan dari $\\ \\ \\ \\ \\ \\ \\ \\frac{3x - 2}{3} + 5 <$ $1 - \\frac{2x - 1}{4}$ =...",
-      "opsi": [
-        "Hp : $\\left\\{ xI\\ x\\  < - \\ \\frac{43}{18}\\ ,\\ x\\  \\in \\ R\\  \\right\\}$",
-        "Hp : $\\left\\{ xI\\ x\\  > - \\ \\frac{43}{18}\\ ,\\ x\\  \\in \\ R\\  \\right\\}$",
-        "Hp : $\\left\\{ xI\\ x\\  < \\frac{43}{18}\\ ,\\ x\\  \\in \\ R\\  \\right\\}$",
-        "Hp : $\\left\\{ xI\\ x\\  > \\frac{43}{18}\\ ,\\ x\\  \\in \\ R\\  \\right\\}$",
-        "Hp : $\\left\\{ xI\\ x\\  \\geq - \\ \\frac{43}{18}\\ ,\\ x\\  \\in \\ R\\  \\right\\}$"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Tentukan nilai P dari 2 + 2 (P+3) = 12 adalah ...",
-      "opsi": [
-        "P = 1",
-        "P = 2",
-        "P = 3",
-        "P = 4",
-        "P = 5"
-      ],
-      "jawaban": "B"
     },
     {
       "pertanyaan": "Tentukan nilai x dari persamaan $\\frac{1}{2}x + 6 = \\ \\frac{1}{4}x - 7$ adalah ...",
@@ -166,84 +122,117 @@
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Tentukan nilai x dari $6(x - 3) - 2x = 8 + 3(x + 1)$ adalah ...",
+      "pertanyaan": "Tentukan Himpunan Penyelesaian dari $\\left\\{ \\begin{array}{r} x + 2y = 3 \\\\ 3x - y = 5 \\end{array} \\right.\\ $ adalah...",
       "opsi": [
-        "27",
-        "-- 27",
-        "28",
-        "-- 28",
-        "29"
+        "$\\left\\{ \\frac{13}{7},\\frac{4}{7} \\right\\}$",
+        "$\\left\\{ \\frac{13}{7},\\frac{5}{7} \\right\\}$",
+        "$\\left\\{ \\frac{14}{7},\\frac{4}{7} \\right\\}$",
+        "$\\left\\{ \\frac{14}{7},\\frac{5}{7} \\right\\}$",
+        "$\\left\\{ \\frac{15}{7},\\frac{4}{7} \\right\\}$"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Himpunan penyelesaian dari 2(x-3) < 4(2x+6) adalah ...",
+      "opsi": [
+        "$\\left\\{ x \\middle| x < - 5 \\right\\}$",
+        "$\\left\\{ x \\middle| x > - 5 \\right\\}$",
+        "$\\left\\{ x \\middle| x < - 2 \\right\\}$",
+        "$\\left\\{ x \\middle| x < 5 \\right\\}$",
+        "$\\left\\{ x \\middle| x > 5 \\right\\}$"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Bentuk Perkalian ${8x}^{2} + 18x\\  - 5$ adalah ...",
+      "opsi": [
+        "(4x+5)(2x-1)",
+        "(4x-1)(2x-5)",
+        "(4x-1)(2x-1)",
+        "(4x-5)(2x-1)",
+        "(4x-1)(2x+5)"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Nilai x yang memenuhi $5^{3x - 2} = 25^{2x + 1}$ adalah ...",
+      "pertanyaan": "Persamaan kuadrat ${2x}^{2} + 6x\\  - 12 = 0$ mempunyai akar-akar $x_{1}$ dan $x_{2}$. Nilai dari $x_{1} + x_{2}$ adalah ...",
       "opsi": [
-        "-- 4",
-        "-- 3",
-        "-- 2",
-        "3",
+        "-4",
+        "-3",
+        "-1",
+        "1",
         "4"
       ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Hasil dari $- 9 \\times ( - 3) \\times ( - 4) \\div 6$ adalah ...",
-      "opsi": [
-        "-- 18",
-        "-- 16",
-        "18",
-        "27",
-        "108"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Tentukan himpunan penyelesaian dari pertidaksamaan $2(x - 3) < 4(2x + 6)$ adalah ...",
-      "opsi": [
-        "$\\{ x|x < - 5\\}$",
-        "$\\{ x|x > - 5\\}$",
-        "$\\{ x|x < - 2\\}$",
-        "$\\{ x|x < 5\\}$",
-        "$\\{ x|x > 5\\}$"
-      ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Tentukan himpunan penyelesaian dari pertidaksamaan $2 - 3(x - 1) < 2 - 6(x + 1)$ adalah ...",
+      "pertanyaan": "Nilai x dari $\\frac{- 2 + 4x}{7} = \\frac{x + 5}{2}$ adalah ....",
       "opsi": [
-        "$\\{ x|x < 3\\}$",
-        "$\\{ x|x > - 3\\}$",
-        "$\\{ x|x < - 3\\}$",
-        "$\\{ x|x < - 2\\}$",
-        "$\\{ x|x > 5\\}$"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Tentukan himpunan penyelesaian dari pertidaksamaan $- 2 < 3(x - 1) < 2\\ $adalah ...",
-      "opsi": [
-        "$\\{ x| - \\frac{2}{3} < x < \\frac{5}{3}\\}$",
-        "$\\{ x|\\frac{2}{3} < x < 5\\}$",
-        "$\\{ x| - \\frac{2}{3} < x < 1\\}$",
-        "$\\{ x|1 < x < 5\\}$",
-        "$\\{ x|\\frac{1}{3} < x < \\frac{5}{3}\\}$"
+        "- 39",
+        "- 31",
+        "- 3",
+        "3",
+        "39"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Tentukan himpunan penyelesaian dari pertidaksamaan $4 \\leq 2x + 3 \\leq 10$ adalah ...",
+      "pertanyaan": "Jika $x_{1}$ dan $x_{2}$ adalah akar-akar dari persamaan kuadrat $x^{2} - 2x + 6 = 0$, maka $x_{2}^{2} + x_{1}^{2} = \\ldots$",
       "opsi": [
-        "$\\{ x|x < \\frac{2}{3},x \\in R\\}$",
-        "$\\{ x|x > \\frac{1}{2},x \\in R\\}$",
-        "$\\{ x|x < \\frac{7}{2},x \\in R\\}$",
-        "$\\{ x|\\frac{1}{2} < x < \\frac{7}{2},x \\in R\\}$",
-        "$\\{ x| - \\frac{1}{2} < x < - \\frac{7}{2},x \\in R\\}$"
+        "- 8",
+        "- 3",
+        "3",
+        "6",
+        "8"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Diketahui persamaan kuadrat $x^{2} - 4x + 3 = 0$ memiliki akar-akar $x_{1}$ dan $x_{2}$. Persamaan kuadrat baru yang akar-akarnya $x_{1} + 2\\ \\ $dan $x_{2} + 2$ adalah ...",
+      "opsi": [
+        "$x^{2} - 8x + 15 = 0$",
+        "$x^{2} - 8x - 15 = 0$",
+        "$x^{2} - 8x + 7 = 0$",
+        "$x^{2} - 8x - 7 = 0$",
+        "$x^{2} + 8x + 15 = 0$"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Jika akar-akar persamaan kuadrat adalah $x_{1} = - 1$ dan $x_{2} = 8,$ maka persamaan kuadrat barunya adalah ...",
+      "opsi": [
+        "$x^{2} + 7x + 8 = 0$",
+        "$x^{2} - 7x - 8 = 0$",
+        "$x^{2} + 7x - 8 = 0$",
+        "$x^{2} - 7x + 8 = 0$",
+        "$x^{2} - 7x + 16 = 0$"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Ada berapa cara untuk menyelesaikan persamaan kuadrat ...",
+      "pertanyaan": "$x_{1} = 1$ dan $x_{2} = 6$, maka persamaan kuadrat barunya adalah ...",
+      "opsi": [
+        "$x^{2} + 7x + 6 = 0$",
+        "$x^{2} - 7x + 6 = 0$",
+        "$x^{2} + 7x - 6 = 0$",
+        "$x^{2} - 7x - 6 = 0$",
+        "$x^{2} - 6x + 7 = 0$"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Jika persamaan kuadrat ${qx}^{2} - 8x + 8 = 0,$ mempunyai akar-akar yang sama, maka nilai q adalah ...",
+      "opsi": [
+        "4",
+        "2",
+        "0",
+        "- 2",
+        "- 4"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Ada berapa jenis sifat-sifat akar persamaan kuadrat ...",
       "opsi": [
         "1",
         "2",
@@ -254,43 +243,109 @@
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Dari persamaan kuadrat secara bentuk umum memiliki nilai a, b, dan c maka nilai a dari bersamaan kuadrat berikut ${9x}^{2} - 1 = 0\\ $adalah ...",
+      "pertanyaan": "Persamaan kuadrat $2x^{2} + 6x - 12 = 0$ mempunyai akar-akar $x_{1}$ dan $x_{2}$. Nilai dari $x_{1}+x_{2}$ adalah ...",
       "opsi": [
+        "- 4",
+        "- 3",
+        "- 1",
         "1",
-        "-1",
-        "0",
-        "9",
-        "8"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Selesaikan persamaan berikut dengan faktorisasi, $x^{2} - 2x - 24 = 0$, maka nilai akar-akar persamaan kuadratnya adalah ...",
-      "opsi": [
-        "{1,4}",
-        "{6,-4}",
-        "{--6,-4}",
-        "{6,4}",
-        "{-6,4}"
+        "4"
       ],
       "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Jika $x_{1}$ dan $x_{2}$ akar-akar dari $2x^{2} - 3x - 9 = 0$, maka nilai dari $x_{1}^{2} + x_{2}^{2} = \\ldots$",
+      "opsi": [
+        "- 11,25",
+        "- 6,75",
+        "2,25",
+        "6,75",
+        "11,25"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Persamaan dan pertidaksamaan kuadrat dapat diselesaikan dengan berapa cara ...",
+      "opsi": [
+        "5",
+        "6",
+        "1",
+        "2",
+        "3"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Himpunan penyelesaian dari persamaan kuadrat $x^{2} - 2x - 15 = 0$ adalah ...",
+      "opsi": [
+        "{3,5}",
+        "{- 3,5}",
+        "{3, -5}",
+        "{- 3, - 5}",
+        "{- 15, 1}"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Persamaan kuadrat yang akar-akarnya 2 dan -3 adalah ...",
+      "opsi": [
+        "$x^{2} - x - 6 = 0$",
+        "$x^{2} + x - 6 = 0$",
+        "$x^{2} - 5x + 6 = 0$",
+        "$x^{2} + 5x + 6 = 0$",
+        "$x^{2} - 5x - 6 = 0$"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Diskriminan dari persamaan kuadrat $2x^{2} - 4x - 6 = 0$ adalah...",
+      "opsi": [
+        "- 32",
+        "- 16",
+        "16",
+        "48",
+        "64"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Himpunan penyelesaian dari $- 2 < 3(x - 1) < 2$ adalah ...",
+      "opsi": [
+        "$\\{ x| - \\frac{2}{3} < x < \\frac{5}{3}\\}$",
+        "$\\{ x|\\frac{2}{3} < x < 5\\}$",
+        "$\\{ x| - \\frac{2}{3} < x < 1\\}$",
+        "$\\{ x|1 < x < 5\\}$",
+        "$\\{ x|\\frac{1}{3} < x < \\frac{5}{3}\\}$"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Tentukan nilai x dari persamaan $2x + 8 = x - 12$",
+      "opsi": [
+        "- 20",
+        "- 4",
+        "20",
+        "4",
+        "2"
+      ],
+      "jawaban": "A"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Tentukan himpunan penyelesaian dari $\\left\\{ \\begin{array}{r} 3x + y = 5 \\\\ 2x - y = 10 \\end{array} \\right.\\ $ dengan menggunakan cara eliminasi?"
+      "pertanyaan": "Jika diketahui log 2 = 0,4771 dan log 3 = 0,3010, tentukan logaritma dari log 6 adalah..."
     },
     {
-      "pertanyaan": "Tentukan himpunan penyelesaian dari persamaan $\\frac{2}{5}(x - 9) = \\frac{1}{4}(3x + 5)$"
+      "pertanyaan": "Harga 5 buku tulis dan 2 pensil di koperasi adalah 13.000,00. Harga 3 buku tulis dan 3 pensil adalah Rp. 10.500,00. Berapa harga sebuah buku tulis dan sebatang pensil?"
     },
     {
-      "pertanyaan": "Tentukan HP dari pertidaksamaan $6x > 3x - 9$ adalah..."
+      "pertanyaan": "Akar-akar ${3x}^{2} - 2x + 10$ adalah $x_{1}$ dan $x_{2}$, susunlah persamaan kuadrat baru yang akar akarnya adalah $x_{1} + 5$ dan $x_{2} + 5$"
     },
     {
-      "pertanyaan": "Tentukan himpunan penyelesaian dari pertidaksamaan $2x + 2 \\leq 4x + 1 \\leq 3x + 9$"
+      "pertanyaan": "Jika $x_{1}$ dan $x_{2}$ akar-akar dari $2x^{2} - 3x - 9 = 0$, maka nilai dari $x_{1}^{2} + x_{2}^{2} = \\ldots$"
     },
     {
-      "pertanyaan": "Selesaikan persamaan kuadrat dari $x^{2} - 7x + 6 = 0$"
+      "pertanyaan": "Himpunan penyelesaian dari persamaan kuadrat $x^{2} + 3x - 10 = 0$ adalah ..."
     }
   ]
 }
