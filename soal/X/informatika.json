@@ -1,351 +1,406 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Jaringan komputer adalah ...",
+      "pertanyaan": "Pengaruh penggunaan teknologi informasi dalam kehidupan masyarakat disebut ...",
       "opsi": [
-        "Sekumpulan komputer yang berdiri sendiri",
-        "Sistem operasi berbasis jaringan",
-        "Dua atau lebih komputer yang saling terhubung untuk berbagi data",
-        "Program untuk mengakses internet",
-        "Perangkat keras komputer"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Kepanjangan dari LAN adalah ...",
-      "opsi": [
-        "Large Area Network",
-        "Local Area Network",
-        "Limited Area Network",
-        "Long Area Network",
-        "Link Area Network"
+        "Sistem operasi",
+        "Dampak sosial informatika",
+        "Perangkat keras",
+        "Basis data",
+        "Jaringan computer"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Jaringan yang mencakup wilayah sangat luas seperti antar negara disebut ...",
+      "pertanyaan": "Berikut yang termasuk dampak positif informatika adalah ...",
       "opsi": [
-        "LAN",
-        "MAN",
-        "WAN",
-        "PAN",
-        "CAN"
+        "Penyebaran hoaks",
+        "Cyberbullying",
+        "Mempermudah komunikasi",
+        "Kecanduan game",
+        "Penipuan online"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Perangkat yang berfungsi menghubungkan dua jaringan berbeda adalah ...",
+      "pertanyaan": "Contoh media sosial adalah ...",
       "opsi": [
-        "Switch",
-        "Hub",
-        "Router",
-        "Repeater",
-        "NIC"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Alat yang digunakan untuk memperkuat sinyal jaringan adalah ...",
-      "opsi": [
-        "Router",
-        "Repeater",
-        "Bridge",
-        "Modem",
-        "Access Point"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Kepanjangan dari IP adalah ...",
-      "opsi": [
-        "Internet Process",
-        "Internal Protocol",
-        "Internet Protocol",
-        "Integrated Program",
-        "Internet Program"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Contoh alamat IP versi 4 adalah ...",
-      "opsi": [
-        "2001:db8::1",
-        "192.168.1.1",
-        "www.google.com",
-        "FF:AA:BB:CC",
-        "1234-5678"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Protokol yang digunakan untuk mengirim email adalah ...",
-      "opsi": [
-        "HTTP",
-        "FTP",
-        "SMTP",
-        "TCP",
-        "UDP"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Perangkat keras yang menghubungkan komputer ke jaringan disebut ...",
-      "opsi": [
-        "RAM",
-        "Harddisk",
-        "VGA",
-        "NIC",
-        "CPU"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Topologi jaringan berbentuk lingkaran disebut ...",
-      "opsi": [
-        "Star",
-        "Bus",
-        "Ring",
-        "Tree",
-        "Mesh"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Kepanjangan dari DNS adalah ...",
-      "opsi": [
-        "Domain Name System",
-        "Data Name System",
-        "Digital Network Service",
-        "Domain Network Server",
-        "Data Network System"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Fungsi DNS adalah ...",
-      "opsi": [
-        "Mengirim email",
-        "Mengubah domain menjadi alamat IP",
-        "Mengatur bandwidth",
-        "Menghubungkan printer",
-        "Menghapus virus"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Perangkat yang berfungsi sebagai pusat koneksi dalam topologi star adalah ...",
-      "opsi": [
-        "Router",
-        "Switch",
-        "Repeater",
-        "Modem",
-        "Bridge"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Internet merupakan singkatan dari ...",
-      "opsi": [
-        "Internal Network",
-        "Interconnected Network",
-        "International Network",
-        "Inter Network System",
-        "Integrated Network"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Protokol utama yang digunakan pada internet adalah ...",
-      "opsi": [
-        "IPX/SPX",
-        "NetBEUI",
-        "TCP/IP",
-        "AppleTalk",
-        "Bluetooth"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Jaringan dalam satu gedung sekolah termasuk jenis ...",
-      "opsi": [
-        "WAN",
-        "MAN",
-        "LAN",
-        "PAN",
-        "SAN"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Media transmisi tanpa kabel disebut ...",
-      "opsi": [
-        "Wired",
-        "Fiber Optic",
-        "Wireless",
-        "Coaxial",
-        "UTP"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Protokol untuk mengakses halaman web adalah ...",
-      "opsi": [
-        "FTP",
-        "HTTP",
-        "SMTP",
-        "POP3",
-        "SNMP"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Kepanjangan dari WWW adalah ...",
-      "opsi": [
-        "World Wide Web",
-        "Wide World Web",
-        "Web World Wide",
-        "World Web Wide",
-        "Wide Web World"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Perangkat yang mengubah sinyal digital menjadi analog dan sebaliknya adalah ...",
-      "opsi": [
-        "Switch",
-        "Router",
-        "Modem",
-        "Bridge",
-        "Hub"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Topologi yang semua komputer terhubung ke satu kabel utama disebut ...",
-      "opsi": [
-        "Ring",
-        "Mesh",
-        "Star",
-        "Bus",
-        "Tree"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Keamanan jaringan untuk mencegah akses tidak sah disebut ...",
-      "opsi": [
-        "Firewall",
-        "Browser",
-        "Search Engine",
-        "Server",
-        "Client"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Contoh browser adalah ...",
-      "opsi": [
-        "Windows",
-        "Linux",
-        "Chrome",
+        "Microsoft Word",
+        "Instagram",
+        "Paint",
         "Excel",
-        "PowerPoint"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Perangkat yang menyediakan layanan dalam jaringan disebut ...",
-      "opsi": [
-        "Client",
-        "Server",
-        "Router",
-        "Hub",
-        "NIC"
+        "Notepad"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Jaringan pribadi dalam suatu organisasi disebut ...",
+      "pertanyaan": "Berikut yang merupakan dampak negatif penggunaan internet adalah ...",
       "opsi": [
-        "Internet",
-        "Extranet",
-        "Intranet",
-        "WAN",
-        "LAN"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Alamat unik yang dimiliki setiap perangkat jaringan disebut ...",
-      "opsi": [
-        "Domain",
-        "URL",
-        "IP Address",
-        "DNS",
-        "Gateway"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "MAN adalah jaringan yang mencakup area ...",
-      "opsi": [
-        "Rumah",
-        "Sekolah",
-        "Kota",
-        "Negara",
-        "Dunia"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Internet digunakan untuk ...",
-      "opsi": [
-        "Menghubungkan komputer agar bisa berbagi informasi",
-        "Mempercepat kerja CPU",
-        "Menambah kapasitas RAM",
-        "Mengganti sistem operasi",
-        "Menghapus file secara otomatis"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Contoh perangkat yang digunakan untuk mengakses internet adalah ...",
-      "opsi": [
-        "Printer",
-        "Scanner",
-        "Monitor",
-        "Smartphone",
-        "Speaker"
+        "Mempercepat pencarian informasi",
+        "Mempermudah belajar online",
+        "Mempermudah komunikasi",
+        "Cyberbullying",
+        "Menambah wawasan"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Orang yang menggunakan layanan jaringan disebut ...",
+      "pertanyaan": "Berita palsu yang tersebar di internet disebut ...",
       "opsi": [
-        "Server",
-        "Client",
-        "Router",
-        "Admin",
-        "Operator"
+        "Fakta",
+        "Data",
+        "Hoaks",
+        "Grafik",
+        "Statistik"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perkembangan media sosial memungkinkan informasi menyebar dengan sangat cepat. Dampak negatif yang paling mungkin terjadi jika pengguna tidak melakukan verifikasi informasi adalah ....",
+      "opsi": [
+        "meningkatnya penyebaran hoaks di Masyarakat",
+        "bertambahnya kapasitas penyimpanan data",
+        "meningkatnya kecepatan internet",
+        "berkembangnya perangkat keras computer",
+        "bertambahnya jumlah aplikasi digital"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Banyak perusahaan menggunakan sistem otomatis berbasis kecerdasan buatan (AI). Dampak sosial yang perlu diwaspadai dari penerapan teknologi tersebut adalah ....",
+      "opsi": [
+        "meningkatnya kebutuhan listrik rumah tangga",
+        "berkurangnya beberapa jenis pekerjaan yang dapat digantikan mesin",
+        "bertambahnya ukuran layar komputer",
+        "meningkatnya jumlah kabel jaringan",
+        "menurunnya kapasitas penyimpanan cloud"
       ],
       "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Salah satu upaya menjaga privasi data pribadi di era digital adalah ....",
+      "opsi": [
+        "membagikan kata sandi kepada teman dekat",
+        "menggunakan jaringan Wi-Fi publik untuk semua transaksi penting",
+        "mengaktifkan autentikasi dua faktor pada akun digital",
+        "mengunggah data identitas ke media sosial",
+        "menggunakan satu kata sandi untuk semua akun"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Fenomena kesenjangan digital (digital divide) dapat menyebabkan ....",
+      "opsi": [
+        "semua orang memperoleh akses teknologi yang sama",
+        "meningkatnya keamanan seluruh data pengguna",
+        "berkurangnya kebutuhan akan internet",
+        "perbedaan kesempatan memperoleh informasi dan pendidikan berbasis teknologi",
+        "hilangnya seluruh perangkat konvensional"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Seorang pengguna internet membuat dan menyebarkan konten yang menghina kelompok tertentu sehingga memicu konflik sosial. Tindakan tersebut menunjukkan bahwa penggunaan informatika dapat berdampak ....",
+      "opsi": [
+        "meningkatkan kualitas Pendidikan",
+        "mempercepat pertukaran data ilmiah",
+        "memperluas peluang kerja digital",
+        "meningkatkan efisiensi komunikasi organisasi",
+        "menimbulkan masalah etika dan kerukunan sosial"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Belajar menggunakan internet dengan baik disebut ...",
+      "opsi": [
+        "Literasi digital",
+        "Analisis data",
+        "Pemrograman",
+        "Editing video",
+        "Browsing"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Berikut yang termasuk etika dalam penggunaan internet adalah ...",
+      "opsi": [
+        "Menyebarkan virus",
+        "Menghormati privasi orang lain",
+        "Membobol akun",
+        "Menghina teman",
+        "Menyebar hoaks"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Dampak positif teknologi dalam pendidikan adalah ...",
+      "opsi": [
+        "Sulit mencari informasi",
+        "Pembelajaran lebih mudah",
+        "Cyberbullying meningkat",
+        "Penipuan online",
+        "Penyebaran virus computer"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Data pribadi yang harus dijaga kerahasiaannya adalah ...",
+      "opsi": [
+        "Nama sekolah",
+        "Jadwal Pelajaran",
+        "Password akun",
+        "Nama kota",
+        "Nama Pelajaran"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Kecanduan bermain game online dapat menyebabkan ...",
+      "opsi": [
+        "Prestasi belajar meningkat",
+        "Waktu belajar berkurang",
+        "Tubuh lebih sehat",
+        "Komunikasi lebih baik",
+        "Konsentrasi meningkat"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Mengunggah foto atau video ke internet disebut ...",
+      "opsi": [
+        "Download",
+        "Upload",
+        "Printing",
+        "Copy",
+        "Delete"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Salah satu manfaat internet adalah ...",
+      "opsi": [
+        "Menyulitkan komunikasi",
+        "Membatasi informasi",
+        "Mengurangi pengetahuan",
+        "Memperlambat pekerjaan",
+        "Memudahkan mencari informasi"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Cyberbullying adalah ...",
+      "opsi": [
+        "Belajar daring",
+        "ngedit video",
+        "Membuat program",
+        "Perundungan melalui media digital",
+        "Menonton video"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Berikut yang merupakan contoh penggunaan teknologi secara bijak adalah ...",
+      "opsi": [
+        "Menyebarkan hoaks",
+        "Bermain game sepanjang hari",
+        "Menggunakan internet untuk belajar",
+        "Membuka akun orang lain",
+        "Menghina teman di media sosial"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Tujuan menjaga etika digital adalah ...",
+      "opsi": [
+        "Agar internet lambat",
+        "Agar penggunaan teknologi aman dan nyaman",
+        "Agar data cepat hilang",
+        "Agar akun mudah diretas",
+        "Agar informasi sulit diperoleh"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Microsoft Word digunakan untuk ...",
+      "opsi": [
+        "Mengolah angka",
+        "Mengedit video",
+        "Mengolah kata",
+        "Membuat game",
+        "Membuat music"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Microsoft Excel digunakan untuk ...",
+      "opsi": [
+        "Mengolah gambar",
+        "Mengolah angka dan data",
+        "Membuat animasi",
+        "Mengedit video",
+        "Membuat jaringan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Ikon untuk menyimpan file pada Microsoft Word adalah ...",
+      "opsi": [
+        "Save",
+        "Copy",
+        "Paste",
+        "Undo",
+        "Print"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Perintah untuk menyalin teks disebut ...",
+      "opsi": [
+        "Paste",
+        "Save",
+        "Copy",
+        "Delete",
+        "Print"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Shortcut untuk menempelkan hasil copy adalah ...",
+      "opsi": [
+        "Ctrl + C",
+        "Ctrl + X",
+        "Ctrl + V",
+        "Ctrl + S",
+        "Ctrl + P"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Bagian paling atas pada jendela Microsoft Word disebut ...",
+      "opsi": [
+        "Ribbon",
+        "Title Bar",
+        "Status Bar",
+        "Toolbar",
+        "Menu Bar"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Fungsi Ctrl + S pada Microsoft Word adalah ...",
+      "opsi": [
+        "Membuka file",
+        "Menyalin teks",
+        "Mencetak dokumen",
+        "Menyimpan file",
+        "Menutup dokumen"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Untuk mencetak dokumen digunakan perintah ...",
+      "opsi": [
+        "Save",
+        "Paste",
+        "Print",
+        "Undo",
+        "Replace"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Pada Microsoft Excel, pertemuan antara baris dan kolom disebut ...",
+      "opsi": [
+        "Cell",
+        "Sheet",
+        "Workbook",
+        "Range",
+        "Menu"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Rumus pada Microsoft Excel selalu diawali dengan tanda ...",
+      "opsi": [
+        "+",
+        "-",
+        "=",
+        "/",
+        "*"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Rumus untuk menjumlahkan data pada Excel adalah ...",
+      "opsi": [
+        "=AVERAGE",
+        "=SUM",
+        "=MAX",
+        "=MIN",
+        "=COUNT"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Program Microsoft Excel termasuk aplikasi ...",
+      "opsi": [
+        "Pengolah kata",
+        "Pengolah gambar",
+        "Pengolah angka",
+        "Browser internet",
+        "Pemutar video"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Shortcut untuk mencetak dokumen adalah ...",
+      "opsi": [
+        "Ctrl + P",
+        "Ctrl + C",
+        "Ctrl + V",
+        "Ctrl + S",
+        "Ctrl + Z"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Fungsi dari Bold pada Microsoft Word adalah ...",
+      "opsi": [
+        "Memiringkan tulisan",
+        "Menggarisbawahi tulisan",
+        "Menghapus tulisan",
+        "Menebalkan tulisan",
+        "Mewarnai tulisan"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Ikon huruf \"U\" pada Microsoft Word berfungsi untuk ...",
+      "opsi": [
+        "Menebalkan teks",
+        "Memiringkan teks",
+        "Menghapus teks",
+        "Menyalin teks",
+        "Menggarisbawahi teks"
+      ],
+      "jawaban": "E"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Jelaskan pengertian jaringan komputer dan sebutkan manfaatnya?"
+      "pertanyaan": "Sebutkan dua fungsi Microsoft Excel!"
     },
     {
-      "pertanyaan": "Sebutkan dan jelaskan jenis-jenis jaringan komputer berdasarkan jangkauan wilayahnya?"
+      "pertanyaan": "Apa yang dimaksud dengan dampak sosial informatika?"
     },
     {
-      "pertanyaan": "Apa yang dimaksud dengan alamat IP dan apa fungsinya?"
+      "pertanyaan": "Sebutkan dua dampak positif dan dua dampak negatif penggunaan media sosial!"
     },
     {
-      "pertanyaan": "Jelaskan pengertian internet dan manfaatnya dalam kehidupan sehari-hari?"
+      "pertanyaan": "Apa perbedaan Microsoft Word dan Microsoft Excel?"
     },
     {
-      "pertanyaan": "Jelaskan perbedaan antara jaringan berkabel dan jaringan nirkabel?"
+      "pertanyaan": "Apa fungsi rumus SUM pada Microsoft Excel dan menu Print pada Microsoft Word?"
     }
   ]
 }
