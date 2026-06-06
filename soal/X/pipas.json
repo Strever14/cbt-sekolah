@@ -111,7 +111,7 @@
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Gambar di atas merupakan komponen peta kecil yang berfungsi untuk memperjelas posisi wilayah pada peta utama tersebut dinamakan ...",
+      "pertanyaan": "<img src=\"soal/img/XII/pipasPicture1.png\" alt=\"Inset peta\"><br><br>Gambar di atas merupakan komponen peta kecil yang berfungsi untuk memperjelas posisi wilayah pada peta utama tersebut dinamakan ...",
       "opsi": [
         "Legenda",
         "Inset",
@@ -119,11 +119,10 @@
         "Sumber peta",
         "Skala grafis"
       ],
-      "jawaban": "B",
-      "gambar": "img/PSAT_PIPAS_KELAS_X_2026/media/Picture1.png"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Gambar di atas menunjukkan wilayah yang diberi warna cokelat tua, maka dari gambar tersebut bisa diketahui bahwa wilayah tersebut dipastikan memiliki karakteristik relief berupa ...",
+      "pertanyaan": "<img src=\"soal/img/XII/pipasPicture2.png\"><br><br>Gambar di atas menunjukkan wilayah yang diberi warna cokelat tua, maka dari gambar tersebut bisa diketahui bahwa wilayah tersebut dipastikan memiliki karakteristik relief berupa ...",
       "opsi": [
         "Dataran rendah yang subur",
         "Kawasan perairan yang sangat dalam",
@@ -131,8 +130,7 @@
         "Kawasan hutan bakau (mangrove)",
         "Padang pasir atau gurun"
       ],
-      "jawaban": "C",
-      "gambar": "img/PSAT_PIPAS_KELAS_X_2026/media/Picture2.png"
+      "jawaban": "C"
     },
     {
       "pertanyaan": "Peta adalah Gambaran konvensional permukaan bumi yang diperkecil dengan skala. Salah satu fungsi peta yang sangat penting bagi seorang nahkoda kapal atau pilot pesawat terbang adalah ...",
@@ -355,7 +353,7 @@
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Berdasarkan gambar tersebut, yang termasuk dalam kebutuhan sekunder ditunjukkan oleh nomor ...",
+      "pertanyaan": "Perhatikan gambar di bawah ini!<br><br><table border=\"1\"><tr><td><img src=\"soal/img/XII/pipasPicture3.jpeg\"><br>(1)</td><td><img src=\"soal/img/XII/pipasPicture4.jpeg\"><br>(2)</td></tr><tr><td><img src=\"soal/img/XII/pipasPicture5.jpeg\"><br>(3)</td><td><img src=\"soal/img/XII/pipasPicture6.png\"><br>(4)</td></tr></table><br><br>Berdasarkan gambar tersebut, yang termasuk dalam kebutuhan sekunder ditunjukkan oleh nomor ...",
       "opsi": [
         "(1) dan (2)",
         "(1) dan (3)",
@@ -363,8 +361,7 @@
         "(2) dan (3)",
         "(2) dan (4)"
       ],
-      "jawaban": "E",
-      "gambar": "img/PSAT_PIPAS_KELAS_X_2026/media/Picture3.jpeg"
+      "jawaban": "E"
     },
     {
       "pertanyaan": "Perantara dalam perdagangan untuk menjualkan atau membelikan barang atas nama orang lain adalah ...",
