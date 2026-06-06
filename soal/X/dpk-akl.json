@@ -1,351 +1,406 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Penyusunan neraca saldo didasarkan pada ...",
+      "pertanyaan": "Budaya kerja 5R bertujuan untuk menciptakan lingkungan kerja yang ...",
       "opsi": [
-        "Bukti transaksi",
-        "Saldo buku besar",
-        "Modal awal",
-        "Kas",
-        "Laporan laba rugi"
+        "Bebas aturan",
+        "Nyaman, aman, dan rapih",
+        "Penuh persaingan",
+        "Santai",
+        "Penuh tekanan"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Neraca saldo biasanya dibuat pada akhir ...",
+      "pertanyaan": "Apa kepanjangan dari K3LH dalam dunia kerja dan industri .....",
       "opsi": [
-        "Hari",
-        "Minggu",
-        "Transaksi",
-        "Pembelian",
-        "Periode akuntansi"
+        "Kesehatan, kemakmuran, kerja dan lingkungan hidup",
+        "Keamanan, kesehatan, kesejahteraan dan lingkungan hidup",
+        "Keselamatan, kesehatan kerja dan lingkungan hidup",
+        "Keselamatan, keamanan kerja dan lingkungna hidup",
+        "Keseimbangan, kesehatan kerja dan lingkungan hidup"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dibawah ini merupakan tujuan utama dari penerapan K3LH di tempat kerja adalah ...",
+      "opsi": [
+        "Meningkatkan jam kerja karyawan secara paksa",
+        "Membantu perusahaan menghindari pembayaran pajak",
+        "Mengurangi jumlah fasilitas istirahat karyawan",
+        "Menghapus semua sistem lembur di perusahaan",
+        "Melindungi tenaga kerja atas hak keselamatan dalam melakukan pekerjaan"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Akun pendapatan bersaldo normal disisi ...",
+      "pertanyaan": "Suatu kejadian yang tidak terduga semula dan tidak dikehendaki, yang mengacaukan proses yang diatur dari suatu aktivitas disebut .....",
       "opsi": [
-        "Debet",
-        "Kredit",
-        "Aktiva",
-        "Beban",
-        "Seimbang"
+        "Kecelakaan kerja",
+        "Kesehatan kerja",
+        "Prosedur kerja",
+        "Risiko lingkungan",
+        "Penyakit akibat kerja"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Manakah dari pilihan berikut yang merupakan contoh tindakan tidak aman (unsafe act) pemicu kecelakaan kerja adalah ...",
+      "opsi": [
+        "Kondisi mesin yang sudah tua dan berkarat",
+        "Bekerja tanpa menggunakan APD yang diwajibkan",
+        "Penerangan di ruang kerja kurang",
+        "Lantai tempat kerja licin karena oli",
+        "Kurangnya ventilasi udara di dalam ruangan"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Akun beban bersaldo normal disisi ...",
+      "pertanyaan": "Upaya untuk meminimalkan dampak buruk kegiatan perkantoran terhadap lingkungan hidup sekitar disebut .....",
       "opsi": [
-        "Debet",
-        "Kredit",
-        "Seimbang",
+        "AMDAL kantor",
+        "Pemeliharaan alat kantor",
+        "Manajemen lingkungan kerja",
+        "Rekayasa ergonomi",
+        "Standarisasi lingkungan kerja"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dalam tahapan penerapan 5R kegiatan evaluasi sebaiknya dilaksanakan pada saat ....",
+      "opsi": [
+        "Pembagian tugas struktur organisasi perusahaan",
+        "Perusahaan mengalami kecelakaan kerja",
+        "Sebelum penerapan 5R dimulai",
+        "Sebelum dan sesudah pelaksanaa penerpana 5R",
+        "Mengganti pimpinan perusahaan"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Bahaya yang disebabkan oleh bahan yang mudah terbakar termasuk .....",
+      "opsi": [
+        "Bahaya fisik",
+        "Bahaya ergonomi",
+        "Bahaya kesehatan",
+        "Bahaya psikososial",
+        "Bahaya kimia"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Kegiatan membersihkan ruangan dan perlengkapan kantor termasuk tahap ....",
+      "opsi": [
+        "Resik",
+        "Ringkas",
+        "Rapih",
+        "Rawat",
+        "Rajin"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Berikut yang termasuk bahaya fisik di tempat kerja adalah .....",
+      "opsi": [
+        "Debu",
+        "Bakteri",
+        "Kebisingan",
+        "Virus",
+        "Gas beracun"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Penerapan K3LH yang baik dapat meningkatkan ...",
+      "opsi": [
+        "Kerusakan alat",
+        "Produktivitas kerja",
+        "Produksi meningkat",
+        "Waktu istirahat berkurang karena produkti terus menerus",
+        "Pencemaran lingkungan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Mengapa kebersihan dan kerapihan meja kerja di jurusan akuntansi dan keuangan lembaga tetap masuk dalam ruang lingkup K3LH ....",
+      "opsi": [
+        "Agar terlihat mewah dihadapan klien",
+        "Membatu komputer bekerja lebih cepat secara otomatis",
+        "Mengurangi beban kerja harian staff akuntansi",
+        "Menghindari bahaya tersandung kabel yang berserakan atau dokumen yang menumpuk menghalangi",
+        "Mengikuti tren estetik ruang kerja"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Langkah pertama yang harus dilakukan jika terjadi gempa bumi saat bekerja di dalam ruangan kerja atau kantor adalah .....",
+      "opsi": [
+        "Berlarian berebut menuju pintu keluar",
+        "Menyelamatkan barang-barang eletronik dan dokumen berharga terlebih dahulu",
+        "Berlindung di dekat jendela kaca besar",
+        "Naik ke lantai atas menggunakan lift kantor",
+        "Bersembunyi di bawah meja yang kuat untuk melindungi kepala dari reruntuhan"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Berikut ini yang termasuk dalam kategori APD untuk melindungi kepala adalah ...",
+      "opsi": [
+        "Earplug",
+        "Safety helmet",
+        "Safety shoes",
+        "Safety glass",
+        "Respicator"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Istilah \"seiri\" dalam budaya 5R adalah ...",
+      "opsi": [
+        "Rajin",
+        "Rawat",
+        "Resik",
+        "Rapih",
+        "Ringkas"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Unsur atau situasi yang berpotensi menjadi penyebab terjadinya cedera atau kerusakan ditempat kerja disebut dengan ...",
+      "opsi": [
+        "Kecelakaan",
+        "Inseden",
+        "Bahaya",
+        "Risiko",
+        "Keamanan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Administrasi secara umum diartikan sebagai ....",
+      "opsi": [
+        "Kegiatan produksi barang",
+        "Kegiatan mengatur dan mengelola pekerjaan untuk mencapai tujuan",
+        "Kegiatan pemasaran produk",
+        "Kegiatan menghitung keuntungan",
+        "Kegiatan menyimpan barang"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Tujuan utama administrasi adalah ....",
+      "opsi": [
+        "Memperbesar modal usaha",
+        "Mengurangi jumlah pegawai",
+        "Membantu pencapaian tujuan organisasi secara efektif dan efisien",
+        "Menentukan harga jual",
+        "Menambah jumlah pelanggan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Berikut yang termasuk fungsi administrasi adalah ....",
+      "opsi": [
+        "Perencanaan, pengorganisasian, pelaksanaan, dan pengawasan",
+        "Produksi, distribusi, dan konsumsi",
+        "Membeli, menjual, dan menyimpan",
+        "Menabung, menarik, dan mentransfer",
+        "Menghitung, menjumlahkan, dan mengurangi"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Kegiatan menyimpan surat atau dokumen secara sistematis disebut ....",
+      "opsi": [
+        "Komunikasi",
+        "Arsip",
+        "Inventarisasi",
+        "Administrasi keuangan",
+        "Distribusi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Salah satu manfaat administrasi yang baik adalah ....",
+      "opsi": [
+        "Menambah biaya operasional",
+        "Menghambat pekerjaan",
+        "Mempermudah pencarian informasi dan dokumen",
+        "Mengurangi produktivitas",
+        "Menyulitkan koordinasi"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Surat yang diterima oleh suatu instansi disebut ....",
+      "opsi": [
+        "Surat keluar",
+        "Surat dinas",
+        "Surat masuk",
+        "Surat edaran",
+        "Surat keputusan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Buku yang digunakan untuk mencatat surat masuk dan surat keluar disebut ....",
+      "opsi": [
+        "Buku kas",
+        "Buku agenda",
+        "Buku besar",
+        "Buku jurnal",
+        "Buku inventaris"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Pengelolaan arsip yang baik bertujuan untuk ....",
+      "opsi": [
+        "Mengurangi jumlah dokumen",
+        "Memudahkan penemuan kembali dokumen",
+        "Menambah biaya administrasi",
+        "Menghilangkan dokumen lama",
+        "Memperbanyak arsip"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Peralatan yang digunakan untuk menyimpan dokumen adalah ....",
+      "opsi": [
+        "Mesin fotokopi",
+        "Scanner",
+        "Filling cabinet",
+        "Kalkulator",
+        "Printer"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Salah satu unsur administrasi adalah ....",
+      "opsi": [
         "Modal",
-        "Utang"
+        "Manusia",
+        "Barang dagangan",
+        "Produk",
+        "Konsumen"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Slip setor digunakan untuk ....",
+      "opsi": [
+        "Mengambil uang dari bank",
+        "Menyetorkan uang ke rekening",
+        "Membayar listrik",
+        "Membuka rekening",
+        "Menutup rekening"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Informasi yang harus dicantumkan dalam slip setor adalah ....",
+      "opsi": [
+        "Nomor rekening dan jumlah setoran",
+        "Nomor telepon pegawai bank",
+        "Nama teller",
+        "Nama direktur bank",
+        "Jumlah nasabah"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Akun kewajiban memiliki saldo normal di sisi ...",
+      "pertanyaan": "Bukti bahwa nasabah telah melakukan penyetoran uang ke bank adalah ....",
       "opsi": [
-        "Debet",
-        "Kredit",
-        "Laba",
-        "Rugi",
-        "Aktiva"
+        "Nota pembelian",
+        "Faktur",
+        "Slip setor yang telah divalidasi bank",
+        "Surat perjanjian",
+        "Kartu ATM"
       ],
-      "jawaban": "B"
+      "jawaban": "C"
     },
     {
-      "pertanyaan": "Akun aktiva memiliki saldo normal di sisi ...",
+      "pertanyaan": "Slip tarik digunakan untuk ....",
       "opsi": [
-        "Debet",
-        "Kredit",
-        "Seimbang",
-        "Modal",
-        "Rugi"
+        "Menyetorkan uang",
+        "Membuka rekening baru",
+        "Menarik uang dari rekening tabungan",
+        "Mengajukan pinjaman",
+        "Menutup rekening"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Pada slip tarik, nasabah harus mencantumkan ....",
+      "opsi": [
+        "Nomor rekening dan jumlah uang yang ditarik",
+        "Nama direktur bank",
+        "Kode pos",
+        "Nama teller",
+        "Nomor telepon bank"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Jika jumlah kolom debet dan kredit tidak sama, maka kemungkinan terjadi ...",
+      "pertanyaan": "Tanda tangan pada slip tarik berfungsi untuk ....",
       "opsi": [
-        "Laba",
-        "Rugi",
-        "Kesalahan pencatatan",
-        "Penambahan modal",
-        "Pengurangan kas"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Neraca saldo disusun setelah proses ...",
-      "opsi": [
-        "Pencatatan transaksi",
-        "Pembuatan laporan",
-        "Posting ke buku besar",
-        "Penutupan buku",
-        "Jurnal penyesuaian"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Saldo akun Kas menunjukkan jumlah Debet Rp8.000.000 dan Kredit Rp3.000.000. Maka saldo akhir akun Kas adalah ...",
-      "opsi": [
-        "Rp5.000.000 Kredit",
-        "Rp11.000.000 Debet",
-        "Rp11.000.000 Kredit",
-        "Rp3.000.000 Debet",
-        "Rp5.000.000 Debet"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Jika akun Beban Listrik didebet Rp1.200.000 dan dikredit Rp200.000, maka saldo akhirnya adalah ...",
-      "opsi": [
-        "Rp1.000.000 Kredit",
-        "Rp1.000.000 Debet",
-        "Rp1.400.000 Debet",
-        "Rp1.400.000 Kredit",
-        "Rp200.000 Debet"
+        "Memperindah formulir",
+        "Sebagai identitas dan bukti persetujuan transaksi",
+        "Menentukan jumlah uang",
+        "Menambah saldo",
+        "Menentukan bunga tabungan"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Profesi akuntansi adalah......",
+      "pertanyaan": "Jika terjadi kesalahan penulisan nominal pada slip setor, maka sebaiknya ....",
       "opsi": [
-        "Pekerjaan di bidang keuangan tanpa keahlian khusus",
-        "Pekerjaan yang memerlukan keahlian khusus di bidang akuntansi",
-        "Pekerjaan bebas tanpa aturan",
-        "Pekerjaan administrasi biasa",
-        "Pekerjaan di bidang pemasaran"
+        "Dibiarkan saja",
+        "Dicoret tanpa persetujuan",
+        "Mengisi slip baru dengan benar",
+        "Menghapus menggunakan penghapus",
+        "Menunggu teller memperbaiki"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dokumen yang digunakan untuk menarik uang secara tunai dari rekening tabungan adalah ....",
+      "opsi": [
+        "Slip setor",
+        "Slip tarik",
+        "Cek",
+        "Faktur",
+        "Nota"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Profesi akuntansi termasuk profesi karena memiliki.....",
+      "pertanyaan": "Setelah uang disetorkan ke bank, saldo rekening nasabah akan ....",
       "opsi": [
-        "Seragam kerja",
-        "Modal besar",
-        "Keahlian khusus dan kode etik",
-        "Gedung kantor",
-        "Banyak karyawan"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Seorang akuntan harus memiliki sikap.....",
-      "opsi": [
-        "Ceroboh",
-        "Tidak jujur",
-        "Objektif dan independen",
-        "Memihak klien",
-        "Bebas aturan"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Profesi akuntansi di Indonesia diatur oleh .....",
-      "opsi": [
-        "Pemerintah desa",
-        "Organisasi profesi dan peraturan pemerintah",
-        "Kepala sekolah",
-        "Bank",
-        "Notaris"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Akuntan yang membuka jasa audit untuk masyarakat disebut...",
-      "opsi": [
-        "Akuntan internal",
-        "Akuntan publik",
-        "Akuntan manajemen",
-        "Akuntan pajak",
-        "Akuntan perusahaan"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Administrasi secara umum dapat diartikan sebagai ...",
-      "opsi": [
-        "Kegiatan mencatat keuangan",
-        "Kegiatan tulis-menulis surat",
-        "Proses kerja sama untuk mencapai tujuan tertentu",
-        "Kegiatan pimpinan saja",
-        "Kegiatan pengarsipan dokumen"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Seluruh proses perencanaan, pengorganisasian dan pengelolaan sumber daya termasuk administrasi ...",
-      "opsi": [
-        "Pendidikan",
-        "Sosial",
-        "Perkantoran",
-        "Internasional",
-        "Niaga"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Berikut ini yang bukan termasuk fungsi administrasi adalah ...",
-      "opsi": [
-        "Perencanaan",
-        "Pengorganisasian",
-        "Pengawasan",
-        "Pelaksanaan",
-        "Pemasaran"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Kegiatan mengelompokkan tugas dan tanggung jawab disebut ...",
-      "opsi": [
-        "Perencanaan",
-        "Pengarahan",
-        "Pengawasan",
-        "Pengorganisasian",
-        "Pelaporan"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Contoh kegiatan administrasi di sekolah adalah ...",
-      "opsi": [
-        "Mengajar di kelas",
-        "Membersihkan ruang kelas",
-        "Mengelola data siswa",
-        "Mengawasi ujian",
-        "Memberi nilai"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Fungsi utama rumus TIME() pada Microsoft Excel adalah ...",
-      "opsi": [
-        "Menampilkan waktu saat ini",
-        "Menggabungkan jam, menit, dan detik menjadi format waktu",
-        "Menghitung selisih waktu",
-        "Mengubah format tanggal",
-        "Menampilkan waktu dalam bentuk teks"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Jika sel A1 berisi =TIME(9,45,15), maka jam yang ditampilkan adalah ...",
-      "opsi": [
-        "09",
-        "45",
-        "15",
-        "09:45",
-        "09:45:15"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Jika sel A1 berisi =NOW(), maka hasilnya akan ...",
-      "opsi": [
-        "Tetap dan tidak berubah",
-        "Berubah setiap menit",
-        "Berubah setiap hari",
-        "Berubah ketika workbook dihitung ulang",
-        "Menjadi teks"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Fungsi HOUR() digunakan untuk ...",
-      "opsi": [
-        "Mengambil nilai jam dari data waktu",
-        "Mengambil nilai menit",
-        "Mengambil nilai detik",
-        "Mengubah waktu ke teks",
-        "Menghitung jam kerja"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Fungsi second() digunakan untuk",
-      "opsi": [
-        "Mengambil nilai jam",
-        "Mengambil nilai menit",
-        "Mengambil nilai detik",
-        "Menghitung selisih waktu",
-        "Menampilkan waktu sekarang"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Grafik <b>Column</b> pada Microsoft Excel paling tepat digunakan untuk ...",
-      "opsi": [
-        "Menampilkan hubungan antara dua variabel",
-        "Menunjukkan perbandingan data antar kategori",
-        "Menampilkan persentase bagian dari keseluruhan",
-        "Menunjukkan perubahan data secara berurutan tanpa perbandingan",
-        "Menampilkan hubungan antara tiga variabel"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Grafik <b>Line</b> biasanya digunakan untuk ...",
-      "opsi": [
-        "Membandingkan data antar kategori pada satu waktu",
-        "Menampilkan komposisi data dalam bentuk persentase",
-        "Menunjukkan perkembangan atau tren data dari waktu ke waktu",
-        "Menampilkan data acak tanpa hubungan",
-        "Menampilkan data tidak acak dengan hubungan"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Grafik <b>Pie</b> digunakan untuk ...",
-      "opsi": [
-        "Membandingkan data antar bulan",
-        "Menampilkan perubahan data secara terus-menerus",
-        "Menunjukkan hubungan dua variabel",
-        "Menampilkan persentase bagian terhadap keseluruhan",
-        "Menampilkan data dalam bentuk persen"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Grafik <b>Area</b> pada Excel berfungsi untuk ...",
-      "opsi": [
-        "Menunjukkan hubungan titik-titik data",
-        "Menampilkan tren data sekaligus menekankan volume atau total data",
-        "Membandingkan data antar kategori secara terpisah",
-        "Menampilkan satu data saja",
-        "Menampilkan tiga data saja"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Grafik <b>XY (Scatter)</b> paling tepat digunakan untuk ...",
-      "opsi": [
-        "Menampilkan data dalam bentuk persentase",
-        "Membandingkan data antar kategori",
-        "Menunjukkan hubungan antara dua variabel numerik",
-        "Menampilkan perkembangan data dari waktu ke waktu",
-        "Menampilkan data dalam bentuk persen"
+        "Berkurang",
+        "Tetap",
+        "Bertambah",
+        "Habis",
+        "Ditutup"
       ],
       "jawaban": "C"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Sebutkan jenis-jenis bentuk dari buku besar !"
+      "pertanyaan": "Jelaskan perbedaan utama slip setor dan slip tarik!"
     },
     {
-      "pertanyaan": "Dalam buku besar akun Pendapatan Jasa memiliki saldo Kredit Rp6.000.000 dan Debet Rp1.000.000. Maka saldo akhirnya adalah ..."
+      "pertanyaan": "Dalam satu hari kerja, seorang teller menerima 50 slip setor dan 40 slip tarik. Dari jumlah tersebut ditemukan 5 slip setor dan 3 slip tarik yang tidak ditandatangani nasabah.<br><br>a. Mengapa tanda tangan pada slip transaksi sangat penting?<br>b. Evaluasilah risiko yang mungkin terjadi apabila teller tetap memproses transaksi tersebut."
     },
     {
-      "pertanyaan": "Jelaskan dampak pelanggaran kode etik bagi profesi akuntansi!"
+      "pertanyaan": "Seorang nasabah datang ke bank untuk menyetorkan uang tunai sebesar Rp5.000.000 ke rekeningnya. Namun, pada slip setor ia menuliskan nominal Rp500.000.<br><br>a. Analisis dampak yang mungkin terjadi apabila kesalahan tersebut tidak segera diketahui.<br>b. Jelaskan langkah yang harus dilakukan nasabah dan petugas bank untuk mengatasi masalah tersebut."
     },
     {
-      "pertanyaan": "Mengapa administrasi umum sangat penting dalam sebuah organisasi dan sebutkan 3 jenis administrasi beserta pengertiannya?"
+      "pertanyaan": "Jelaskan manfaat penerapan K3LH bagi pekerja dan lingkungan!!"
     },
     {
-      "pertanyaan": "Rumus yang tepat untuk menampilkan jam saat ini saja adalah ..."
+      "pertanyaan": "Sebagai siswa jurusan akuntansi yang banyak menghabiskan waktu di depan komputer, sebutkan 3 aspek ergonomi posisi duduk yang benar agar kesehatan tetap terjaga !"
     }
   ]
 }
