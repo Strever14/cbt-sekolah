@@ -1,351 +1,406 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Adinda and her family .... in Solo last month.",
+      "pertanyaan": "Look at the picture below!<br><br><img src='soal/img/X/inggris/picture1.jpg' alt='Snow White Story'><br><br>The story part that is suitable for the picture above is.......?",
       "opsi": [
-        "saw",
-        "took",
-        "made",
-        "loved",
-        "lived"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "During Ramadan holiday 5 days ago, Nia ...... some limited matcha puddings around street vendor before iftar.",
-      "opsi": [
-        "slept",
-        "stood",
-        "bought",
-        "fed",
-        "sang"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "<blockquote><b>Look at this map below to answer the question number 3 -- 5!</b><br><br><img src='soal/img/X/inggris/picture1.png'></blockquote><br>We are between t-junction and the big maroon chinese building. Could you tell me the way to the gas station, please?",
-      "opsi": [
-        "Go straight down this road over market and the t-junction until you find a big house near t-junction. From there, turn left then turn right at first junction. And gas station is on your left.",
-        "From where we are, go to the t-junction near the maroon building, turn left and go straight down the beach road until you find a museum near t-junction. After that, go ahead over another t-junction and gas station is before tire center.",
-        "Go straight over market then turn right at t-junction. Go straight down this road and turn left at second junction. Go straight down this road until road corner. Gas station is on your left.",
-        "At t-junction near the chinese building, turn right and go straight ahead. Turn right at first junction over three trees. Go straight a little and gas station is on your left next to the tree to the right.",
-        "Just go straight ahead and gas station is next to the market."
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "You are in front of the School and you want to see your friend Nazma in her house. Which directions are correct?",
-      "opsi": [
-        "Follow this road over three big trees then at t-junction turn left. Go straight down this road then turn left over the big maroon building. Nazma's house is on your left beside market.",
-        "Go straight down this road over one tree next to the school then turn right at t-junction. Go straight and Nazma's house is on your left next to Dika's house.",
-        "Follow this road over the tree next to the school then turn left at second t-junction. Go straight down this road and turn left at second junction. Nazma's house is on your left.",
-        "Follow this road over the tree next to the school then turn right at first t-junction. Go straight down this road over two houses. Follow this road and turn right at second t-junction. Nazma's house is on your right, after the t-junction.",
-        "Go straight down this road over the tree next to the school then turn right at second t-junction. Go straight and Nazma's house is on your left."
+        "The seven dwarfs buried Snow White",
+        "The queen killed Snow White",
+        "The animals were happy to see Snow White dead",
+        "The prince came and saw Snow White",
+        "The coffin was opened when Snow White was sleeping"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "You are at Market and you plan to see your classmate named Dika in his house to hangout with him to go Circus together. Where is the house located?",
+      "pertanyaan": "Read this text below to answer questions number 2 -- 5!<br><br><blockquote>Once upon a time there was a queen of Arabia named Maura. Maura was the most beautiful lady who had many suitors. There were three young and handsome sheiks. They were strong and also rich. The queen was hard to decide who would be the only one being the best.<br><br>One day in the night. Maura disguised herself and went to the sheiks' camps near her castle. Maura had an idea to make a dinner for them, \"Would you like something to eat, sheiks?\" asked her. The first gave her some leftovers in the table over food. The second one gave her something strange, some unappetizing camel's tail. The last one named Hakim, offered the tastier meat and tender. After the lovely occasion, the queen left the camp.<br><br>Tomorrow, the queen invited those three sheiks to have a dinner at her castle. She ordered as same as the foods which were given to queen yesterday. The first sheiks who gave all over the food got the same menu. And he ate the entire menu by himself. The second one who gave the unappetizing camel's tail got the same and ate by himself. The third one got the same menu as he gave to the queen, but he didn't want to eat it if all the people around him could not get it too. By then, the queen decided that she chose Hakim as her husband for his generosity.</blockquote><br>Who did give the camel's tail to the queen?",
       "opsi": [
-        "Go straight down this road over two large houses then turn right at t-junction. Follow this road and you will see Dika's house is beside another house.",
-        "Go straight down this road over two big houses then turn left at t-junction. Follow this road over t-junction and a fountain. When you are at the corner, just go straight a little. Dika's house is there on your right after another house.",
-        "Follow this road and then turn right at t-junction near the big maroon chinese building. Go straight then turn right at first t-junction. Go straight over three fruit trees. Go straight again and Dika's house is there.",
-        "Go straight and then turn right at t-junction. Go straight again and then turn left at first junction. Go straight a little bit and Dika's house is in front of you.",
-        "Follow this road and then turn left at t-junction near the big maroon chinese building. Go straight down this road and go around the beach road. When you see t-junction, go straight again and Dika's house is in front of you."
+        "The first sheik",
+        "The second sheik",
+        "The third sheik",
+        "The sheik named Hakim",
+        "All sheiks"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "On the office, Andy ............ some company documents because of the deadline last night.",
+      "pertanyaan": "When did Maura come to sheiks' camps?",
       "opsi": [
-        "leaned",
-        "organized",
-        "visited",
-        "watched",
-        "lurked"
+        "Early in the morning",
+        "Everyday",
+        "Only on Sunday",
+        "In the afternoon",
+        "At night"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "...all the people around <u>him</u> could not get it too.<br><br>Based on the text, the underlined word refers to ......?",
+      "opsi": [
+        "People",
+        "Queen",
+        "First Sheik",
+        "Second Sheik",
+        "Third Sheik"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "According to the text, these statements are correct, <u>except</u> ......?",
+      "opsi": [
+        "Queen gave the sheiks the same foods as they gave her",
+        "Second sheik rejected to eat the queen's food",
+        "The three sheiks were handsome and strong",
+        "Maura disguised herself when she visited sheiks' camps",
+        "The generosity sheik was Hakim"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "<blockquote><b>Read carefully the text below to answer number 7 -- 9!</b><br><br>When I was a kid, I lived with my elderly grandparents in a small village which was so far away from the city. They asked me to go to school by foot every morning because they wanted me to be a stronger girl in the future. Therefore I was late to school quite often. Because of it, I asked my grandparents to buy me a bicycle. I finally got it as a gift because I got the ranked first in my class.<br><br>Early one morning, I went to school by bicycle. It was my first time riding a bicycle to school. I rode it so fast because the road was empty. On the way, I didn't notice the big hole beside the road and I feel down into the hole. I hurt my hand and my leg and they were bleeding. A man saw me and quickly helped me. Finally, I was in a hospital to get medical treatment. I recovered from my injury after a few days then started riding carefully.</blockquote><br>What is the aim of the text?",
+      "pertanyaan": "Read and understand the following text to answer questions number 6 -- 10!<br><br><blockquote>Once upon a time, there was a beautiful princess named Kadita. Because of her beauty she was called Dewi Srengenge. It meant the goddess of sun. Her father was King Munding Wangi. Although he had a beautiful daughter, he was unhappy because he always expected to have a son.<br><br>The king decided to marry Dewi Mutiara. He had a son from her. Dewi Mutiara wanted her son to become a king in the future. She asked the King to send his daughter away. The king did not agree.<br><br>Dewi Mutiara called a black wizard to curse Kadita. She wanted Kadita's beautiful body full of ulcer. Then, Kadita's body was full of ulcer. It smelled bad. The beautiful princess cried.<br><br>The King was sad. No one could cure his daughter's illness. The king did not want her daughter to be a rumor so he sent her away.<br><br>The poor princess did not know where to go. However, she had a noble heart. She did not have any bad feeling about her step mother. She walked for almost seven days and seven nights. Then, she came to the south Ocean. The ocean was so clean and clear. She jumped into the water and swam.<br><br>Suddenly, there was a miracle. The ocean water cured her illness. She became more beautiful than before. She also had a power to command the whole South Ocean. She became a fairy called Nyi Roro Kidul or The Queen of South Ocean.</blockquote><br>What type of narrative text is it?",
       "opsi": [
-        "to retell a story about bicycle",
-        "to retell the writer's experience when she was at school",
-        "to retell the history of the big hole",
-        "to retell the writer's experience getting bicycle accident",
-        "to retell the family in small village"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "<blockquote>...<u>they</u> were bleeding.</blockquote><br>The underlined word refers to ...",
-      "opsi": [
-        "writer and bicycle",
-        "bleeding",
-        "hole and road",
-        "the man and hospital",
-        "hand and leg"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Why was the writer often late to school?",
-      "opsi": [
-        "She asked for bicycle",
-        "She helped her grandparents first",
-        "She wanted to be stronger",
-        "She got the ranked first",
-        "She went to school by feet"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Cindi and Cantika said they ...... around Braga and just met with vice President Gibran.",
-      "opsi": [
-        "walked",
-        "typed",
-        "consumed",
-        "covered",
-        "submitted"
+        "Myth",
+        "Folktale",
+        "Legend",
+        "Fairy Tale",
+        "Fable"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Last week at suhoor time, Linda ...... Daniel's homemade fried rice that he made for her.",
+      "pertanyaan": "Who did send black wizard for a curse?",
       "opsi": [
-        "went",
-        "consume",
-        "ate",
-        "helped",
-        "drank"
+        "Kadita",
+        "King Munding Wangi",
+        "Dewi Srengenge",
+        "Dewi Mutiara",
+        "Nyi Roro Kidul"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Based on the text, these statements are correct, <u>except</u> ......?",
+      "opsi": [
+        "Kadita's illness was cured by ocean water",
+        "The princess' body smelled bad after getting cursed",
+        "King Munding Wangi got a daughter from Dewi Mutiara",
+        "Dewi Srengenge meant the goddess of sun",
+        "There was nobody who could cure the princess' illness"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "<blockquote><b>Read carefully the text below to answer number 12 -- 16!</b><br><br>Last year during the month of Ramadan, I had the opportunity to take a week-long holiday to celebrate this special month with my family. Ramadan is a holy month for Muslims, which we fasted from dawn until dusk and focused on prayer, charity, and reflection.<br><br>On the first day of the holiday, we woke up early to have our pre-dawn meal called suhoor. After doing the Fajr prayer, we began our day of fasting. It was difficult at first, but we soon adjusted to the routine. We spent most of the day at home, reading the Quran and doing good deeds. As the sun began to set we eagerly awaited the call to prayer, signaling for iftar. We broke our fast with dates and water and then had a delicious meal with our family. We talked about our day and how we could improve our fasting experiences in the coming days.<br><br>Throughout the week we continue this routine, breaking our fast together as a family and spending time in prayer and reflection. We also took the opportunity to visit our local mosque and attend taraweeh, the night prayer which are held only during Ramadan.<br><br>On the last day of our holiday, we celebrated Eid al-Fitr, which marks the end of Ramadan. We woke up early to perform the Eid prayer and then visited friends and family to exchange gifts and share festive meals.</blockquote><br>What is the purpose of the text?",
+      "pertanyaan": "<u>She</u> jumped into the water...<br><br>According to the text, the underlined word refers to ......?",
       "opsi": [
-        "to tell the writer's experience during Ramadan month",
-        "to retell the writer's experience about taraweeh",
-        "to announce the writer's iftar meals",
-        "to celebrate the writer's achievement in Ramadan month",
-        "to tell the writer's story about Eid"
+        "Kadita",
+        "Step Mother",
+        "King Munding Wangi",
+        "Dewi Mutiara",
+        "Black Wizard"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "What did the writer do to spend the day at home?",
+      "pertanyaan": "What generic structures are for the text?",
       "opsi": [
-        "breaking fast",
-        "reading Quran",
-        "awaiting prayer call",
-        "visiting friends",
-        "signaling for iftar"
+        "Opening, Events, Closing, Ending, Moral Value",
+        "Orientation, Events, Re-Orientation",
+        "Identification, Complication, Climax, Resolution",
+        "Orientation, Complication, Resolution, Re-Orientation",
+        "Beginning, Contents, Problem, Solution, Ending, Closing"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Read this text below to answer questions number 11 -- 14!<br><br><blockquote>Last weekend, my family and I went to Indrayanti beach to spend our holiday. We went there by our own car.<br><br>The route to the beach was very intense with zigzagged road and it was very quiet in the middle of night. We almost got lost because we had never visited there before, but finally we got there safely at dawn around 5 AM. There, we couldn't get a room to stay overnight because it was a long weekend and it was not easy to find available rooms. But we still could enjoy the sunrise landscape by the beach. My brother was playing with white sand with my older sister while I took their pictures.<br><br>A day at Indrayanti beach felt so short. We were quite tired from playing for a whole day, but we enjoyed it.</blockquote><br>What time the writer and his family did go to the beach?",
+      "opsi": [
+        "in the afternoon",
+        "at midnight",
+        "at dusk",
+        "in the morning",
+        "at dawn"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "What is suhoor based on the text?",
+      "pertanyaan": "How long were the writer and his family there?",
       "opsi": [
-        "week-long holiday",
-        "dawn until dusk",
-        "festive meals",
-        "pre-dawn meal",
-        "good deeds"
+        "a week straight",
+        "one whole day",
+        "overnight",
+        "through long weekend",
+        "two days one night"
       ],
-      "jawaban": "D"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "What did the writer do after performing the Eid prayer?",
+      "pertanyaan": "According to the text, which one of these sentences is wrong?",
       "opsi": [
-        "talked about our day",
-        "improved our fasting",
-        "spent time in prayer",
-        "visited friends and family",
-        "took a week-long holiday"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "What did the writer do when he visited local mosque during night?",
-      "opsi": [
-        "adjusted to the routine.",
-        "continued this routine",
-        "broke the fast",
-        "woke up early",
-        "attended taraweeh"
+        "Using their own car, they went to the beach together",
+        "The path to go to the beach was zigzagged",
+        "The writer and his family almost got lost in the middle of journey",
+        "In long weekend, the room was full around the beach",
+        "The writer and his family have visited the beach two times"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Jajang did not study last night. So, he .......... on the English exam today.",
+      "pertanyaan": "What is the generic structure of the text?",
       "opsi": [
-        "educated",
-        "investigated",
-        "cheated",
-        "injured",
-        "confirmed"
+        "Orientation, Events, Closing, Feeling",
+        "Orientation, Complication, Resolution, Re-Orientation",
+        "Orientation, Contents, Events, Ending",
+        "Orientation, Events, Re-Orientation",
+        "Orientation, Chronological Stories, Feeling, Closing"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Then, Timun Mas ran away from the giant. She tried her best to get rid of the giant who chased her.<br><br>The picture for the story plot above is.......?<br><br><img src='soal/img/X/inggris/picture2.jpg' alt='Timun Mas 1'><br><img src='soal/img/X/inggris/picture3.jpg' alt='Timun Mas 2'><br><img src='soal/img/X/inggris/picture4.png' alt='Timun Mas 3'><br><img src='soal/img/X/inggris/picture5.png' alt='Timun Mas 4'><br><img src='soal/img/X/inggris/picture6.png' alt='Timun Mas 5'>",
+      "opsi": [
+        "Picture 1",
+        "Picture 2",
+        "Picture 3",
+        "Picture 4",
+        "Picture 5"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "<blockquote><b>Look at this map below to answer the question number 18 -- 20! (indonesian version for roundabout)</b><br><br><img src='soal/img/X/inggris/picture2.png'></blockquote><br>I'm driving. We are in front of the park across the Vocational High. Could you please tell me where hospital is?",
+      "pertanyaan": "Understand the following text to answer questions number 16 -- 20!<br><br><blockquote>I spent my last summer in Seoul, South Korea. I went there by myself for a four days solo trip.<br><br>On the first day, I was landed at Incheon Airport around 7 AM after a six hours long flight. Then I went to Seoul by train and checked into the hotel I already booked. I decided to take a rest for a while. At night, I went to Hongdae, a famous district in South Korea. I went to eat traditional Korean food and went around the neighborhood. On the next day, I went to the Gyeongbokgung Palace and National Museum. I also went to learn how to make Kimchi and see the scenery of Seoul from Seoul Tower. I went back to the hotel at 10 PM and immediately went to sleep.<br><br>On the third day, I went to the Korean Demilitarized Zone or DMZ. DMZ is a border barrier that divides South Korea and North Korea. I also went to Dora Observatory. From there, we could see how North Korea looked like through binoculars.<br><br>I spent the 4th day walking around Myeondong and buying some stuff and souvenirs for my family and friends. I went to the airport at 3 PM since my flight was at 5 PM.<br><br>I had a fantastic experience in South Korea. I could see directly how the Korean Peninsula was. It was a great trip.</blockquote><br>What is the aim of the text?",
       "opsi": [
-        "Take the second left at the roundabout and then go straight down this road until you see restaurant and hospital is across the post office on your right side.",
-        "From the school, just take the first left and go straight down this road over train station and when you see t-junction, turn left and go ahead until you see one tree, turn left at the junction and hospital is on your left.",
-        "At roundabout, take the third left then go straight down this road over elementary school and cinema until you see a t-junction then turn right and just go straight and hospital is on your left.",
-        "When you see the mall, go straight ahead until the corner, then turn left and go straight ahead until you see t-junction near the side of the bakery, then turn right. Just go ahead a little bit and hospital is after railroad on your left.",
-        "Turn right at the t-junction before café, then go straight down this road until you see another t-junction, turn right. Go straight over the t-junction after hotel and hospital is there on your right after another café."
+        "To tell the past experience of the writer's in Korea",
+        "To tell the story of writer's adventure around the world",
+        "To retell the writer's story telling experience",
+        "To tell the writer's experience of solo trip to military zone",
+        "To retell the story about South Korea in four days"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "With whom did the writer go to Korea?",
+      "opsi": [
+        "Relative",
+        "Alone",
+        "Neighbor",
+        "Family",
+        "Friends"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "How long did the writer take flight to Korea?",
+      "opsi": [
+        "7 hours",
+        "5 hours",
+        "10 hours",
+        "6 hours",
+        "One night"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Where could we see North Korea through binoculars?",
+      "opsi": [
+        "Dora Observatory",
+        "Incheon",
+        "Myeondong",
+        "Gyeongbokgung",
+        "Hongdae district"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Based to the text, these sentences are true, <u>except</u> ......?",
+      "opsi": [
+        "The writer went to DMZ on his third day",
+        "Before flying home, the writer bought some stuff and souvenirs first",
+        "At night, the writer stayed at home while eating Korean food",
+        "The writer arrived at Incheon Airport around seven in the morning",
+        "On second day, the writer went to the Gyeongbokgung Palace and National Museum"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Read this text below to answer questions number 21 -- 27!<br><br><blockquote>Ages ago, in Dieng Plateau there was a beautiful princess named Shinta Dewi. She lived in a massive palace with a beautiful large garden. She was really pretty and mature enough to get married. Every heterosexual man from all around the world would fall in love with her at the first time they saw her. Many of them tried to propose her, but she always rejected them because none of them were rich enough to fulfill everything she wanted. Like most of girls nowadays, she had a dream to marry a perfect man -- handsome, kind and rich.<br><br>One day, a prince named Kidang Garungan amazed with the figure of the princess. He wanted Shinta Dewi become his spouse. With his beyond ordinary wealth, he proposed Shinta Dewi. He sent the messengers to Shinta Dewi.<br><br>\"Send this message to Shinta Dewi. Just tell me everything you want, I will give it for you, everything, no matter what. The total wealth from people in this world is not compared with my uncountable wealthy\" said Prince Kidang Garungan to the messengers.<br><br>After say 'yes', the messengers went to Shinta Dewi's palace. In the palace, they completed their task. The princess easily said yes. She was hypnotized by the extraordinary wealth that Prince Garungan offered. She believed that a very rich man like Prince Garungan would be handsome too.<br><br>The messengers backed to Prince Garungan. Prince Garungan was really happy because Shinta Dewi accepted his proposal. The next day, he and his people headed to Shinta Dewi's palace preparing the wedding ceremony. They brought the dowry, jewels, gold, diamond, and lot of good.<br><br>While Shinta Dewi and his house had prepared a welcoming party to great her fiancé. They prepared lot of food and entertainment. Shinta Dewi waited Prince Garungan's arrival by with an irresistible smile. But his smile faded immediately after Prince Garungan appeared. Instead of a figure of handsome prince like she had imagined, Prince Garungan was a weird one. His body was human, but his head was a head of a deer!<br><br>\"I am so dead. What kind of creature he is? What a joke it is? I do not want to marry a deer.\" Shinta Dewi whispered in her heart. But it was no use crying over spilt milk. She could not cancel the proposal. Willy-nilly she must marry with Prince Garungan. She had tried to face her fate, but her heart could not accept it. Then she was thinking so hard finding a way how to change her horrible future. Before the wedding, she asked Prince Garungan to make a large well in one night.<br><br>\"You have to know, my prince. Our people always deal with water problem. It is so hard to get water here. So for the betterment of our land and future, I asked you to make a well by yourself alone as one proof of your love. Will you?\" With this non-sense request, she believed Prince Garungan would not make it. But she did not know that Prince Garungan had spiritual power.<br><br>\"I will, sweetheart. Anything for you\" answered the Prince then kissed her hand. Right after that, he dug Shinta Dewi's chosen land. He dug it by his bare hand, sometimes by his horns. Without any complain. His tired is not compared with his happiness imagining Shita Dewi's happy smile -- satisfied with his handmade well and proud with her fiancé.<br><br>When the well was almost done, panic-attract was crawling on the heart of Shinta Dewi. Her body was trembling. She is too afraid if Prince Garungan would make it. She started crying and thought so hard with her dumb head. Then she asked her men to heap the well up. Prince realized that he was going to be buried alive after a piece of soil hit his head.<br><br>\"My princess, stop it!\" Price Garungan screamed his heart out. The louder he screamed, the faster they buried him. His body was fully buried. He used his power to escape, and then the well exploded. But they continued to bury him, until Prince Garungan dead. In his last breath, he cursed Shinta Dewi's heir to have gimbal hair. As the time passed by, people named the exploded well as Kawah Sikidang.</blockquote><br>Why did Princess Shinta Dewi always reject any men?",
+      "opsi": [
+        "Because they were too kind for her",
+        "Because they acted rough and harsh to her",
+        "Because they weren't perfect enough",
+        "Because they did horrible things to her",
+        "Because they always bullied her for her face"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "How did Prince Kidang Garungan die?",
+      "opsi": [
+        "Killed by the well water",
+        "Married the princess",
+        "Eaten by deer monster",
+        "Cursed by the princess",
+        "Buried alive"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "I'm riding a motorcycle. We are between bank and mosque. Could you please tell me the way to the nearest café?",
+      "pertanyaan": "These were things Prince Kidang Garungan brought to the Princess' palace, <u>except</u> ......?",
       "opsi": [
-        "Turn right at t-junction, go ahead and turn left at another t-junction. And the café is on your right.",
-        "Go ahead and turn left at t-junction after farm. Then, go straight until you see roundabout and take the third left. Go ahead and café is on your left.",
-        "Go ahead over bank and turn left at t-junction. Go straight over library and take first left at roundabout. Go ahead over vocational high and café is on your right.",
-        "Turn right at t-junction after the mosque then go straight down this road over church and café is after church on your left.",
-        "From bank, go straight until you see t-junction after farm. Then, turn left and go ahead, take the second left at roundabout. Go straight down this road then turn left and café is on your left."
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "I'm using a car. We are across swimming pool. Could you tell me where market is?",
-      "opsi": [
-        "From post office, go straight to restaurant over police office and take the third left. Go straight down this road and turn left at t-junction. Go straight over hotel and market is after t-junction onyour left.",
-        "From swimming pool, go straight over restaurant and police office. When you see roundabout, take the first left and go ahead over cinema and library. Turn right at t-junction and go straight over bank. And market is on your right.",
-        "From post office, go straight down this road over police office. At roundabout, take the third left. Go straight down this road over rail road then turn right at t-junction over café. The market is on your right.",
-        "From across swimming pool, go ahead over restaurant and when you see roundabou, take the second left. Go straight over mall and market is on your right before the church.",
-        "From across the post office, go straight down this road over restaurant and police office. And when you see roundabout, take the second left. Then, go straight down this road until corner and market is there in front of you."
+        "poison",
+        "lot of good",
+        "dowry",
+        "gold and diamond",
+        "jewels"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "<blockquote><b>Read carefully the text below to answer number 21 -- 23!</b><br><br>Last Sunday when I was feeding my cat, I saw that he had no appetite. I looked carefully at his body and I found that his left leg had a scratch. I bought medicine and brought some bandages and then cleaned the wound with antibiotics before applying bandages to the injured skin. The next day, I changed the bandages and I treated him very well. Three days later, he seemed to start regaining his usual appetite. I was very happy his leg healed and he has returned to play with me as usual.</blockquote><br>What did the text talk about?",
+      "pertanyaan": "What did Princess Shinta Dewi request to the Prince?",
       "opsi": [
-        "The method to make bandages",
-        "The writer's cat medicine shop",
-        "The writer's injured cat",
-        "The way to apply bandages",
-        "The writer's animal feeding journey"
+        "Marrying her",
+        "Making well alone",
+        "Leaving the castle",
+        "Fighting the people",
+        "Loving Shinta Dewi"
       ],
-      "jawaban": "C"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "These treatments were done by the writer for his cat, <u>except</u>....?",
+      "pertanyaan": "Why did the well explode?",
       "opsi": [
-        "changed the bandages",
-        "bought medicine",
-        "applying bandages to all body",
-        "treating the cat well",
-        "cleaned the wound with antibiotics"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "What was the day the cat regained his appetite?",
-      "opsi": [
-        "Sunday",
-        "Monday",
-        "Tuesday",
-        "Wednesday",
-        "Thursday"
+        "Since the people wanted to bury the prince's love",
+        "Because Shinta Dewi's heirs had gimbal hair",
+        "Affecting the princess, her men got mad",
+        "The effect of the prince's special power",
+        "As the prince wanted to escape from the castle"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Galih and Putra ......... their team into 3 groups during our camping last month.",
+      "pertanyaan": "What tool did Prince Kidang Garungan use to dig the land to make the well?",
       "opsi": [
-        "joined",
-        "killed",
-        "supported",
-        "divided",
-        "dismissed"
+        "his love for Shinta Dewi",
+        "special power",
+        "shovel",
+        "bare hand and horns",
+        "the curse"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "<blockquote><b>Read carefully the text below to answer number 25 -- 28!</b><br><br>Mr. Fandy and his two sons went to Panama for holiday. At first, they searched for a travel agencyand reserved flight tickets. Then, they came to the Embassy of of Spain to get tourist visas. Finally, they had been given permission to go for fourteen days. Their trip had included travel, acommodation, and tours around the city.<br><br>Mr. Fandy and his sons were on a large Boeing flight for fourteen hours flight. All the attendants were very helpful. They provided newspapers and magazines to all passengers. They also delivered some food and beverages to their seats. When Mr. Fandy and his sons arrived at Tocument International Airport, they came to Customs and Immigration to check the documents. The immigration officers were also very nice. The documents were verified accurately by them. Although they were assertive, but they had polite manners. Mr. Fandy and his sons gathered their luggage. After that, they went to Welcome Desk to arrange their transfer to a hotel. The hotel was a four-star hotel. The room had a miraculous park to see. Beside the key, they also got an inserted key card to unlock the door. There was also a restaurant with Asian and European cuisine located on the third floor of the hotel. They were also offered variety of menus.<br><br>The two weeks went by fast. Mr. Fandy and his sons felt so tired, but they were very excited to have had a trip in Panama.</blockquote><br>What is the purpose of the text?",
+      "pertanyaan": "...the faster <u>they</u> buried him<br><br>According to the text, the underlined word refers to ......?",
       "opsi": [
-        "to retell Mr. Fandy's experience to Panama with his sons",
-        "to announce the trip to Panama with Mr. Fandy and his sons",
-        "to describe the beauty of miraculous park inside four-star hotel",
-        "to retell Mr. Fandy's sons experience to Panama with their mother",
-        "to retell the writer's past events about trip to Panama"
+        "Shinta Dewi's men",
+        "Prince Kidang Garungan's people",
+        "Some half human-deer",
+        "Shinta Dewi and Kidang Garungan",
+        "Both Prince and Princess"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Based on the text, the attendants gave these facilities to the passengers, <u>except</u>.....",
+      "pertanyaan": "Look at this picture below!<br><br><img src='soal/img/X/inggris/picture7.jpeg' alt='Deer and Crocodile'><br><br>From the picture above, the deer was ......?",
       "opsi": [
-        "magazines",
-        "television",
-        "beverages",
-        "newspapers",
-        "food"
+        "helping the crocodiles to hunt",
+        "playing happily with many crocodiles on the river",
+        "jumping across river over the crocodiles' body",
+        "looking at crocodiles and became scared",
+        "helping the crocodiles to eat him"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Read this dialogue below to answer questions number 29 -- 31!<br><br><blockquote>Lia : Hi Donny, where were you last Saturday? I didn't see you at the basketball field.<br><br>Donny : Yeah. I really wanted to go there but my parents asked me to stay at home and take care of my little brother because they had to go to their friend's wedding.<br><br>Lia : So you were at home the whole day yesterday with only your little brother, weren't you?<br><br>Donny : Yeah.<br><br>Lia : Wow. That's cool, Donny. How was it?<br><br>Donny : It was great. My little brother drank his milk on his bed and he asked me to read him fable before he slept.<br><br>Lia : Then you read the fable for him, didn't you?<br><br>Donny : Of course, I did. You knew that I love telling a story.<br><br>Lia : Yeah. What did you read for him?<br><br>Donny : I read two fables. The first one was \"The Hare and The Tortoise\". The second one was \"The Fox and The Lion\".<br><br>Lia : Which fable did you like reading the most?<br><br>Donny : I loved reading \"The Hare and The Tortoise\" the most.<br><br>Lia : Why did you love it?<br><br>Donny : It tells a valuable lesson.<br><br>Lia : What kind of lesson?<br><br>Donny : It teaches us that everyone could be more successful by doing things slowly and steadily than by acting quickly and carelessly.</blockquote><br>How did Donny take care of his little brother according to the conversation?",
+      "opsi": [
+        "Giving a hug",
+        "Telling a story",
+        "Making up bed",
+        "Cleaning the house",
+        "Playing basketball"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "What are the generic structures of the text?",
+      "pertanyaan": "Where was Donny last Saturday?",
       "opsi": [
-        "identification, sequences of events, re-orientation",
-        "orientation, events, re-orientation",
-        "opening, content, closing arguments",
-        "identification, descriptions",
-        "identification, events"
+        "At Lia's house",
+        "At basketball field",
+        "At school all day",
+        "At the wedding",
+        "At his home"
       ],
-      "jawaban": "B"
+      "jawaban": "E"
     },
     {
-      "pertanyaan": "Where did Mr. Fandy and his sons find a restaurant at the hotel?",
+      "pertanyaan": "Why did Donny take care of his little brother?",
       "opsi": [
-        "at miraculous park outside the hotel",
-        "the third floor of the hotel",
-        "at welcome desk of the hotel",
-        "around Tocumen International Airport",
-        "inside the basement of the hotel"
+        "Because his parents told him to",
+        "Because Lia was annoying",
+        "Because his parents weren't home",
+        "Because Lia asked him to join at the basketball field",
+        "Because Donny loved to tell story with his brother"
       ],
-      "jawaban": "B"
+      "jawaban": "C"
     },
     {
-      "pertanyaan": "Leon ......... some water into the glass for you just now.",
+      "pertanyaan": "Read this text below to answer questions number 32 -- 35!<br><br><blockquote>Once, there was a legendary hero who was well known and loved by the poor people of England. He lived in a forest far from the towns, and when the poor were oppressed by the rich, he helped them by giving them food and shelter.<br><br>One day, the sheriffs tried to arrest him but they did not succeed in doing so. Then, one of the sheriffs decided to organize a shooting contest in order to catch him because he knew that he did very good shot and was sure that he would take part in the contest by all means. The prize was a golden arrow.<br><br>When the news was spread, Robin gathered his men and discussed whether they should take part in it. Finally it was decided that although the risk of participating in the contest was great, they should all go.<br><br>The day of the contest was fine and clear. The town was decorated with flags, and field for the contest was full of people. The sheriff looked for Robin Hood and his men everywhere. He knew that they were always dressed in green. However, he could not find anybody who looked like them.<br><br>The contest was won by a fellow dressed in red, who had come from a village with a whole company of young men. After receiving the prize the fellow left the town, and nobody ever thought that it was Robin Hood. While leaving the town Robin Hood shot an arrow through the sheriff's open window. There was a paper attached to it with the following words: \"Robin Hood thanks the sheriff for the Golden Arrow.\"</blockquote><br>What narrative type is the text?",
       "opsi": [
-        "cooked",
-        "drank",
-        "melted",
-        "poured",
-        "heated"
+        "Myth",
+        "Fairy Tale",
+        "Fable",
+        "Legend",
+        "Recount"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Willy just ............ one table for his dinner date later with Noelle.",
+      "pertanyaan": "Why did Robin take the shooting contest?",
       "opsi": [
-        "cancelled",
-        "roamed",
-        "broke",
-        "founded",
-        "reserved"
+        "to help the poor people",
+        "to get Sheriff's attention",
+        "to make his people proud of him",
+        "to achieve the golden arrow",
+        "to show off"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Why was Robin Hood called as a legendary hero?",
+      "opsi": [
+        "He always came and left mysteriously",
+        "He was good in shooting arrow and commanding his men",
+        "He was looked for by Sheriff",
+        "He gave poor people food and shelter",
+        "He talked nicely and acted rudely to rich people"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "..... he could not find anybody who looked like <u>them</u>.<br><br>Based on the text, to whom the underlined word refers to?",
+      "opsi": [
+        "Anybody",
+        "Full of people",
+        "Sheriff and Robin Hood",
+        "Flags and Field",
+        "Robin Hood and his men"
       ],
       "jawaban": "E"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "<blockquote><b>Look at this map below and direct to the spot mentioned! (foreign version for roundabout)</b><br><br><img src='soal/img/X/inggris/picture3.png'></blockquote><br>You are Calvin. I'm using orange car and we are beside your house, the green colored house. Could you please tell me the way to the small pool across the small brown villa? The small brown villa is across the influencer's house named Ilmi, the green colored house."
+      "pertanyaan": "<blockquote>Two men were traveling in company along the road when one of them picked up a well-filled purse.<br><br>\"How lucky I am!\" he said. \"I found a purse. Judging by its weight, it must be full of gold and money inside!\".<br><br>\"Do not say 'I have found a purse'!\" said his friend. \"Say rather 'we have found a purse' and 'how lucky we are.'\" Travellers ought to share alike the fortunes or misfortunes of the road.\"<br><br>\"No, no!\" replied the other angrily. \"I found it and I am going to keep it!\".<br><br>Just then they heard a shout of \"Stop, thief!\" and looking around, saw a mob of people armed with clubs coming down the road.<br><br>The man who had found the purse fell into a panic.<br><br>\"We are lost if they find the purse on us\", he cried.<br><br>\"No, no.\" replied the other. \"You would not say 'we' before. So now, stick to your \"I\". Say \"I am lost.\"</blockquote><br><br>Answer the questions 36 -- 40 according to the text above!<br><br>36. What is the goal of the text?"
     },
     {
-      "pertanyaan": "I'm using motorcycle. We are in front of the small brown house and across big blue building and between two trees. Could you please tell me where is my friend's house named Syaila? The color of her house is yellow and it is near the baseball field."
+      "pertanyaan": "What is the moral value of the story?"
     },
     {
-      "pertanyaan": "<b>Translate these Indonesian past sentence into English version!</b><br><br>Saudara laki-laki Annisa pergi ke rumah saya Oktober lalu"
+      "pertanyaan": "Why did one of the travelers get angry?"
     },
     {
-      "pertanyaan": "Empat hari yang lalu, saya tidak membawa buku bahasa inggris"
+      "pertanyaan": "Who did shout \"thief!\"?"
     },
     {
-      "pertanyaan": "Danda dan Galang marah kepada Farik kemarin"
+      "pertanyaan": "Explain what Myth is, based on your opinion! (maximum 30 words)"
     }
   ]
 }
