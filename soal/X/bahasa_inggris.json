@@ -155,13 +155,13 @@
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Then, Timun Mas ran away from the giant. She tried her best to get rid of the giant who chased her.<br><br>The Picture for the story plot above is.......?<br><br><img src='soal/img/X/inggris/Picture2.jpg' alt='Timun Mas 1'><br><img src='soal/img/X/inggris/Picture3.jpg' alt='Timun Mas 2'><br><img src='soal/img/X/inggris/Picture4.png' alt='Timun Mas 3'><br><img src='soal/img/X/inggris/Picture5.png' alt='Timun Mas 4'><br><img src='soal/img/X/inggris/Picture6.png' alt='Timun Mas 5'>",
+      "pertanyaan": "Then, Timun Mas ran away from the giant. She tried her best to get rid of the giant who chased her.<br><br>The Picture for the story plot above is.......?",
       "opsi": [
-        "Picture 1",
-        "Picture 2",
-        "Picture 3",
-        "Picture 4",
-        "Picture 5"
+        "<img src='soal/img/X/inggris/Picture2.jpg' alt='Timun Mas 1'>",
+        "<img src='soal/img/X/inggris/Picture3.jpg' alt='Timun Mas 2'>",
+        "<img src='soal/img/X/inggris/Picture4.png' alt='Timun Mas 3'>",
+        "<img src='soal/img/X/inggris/Picture5.png' alt='Timun Mas 4'>",
+        "<img src='soal/img/X/inggris/Picture6.png' alt='Timun Mas 5'>"
       ],
       "jawaban": "C"
     },
