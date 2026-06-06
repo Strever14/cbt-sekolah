@@ -1,7 +1,7 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Seni rupa adalah cabang seni yang mengekspresikan gagasan dna perasaan melalui media yang dapat...",
+      "pertanyaan": "Seni rupa adalah cabang seni yang mengekspresikan gagasan dan perasaan melalui media yang dapat...",
       "opsi": [
         "Didengar",
         "Dilihat dan diraba",
@@ -201,7 +201,7 @@
     {
       "pertanyaan": "Salah satu fungsi seni rupa dalam kehidupan sehari-hari Adalah...",
       "opsi": [
-        "Hiburan saa",
+        "Hiburan saja",
         "Ekspresi dan fungsi pakai",
         "Pendidikan saja",
         "Upacara saja",
@@ -265,87 +265,142 @@
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Prinsip dominasi dalam karya seni bertujuan untuk...",
+      "pertanyaan": "Poster adalah karya seni rupa yang berfungsi untuk...",
       "opsi": [
-        "Menyamakan semua unsur",
-        "Menghilangkan fokus",
-        "Menciptakan pusat perhatian",
-        "Mengurangi estetika",
-        "Menghapus warna"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Contoh karya seni rupa dua dimensi murni adalah..",
-      "opsi": [
-        "Desain kemasan",
-        "Poster iklan",
-        "Lukisna ekspresionis",
-        "Logo perusahaan",
-        "Ilustrasi buku pelajaran"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Warna yang dihasilkan dari campuran warna primer dan sekunder disebut...",
-      "opsi": [
-        "Netral",
-        "Analog",
-        "Tersier",
-        "Primer",
-        "Monokrom"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Karya dua dimensi tidak memiliki...",
-      "opsi": [
-        "Panjang",
-        "Lebar",
-        "Tinggi",
-        "Warna",
-        "Garis"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Teknik pewarnaan menggunakan sapuan tipis dan transparan disebut teknik...",
-      "opsi": [
-        "Plakat",
-        "Aquarel",
-        "Kolase",
-        "Cetak tinggi",
-        "Blok"
+        "Menghibur pembaca semata",
+        "Menyampaikan informasi atau ajakan kepada Masyarakat",
+        "Menghias ruangan tanpa makna",
+        "Menuliskan cerita pendek",
+        "Menampilkan karya sastra"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Kesatuan dalam karya seni rupa dapat dicapai dengan cara...",
+      "pertanyaan": "Ciri utama poster yang baik adalah...",
       "opsi": [
-        "Mengacak unsur visual",
-        "Mengulang unsur tertentu secara selaras",
-        "Menggunakan semua waeran secara acak",
-        "Menghilangkan komposisi",
-        "Menghindari proporsi"
+        "Tulisannya panjang dan rinci",
+        "Sulit dipahami pembaca",
+        "Menarik perhatian dan mudah dipahami",
+        "Menggunakan banyak paragraph",
+        "Berisi gambar tanpa tulisan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Poster yang digunakan untuk mempromosikan suatu produk disebut poster...",
+      "opsi": [
+        "Pendidikan",
+        "Layanan Masyarakat",
+        "Kegiatan",
+        "Niaga",
+        "Budaya"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Salah satu fungsi poster adalah...",
+      "opsi": [
+        "Menyebarkan Informasi",
+        "Menyimpan Data",
+        "Menuliskan Laporan Penelitian",
+        "Mengarsipkan Dokumen",
+        "Menyusun Karya Ilmiah"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Kalimat dalam poster sebaiknya bersifat...",
+      "opsi": [
+        "Panjang dan bertele-tele",
+        "Singkat, padat, dan jelas",
+        "Rumit dan ilmiah",
+        "Sulit dipahami",
+        "Menggunakan bahasa asing"
       ],
       "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Unsur yang paling menonjol dalam sebuah poster adalah...",
+      "opsi": [
+        "Daftar Pustaka",
+        "Catatan kaki",
+        "Gambar dan warna",
+        "Nomor halaman",
+        "Lampiran"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Seni lukis merupakan cabang seni...",
+      "opsi": [
+        "Musik",
+        "Tari",
+        "Teater",
+        "Sastra",
+        "Rupa"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Media yang paling umum digunakan dalam seni lukis adalah...",
+      "opsi": [
+        "Kanvas dan cat",
+        "Tanah liat",
+        "Batu pahat",
+        "Kain batik",
+        "Logam"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Aliran seni lukis yang menggambarkan objek sesuai keadaan sebenarnya disebut...",
+      "opsi": [
+        "Abstrak",
+        "Kubisme",
+        "Realisme",
+        "Surealisme",
+        "Futurisme"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Tokoh pelukis Indonesia yang terkenal dengan lukisan ekspresifnya adalah...",
+      "opsi": [
+        "Raden Saleh",
+        "Affandi",
+        "Basoeki Abdullah",
+        "Hendra gunawan",
+        "S. Sudjojono"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Aliran seni lukis yang lebih mengutamakan ungkapan perasaan pelukis disebut...",
+      "opsi": [
+        "Naturalisme",
+        "Realisme",
+        "Ekspresionisme",
+        "Romantisme",
+        "Klasikisme"
+      ],
+      "jawaban": "C"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Jelaskan perbedaan mendasar antara seni rupa dua dimensi dan tiga dimensi dari segi unsur, prinsip, dan pengalaman visual penikmatnya!"
+      "pertanyaan": "Jelaskan perbedaan antara poster niaga, poster pendidikan, dan poster layanan masyarakat disertai masing-masing satu contoh!"
     },
     {
-      "pertanyaan": "Jika kamu diminta membuat karya dua dimensi bertema \"Identitas Remaja SMK\", jelaskan: 1) konsep karya 2) unsur seni rupa yang dominan 3) prinsip yang akan kamu terapkan"
+      "pertanyaan": "Sebutkan dan jelaskan lima ciri poster yang baik!"
     },
     {
-      "pertanyaan": "Jelaskan bagaimana gelap-terang dan perspektif dapat menciptakan ilusi ruang pada karya dua dimensi. Berikan contoh penerapannya!?"
+      "pertanyaan": "Jelaskan perbedaan aliran Naturalisme, Realisme, dan Ekspresionisme dalam seni lukis!"
     },
     {
       "pertanyaan": "Menurut pendapatmu, apakah semua karya seni rupa dua dimensi harus memenuhi seluruh prinsip seni rupa (keseimbangan, harmoni, irama, dominasi, proporsi, kesatuan)? Jelaskan jawabanmu dengan argument yang logis!"
     },
     {
-      "pertanyaan": "Buatlah sebuah karya seni rupa dua dimensi dengan memanfaatkan unsur titik sebagai media unsur utama!"
+      "pertanyaan": "Mengapa pemilihan warna dan gambar sangat penting dalam pembuatan poster? Jelaskan!"
     }
   ]
 }
