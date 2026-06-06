@@ -23,7 +23,7 @@
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Istilah etiket asalna tina basa Perancis <i>ethiquette</i>, anu hartina . . .",
+      "pertanyaan": "Istilah etiket asalna tina basa Perancis <i>ethiquette,</i> anu hartina . . .",
       "opsi": [
         "Tatacara gaul anu alus jeung papada jalma",
         "Falsafah moral",
@@ -32,17 +32,6 @@
         "Aturan, adat, atawa kaedah"
       ],
       "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Kecap etika asalna tina basa laten <i>ethica</i>, anu hartina . . .",
-      "opsi": [
-        "Tatacara gaul anu alus jeung papada jalma",
-        "Falsafah moral",
-        "Someah",
-        "Sopan, santun, kalakuan alus",
-        "Aturan, adat, atawa kaedah"
-      ],
-      "jawaban": "B"
     },
     {
       "pertanyaan": "Nu teu kaasup pungsi tatakrama, nyaeta . . .",
@@ -54,17 +43,6 @@
         "Sosial"
       ],
       "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Pikeun nuduhkeun lemesna alat ngahontal tujuan, mangrupa pungsi tatakrama . . .",
-      "opsi": [
-        "Pribadi",
-        "Kultural",
-        "Intuitif",
-        "Instrumental",
-        "Pananya"
-      ],
-      "jawaban": "D"
     },
     {
       "pertanyaan": "Pikeun nuduhkeun silih ajenan antarpribadi dina hirup kumbuh masarakat, mangrupa pungsi tatakrama . . .",
@@ -122,17 +100,6 @@
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Carita anu aya patalina jeung sajarah, mangrupa harti Babad numutkeun . . .",
-      "opsi": [
-        "Basa jawa",
-        "Rusyana",
-        "KUBS",
-        "Kamus Basa Sunda Danadibrata",
-        "Ricklefs"
-      ],
-      "jawaban": "E"
-    },
-    {
       "pertanyaan": "Ieu dihandap <i>anu henteu</i> kaasup kana dongeng babad, nyaeta . . .",
       "opsi": [
         "Babad Cijulang",
@@ -153,17 +120,6 @@
         "Karajaan Salakanagara"
       ],
       "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Carita kajadian jaman baheula, mangrupa harti Babad numutkeun . . .",
-      "opsi": [
-        "Basa jawa",
-        "Rusyana",
-        "KUBS",
-        "Kamus Basa Sunda Danadibrata",
-        "Ricklefs"
-      ],
-      "jawaban": "D"
     },
     {
       "pertanyaan": "Di handap ieu ka asup struktur carita Babad, <i>iwal</i> . . .",
@@ -208,17 +164,6 @@
         "Ricklefs"
       ],
       "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Muka lahan anyar atawa nuar tangkal, mangrupa harti Babad numutkeun . . .",
-      "opsi": [
-        "Basa jawa",
-        "Rusyana",
-        "KUBS",
-        "Kamus Basa Sunda Danadibrata",
-        "Ricklefs"
-      ],
-      "jawaban": "A"
     },
     {
       "pertanyaan": "Naha babad diabuskeun kana golongan carita dongeng, kusabab . . .",
@@ -276,7 +221,7 @@
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Ieu di handap wangun aksara Sunda anu mirip, <i>iwal . . .</i>",
+      "pertanyaan": "Ieu di handap wangun aksara Sunda anu mirip, <i>iwal</i> . . .",
       "opsi": [
         "/a/ jeung /ya/",
         "/ba/ jeung /nya/",
@@ -298,7 +243,7 @@
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Aksara sunda anu aksarana mirip jeung angka tujuh.nyaeta . . .",
+      "pertanyaan": "Aksara sunda anu aksarana mirip jeung angka tujuh, nyaeta . . .",
       "opsi": [
         "Ka",
         "Nga",
@@ -329,6 +274,116 @@
         "Pangwisad"
       ],
       "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Hubungan jelema ka jelema lianna, anu sakulawarga, dulur, atawa baraya anu masih dulur keneh, disebutna . . .",
+      "opsi": [
+        "Duduluran",
+        "Batur",
+        "Pancakaki",
+        "Rerehan",
+        "Deungeun-deungeun"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Kolotna aki jeung nini urang disebutna . . .",
+      "opsi": [
+        "Bao",
+        "Buyut",
+        "Janggawareng",
+        "Udeg-udeg",
+        "Kait siwur"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Lamun ka anak lanceuk urang kudu nyebutna . . .",
+      "opsi": [
+        "Bibi",
+        "Uwa",
+        "Alo",
+        "Suan",
+        "Emang"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Salasahiji karya sastra Sunda anu direka dina wangun basa ugeran (puisi), tapi teu pati kauger ku patokan-patokan jumlah engang saban padalisan jeung jumlah padalisan dina saban pada disebutna . . .",
+      "opsi": [
+        "Pupuh",
+        "Sisindiran",
+        "Guguritan",
+        "Sajak",
+        "Wawangsalan"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Ieu di handap anu henteu kaasup kana adegan batin sajak, nyaeta . . .",
+      "opsi": [
+        "Jejer (tema)",
+        "Rasa",
+        "Nada",
+        "Amanat",
+        "Wirahma"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Kalimah di handap anu ngandung harti konotatif, nyaeta . . .",
+      "opsi": [
+        "Adang sok maju ka hareup!",
+        "Sok gera maju, ulah cicing wae di tukang.",
+        "Mobil anyar teh maju mani gancang.",
+        "Kunaon cenah motor the kadon maju mundur we terus.",
+        "Ari geus maju mah, manehna teh wani nincak sagala."
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "<blockquote><b>Lembur</b><br><br>Pucuk awi gugupay ti katebihan<br>Dapuranana gapura bras ka lembur<br>Tuh lemburna, nu aya runggunuk tangkal<br>Memeh sup, meuntas wahangan<br>Sawahna mah tutung lembur<br>Dibenteng ku gunung-gunung<br>Kebonna dina pasir<br>Mun engke geus nepi ka jerona<br>Urang tepungan pangeusi jero imutna<br>Ngawangkong urang jeung angina tingtingtrim<br><br>Di cutat dina Mangle Alit no 2209<br>Kintunan: Etty Nurhayati</blockquote><br>Naon tema sajak di luhur . . .",
+      "opsi": [
+        "Kaendahan Alam",
+        "Protes sosial",
+        "Kaagamaan",
+        "Cinta",
+        "Kapahlawanan"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Amanat nu nyangkaruk dina sajak \"Lembur\" nyaeta . . .",
+      "opsi": [
+        "kudu ngariksa kaendahan alam",
+        "kudu ngajaga atawa ngamumule kaendahan alam",
+        "kudu ngaruksak kaendahan alam",
+        "kudu darehdeh ka sasama",
+        "kudu silih pikanyaah"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Padeukeutna sora kecap boh di awal, di tengah, atawa ditungtung ungkara kalimah disebutna . . .",
+      "opsi": [
+        "Gaya bahasa",
+        "Kecap nyata",
+        "Purwakanti",
+        "Wirahma",
+        "Wirasa"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "\"Munding teh geus dicangcang dina tangkal.\"<br><br>Kecap <i>dicangcang</i> ngandung harti denotatif anu sarua hartina jeung . . .",
+      "opsi": [
+        "Diduitan",
+        "Ditawarkeun",
+        "Diparaban",
+        "Ditalian",
+        "Diantepkeun"
+      ],
+      "jawaban": "D"
     }
   ],
   "essay": [
@@ -336,16 +391,16 @@
       "pertanyaan": "Jelakeun naon bedana carita babad jeung carita sajarah?"
     },
     {
-      "pertanyaan": "Sebutkeun 3 conto judul carita babad!"
+      "pertanyaan": "Salin kana aksara Sunda kekecapan ieu di handap!<br><br>a. Ngaran sorangan<br>b. Itikurih Hibarna<br>c. Langit caang<br>d. panon poe moncorong"
     },
     {
-      "pertanyaan": "Tatakama basa Sunda baheula mah sok disebut?"
+      "pertanyaan": "Tulis rundayan pancakaki ka luhur!"
     },
     {
-      "pertanyaan": "Sebutkeun fungsi tatakrama!"
+      "pertanyaan": "Sebutkeun unsur lahir sajak sunda!"
     },
     {
-      "pertanyaan": "Salin kana aksara Sunda kekecapan ieu di handap!<br><br>a. Agama d. Eunya<br>b. Ulama e. Imah"
+      "pertanyaan": "Pek ku hideup jieun conto sajak Sunda! (temana bebas)"
     }
   ]
 }
