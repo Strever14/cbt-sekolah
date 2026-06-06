@@ -40,7 +40,7 @@
         "Bercermin",
         "Berhias",
         "Mandi",
-        "Berwudhu"
+        "berwudhu"
       ],
       "jawaban": "A"
     },
@@ -62,7 +62,7 @@
         "Pakaian",
         "Gamis",
         "Aurat",
-        "Aksesoris"
+        "aksesoris"
       ],
       "jawaban": "D"
     },
@@ -89,7 +89,7 @@
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Batasan aurat laki-laki adalah....",
+      "pertanyaan": "Batasan aurat laki-laki menurut syariat islam adalah....",
       "opsi": [
         "dari siku sampai lutut",
         "dari pusat sampai lutut",
@@ -100,23 +100,23 @@
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Fungsi pakaian adalah....",
+      "pertanyaan": "Fungsi pakaian menurut syariat islam adalah....",
       "opsi": [
         "untuk dipamerkan",
-        "dari pusat sampai lutut",
-        "dari leher sampai pergelangan kaki",
-        "seluruh tubuh kecuali wajah dan telapak kaki",
-        "seluruh tubuh kecuali wajah dan telapak tangan"
+        "meningkatkan gensi",
+        "sebagai penutup aurat",
+        "menampilkan lekuk tubuh",
+        "menunjukkan model terbaru"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Jujur merupakan ciri seorang muslim, sedangkan bohong atau  tidak jujur merupakan ciri dari....",
+      "pertanyaan": "Jujur merupakan ciri seorang muslim, sedangkan bohong atau tidak jujur merupakan ciri dari....",
       "opsi": [
-        "mu'in",
-        "Muhsin",
-        "Mutttaqin",
-        "Munafiqin",
+        "mu'min",
+        "muhsin",
+        "muttaqin",
+        "munafiq",
         "Muslimin"
       ],
       "jawaban": "D"
@@ -139,7 +139,7 @@
         "rajin",
         "boros",
         "hemat",
-        "juju"
+        "jujur"
       ],
       "jawaban": "E"
     },
@@ -155,13 +155,13 @@
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Orang yang berbuat jujur perbuatannya selalu..",
+      "pertanyaan": "Orang yang berbuat jujur perbuatannya selalu...",
       "opsi": [
         "Berbalik",
         "Berliku",
         "Menyimpang",
         "Berbelok",
-        "Lurus"
+        "lurus"
       ],
       "jawaban": "E"
     },
@@ -169,7 +169,7 @@
       "pertanyaan": "Lawan jujur adalah....",
       "opsi": [
         "Riya",
-        "Munafiqin",
+        "Munafiq",
         "Dusta",
         "Khianat",
         "rendah diri"
@@ -183,7 +183,7 @@
         "Syirik",
         "Munafiq",
         "Murtad",
-        "mu'min"
+        "Mu'min"
       ],
       "jawaban": "C"
     },
@@ -205,7 +205,7 @@
         "Jujur",
         "Munafiq",
         "Dusta",
-        "Menyimpang"
+        "menyimpang"
       ],
       "jawaban": "B"
     },
@@ -226,24 +226,24 @@
         "Takamul",
         "Wasatiyyah",
         "Harakah",
-        "Hannya",
-        "Khuludiyah"
+        "Hanya",
+        "khuludiyah"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Al-Quran dimulai dengan surat Al Fatihah (pembukaan) dan berakhir dengan surat ...",
+      "pertanyaan": "Al-Quran dimulai dengan surat Al Fatihah (pembukaan) dan berakhir dengan sura ...",
       "opsi": [
         "Al Baqarah",
         "Al 'Alaq",
         "Al Ma'idah",
-        "An-Nas",
+        "Annas",
         "Al Falaq"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Al-Quran adalah panduan untuk bimbingan dan belas kasihan manusia bagi mereka yang beriman. Ini dikonfirmasikan oleh Allah dalam Surat.....",
+      "pertanyaan": "Al-Quran adalah panduan untuk bimbingan dan belas kasihan manusia bagi mereka yang beriman. Ini dikonfirmasikan oleh Allah dalam Surat....",
       "opsi": [
         "Al Jasiyah [45]: 20",
         "Ali Imran [3]: 138",
@@ -276,7 +276,7 @@
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Alquran bertindak sebagai keinginan. Ini terkandung dalam surat dan ayat ....",
+      "pertanyaan": "Alquran bertindak sebagai keinginan. Ini terkandung dalam asam ....",
       "opsi": [
         "Al Jasiyah [45]: 20",
         "Ali Imran [3]: 138",
@@ -287,7 +287,7 @@
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Hukum waris Islam sepenuhnya di atur dalam ....",
+      "pertanyaan": "Hukum dasar dalam waris Islam sepenuhnya sepenuh nya di jelaskan dalam ....",
       "opsi": [
         "Al-Quran",
         "Hadis",
@@ -302,9 +302,9 @@
       "opsi": [
         "Amaliyah",
         "Jinayah",
-        "I'tiqadiyah",
+        "i'tiqadiyah",
         "Khuluqiyah",
-        "Siyasah"
+        "siyasah"
       ],
       "jawaban": "A"
     },
@@ -313,9 +313,9 @@
       "opsi": [
         "Amaliyah",
         "Jinayah",
-        "I'tiqadiyah",
+        "i'tiqadiyah",
         "Khuluqiyah",
-        "Siyasah"
+        "siyasah"
       ],
       "jawaban": "D"
     },
@@ -326,26 +326,81 @@
         "Sunnah",
         "Ijtihad",
         "Qiyas",
-        "Ijama"
+        "Ijma"
       ],
       "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Hukum penggunaan hadis sebagai dasar hukum adalah ...",
+      "opsi": [
+        "Haram",
+        "Sunnah",
+        "Makruh",
+        "Mubah",
+        "wajib"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Orang yang menceritakan hadits disebut ...",
+      "opsi": [
+        "Sanad",
+        "Rawi",
+        "Sahabat",
+        "tabi'in",
+        "tabi'ut tabi'in"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Imam At Tirmidzi berbagi Hadits Ahad di ...",
+      "opsi": [
+        "dua tipe",
+        "tiga tipe",
+        "empat jenis",
+        "lima jenis",
+        "enam jenis"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Undang-undang tentang penggunaan Hadits-Maudu adalah ...",
+      "opsi": [
+        "Wajib",
+        "Sunnah",
+        "Makruh",
+        "Mubah",
+        "haram"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Hukum untuk menyangkal Hadist adalah ...",
+      "opsi": [
+        "Wajib",
+        "Sunnah",
+        "Makruh",
+        "Mubah",
+        "haram"
+      ],
+      "jawaban": "E"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Sebutkan batas-batas aurat laki-laki dan perempuan ?"
+      "pertanyaan": "Tulis Dalil yang berkaitan denga kewajiban menuntut ilmu....."
     },
     {
-      "pertanyaan": "Apa saja yang menjadi ciri bahwa seseorang mempunyai sipat jujur ?"
+      "pertanyaan": "Apa pengertian qur'an menurut bahasa dan istilah ?"
     },
     {
-      "pertanyaan": "Sebutkan pungsi pakaian untuk manusia selain sebagai penutup tubuh ?"
+      "pertanyaan": "Apa yang membedakan antara pelaksanaan haji dan umrah ?"
     },
     {
-      "pertanyaan": "Pakaian bagaimanakah yang harus di pakai menurut syariat islam ?"
+      "pertanyaan": "Coba ceritakan dengan singkat dakwah rosululloh ketiak di mekah...."
     },
     {
-      "pertanyaan": "Apa saja dasar hukum islam sebutkan?"
+      "pertanyaan": "Apa saja kendala rosululloh berdakwah di mekah dan madinah ?"
     }
   ]
 }
