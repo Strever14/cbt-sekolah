@@ -1,351 +1,406 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Teori yang menyatakan penyebaran Hindu dilakukan oleh kaum pendeta adalah....",
+      "pertanyaan": "Teori yang menyatakan bahwa agama Hindu dibawa ke Indonesia oleh para pendeta India adalah teori ....",
       "opsi": [
-        "Ksatria",
         "Waisya",
         "Brahmana",
+        "Ksatria",
         "Arus Balik",
         "Sudra"
       ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Menurut teori Ksatria, penyebaran agama Hindu ke Indonesia dilakukan oleh ....",
+      "opsi": [
+        "Pedagang",
+        "Pendeta",
+        "Raja Indonesia",
+        "Kaum bangsawan dan prajurit India",
+        "Ulama"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Teori Waisya menyatakan bahwa agama Hindu-Buddha masuk ke Indonesia melalui ....",
+      "opsi": [
+        "Pendeta",
+        "Seniman",
+        "Pedagang",
+        "Raja",
+        "Petani"
+      ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Tokoh pendukung teori Ksatria adalah...",
+      "pertanyaan": "Tokoh pencetus teori Arus Balik adalah ....",
       "opsi": [
-        "R.C. Majumda",
         "N.J. Krom",
+        "Van Leur",
+        "F.D.K. Bosch",
         "Coedes",
-        "I-Tsing",
-        "J.C. van Leur"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Dasar teori Waisya adalah aktivitas...",
-      "opsi": [
-        "Pendidikan",
-        "Perdagangan",
-        "Penaklukan",
-        "Dakwah",
-        "Pertanian"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Teori Arus Balik menyatakan bahwa...",
-      "opsi": [
-        "India menjajah Nusantara",
-        "Pendeta diutus raja India",
-        "Bangsa Nusantara belajar ke India",
-        "Pedagang memaksa rakyat",
-        "Raja India berkuasa langsung"
+        "Kern"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Kelebihan teori Brahmana adalah...",
+      "pertanyaan": "Kelebihan Teori Brahmana adalah ....",
       "opsi": [
-        "Sesuai bukti prasasti Sanskerta",
-        "Didukung legenda rakyat",
-        "Berdasar mitos",
-        "Tidak ada bukti",
-        "Bersifat spekulatif"
+        "Didukung bukti prasasti berbahasa Sanskerta",
+        "Didukung bukti perdagangan",
+        "Didukung bukti peperangan",
+        "Didukung bukti pelayaran",
+        "Didukung bukti migrasi"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Kelemahan teori Ksatria adalah...",
+      "pertanyaan": "Kelemahan teori Ksatria adalah ....",
       "opsi": [
-        "Tidak ada bukti perang besar",
+        "Tidak ada bukti adanya penaklukan India di Nusantara",
+        "Tidak ada pedagang India",
+        "Tidak ada kerajaan Hindu",
         "Tidak ada prasasti",
-        "Tidak logis",
-        "Tidak sesuai budaya",
-        "Ditolak semua ahli"
+        "Tidak ada hubungan dagang"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Sistem kerajaan di Indonesia merupakan bentuk akulturasi dalam bidang...",
+      "pertanyaan": "Kerajaan Hindu tertua di Indonesia adalah ....",
       "opsi": [
-        "Ekonomi",
-        "Politik",
-        "Sosial",
-        "Bahasa",
-        "Seni"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Candi di Indonesia berbeda dengan India karena adanya unsur...",
-      "opsi": [
-        "Gurun",
-        "Punden berundak",
-        "Piramida",
-        "Tembok besar",
-        "Menara tinggi"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Bahasa Sanskerta digunakan dalam...",
-      "opsi": [
-        "Hikayat",
-        "Prasasti",
-        "Lagu rakyat",
-        "Dongeng",
-        "Cerpen"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Kitab Bharatayudha ditulis pada masa..",
-      "opsi": [
-        "Kutai",
-        "Sriwijaya",
-        "Kediri",
         "Tarumanegara",
+        "Sriwijaya",
+        "Kutai",
+        "Kediri",
         "Singasari"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Perpaduan Siwa dan Buddha disebut...",
+      "pertanyaan": "Kerajaan Kutai terletak di ....",
       "opsi": [
-        "Monoteisme",
-        "Sinkretisme",
-        "Animisme",
-        "Dinamisme",
-        "Totemisme"
+        "Jawa Barat",
+        "Kalimantan Timur",
+        "Sumatra Selatan",
+        "Jawa Tengah",
+        "Bali"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Raja terkenal Kutai adalah...",
+      "pertanyaan": "Raja terbesar Kerajaan Kutai adalah ....",
       "opsi": [
+        "Kudungga",
         "Purnawarman",
         "Mulawarman",
-        "Balaputradewa",
-        "Airlangga",
-        "Hayam Wuruk"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Prasasti Ciaruteun peninggalan kerajaan...",
-      "opsi": [
-        "Kutai",
-        "Sriwijaya",
-        "Tarumanegara",
-        "Kediri",
-        "Singasari"
+        "Hayam Wuruk",
+        "Airlangga"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Pusat Sriwijaya berada di...",
+      "pertanyaan": "Peninggalan utama Kerajaan Kutai adalah ....",
       "opsi": [
+        "Candi",
+        "Yupa",
+        "Arca",
+        "Kitab",
+        "Masjid"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Kerajaan Tarumanegara berkembang di wilayah ....",
+      "opsi": [
+        "Jawa Barat",
         "Jawa Timur",
-        "Sumatera Selatan",
+        "Sumatra",
         "Kalimantan",
-        "Bali",
         "Sulawesi"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Sriwijaya dikenal sebagai kerajaan...",
-      "opsi": [
-        "Agraris",
-        "Maritim",
-        "Industri",
-        "Modern",
-        "Kolonial"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Dinasti Mataram Kuno adalah...",
-      "opsi": [
-        "Iskandar & Syailendra",
-        "Sanjaya & Syailendra",
-        "Rajasa & Sanjaya",
-        "Warmadewa & Iskandar",
-        "Rajasa & Warmadewa"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Candi Borobudur dibangun oleh dinasti...",
-      "opsi": [
-        "Sanjaya",
-        "Rajasa",
-        "Syailendra",
-        "Warmadewa",
-        "Kediri"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Raja Kediri yang terkenal adalah...",
-      "opsi": [
-        "Ken Arok",
-        "Airlangga",
-        "Jayabaya",
-        "Hayam Wuruk",
-        "Anusapati"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Singasari runtuh akibat pemberontakan...",
-      "opsi": [
-        "Ken Arok",
-        "Jayakatwang",
-        "Gajah Mada",
-        "Purnawarman",
-        "Mulawarman"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Pendiri Singasari adalah...",
-      "opsi": [
-        "Ken Arok",
-        "Hayam Wuruk",
-        "Airlangga",
-        "Jayabaya",
-        "Purnawarman"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Sumpah Palapa diucapkan oleh...",
+      "pertanyaan": "Raja terkenal Kerajaan Tarumanegara adalah ....",
       "opsi": [
-        "Hayam Wuruk",
-        "Ken Arok",
-        "Gajah Mada",
-        "Jayabaya",
+        "Kudungga",
+        "Mulawarman",
+        "Purnawarman",
+        "Kertanegara",
         "Balaputradewa"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Tujuan Sumpah Palapa adalah...",
+      "pertanyaan": "Prasasti yang menunjukkan kebesaran Purnawarman adalah ....",
       "opsi": [
-        "Menguasai Nusantara",
-        "Menguasai India",
-        "Menaklukkan China",
-        "Menyerang Arab",
-        "Berdagang"
+        "Kedukan Bukit",
+        "Talang Tuo",
+        "Tugu",
+        "Kota Kapur",
+        "Karang Brahi"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Kerajaan Sriwijaya berpusat di ....",
+      "opsi": [
+        "Palembang",
+        "Banten",
+        "Demak",
+        "Kutai",
+        "Bogor"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Salah satu faktor kejayaan Majapahit adalah...",
+      "pertanyaan": "Sriwijaya dikenal sebagai kerajaan ....",
       "opsi": [
-        "Armada laut kuat",
-        "Tidak punya musuh",
-        "Dijajah India",
-        "Tanpa pajak",
-        "Tanpa raja"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Faktor keruntuhan Majapahit adalah...",
-      "opsi": [
-        "Perang saudara",
-        "Kemenangan besar",
-        "Ekonomi stabil",
-        "Armada kuat",
-        "Pajak tinggi"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Raja terbesar Majapahit adalah...",
-      "opsi": [
-        "Ken Arok",
-        "Hayam Wuruk",
-        "Jayabaya",
-        "Mulawarman",
-        "Purnawarman"
+        "Agraris",
+        "Maritim",
+        "Pedalaman",
+        "Teokrasi",
+        "Federal"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Kitab Nagarakretagama ditulis oleh...",
+      "pertanyaan": "Faktor utama kejayaan Sriwijaya adalah ....",
       "opsi": [
-        "Empu Prapanca",
-        "Empu Tantular",
-        "Ken Arok",
-        "Gajah Mada",
-        "Airlangga"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Corak pemerintahan Hindu-Buddha adalah...",
-      "opsi": [
-        "Demokrasi",
-        "Monarki",
-        "Republik",
-        "Liberal",
-        "Parlementer"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Bukti pengaruh India dalam seni adalah..",
-      "opsi": [
-        "Batik",
-        "Candi",
-        "Rumah adat",
-        "Keris",
-        "Lagu daerah"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Kerajaan agraris bergantung pada...",
-      "opsi": [
-        "Laut",
         "Pertanian",
-        "Tambang",
+        "Pertambangan",
+        "Penguasaan jalur perdagangan laut",
         "Industri",
-        "Pariwisata"
+        "Perikanan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Persamaan Kutai, Tarumanegara, dan Sriwijaya adalah ....",
+      "opsi": [
+        "Kerajaan Islam",
+        "Kerajaan Hindu-Buddha",
+        "Kerajaan maritim semua",
+        "Berpusat di Jawa",
+        "Dipimpin Sultan"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Akulturasi menunjukkan bahwa bangsa Indonesia bersifat...",
+      "pertanyaan": "Teori Gujarat dikemukakan oleh ....",
       "opsi": [
-        "Tertutup",
-        "Selektif",
-        "Pasif",
-        "Fanatik",
-        "Individualis"
+        "Snouck Hurgronje",
+        "Hamka",
+        "Buya Hamka",
+        "T.W. Arnold",
+        "Bosch"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Teori Gujarat menyatakan Islam masuk ke Indonesia pada abad ....",
+      "opsi": [
+        "7 M",
+        "8 M",
+        "9 M",
+        "13 M",
+        "15 M"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Teori Persia didukung oleh adanya tradisi ....",
+      "opsi": [
+        "Sekaten",
+        "Grebeg",
+        "Tabot/Tabuik",
+        "Wayang",
+        "Slametan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Teori Arab menyatakan Islam masuk ke Indonesia langsung dari ....",
+      "opsi": [
+        "Gujarat",
+        "Persia",
+        "Mekah",
+        "Cina",
+        "Turki"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Saluran Islamisasi yang paling awal berkembang adalah ....",
+      "opsi": [
+        "Politik",
+        "Perdagangan",
+        "Pendidikan",
+        "Tasawuf",
+        "Kesenian"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perkawinan antara pedagang Muslim dan penduduk lokal mempercepat ....",
+      "opsi": [
+        "Kolonialisme",
+        "Urbanisasi",
+        "Islamisasi",
+        "Industrialisasi",
+        "Migrasi"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Tasawuf mudah diterima masyarakat Indonesia karena ....",
+      "opsi": [
+        "Bersifat kaku",
+        "Mirip tradisi mistik lokal",
+        "Bersifat militer",
+        "Mengutamakan perdagangan",
+        "Berbasis kerajaan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Lembaga pendidikan Islam tradisional adalah ....",
+      "opsi": [
+        "Sekolah rakyat",
+        "Pesantren",
+        "Sanggar",
+        "Balai desa",
+        "Padepokan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Sunan Kalijaga menyebarkan Islam melalui ....",
+      "opsi": [
+        "Perdagangan",
+        "Wayang",
+        "Politik",
+        "Militer",
+        "Pendidikan Barat"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Saluran politik terjadi ketika ....",
+      "opsi": [
+        "Raja memeluk Islam lalu rakyat mengikutinya",
+        "Pedagang berdagang",
+        "Ulama mengajar",
+        "Seniman berkarya",
+        "Petani bertani"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Kerajaan Islam pertama di Indonesia adalah ....",
+      "opsi": [
+        "Aceh",
+        "Demak",
+        "Samudra Pasai",
+        "Banten",
+        "Mataram"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Pendiri Kerajaan Demak adalah ....",
+      "opsi": [
+        "Sultan Agung",
+        "Sultan Hasanuddin",
+        "Raden Patah",
+        "Fatahillah",
+        "Sunan Giri"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Raja terbesar Kerajaan Aceh adalah ....",
+      "opsi": [
+        "Sultan Iskandar Muda",
+        "Sultan Ageng Tirtayasa",
+        "Sultan Hasanuddin",
+        "Sultan Trenggana",
+        "Sultan Baabullah"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Raja terkenal Kerajaan Mataram Islam adalah ....",
+      "opsi": [
+        "Raden Patah",
+        "Sultan Agung",
+        "Hasanuddin",
+        "Iskandar Muda",
+        "Fatahillah"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Bentuk akulturasi Islam pada arsitektur tampak pada ....",
+      "opsi": [
+        "Menara Kudus",
+        "Gedung DPR",
+        "Monas",
+        "Istana Bogor",
+        "Benteng Rotterdam"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Contoh akulturasi Islam dalam sastra adalah ....",
+      "opsi": [
+        "Hikayat",
+        "Novel",
+        "Cerpen",
+        "Drama modern",
+        "Komik"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Kaligrafi merupakan perpaduan budaya Islam dengan ....",
+      "opsi": [
+        "Seni tulis",
+        "Seni pahat",
+        "Seni tari",
+        "Musik",
+        "Teater"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Perubahan gelar raja menjadi sultan menunjukkan akulturasi pada bidang ....",
+      "opsi": [
+        "Ekonomi",
+        "Pemerintahan",
+        "Pertanian",
+        "Pendidikan",
+        "Teknologi"
       ],
       "jawaban": "B"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Analisislah bentuk akulturasi budaya Hindu-Buddha yang masih ada di lingkungan sekitar Anda!"
+      "pertanyaan": "Kerajaan Samudra Pasai berada di pulau Sumatra, tepatnya di Aceh. Mengapa kerajaan samudra pasai disebut sebagai serambi mekah?"
     },
     {
-      "pertanyaan": "Bandingkan kelebihan dan kekurangan teori Brahmana dan Arus Balik, lalu simpulkan pendapat Anda!"
+      "pertanyaan": "Letak Kerajaan Banten dekat dengan pelabuhan sehingga kehidupan ekonominya berrtumpu pada bidang perdagangan, mengapa demikian?"
     },
     {
-      "pertanyaan": "Awalnya Singasari hanya daerah kecil yang disebut Tumapel, ketika Ken Arok berkuasa di Tumapel, para brahmana Kediri meminta perlindungan kepada Ken Arok. Apa alasan para brahmana tersebut?"
+      "pertanyaan": "Apa yang dimaksud dengan akulturasi kebudayaan islam?"
     },
     {
-      "pertanyaan": "Jelaskan relevansi kejayaan maritim Sriwijaya dengan kondisi Indonesia saat ini!"
+      "pertanyaan": "Jelaskan bagaimana bentuk akulturasi kebudayaan islam dalam berbagai bidang?"
     },
     {
-      "pertanyaan": "Kerajaan Kutai terletak di Kalimantan, kerajaan Kutai dianggap sebagai kerajaan Hindu tertua di Indonesia, apa alasannya?"
+      "pertanyaan": "Dilingkungan sekolah terdapat berbagai bentuk budaya local yang mulai ditinggalkan generasi muda, rancanglah sebuah program sekolah yang bertujuan melestarikan hasil akulturasi budaya nusantara dan islam agar tetap dikenal oleh peserta didik!"
     }
   ]
 }
