@@ -1,7 +1,7 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Look at the picture below!<br><br><img src='soal/img/X/inggris/picture1.jpg' alt='Snow White Story'><br><br>The story part that is suitable for the picture above is.......?",
+      "pertanyaan": "Look at the Picture below!<br><br><img src='soal/img/X/inggris/Picture1.jpg' alt='Snow White Story'><br><br>The story part that is suitable for the Picture above is.......?",
       "opsi": [
         "The seven dwarfs buried Snow White",
         "The queen killed Snow White",
@@ -111,7 +111,7 @@
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Read this text below to answer questions number 11 -- 14!<br><br><blockquote>Last weekend, my family and I went to Indrayanti beach to spend our holiday. We went there by our own car.<br><br>The route to the beach was very intense with zigzagged road and it was very quiet in the middle of night. We almost got lost because we had never visited there before, but finally we got there safely at dawn around 5 AM. There, we couldn't get a room to stay overnight because it was a long weekend and it was not easy to find available rooms. But we still could enjoy the sunrise landscape by the beach. My brother was playing with white sand with my older sister while I took their pictures.<br><br>A day at Indrayanti beach felt so short. We were quite tired from playing for a whole day, but we enjoyed it.</blockquote><br>What time the writer and his family did go to the beach?",
+      "pertanyaan": "Read this text below to answer questions number 11 -- 14!<br><br><blockquote>Last weekend, my family and I went to Indrayanti beach to spend our holiday. We went there by our own car.<br><br>The route to the beach was very intense with zigzagged road and it was very quiet in the middle of night. We almost got lost because we had never visited there before, but finally we got there safely at dawn around 5 AM. There, we couldn't get a room to stay overnight because it was a long weekend and it was not easy to find available rooms. But we still could enjoy the sunrise landscape by the beach. My brother was playing with white sand with my older sister while I took their Pictures.<br><br>A day at Indrayanti beach felt so short. We were quite tired from playing for a whole day, but we enjoyed it.</blockquote><br>What time the writer and his family did go to the beach?",
       "opsi": [
         "in the afternoon",
         "at midnight",
@@ -155,7 +155,7 @@
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Then, Timun Mas ran away from the giant. She tried her best to get rid of the giant who chased her.<br><br>The picture for the story plot above is.......?<br><br><img src='soal/img/X/inggris/picture2.jpg' alt='Timun Mas 1'><br><img src='soal/img/X/inggris/picture3.jpg' alt='Timun Mas 2'><br><img src='soal/img/X/inggris/picture4.png' alt='Timun Mas 3'><br><img src='soal/img/X/inggris/picture5.png' alt='Timun Mas 4'><br><img src='soal/img/X/inggris/picture6.png' alt='Timun Mas 5'>",
+      "pertanyaan": "Then, Timun Mas ran away from the giant. She tried her best to get rid of the giant who chased her.<br><br>The Picture for the story plot above is.......?<br><br><img src='soal/img/X/inggris/Picture2.jpg' alt='Timun Mas 1'><br><img src='soal/img/X/inggris/Picture3.jpg' alt='Timun Mas 2'><br><img src='soal/img/X/inggris/Picture4.png' alt='Timun Mas 3'><br><img src='soal/img/X/inggris/Picture5.png' alt='Timun Mas 4'><br><img src='soal/img/X/inggris/Picture6.png' alt='Timun Mas 5'>",
       "opsi": [
         "Picture 1",
         "Picture 2",
@@ -298,7 +298,7 @@
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Look at this picture below!<br><br><img src='soal/img/X/inggris/picture7.jpeg' alt='Deer and Crocodile'><br><br>From the picture above, the deer was ......?",
+      "pertanyaan": "Look at this Picture below!<br><br><img src='soal/img/X/inggris/Picture7.jpeg' alt='Deer and Crocodile'><br><br>From the Picture above, the deer was ......?",
       "opsi": [
         "helping the crocodiles to hunt",
         "playing happily with many crocodiles on the river",
