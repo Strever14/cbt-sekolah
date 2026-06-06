@@ -1,351 +1,409 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Kelompok besaran di bawah ini yang semuanya merupakan besaran pokok dalam sistem Satuan Internasional (SI) adalah ...",
+      "pertanyaan": "Di bawah ini yang merupakan penyebab utama penduduk desa lebih banyak mencari mata pencaharian dari sektor pertanian adalah ...",
       "opsi": [
-        "Panjang, massa dan tekanan",
-        "Massa, suhu, dan kuat arus",
-        "Waktu, gaya dan intensitas cahaya",
-        "Luas, volume dan jumlah zat",
-        "Suhu, energi dan usaha"
+        "Belum masuknya pengaruh industri desa",
+        "Penduduk desa masih meneruskan tradisi dalam pengolahan lahan pertanian",
+        "Rendahnya tingkat pendapatan penduduk",
+        "Sumber daya manusia yang ada di desa masih rendah",
+        "Tingkat Pendidikan yang ada di desa tergolong rendah"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Sebuah kabel serat optic memiliki Panjang 0.005 km, jika dinyatakan dalam satuan milimeter (mm) maka Panjang kabel tersebut adalah ...",
+      "pertanyaan": "Perhatikan pernyataan berikut!<br><br>1) Menunjukkan informasi wilayah benua tertentu<br>2) Sebagai media peraga bentuk bumi dan rotasinya<br>3) Mengetahui proses gerhana<br>4) Menunjukkan wilayah tertentu secara sederhana<br>5) Menghitung pembagian waktu di bumi berdasarkan garis bujurnya<br><br>Fungsi dari globe di bidang ilmu pengetahuan yang benar ditunjukkan oleh nomor ...",
       "opsi": [
-        "5 mm",
-        "50 mm",
-        "500 mm",
-        "5.000 mm",
-        "50.000 mm"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Seorang kontraktor memerlukan kabel sepanjang 2 meter untuk instalasi lampu. Di Gudang hanya tersedia potongan kabel dengan ukuran sebagai berikut:<br><br>1) 250 cm<br>2) 2.500 mm<br>3) 0,0025 km<br>4) 0,25 dam<br><br>Berdasarkan data di atas, potongan kabel manakah yang tidak cukup untuk memenuhi kebutuhan kontraktor tersebut ...",
-      "opsi": [
-        "1, 2, dan 3",
-        "1 dan 2",
-        "3 dan 4",
-        "Semuanya cukup",
-        "Tidak ada yang cukup"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Hasil dari penjumlahan 2 m + 50 cm + 200 mm dalam satuan centimeter (cm) adalah ...",
-      "opsi": [
-        "252 cm",
-        "270 cm",
-        "720 cm",
-        "2.520 cm",
-        "2.700 cm"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Dalam kegiatan studi lapangan, siswa mengukur Panjang jalur trekking.<br><br>- Hari pertama menempuh jarak 2,4 km<br>- Hari kedua 1.850 m<br>- Hari ketiga 750 m<br><br>Berdasarkan data diatas, berapakah total jarak yang ditempuh siswa tersebut dalam satuan kilometer ...",
-      "opsi": [
-        "5 km",
-        "2,6 km",
-        "2.602 km",
-        "3500 km",
-        "5000 km"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Lintasan lari berbentuk lintasan lurus sepanjang 400 m dan seorang atlet berlari sejauh 3,2 km. Berapakah jumlah putaran lintasan yang ditempuh atlet ...",
-      "opsi": [
-        "4 putaran",
-        "5 putaran",
-        "6 putaran",
-        "7 putaran",
-        "8 putaran"
+        "1) dan 3)",
+        "3) dan 4)",
+        "3) dan 5)",
+        "1), 2), dan 4)",
+        "2), 3), dan 5)"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Perhatikan urutan transformasi energi berikut:<br><br>Energi Kimia 🡪 Energi Listrik 🡪 Energi Cahaya<br><br>Urutan perubahan energi tersebut terjadi pada perangkat...",
+      "pertanyaan": "Perhatikan pernyataan berikut!<br><br>1) Desa menyediakan tenaga kerja yang dibutuhkan di kota<br>2) Desa merupakan sumber pemasaran komoditas kota<br>3) Desa merupakan pusat kegiatan Pendidikan yang dibutuhkan kota<br>4) Desa merupakan penghasil sumber makanan yang dibutuhkan kota<br><br>Peran desa terhadap kota yang benar ditunjukkan oleh nomor ...",
       "opsi": [
-        "Senter yang menggunakan baterai",
-        "Kipas angin yang dihubungkan ke stop kontak",
-        "Mobil listrik yang sedang melaju",
-        "Panel surya yang menyalakan lampu jalan",
-        "Setrika listrik yang sedang digunakan."
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Seorang petugas kebersihan mendorong tempat sampah dengan gaya sebesar 200 N, namun tempat sampah tersebut tetap diam di posisinya karena beratnya muatan. Berdasarkan konsep usaha dalam fisika, pernyataan yang benar adalah...",
-      "opsi": [
-        "Petugas tersebut melakukan usaha sebesar 200 Joule",
-        "Usaha yang dilakukan sangat besar karena gaya yang diberikan besar",
-        "Usaha berbanding lurus dengan lamanya waktu mendorong",
-        "Petugas melakukan usaha yang negatif karena melawan gaya gesek",
-        "Usaha yang dilakukan bernilai nol karena tidak ada perpindahan"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Perubahan energi yang terjadi pada alat pengering rambut (hair dryer) yang sedang digunakan adalah...",
-      "opsi": [
-        "Energi listrik 🡪 Energi kinetik + Energi panas",
-        "Energi kimia 🡪 Energi listrik 🡪 Energi panas",
-        "Energi listrik 🡪 Energi potensial + Energi cahaya",
-        "Energi kinetik 🡪 Energi listrik 🡪 Energi panas",
-        "Energi panas 🡪 Energi listrik 🡪 Energi kinetik"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Seorang siswa mendorong kotak dengan gaya 80 N sejauh 5 m. Jika terdapat gaya gesek sebesar 20 N yang berlawanan arah Gerak, usaha yang bekerja pada kotak adalah ...",
-      "opsi": [
-        "12",
-        "65",
-        "105",
-        "300",
-        "600"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Bola dengan massa 100 gram dilempar vertical ke atas dengan kecepatan 40 m/s dan ketinggian 10 m. Berdasarkan data tersebut, besar dari energi mekanik bola adalah ...",
-      "opsi": [
-        "14",
-        "81",
-        "90",
-        "5.000",
-        "90.000"
+        "1) dan 2)",
+        "1) dan 3)",
+        "1) dan 4)",
+        "2) dan 3)",
+        "3) dan 4)"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Sebuah benda bermassa 3 kg berada di rak setinggi 6 m dari lantai. Berapakah besar energi potensial benda tersebut ...",
+      "pertanyaan": "Pada sebuah peta untuk menunjukkan jalan raya maka dapat menggunakan simbol ...",
       "opsi": [
-        "9 J",
-        "18 J",
-        "28 J",
-        "180 J",
-        "280 J"
+        "Simbol garis melengkung",
+        "Bidang dan simbol garis",
+        "Garis putus-putus",
+        "Titik dan simbol garis",
+        "Garis yang bercabang"
       ],
-      "jawaban": "D"
+      "jawaban": "A"
     },
     {
-      "pertanyaan": "Sebuah bola bermassa 2 kg bergerak dengan kecepatan 8 m/s. Berapakah besar energi kinetic bola tersebut ...",
+      "pertanyaan": "Masuknya penduduk negara lain ke Indonesia dengan tujuan berpindah negara disebut ...",
       "opsi": [
-        "16 J",
-        "32 J",
-        "64 J",
-        "128 J",
-        "160 J"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Sumber energi tak terbarukan adalah sumber energi yang proses pembentukannya memerlukan waktu jutaan tahun dan jumlahnya terbatas di alam. Manakah di bawah ini yang termasuk pada kelompok energi tak terbarukan ...",
-      "opsi": [
-        "Sinar matahari, angin dan biomassa",
-        "Minyak bumi, gas alam dan batu bara",
-        "Panas bumi, nuklir dan air",
-        "Pasang surut air laut, biodiesel dan gas alam",
-        "Batubara, angin dan minyak bumi"
+        "Transmigrasi",
+        "Imigrasi",
+        "Urbanisasi",
+        "Emigrasi",
+        "Ruralisasi"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Sebuah wilayah pedesaan yang jauh dari jangkauan kabel PLN memiliki potensi Sungai dengan aliran air yang stabil tetapi tidak terlalu besar. Teknologi pemanfaatan energi terbarukan yang paling tepat untuk diterapkan di wilayah tersebut adalah ...",
+      "pertanyaan": "Seorang pedagang sayur di daerah pegunungan (produsen) kini menggunakan aplikasi singkat untuk menerima pesanan langsung dari konsumen di pusat kota. Hal ini membuat sayuran sampai ke tangan konsumen lebih segar dan harga lebih terjangkau karena memotong rantai distribusi yang panjang.<br><br>Ditinjau dari konsep konektivitas, fenomena ini menunjukkan bahwa teknologi komunikasi berperan dalam ...",
       "opsi": [
-        "Pembangkit Listrik Tenaga Mikrohidro (PLTMH)",
-        "Pembangkit Listrik Tenaga Nuklir (PLTN)",
-        "Panel surya skala industry (solar farm)",
-        "Pembangkit Listrik Tenaga Panas Bumi (PLTP)",
-        "Pembangkit Listrik Tenaga Uap (PLTU)"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Penggunaan batu bara sebagai bahan bakar utama pada Pembangkit Listrik Tenaga Uap (PLTU) mulai dikurangi di berbagai negara. Alasan utama dari kebijakan ini ditinjau dari aspek lingkungan adalah ...",
-      "opsi": [
-        "Cadangan batu bara di dunia sudah habis total",
-        "Biaya operasional penambangan batu bara terlalu murah",
-        "Emisi gas karbon dioksida (CO2) yang tinggi memicu pemanasan global",
-        "Batu bara menghasilkan energi yang terlalu kecil dibandingkan kayu bakar",
-        "Debu batu bara dapat menyuburkan tanaman di sekitar pembangkit"
+        "Menghilangkan batas ruang fisik sehingga distribusi barang tidak lagi memerlukan transportasi",
+        "Memperpendek jarak tempuh secara fisik antara pegunungan dan pusat kota",
+        "Mengatasi hambatan ruang dan waktu untuk menciptakan efisiensi distribusi ekonomi",
+        "Mengubah struktur geologi ruang pedesaan menjadi ruang perkotaan",
+        "Menciptakan ketergantungan mutlak penduduk kota terhadap teknologi komunikasi"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Indonesia terletak di wilayah <i>Ring of Fire</i> yang memiliki banyak gunung berapi aktif. Keunggulan geografis ini menjadikan Indonesia memiliki potensi besar dalam pengembangan energi terbarukan jenis ...",
+      "pertanyaan": "Jarak antara kota A dan kota B ada sebuah peta adalah 5 cm. Jika skala yang tertera pada peta tersebut adalah 1: 200.000, maka jarak sebenarnya antara kedua kota tersebut adalah ...",
       "opsi": [
-        "Energi Geotermal (Panas Bumi)",
-        "Energi Angin (Bayu)",
-        "Energi Solar (Surya)",
-        "Energi Tidal (Pasang surut)",
-        "Energi Biomassa"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Sebuah pabrik pengolahan kelapa sawit menghasilkan banyak limbah berupa cangkang serabut. Langkah yang paling tepat dan efisien bagi pabrik tersebut untuk mendukung kemandirian energi adalah ...",
-      "opsi": [
-        "Membuang limbah ke Sungai agar tidak menumpuk",
-        "Menjual seluruh limbah ke pabrik pupuk tanpa sisa",
-        "Membakar limbah di lahan terbuka untuk pembersihan area",
-        "Mengganti seluruh mesin pabrik dengan mesin berbahan bakar gas alam",
-        "Mengolah limbah menjadi briket untuk bahan bakar boiler pembangkit listrik sendiri"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Bahan bakar fosil disebut sebagai energi tak terbarukan karena ...",
-      "opsi": [
-        "Tidak bisa diubah menjadi bentuk energi lain seperti listrik",
-        "Laju konsumsinya jauh lebih cepat dibandingkan laju pembentukannya secara alami",
-        "Menghasilkan energi yang sangat sedikit saat dibakar",
-        "Hanya dapat ditemukan di negara-negara tertentu saja",
-        "Proses pembakarannya tidak menghasilkan limbah sama sekali"
+        "1 km",
+        "10 km",
+        "20 km",
+        "40 km",
+        "100 km"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Komet sering disebut sebagai 'bintang berekor', cobalah analisis mengenai arah ekor komet saat mengorbit Matahari adalah ...",
+      "pertanyaan": "Pada sebuah peta terdapat skala grafis yang menunjukkan bahwa setiap ruas garis sepanjang 2 cm mewakili jarak 10 km di lapangan. Jika skala tersebut diubah menjadi skala angka (numerik), maka skala yang benar adalah ...",
       "opsi": [
-        "Ekor komet selalu menjauhi Matahari karena dorongan angin Matahari",
-        "Ekor komet selalu mengarah ke arah depan lintasannya",
-        "Ekor komet selalu mengarah ke Matahari karena gaya tarik gravitasi",
-        "Ekor komet menghilang saat mendekati Matahari karena menguap",
-        "Ekor komet selalu mengikuti arah gravitasi planet terbesar di dekatnya"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Planet-planet dalam tata surya dibagi menjadi dua kelompok besar yaitu Planet Terestrial dan Planet Jovian. Karakteristik utama yang dimiliki oleh kelompok Planet Jovian (Jupiter, Saturnus, Uranus, Neptunus) adalah ...",
-      "opsi": [
-        "Memiliki permukaan padat yang terdiri dari batuan dan logam",
-        "Ukurannya kecil dan tidak memiliki sistem cincin",
-        "Tersusun sebagian besar dari gas dan es serta memiliki banyak satelit alami",
-        "Memiliki waktu revolusi yang sangat singkat terhadap Matahari",
-        "Jaraknya dekat dengan sabuk asteroid di sisi bagian dalam"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Planet Mars sering dijuluki sebagai 'Planet Merah', secara geologis penyebab utama warna merah yang menyelimuti seluruh permukaan Mars adalah ...",
-      "opsi": [
-        "Aktivitas vulkanik yang terus mengeluarkan lava cair",
-        "Keberadaan gas metana yang sangat tinggi di atmosfernya",
-        "Oksidasi besi (karat) yang terkandung dalam debu dan batuan permukaannya",
-        "Pantulan Cahaya dari dua bulannya, Phobos dan Deimos",
-        "Suhu permukaan yang sangat panas sehingga tanahnya membara"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Perhatikan data karakteristik planet berikut:<br><br>- Memiliki cincin yang paling megah dan terlihat jelas dari Bumi<br>- Kerapatan (densitas) planetnya sangat rendah, bahkan kecil dari massa jenis air<br>- Memiliki satelit terbesar bernama Titan<br><br>Berdasarkan data tersebut, planet yang dimaksud adalah ...",
-      "opsi": [
-        "Jupiter",
-        "Uranus",
-        "Neptunus",
-        "Bumi",
-        "Saturnus"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Neptunus merupakan planet yang paling jauh dari matahari. Hal ini mengakibatkan karakteristik fisik Neptunus menjadi ...",
-      "opsi": [
-        "Planet yang paling panas karena memiliki inti yang aktif",
-        "Memiliki waktu revolusi paling lama dan suhu permukaan yang sangat dingin",
-        "Memiliki atmosfer yang tipis karena gasnya membeku menjadi padat",
-        "Tidak memiliki medan magnet karena jaraknya yang sangat jauh",
-        "Cahayanya paling terang di langit malam karena memantulkan seluruh sinar matahari"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Bencanan banjir di wilayah perkotaan besar sering kali disebabkan oleh berkurangnya daerah resapan air. Analisis yang paling tepat untuk memitigasi bencana ini secara structural adalah ...",
-      "opsi": [
-        "Melarang warga untuk membuang sampah sembarangan",
-        "Memberikan bantuan sembako saat banjir telah merendam rumah warga",
-        "Memasang sirine peringatan dini banjir di pinggiran Sungai",
-        "Membangun sumur resapan, biopori, dan ruang terbuka hijau di Tengah kota",
-        "Melakukan evakuasi besar-besaran terhadap warga di bantaran Sungai"
+        "1 : 5.000",
+        "1 : 50.000",
+        "1 : 100.000",
+        "1 : 500.000",
+        "1 : 5.000.000"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Sebuah desa terletak di lereng gunung yang gundul akibat penebangan liar, ketika musim hujan tiba, resiko tanah longsor meningkat drastis. Jika kamu diminta untuk merancang strategi mitigasi jangka Panjang yang paling efektif, langkah manakah yang akan dipilih ...",
+      "pertanyaan": "Dalam komponen peta, terdapat keterangan mengenai semua simbol-simbol yang digunakan pada muka peta agar pembaca lebih mudah memahami isi peta tersebut. Komponen ini disebut ...",
       "opsi": [
-        "Membangun tembok beton di sepanjang kaki gunung untuk menahan tanah",
-        "Memindahkan seluruh penduduk desa ke kota lain secara paksa",
-        "Menimbun lereng yang gundul dengan semen agar tanah tidak bergerak",
-        "Memberikan masker kepada warga agar tidak terpapar debu tanah longsor",
-        "Memasang alat pendeteksi pergerakan tanah (EWS) dan melakukan reboisasi dengan tanaman berakar kuat"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Indonesia sering menagalami gempa bumi karena telat geografisnya. Apa yang sebenarnya terjadi di bawah tanah sehingga menyebabkan gempa bumi tektonik ...",
-      "opsi": [
-        "Gunung api yang sedang mengeluarkan asap tipis",
-        "Pergeseran atau tabrakan antara lempeng-lempeng bumi",
-        "Air laut yang masuk ke dalam lubang di dasar Samudra",
-        "Angin kencang yang memutar permukaan tanah",
-        "Penerbangan pohon secara liar di hutan"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Pemerintah memasang rambu-rambu bergambar orang berlari menuju tempat yang lebih tinggi di sepanjang pinggir pantai. Rambu tersebut merupakan petunjuk untuk ...",
-      "opsi": [
-        "Tempat berolahraga lari pagi bagi turis",
-        "Petunjuk arah menuju hotel berbintang",
-        "Larangan berenang karena ombak sedang besar",
-        "Jalur evakuasi jika terjadi ancaman tsunami",
-        "Area perlombaan lari di alam"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Saat kamu sedang menonton TV di rumah, tiba-tiba terjadi gempa yang cukup kuat. Tindakan yang paling aman untuk dilakukan adalah ...",
-      "opsi": [
-        "Segera berlari keluar sambil membawa barang-barang berharga",
-        "Bersembunyi di dalam lemari agar tidak terkena debu",
-        "Berlindung di bawah meja kayu yang kuat dan memegang kaki mejanya",
-        "Berdiam diri di Tengah ruangan agar mudah terlihat tim penolong",
-        "Naik ke atas tempat tidur dan menutup mata"
+        "Inset",
+        "Garis tepi",
+        "Legenda",
+        "Lettering",
+        "Sumber peta"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Banyak warga di kota besar yang membuang sampah ke Sungai. Akibat yang paling sering muncul saat musim hujan tiba karena kebiasaan buruk ini adalah ...",
+      "pertanyaan": "Perhatikan data berikut:<br>- Peta A memiliki skala 1 : 100.000<br>- Peta B memiliki skala 1 : 500.000<br><br>Analisis yang paling tepat mengenai perbandingan kedua peta tersebut adalah ...",
       "opsi": [
-        "Aliran air terhambat sampah sehingga meluap dan menyebabkan banjir",
-        "Air Sungai menjadi jernih dan banyak ikan",
-        "Tanah di pinggir Sungai menjadi lebih subur",
-        "Udara di sekitar Sungai menjadi lebih segar karena sampah basah",
-        "Air Sungai mengalir lebih cepat menuju laut"
+        "Peta A lebih kecil daripada peta B dan informasi yang ditampilkan lebih umum",
+        "Peta A lebih kecil daripada peta B dan informasi yang ditampilkan lebih detail",
+        "Peta B merupakan peta kadaster, sedangkan peta A adalah peta geografis",
+        "Objek pada peta B terlihat lebih jelas dibandingkan objek pada peta A",
+        "Skala peta A menunjukkan wilayah yang lebih luas dibandingkan peta B"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Gambar di atas merupakan komponen peta kecil yang berfungsi untuk memperjelas posisi wilayah pada peta utama tersebut dinamakan ...",
+      "opsi": [
+        "Legenda",
+        "Inset",
+        "Orientasi",
+        "Sumber peta",
+        "Skala grafis"
+      ],
+      "jawaban": "B",
+      "gambar": "img/PSAT_PIPAS_KELAS_X_2026/media/Picture1.png"
+    },
+    {
+      "pertanyaan": "Gambar di atas menunjukkan wilayah yang diberi warna cokelat tua, maka dari gambar tersebut bisa diketahui bahwa wilayah tersebut dipastikan memiliki karakteristik relief berupa ...",
+      "opsi": [
+        "Dataran rendah yang subur",
+        "Kawasan perairan yang sangat dalam",
+        "Pegunungan yang sangat tinggi",
+        "Kawasan hutan bakau (mangrove)",
+        "Padang pasir atau gurun"
+      ],
+      "jawaban": "C",
+      "gambar": "img/PSAT_PIPAS_KELAS_X_2026/media/Picture2.png"
+    },
+    {
+      "pertanyaan": "Peta adalah Gambaran konvensional permukaan bumi yang diperkecil dengan skala. Salah satu fungsi peta yang sangat penting bagi seorang nahkoda kapal atau pilot pesawat terbang adalah ...",
+      "opsi": [
+        "Sebagai media untuk menghitung jumlah penduduk suatu negara",
+        "Sebagai alat bantu navigasi untuk menentukan arah perjalanan",
+        "Untuk menganalisis jenis batuan di dasar laut",
+        "Sebagai sarana promosi wisata daerah terpencil",
+        "Menentukan jenis komoditas ekspor suatu wilayah"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Pada sebuah peta ditemukan penggunaan warna hijau yang sangat luas di suatu wilayah. Analisis yang paling tepat mengenai karakteristik wilayah tersebut adalah ...",
+      "opsi": [
+        "Wilayah tersebut memiliki suhu yang sangat dingin karena berada di ketinggian",
+        "Wilayah tersebut merupakan perairan laut dangkal yang kaya akan terumbu karang",
+        "Wilayah tersebut merupakan dataran rendah dengan ketinggian antara 0-200 mdpl",
+        "Wilayah tersebut merupakan daerah pegunungan yang sangat terjal",
+        "Wilayah tersebut merupakan daerah yang kering dan tidak memiliki vegetasi"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perhatikan pernyataan berikut!<br><br>1) Perbedaan jenis kelamin<br>2) Perbedaan latar belakang kebudayaan<br>3) Perbedaan kepentingan<br>4) Persamaan karakter individu satu dengan yang lainnya<br>5) Perubahan nilai-nilai yang cepat<br><br>Faktor-faktor yang menyebabkan terjadinya konflik sosial yang tepat ditunjukkan oleh nomor ...",
+      "opsi": [
+        "1) dan 3)",
+        "3) dan 4)",
+        "3) dan 5)",
+        "1), 2) dan 4)",
+        "2), 3) dan 5)"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Di bawah ini pernyataan yang mendukung bahwa manusia adalah makhluk sosial adalah ...",
+      "opsi": [
+        "Amir sedang bermain laying-layang",
+        "Seorang ibu membantu anaknya mengerjakan tugas",
+        "Seorang yang sedang tidur di atas ranjang",
+        "Roni mencari rumput untuk sapi peliharaannya",
+        "Seorang anak yang bermain dengan seekor kucing"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Setelah masuk ke semester 2, kelas A memiliki siswa pindahan yang berasal dari luar kota. Semua anggota kelas mengejek siswa pindahan karena tidak bisa berbahasa local. Sebagai ketua kelas, Fasha menegur teman-temannya dan mendekati siswa pindahan tersebut agar dapat beradaptasi di sekolah. Ia juga meminta maaf kepada siswa pindahan karena teman-temannya bersikap tidak baik. Cara Fasha dalam mengatasi konflik tersebut dilakukan dengan ...",
+      "opsi": [
+        "Toleransi",
+        "Mediasi",
+        "Rekonsiliasi",
+        "Kompromi",
+        "Asimilasi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Pengaruh yang diberikan oleh pihak lain, baik berupa pandangan, sikap maupun perilaku sehingga orang yang mendapatkan pengaruh tersebut akan mengikuti tanpa berpikir panjang disebut ...",
+      "opsi": [
+        "Identifikasi",
+        "Sugesti",
+        "Imitasi",
+        "Simpati",
+        "Empati"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Pak Harun seorang guru yang mengajar IPS di sekolah swasta. Setelah mengajukan diri ke dinas Pendidikan dan melakukan serangkaian tes akhirnya Pak Harun dipindahtugaskan ke sekolah negeri. Jenis mobilitas yang dialami oleh Pak Harun adalah ...",
+      "opsi": [
+        "Social sinking",
+        "Sosial climbing",
+        "Mobilitas horizontal",
+        "Mobilitas vertical",
+        "Kecemburuan sosial"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Penyelesaian konflik dengan cara mengurangi tuntutan agar tercapainya suatu kesepakatan adalah ...",
+      "opsi": [
+        "Toleransi",
+        "Kompromi",
+        "Arbitrasi",
+        "Mediasi",
+        "Rekonsiliasi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Konflik yang terjadi antara dua kelompok dan menghasilkan perubahan sosial ke arah yang lebih baik merupakan jenis konflik ...",
+      "opsi": [
+        "Konstruktif",
+        "Destruktif",
+        "Vertical",
+        "Horizontal",
+        "Kelompok"
       ],
       "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Seorang remaja mulai meniru gaya berpakaian, potongan rambut hingga cara berbicara dari seorang penyanyi terkenal tanpa melakukan filter atau memikirkan dampaknya. Proses interaksi sosial ini disebut ...",
+      "opsi": [
+        "Identifikasi",
+        "Simpati",
+        "Empati",
+        "Imitasi",
+        "Sugesti"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Konflik yang terjadi di antara pihak manajemen Perusahaan dan serikat buruh terkait tuntutan kenaikan upah minimum kerja termasuk ke dalam kategori konflik ...",
+      "opsi": [
+        "Horizontal",
+        "Vertical",
+        "Diagonal",
+        "Intrapersonal",
+        "Konstruktif"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Ketika bencana banjir melanda, sekelompok siswa tidak hanya merasa kasihan, melainkan mereka langsung turun ke jalan untuk mengumpulkan donasi dan mendirikan dapur umum. Tindakan ini merupakan perwujudan dari ...",
+      "opsi": [
+        "Simpati karena adanya rasa iba",
+        "Motivasi karena adanya dorongan dari guru",
+        "Empati karena adanya perasaan mendalam diikuti tindakan nyata",
+        "Sugesti karena terpengaruh berita di media",
+        "Akomodasi karena upaya meredakan ketegangan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Konflik horizontal seringkali terjadi di masyarakat yang memiliki keberagaman tinggi (multicultural). Contoh dari konflik horizontal adalah ...",
+      "opsi": [
+        "Demonstrasi mahasiswa menuntut perubahan kebijakan pemerintah",
+        "Perselisihan antara karyawan dan manajer mengenai jam kerja",
+        "Bentrokan antarwarga dari dua desa yang berbeda karena kesalahpahaman",
+        "Protes warga terhadap penggusuran lahan oleh pihak Perusahaan",
+        "Sengketa antara bupati dan gubernur terkait izin pertambangan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Ketika dua kelompok yang berkonflik sepakat untuk membawa masalah mereka ke pihak ketiga yang memiliki kedudukan lebih tinggi dan Keputusan pihak ketiga tersebut bersifat mengikat, maka bentuk akomodasi konflik tersebut adalah ...",
+      "opsi": [
+        "Mediasi",
+        "Konsiliasi",
+        "Arbitrasi",
+        "Kompromi",
+        "Adjudikasi"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dalam sebuah pasar tradisional, seorang pembeli dan penjual saling tawar menawar harga hingga mencapai kesepakatan harga yang disetujui bersama. Bentuk akomodasi konflik kepentingan ekonomi ini disebut ...",
+      "opsi": [
+        "Mediasi",
+        "Toleransi",
+        "Kompromi",
+        "Arbitrasi",
+        "Koersi"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Munculnya fenomena \"Cyber Bullying\" di media sosial merupakan bentuk dinamika sosial yang negative. Jika dianalisis dari sisi interaksi sosial, hal ini terjadi karena ...",
+      "opsi": [
+        "Melemahnya kontrol sosial dari institusi keluarga dan sekolah di dunia maya",
+        "Meningkatnya kualitas komunikasi tatap muka antarindividu",
+        "Terciptanya integrasi sosial yang kuat melalui teknologi informasi",
+        "Adanya akomodasi yang efektif antara pengguna internet",
+        "Proses imitasi yang selalu berujung pada perilaku positif"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Seorang siswa memiliki tas yang sudah robek karena sudah lama digunakan. Ia diberi uang saku oleh ibunya dan berencana untuk menyisihkan uang pemberian ibunya untuk ditabung. Menurut intensitas, tas sekolah bagi siswa tersebut termasuk jenis kebutuhan ...",
+      "opsi": [
+        "Primer",
+        "Sekunder",
+        "Tersier",
+        "Jasmani",
+        "Rohani"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Membeli faktor-faktor produksi, seperti bahan baku, tenaga kerja, modal dan pengusaha termasuk peran dari ...",
+      "opsi": [
+        "Pemerintah",
+        "Masyarakat luar negeri",
+        "Distributor",
+        "Perusahaan",
+        "Rumah tangga konsumen"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Berikut adalah keuntungan memiliki hubungan dengan masyarakat luar negeri adalah ...",
+      "opsi": [
+        "Tempat untuk tujuan ekspor",
+        "Negara yang dapat memberi pinjaman",
+        "Tempat bekerja oleh penduduk yang mencari pekerjaan",
+        "Memperlancar dalam misi pertukaran kebudayaan",
+        "Dapat memberi sumbangan jika terjadi bencana alam"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Jeruk mandarin merupakan pengganti jeruk medan. Jika harga jeruk mandarin turun maka orang akan lebih banyak membeli jeruk mandarin dibandingkan jeruk medan. Dengan demikian, permintaan terhadap jeruk medan akan menurun. Hal tersebut menunjukkan faktor yang mempengaruhi permintaan, yaitu faktor ...",
+      "opsi": [
+        "Jumlah penduduk",
+        "Harga barang substitusi",
+        "Harga barang komplementer",
+        "Promosi",
+        "Perkiraan terhadap harga pada masa yang akan datang"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Berdasarkan gambar tersebut, yang termasuk dalam kebutuhan sekunder ditunjukkan oleh nomor ...",
+      "opsi": [
+        "(1) dan (2)",
+        "(1) dan (3)",
+        "(1) dan (4)",
+        "(2) dan (3)",
+        "(2) dan (4)"
+      ],
+      "jawaban": "E",
+      "gambar": "img/PSAT_PIPAS_KELAS_X_2026/media/Picture3.jpeg"
+    },
+    {
+      "pertanyaan": "Perantara dalam perdagangan untuk menjualkan atau membelikan barang atas nama orang lain adalah ...",
+      "opsi": [
+        "Komisioner",
+        "Agen",
+        "Makelar",
+        "Importir",
+        "Eksportir"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Berikut dampak yang tepat dari adanya kelangkaan suatu barang ekonomi adalah ...",
+      "opsi": [
+        "Pengangguran menurun",
+        "Penurunan harga",
+        "Kriminalitas meningkat",
+        "Barang mewah lebih murah harganya",
+        "Angka kemiskinan menurun"
+      ],
+      "jawaban": "C"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Sebuah kabel telekomunikasi memiliki Panjang 0,72 km dan kabel tersebut digunakan untuk instalasi sepanjang 385 m. Tentukan:<br><br>a. Panjang kabel awal dalam satuam meter (m)<br>b. Sisa kabel setelah digunakan"
+      "pertanyaan": "Jarak antara Kota Bandung dan Kota Jakarta pada sebuah peta adalah 15 cm. Jika peta tersebut memiliki skala 1 : 1.200.000, hitunglah berapa jarak sebenarnya antara kedua kota tersebut dalam satuan kilometer (km)?"
     },
     {
-      "pertanyaan": "Sebuah benda memiliki energi potensial 200 J dan berada di ketinggian 5 m. Tentukan massa benda tersebut!"
+      "pertanyaan": "Pilih salah satu pulau besar yang sudah dipresentasikan di kelas, kemudian sebutkan ciri khas pulau tersebut dan jelaskan bagaimana kondisi alamnya dalam mempengaruhi bentuk rumah atau cara warga disana mencari nafkah!"
     },
     {
-      "pertanyaan": "Sebuah bola bermassa 0,5 kg jatuh bebas dari ketinggian 20 meter (titik A). Berapakah Ek bola saat berada di ketinggian 5 meter (titik B) dari tanah?"
+      "pertanyaan": "Dalam kehidupan masyarakat yang majemuk, seringkali terjadi benturan kepentingan yang memicu konflik, baik secara vertical maupun horizontal. Berikan contoh kasus konflik horizontal yang mungkin terjadi di lingkungan sekolah atau masyarakat, lalu analisislah bagaimana cara penyelesaiannya!"
     },
     {
-      "pertanyaan": "Berdasarkan proyek energi terbarukan yang sudah kalian kerjakan, ceritakanlah kendala yang kalian hadapi dan analisis penyebabnya, serta solusi yang kalian terapkan untuk memperbaikinya?"
+      "pertanyaan": "Ketika seseorang melakukan pelanggaran norma (seperti tugas kasus yang kalian cari), institusi sosial apa saja (misalnya, keluarga, sekolah atau kepolisian) yang dianggap gagal menjalankan fungsinya dalam mendidik individu tersebut? Jelaskan bagaimana seharusnya peran institusi tersebut agar pelanggaran serupa tidak terjadi lagi!"
     },
     {
-      "pertanyaan": "Mars letaknya lebih jauh dari Matahari dibandingkan dengan Bumi. Kira-kira bagaimana suhu udara di Mars saat malam hari dibandingkan dengan malam hari di Bumi? Apakah lebih hangat atau lebih dingin?"
+      "pertanyaan": "Bayangkan kamu hanya memiliki uang saku terbatas sebesar Rp. 20.000 untuk satu hari. Di saat yang sama, pulpenmu hilang (butuh untuk ujian), perutmu terasa sangat lapar (ingin jajan seblak) dan temanmu mengajak patungan membeli kado ulang tahun.<br><br>Urutkan mana yang akan kamu dahulukan berdasarkan skala prioritas agar kebutuhanmu yang paling penting terpenuhi! Jelaskan pula apa yang akan terjadi jika kamu salah menentukan pilihan!"
     }
   ]
 }
