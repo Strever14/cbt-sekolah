@@ -1,83 +1,6 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Semua pengeluaran yang dilakukan oleh Perusahaan untuk memperoleh paktor-paktor produksi dan bahan mentah yang akan digunakan untuk menciptakan barang dan jasa disebut ...",
-      "opsi": [
-        "Biaya bahan baku",
-        "Biaya operasional Perusahaan",
-        "Biaya produksi",
-        "Biaya pemasaran",
-        "Biaya tenaga kerja"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Semua biaya yang terjadi bahan baku dan menempetkannya dalam keadaan siap untuk di olah Adalah .....",
-      "opsi": [
-        "Biaya bahan baku",
-        "Biaya operasional Perusahaan",
-        "Biaya produksi",
-        "Biaya pemasaran",
-        "Biaya tenaga kerja"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Manakan diantara biaya-biaya berikut yang termasuk biaya tetap ....",
-      "opsi": [
-        "Biaya bahan baku",
-        "Biaya tenaga kerja langsung",
-        "Biaya Listrik dan air",
-        "Biaya penyusutan mesin",
-        "Biaya sewa Gedung"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Manakah diantara biaya-biaya berikut yang termasuk biaya variabel ....",
-      "opsi": [
-        "Biaya bahan baku",
-        "Biaya tenaga kerja langsung",
-        "Biaya Listrik dan air",
-        "Biaya penyusutan mesin",
-        "Biaya sewa Gedung"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "<blockquote>Sebuah Perusahaan manufaktur memprodoksi 1.000 unit produk z dengan biaya biaya sebagai berikut:<br><br>- Biaya bahan baku Rp. 10.000.000<br>- Biaya tenaga kerja langsung Rp. 5.000.000<br>- Biaya overhead Rp. 3.000.000<br>- Biaya penyusutan mesin Rp. 1.000.000</blockquote><br>Berapakan biaya Total untuk memproduksi 1.000 unit produk z tersebut ....",
-      "opsi": [
-        "Rp. 15.000.000",
-        "Rp. 17.000.000",
-        "Rp. 18.000.000",
-        "Rp. 19.000.000",
-        "Rp. 20 000.000"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Total Variavel Cost ditambah dengan Total Fixed Cost disebut ....",
-      "opsi": [
-        "Total Cost",
-        "Total Variable Cost",
-        "Total Fixed Cost",
-        "Average cost",
-        "Average Total Cost"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Dibawah ini pernyataan tentang HKI yang paling tepat Adalah ....",
-      "opsi": [
-        "Kewenangan untuk memperoleh perlindungan secara hukum atas kekayaan pribadi sesuai peraturan perundang-undangan yang berlaku",
-        "Hak yang timbul dari hasil memodifikasi karya yang menghasilkan suatu produk atau proses yang berguna untuk manusia.",
-        "Hak milik intelektual yang berkaitan dengan karya dan sastra",
-        "Hak yang eklusif berbentuk perlindungan hukum, yang diberikan kepada pemiliknya untuk menggunakan, memproduksi, dan mendistribusikan hasil olah pikir/ intelektual yang berupa karya kreatif dan inovasi.",
-        "Hak ekonomi terhadap hasil produksi, yang didistribusikan kepada Masyarakat baik secara langsung atau melalui saluran distribusi"
-      ],
-      "jawaban": "D"
-    },
-    {
       "pertanyaan": "Sebuah Perusahaan jaringan computer mengembangkan sebuah teknologi yang dapat meningkatkan keamanan jaringan. Teknologi tersebut telah dipatenkan oleh Perusahaan tersebut. Jika Perusahaan lain ingin menggunakan teknologi yang sama , apa yang harus dilakukan oleh Perusahaan tersebut....",
       "opsi": [
         "Mengajukan permohonan paten kepada kantor paten",
@@ -86,34 +9,34 @@
         "Membayar royalti kepada pemilik Perusahaan paten",
         "Meminta perlindungan kepada HAM"
       ],
-      "jawaban": "A"
+      "jawaban": "D"
     },
     {
       "pertanyaan": "Hak yang memberikan perlindungan kepada perusahaan terhadap penggunaan tanpa izin atau tindakan plagiat terhadap produk-produk yang telah diciptakan oleh perusahaan disebut ....",
       "opsi": [
         "Hak cipta",
         "Hak paten",
-        "Hak kekayaan industri",
-        "Hak merek",
-        "Hak lisensi"
+        "Hak Kekayaan Industri",
+        "Hak Merek",
+        "Hak Lisensi"
       ],
-      "jawaban": "A"
+      "jawaban": "C"
     },
     {
       "pertanyaan": "Hak eklusif yang diberikan negara kepada penemu atau kelompok penemu untuk melindungi penemuan baru dalam bidang teknologi tertentu disebut ....",
       "opsi": [
         "Hak Cipta",
-        "Hak paten",
-        "Hak kekayaan industri",
-        "Hak merek",
-        "Hak lisensi"
+        "Hak Paten",
+        "Hak Kekayaan industri",
+        "Hak Merek",
+        "Hak Lisensi"
       ],
       "jawaban": "B"
     },
     {
       "pertanyaan": "Perhatikan peryataan berikut ini :<br><br>1) Bentuk<br>2) Garis<br>3) Kuwalitas<br>4) Warna<br>5) Harga<br><br>Aspek yang berhubungan dengan desain industri adalah .....",
       "opsi": [
-        "1, 2 dan 3",
+        "1, 2, dan 3",
         "1, 3 dan 4",
         "1, 2 dan 4",
         "2, 3 dan 5",
@@ -122,7 +45,7 @@
       "jawaban": "C"
     },
     {
-      "pertanyaan": "HAKI memiliki nilai ekonomi yang dapat memberikan keuntungan bagi pemilik hak cipta, yang merupakan sa;ah satu perinsip HAKI yaitu ....",
+      "pertanyaan": "HAKI memiliki nilai ekonomi yang dapat memberikan keuntungan bagi pemilik hak cipta merupakan termasuk perinsip HAKI yaitu ....",
       "opsi": [
         "Perinsip ekonomi",
         "Perinsip keadilan",
@@ -133,48 +56,15 @@
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Hal yang termasuk lingkup HAKI, yaitu ....",
-      "opsi": [
-        "Hak cipta, hak paten, hak merek dan hak desain grafis",
-        "Hak cipta, hak paten, hak merek dan hak desain interior",
-        "Hak cipta, hak paten, hak merek dan hak desain arsitektur",
-        "Hak cipta, hak paten, hak merek dan hak desain industry",
-        "Hak cipta, hak paten, hak merek dan hak desain geografis"
-      ],
-      "jawaban": "D"
-    },
-    {
       "pertanyaan": "Yang dimaksud dengan merek adalah ....",
       "opsi": [
-        "Tanda yang digunakan untuk membedakan produk atau jasa suatu perusahaan dari produk atau jasa perusahaan lainnya",
-        "Tanda yang digunakan untuk membedakan penemuan baru dan invensi suatu perusahaan dari perusahaan lainnya",
-        "Tanda yang digunakan untuk membedakan hak cipta dan hak paten suatu perusahan",
-        "Tanda yang digunakan untuk desain industri suatu perusahaan",
-        "Tanda yang digunakan untuk suatu produk dalam suatu Perusahaan"
+        "Tanda yang digunakan untuk membedakan produk atau jasa suatu perusahaan dari produk atau jasa perusahaan lainnya.",
+        "Tanda yang digunakan untuk membedakan penemuan baru dan invensi suatu perusahaan dari perusahaan lainnya.",
+        "Tanda yang digunakan untuk membedakan hak cipata dan hak paten suatu perusahan.",
+        "Tanda yang digunakan untuk desain industri suatu perusahaan.",
+        "Tanda yang digunakan untuk suatu produk dalam suatu perusahaan."
       ],
       "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Yang bukan merupakan tujuan pendaftaran merek adalah ....",
-      "opsi": [
-        "Melindungi identitas produk",
-        "Menjamin kualitas produk",
-        "Meningkatkan penjualan produk",
-        "Menghindari plagiarisme",
-        "Mengurangi risiko kebangkrutan"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Yang dimaksud hak moral dalam hak cipta adalah ....",
-      "opsi": [
-        "Hak untuk mendapatkan royalti",
-        "Hak untuk mengubah karya cipta",
-        "Hak untuk melarang penggunaan tanpa izin",
-        "Hak untuk diakui sebagai pencipta",
-        "Hak untuk menjual karya cipta"
-      ],
-      "jawaban": "D"
     },
     {
       "pertanyaan": "Secara umum Hak Kekayaan Intelektual (HAKI) dibagi menjadi 2 jenis, yaitu ....",
@@ -199,17 +89,6 @@
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Hak cipta dapat beralih dan dialihkan, baik seluruh ataupun sebagian karena babarapa hal kecuali ....",
-      "opsi": [
-        "Pewarisan",
-        "Hibah",
-        "Wakaf",
-        "Wasiat",
-        "Permintaan"
-      ],
-      "jawaban": "E"
-    },
-    {
       "pertanyaan": "Undang-Undang terbaru yang mengatur tentang Hak Paten adalah ....",
       "opsi": [
         "UU No. 13 tahun 2000",
@@ -218,12 +97,12 @@
         "UU No. 13 tahun 2014",
         "UU No. 65 tahun 2024"
       ],
-      "jawaban": "E"
+      "jawaban": "D"
     },
     {
       "pertanyaan": "Syarat-syarat sebuah penemuan agar bisa mendapatkan hak paten adalah ....",
       "opsi": [
-        "Bersifat baru, Mengandung langkah inventif dan memiliki kegunaan",
+        "Bersifat baru, Mengandung langkah inventif dan dapat diterapkan dalam skala industri",
         "Bersifat Inovatif, Inventif Dan Kreatif",
         "Sederhana, bermakna dan Dapat Diwujudkan",
         "Bersifat Mewah, Harganya Mahal, Dan Original",
@@ -232,18 +111,7 @@
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Undang-Undang tentang Hak Merek adalah ....",
-      "opsi": [
-        "UU No. 12 tahun 2001",
-        "UU No. 13 tahun 2001",
-        "UU No. 13 tahun 2016",
-        "UU No. 6 tahun 2023",
-        "UU No. 20 tahun 2026"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "<blockquote>Perhatikan pernyataan berikut ini!<br><br>1) Merek harus singkat, jelas dan menarik<br>2) Menggunakan kata yang enak didengar<br>3) Tidak mengandung makna<br>4) Mudah di ingat<br>5) Bersifat lokal</blockquote><br>Hal-hal yang harus diperhatikan pada saat membuat merek agar mudah dikenal adalah ....",
+      "pertanyaan": "Perhatikan pernyataan berikut ini!<br><br>1) Merek harus singkat, jelas dan menarik<br>2) Menggunakan kata yang enak didengar<br>3) Tidak mengandung makna<br>4) Mudah di ingat<br>5) Bersifat lokal<br><br>Hal-hal yang harus diperhatikan pada saat membuat merek agar mudah dikenal adalah ....",
       "opsi": [
         "1, 2, dan 3",
         "1, 2, dan 4",
@@ -252,28 +120,6 @@
         "4 dan 5"
       ],
       "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Yang dimaksud dengan desain kemasan produk adalah ....",
-      "opsi": [
-        "Desain kreatif yang mengaitkan bentuk, struktur, material, warna, citra, tipografi, dan elemen-elemen desain dengan informasi produk agar produk dapat di diproduksi maksimal",
-        "Desain kreatif yang mengaitkan bentuk, struktur, material, warna, citra, tipografi, dan elemen elemen desain dengan informasi produk agar produk dapat dipasarkan",
-        "Bentuk efektif dalam mengkomunikasikan konsep produk namun jangan sampai penyerupai bentuk produk sebenarnya karena mengandung risiko pembajakan produk",
-        "Alat peraga yang mirip produk yang akan dibangun",
-        "Penerjemah konsep yang ada dalam produk barang atau jasa"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Hal-hal yang perlu diperhatikan dalam penyajian kemasan produk, kecuali....",
-      "opsi": [
-        "Mampu melindungi produk dari benturan dan cuaca",
-        "Memberikan kemudahan saat membawanya",
-        "Memiliki daya tarik bagi calon pembeli",
-        "Menampilkan produk yang siap jual",
-        "Harga kemasan yang mahal"
-      ],
-      "jawaban": "E"
     },
     {
       "pertanyaan": "Dalam sebuah kemasan biasa di tampilkan informasi mengenai produk dan ditampilkan secara visual sehingga konsumen lebih mudah untuk membaca dan memahami produk tersebut, hal tersebut sesuai dengan fungsi kemasan yaitu ....",
@@ -295,7 +141,7 @@
         "Media komunikasi produk kepada konsumen",
         "Media promusi"
       ],
-      "jawaban": "C"
+      "jawaban": "B"
     },
     {
       "pertanyaan": "Kemasan yang disebut <i>secondary packaging</i> karena sebagai pelindung tambahan pada kemasan disebut ....",
@@ -320,7 +166,18 @@
       "jawaban": "C"
     },
     {
-      "pertanyaan": "<blockquote>Perhatikan pernyataan di bawah ini!<br><br>1) Media komunikasi tentang produk kepada konsumen<br>2) Penetu identitas produk<br>3) Menyampaikan informasi harga<br>4) mewakili estetika produk<br>5) Brand image jangka panjang</blockquote><br>Yang termasuk fungsi desain packaging secara umum adalah ....",
+      "pertanyaan": "Perhatikan pernyataan berikut ini:<br><br>1) Pembuat label<br>2) Bentuk label<br>3) Warna label<br>4) Harga label<br>5) Ukuran label<br><br>Yang perlu diperhatikan dalam sebuah label adalah ....",
+      "opsi": [
+        "1, 2, dan 3",
+        "1, 2, dan 4",
+        "1, 3, dan 5",
+        "2, 3, dan 4",
+        "2, 3, dan 5"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Perhatikan pernyataan di bawah ini!<br><br>1) Media komunikasi tentang produk kepada konsumen<br>2) Penentu identitas produk<br>3) Menyampaikan informasi harga<br>4) mewakili estetika produk<br>5) Brand image jangka panjang<br><br>Yang termasuk fungsi desain packaging secara umum adalah ....",
       "opsi": [
         "1, 2, 3 dan 4",
         "1, 2, 3 dan 5",
@@ -329,23 +186,221 @@
         "2, 3, 4 dan 5"
       ],
       "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Serangkaian aktivitas yang dilakukan oleh Perusahaan atau organisasi untuk menciptakan, mengomunikasikan, dan menyampaikan nilai kepada pelanggan atau target pasar disebut ....",
+      "opsi": [
+        "Penjualan produk",
+        "Pemasaran produk",
+        "Promosi produk",
+        "Pengemasan produk",
+        "Distribusi produk"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Pemasaran merupakan salah satu cara untuk membangun hubungan antara perusahaan dan pelanggan dalam ukuran waktu ...",
+      "opsi": [
+        "Jangka pendek",
+        "Jangka menengah",
+        "Jangka Panjang",
+        "Waktu tertentu",
+        "Waktu sudah di tentukan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perhatikan pernyataan berikut ini :<br><br>1) Meningkatkan kesadaran produk<br>2) Distribusi produk<br>3) Meningkatkan penjualan<br>4) Penyimpanan produk<br>5) Meningkatkan profitabilitas<br><br>Yang termasuk tujuan pemasaran produk adalah ....",
+      "opsi": [
+        "1, 2, dan 3",
+        "1, 2, dan 4",
+        "1, 3, dan 5",
+        "2, 4, dan 5",
+        "3, 4, dan 5"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perusahaan ingin memenuhi dan melampaui harapan pelanggan, menciptakan pengalaman positif serta membangun hubungan jangka pangjang dengan pelanggan, merupakan salah satu tujuan pemasaran produk yaitu ....",
+      "opsi": [
+        "Meningkatkan kesadaran produk",
+        "Mencapai keunggulan konpetitif",
+        "Membangun merek",
+        "Membangun loyalitas pelanggan",
+        "Meningkatkan kepuasan pelanggan"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Rencana atau tindakan yang diambil oleh perusahaan untuk mengantarkan produk atau layanan kepada pelanggan secara efektif, disebut ....",
+      "opsi": [
+        "Proses distribusi",
+        "Saluran distribusi",
+        "Strategi distribusi",
+        "Strategi promosi",
+        "Konsep pemasaran"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perusahaan berusaha untuk meningkatkan penjualan, mengendalikan biaya, dan melakukan optimalisasi margin keuntungan agar perusahaan mencapai pertumbuhan yang berkelanjutan dan menghasilkan keuntungan yang memadai dari produk yang di tawarkan. Hat tersebut merupakan salah satu tujuan pemasaran produk yaitu ....",
+      "opsi": [
+        "Membangun merek",
+        "Mencapai keunggulan kompetitif",
+        "Meningkatkan kepuasan pelanggan",
+        "Meningkatkan profitabilitas",
+        "Membangun loyalitas pelanggan"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Entitas atau bisnis yang menjual produk langsung kepada konsumen disebut .....",
+      "opsi": [
+        "Produsen",
+        "Pengecer",
+        "Distributor",
+        "rosir",
+        "Agen"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Bisnis yang menjadi perantara antara produsen dan pengecer, dan membeli barang dalam jumlah yang besar dari produsen dan menjualnya Kembali kepada pengecer disebut ....",
+      "opsi": [
+        "Pengecer",
+        "Grosir",
+        "Agen",
+        "E-commerce",
+        "Pengecer"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perwakilan yang bertindak atasnama produsen untuk menjual, memasarkan, dan mendistribusikan produk ke pasar dan merupakan penghubung antara produsen dan pelanggan disebut ....",
+      "opsi": [
+        "Pengecer",
+        "Grosir",
+        "Agen",
+        "E-comerce",
+        "Produsen"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Saluran distribusi yang produsennya menjual produk kepada perantara atau perusahan lain, kemudian mendistribusikannya kepada pelangan akhir disebut....",
+      "opsi": [
+        "Saluran distribusi langsung",
+        "Saluran distribusi tidak langsung",
+        "Saluran distribusi campuran",
+        "Saluran distribusi eklusif",
+        "Saluran distribusi selektif"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Toko pemilik Perusahaan dan E-commerce termasuk contoh saluran distribusi ....",
+      "opsi": [
+        "Langsung",
+        "Tidak langsung",
+        "Campuran",
+        "Ekslusif",
+        "Selektif"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Saluran distribusi yang produsenya memberikan hak khusus kepada satu atau beberapa perantara untuk mendribusikan produknya diwilayah tertentu atau pada segmen pasar tertentu disebut ....",
+      "opsi": [
+        "Saluran distribusi langsung",
+        "Saluran distribusi tidak langsung",
+        "Saluran distribusi campuran",
+        "Saluran distribusi eklusif",
+        "Saluran distribusi selektif"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Perhatikan contoh promosi berikut :<br><br>1) Membagikan brosur kepada sebuah bazar<br>2) Membuka system pre-order di Instagram<br>3) Membagikan contoh produk disebuah Lokasi keramaian atau event<br>4) Memasang baliho di jalan utama untuk menarik konsumen<br>5) Memasang spanduk digital pada tempat usaha<br><br>Contoh promosi langsung ditunjukan oleh nomor ....",
+      "opsi": [
+        "1, 2, dan 3",
+        "1, 3, dan 5",
+        "2, 3, dan 4",
+        "2, 3, dan 5",
+        "3, 4, dan 5"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Media promosi yang hampir serupa dengan poster tetapi media ini tidak ditempelkan, penggunaanya di dudukan atau di beri penyangga dari bahan ringan sehingga dapat berpindah-pindah. Media promosi yang dimaksud disebut....",
+      "opsi": [
+        "Brosur",
+        "Baliho",
+        "Spanduk",
+        "Banner",
+        "Leaflet"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Perhatikan jenis-jenis biaya berikut ini :<br><br>1) Biaya produksi<br>2) Biaya tetap<br>3) Biaya tenaga kerja<br>4) Biaya variabel<br>5) Biaya penyusutan<br>6) Biaya campuran<br><br>Yang termasuk klasifikasi biaya produksi berdasarkan intensitas terjadinya adalah....",
+      "opsi": [
+        "1, 2 dan 3",
+        "1, 2 dan 4",
+        "2, 3 dan 4",
+        "2, 4 dan 6",
+        "3, 4 dan 6"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Total biaya yang selalu berubah sesuai perubahan operasional atau jumlah produksi disebut biaya ....",
+      "opsi": [
+        "Biaya tetap",
+        "Biaya poduksi",
+        "Biaya campuran",
+        "Biaya peluang",
+        "Biaya variabel"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Biaya yang dapat meningkatkan keuntungan dari invertasi, tetapi tetap berpotensi menimbulkan kerugian, seperti membeli fasilitas manufaktur baru disebut ....",
+      "opsi": [
+        "Biaya tetap",
+        "Biaya variabel",
+        "Biaya campuran",
+        "Biaya peluang",
+        "Biaya produksi"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Seluruh biaya yang dikeluarkan untuk mendapatkan atau membuat suatu barang disebut ....",
+      "opsi": [
+        "Biaya produksi",
+        "Biaya variabel",
+        "Laba",
+        "Harga jual",
+        "Harga pokok"
+      ],
+      "jawaban": "E"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Tuliskan apa saja unsur-unsur biaya produksi !"
+      "pertanyaan": "Sebutkan hal-hal yang perlu diperhatikan dalam membuat kemasan !"
     },
     {
-      "pertanyaan": "Apa yang dimaksud dengan biaya Variabel ?"
+      "pertanyaan": "Jelaskan bagaimana dampak teknologi digital terhadap perkembangan wirausaha atau bisnis dan bagaimana cara usaha memanfaatkan teknologi digital untuk meningkatkan keberhasilan bisnisnya ?"
     },
     {
-      "pertanyaan": "<blockquote>Sebuah perusahaan manufatur computer memproduksi 1.000 unit computer dengan biaya-biaya sebagai berikut:<br><br>Biaya bahan baku:<br>Prosesor : Rp. 2.000.000 x 1.000 unit = Rp 2.000.000.000<br>Motherboard : Rp. 1.500.000 x 1.000 unit = Rp 1.500.000.000<br>RAM : Rp 500.000 x 1.000 unit = Rp 500.000.000<br>Harddisk : Rp 1.000.000 x 1.000 unit = 1.000.000.000<br>Total biaya bahan baku : 5.000.000.000<br><br>Biaya tenaga kerja langsung : Rp 2.000.000 x 1.000 = 2.000.000.000<br>Biaya overhead : Rp 1.000.000.000<br>Biaya penyusutan mesin : Rp 500.000.000</blockquote><br>Hitunglah Berapakah biaya produksi per unit computer !"
+      "pertanyaan": "Apa yang dimaksud dengan promosi dan sebutkan tujuannya !"
     },
     {
-      "pertanyaan": "Sebutkan tujuan Hak Kekayaan Intelektual !"
+      "pertanyaan": "Sebuah perusahaan memproduksi suatu barang dengan dengan biaya biaya sebagai berikut :<br><br>- Biaya bahan baku Rp 50.000,00 per unit<br>- Biaya tenaga kerja langsung Rp 20.000,00 per unit<br>- Biaya overhead pabrik Rp 10.000,00 per unit<br>- Jumlah produksi sebanyak 500 unit<br><br>Hitunglah berapa harga pokok (HPP) barang yang diproduksi oleh Perusahaan tersebut ?"
     },
     {
-      "pertanyaan": "Jelaskan, Apa yang kalian ketahui tentang kemasan atau pacaging !"
+      "pertanyaan": "Sebutkan Langkah Langkah dalam membuat promosi !"
     }
   ]
 }
