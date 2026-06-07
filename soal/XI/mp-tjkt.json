@@ -1,351 +1,406 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Menu Home pada Ribbon terdiri dari beberapa group. Jika seorang siswa ingin mengubah jenis font, ukuran font, warna teks, atau menambahkan efek teks seperti bold, italic, underline, highlight, atau shadow, group mana yang harus digunakan?",
+      "pertanyaan": "Manakah dari pernyataan berikut yang paling tepat untuk menggambarkan fungsi utama dari Microsoft PowerPoint dalam mendukung presentasi yang efektif?",
       "opsi": [
-        "Clipboard",
-        "Font",
-        "Paragraph",
-        "Styles",
-        "Editing"
+        "Menyusun data keuangan dan menyajikan grafik analisis statistik secara otomatis.",
+        "Mengedit video dan audio profesional sebelum diunggah ke platform digital.",
+        "Menyusun teks panjang menjadi dokumen formal yang siap dicetak dan dijilid.",
+        "Menampilkan informasi, gagasan, atau ide dalam bentuk slide visual yang terstruktur untuk mempermudah audiens memahami penyampaian materi.",
+        "Mengolah pangkalan data (database) berskala besar serta membuat laporan keuangan perusahaan."
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Dalam aplikasi Microsoft PowerPoint, terdapat berbagai elemen antarmuka yang memiliki fungsi spesifik untuk membantu pengguna dalam menyusun dokumen presentasi. Manakah di antara pilihan berikut yang <b>bukan</b> merupakan elemen antarmuka bawaan dari Microsoft PowerPoint?",
+      "opsi": [
+        "Quick Access Toolbar",
+        "Formula Bar",
+        "Ribbon Display Options",
+        "Status Bar",
+        "Slide Navigation Pane"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "<b>Perhatikan struktur laporan berikut yang masih acak!</b><br><br>(1) BAB IV Penutup<br>(2) BAB I Pendahuluan<br>(3) BAB II Profil Perusahaan<br>(4) Kata Pengantar<br>(5) Halaman Sampul<br>(6) Daftar Isi<br>(7) Daftar Pustaka<br>(8) BAB III Pembahasan<br>(9) Daftar Gambar<br>(10) Lembar Pengesahan<br><br>Berdasarkan teks diatas urutan struktur laporan yang benar adalah ...",
+      "pertanyaan": "Bagian pada tampilan Microsoft PowerPoint yang digunakan untuk menampilkan slide yang sedang aktif sehingga pengguna dapat mengedit, menambahkan, dan mengatur isi slide secara langsung disebut...",
       "opsi": [
-        "5--4--10--6--9--2--3--8--1--7",
-        "5--10--6--4--9--2--3--8--1--7",
-        "5--10--4--9--6--2--3--8--1--7",
-        "10--5--4--6--9--2--3--8--1--7",
-        "5--10--4--6--9--2--3--8--1--7"
+        "Ribbon",
+        "Slide Sorter",
+        "Slide Area",
+        "Slide Pane",
+        "Status Bar"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Bagian pada tampilan Microsoft PowerPoint yang menampilkan daftar slide dalam bentuk miniature gambar (thumbnail) secara berurutan di sisi sebelah kiri layar, dan untuk mempermudah proses navigasi, menduplikasi, menghapus, hingga mengatur ulang urutan posisi halaman secara cepat disebut...",
+      "opsi": [
+        "Slide Sorter View",
+        "Outline View",
+        "Status Bar",
+        "Ribbon Display",
+        "Slide Pane"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Dalam laporan PKL, bagian yang berisi ringkasan seluruh isi laporan/kesimpulan dan saran biasanya terdapat pada ...",
+      "pertanyaan": "Saat melakukan presentasi, seorang presenter sering kali membutuhkan catatan khusus yang hanya bisa dilihat oleh dirinya sendiri sebagai panduan menyampaikan materi. Manakah menu yang digunakan untuk menambahkan catatan pada slide yang sedang aktif?",
       "opsi": [
-        "Kata Pengantar",
-        "Lembar Pengesahan",
-        "Halaman Sampul",
-        "Bab I Pendahuluan",
-        "Bab IV Penutup"
+        "Pilih tab View - pada grup Show klik Notes.",
+        "Pilih tab Review - pada grup Accessibility klik Language.",
+        "Pilih tab Insert - pada grup Text klik fitur Header & Footer.",
+        "Pilih tab Slide Show - pada grup Start Slide Show klik fitur Custom Slide Show.",
+        "Pilih tab Design - pada grup Customize klik fitur Format Background."
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Pada Microsoft PowerPoint, terdapat beberapa menu khusus yang berhubungan dengan pengaturan objek, animasi, dan jalannya presentasi. Menu (tab) berikut yang menjadi ciri khas utama PowerPoint dan secara bawaan (default) tidak terdapat pada Microsoft Word maupun Microsoft Excel adalah...",
+      "opsi": [
+        "Transition, Animation, Slide Show",
+        "Transition, Animation, Review",
+        "Design, Slide Show, Reference",
+        "Transition, Animation, Layout",
+        "Animation, Mailings, Record"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Perhatikan langkah berikut!<br><br>1) Klik tab Home<br>2) Pilih tata letak (layout) slide yang diinginkan<br>3) Klik tanda panah bawah (drop-down) di sebelah tombol New Slide<br>4) Tentukan posisi slide aktif yang ingin ditambahkan slide baru<br><br>Urutan yang paling tepat untuk menambahkan slide baru sekaligus menentukan layout-nya secara langsung adalah...",
+      "opsi": [
+        "1 -- 3 -- 2 -- 4",
+        "4 -- 3 -- 1 -- 2",
+        "1 -- 4 -- 3 -- 2",
+        "4 -- 1 -- 2 -- 3",
+        "4 -- 1 -- 3 -- 2"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Dalam laporan PKL, identitas seperti nama siswa, nama sekolah, kompetensi keahlian, tempat pelaksanaan, dan tahun kegiatan ditulis secara formal dan lengkap. Bagian laporan yang memuat seluruh informasi tersebut secara sistematis terdapat pada ...",
+      "pertanyaan": "Jenis layout presentasi pada Microsoft PowerPoint yang hanya berisi kotak untuk judul tulisan saja disebut...",
       "opsi": [
-        "Kata Pengantar",
-        "Lembar Pengesahan",
-        "Halaman Sampul",
-        "Bab I Pendahuluan",
-        "Bab IV Penutup"
+        "Title slide",
+        "Title and content",
+        "Title only",
+        "Blank",
+        "Section header"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Dalam laporan PKL, istilah \"Profil Perusahaan\" biasanya memuat ...",
+      "pertanyaan": "Langkah yang paling tepat untuk menghapus sebuah slide yang tidak diperlukan dalam dokumen presentasi Microsoft PowerPoint adalah...",
       "opsi": [
-        "Sejarah, visi-misi, struktur organisasi, dan kegiatan perusahaan",
-        "Data pribadi siswa dan guru pembimbing",
-        "Alamat lengkap dan kontak perusahaan saja",
-        "Ringkasan kegiatan dan kesimpulan laporan",
-        "Daftar pustaka dan referensi pendukung"
+        "Klik kanan pada slide yang ingin dihapus di panel navigasi, lalu pilih Hide Slide",
+        "Klik slide yang ingin dihapus pada panel navigasi, lalu tekan tombol Delete atau Backspace pada keyboard",
+        "Klik menu Design, lalu pilih Reset Layout",
+        "Klik slide yang ingin dihapus, lalu tekan kombinasi tombol Ctrl + X dan Ctrl + V secara berurutan",
+        "Klik menu File, lalu pilih Close"
       ],
-      "jawaban": "A"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Dalam laporan PKL, bagian yang berisi ucapan terima kasih, tujuan, dan harapan dibuat pada ...",
+      "pertanyaan": "Pada Microsoft PowerPoint, kombinasi tombol keyboard (shortcut) manakah yang paling cepat digunakan untuk menduplikasi slide yang sedang dipilih?",
       "opsi": [
-        "Kata Pengantar",
-        "Lembar Pengesahan",
-        "Halaman Sampul",
-        "Bab I Pendahuluan",
-        "Bab IV Penutup"
+        "Ctrl + C",
+        "Ctrl + V",
+        "Ctrl + M",
+        "Ctrl + D",
+        "Ctrl + N"
       ],
-      "jawaban": "A"
+      "jawaban": "D"
     },
     {
-      "pertanyaan": "Pada lembar pengesahan laporan terdapat kolom tanda tangan pembimbing. Apabila nama pembimbing ingin digarisbawahi, fitur Microsoft Word yang digunakan adalah ...",
+      "pertanyaan": "Seorang pengguna ingin mengubah tampilan keseluruhan presentasi agar lebih seragam dan profesional tanpa mengedit setiap slide satu per satu. Tab yang paling tepat digunakan adalah...",
       "opsi": [
-        "Bold",
-        "Italic",
-        "Underline",
-        "Highlight",
-        "Strikethrough"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Agar setiap bab dalam laporan selalu dimulai di halaman baru secara otomatis, fitur Microsoft Word yang digunakan adalah ...",
-      "opsi": [
-        "Section Break",
-        "Column Break",
-        "Line Break",
-        "Margin Settings",
-        "Page Break"
+        "Tab Home, untuk mengatur tata letak dan pemformatan dasar slide.",
+        "Tab Transitions, untuk memberikan efek perpindahan slide.",
+        "Tab Insert, untuk menambahkan objek seperti gambar, tabel, dan SmartArt ke dalam gambar.",
+        "Tab View, untuk mengatur tampilan kerja presentasi.",
+        "Tab Design, untuk mengatur tema, warna, font, dan latar belakang presentasi secara menyeluruh."
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Dalam penyusunan laporan, salah satu aspek penting agar dokumen terlihat rapi dan konsisten adalah pengaturan jarak antarbaris. Jika jarak antarbaris terlalu rapat, teks akan sulit dibaca, jika terlalu renggang, dokumen akan terlihat tidak proporsional dan memakan banyak halaman. Berdasarkan kaidah penulisan laporan formal, jarak antarbaris yang umum digunakan adalah ...",
+      "pertanyaan": "Langkah yang paling tepat dan efisien untuk mengganti latar belakang (background) sebuah slide menggunakan foto/gambar koleksi pribadi adalah...",
       "opsi": [
-        "1,0",
-        "1,15",
-        "1,5",
-        "2,0",
-        "3,0"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Pemilihan ukuran kertas merupakan salah satu aspek penting agar laporan mudah dibaca dan dapat dicetak secara standar. Berdasarkan praktik umum penulisan laporan, ukuran kertas yang sering digunakan adalah ...",
-      "opsi": [
-        "Letter (21,6 cm x 27,9 cm)",
-        "Legal (21,6 cm x 35,6 cm)",
-        "A3 (29,7 cm x 42 cm)",
-        "A4 (21 cm x 29,7 cm)",
-        "B5 (17,6 cm x 25 cm)"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Rafly sedang menyusun laporan dan ingin mengatur jarak antara teks dengan sisi kertas. Menu yang harus dipilih Rafly adalah ...",
-      "opsi": [
-        "Insert → Page Number",
-        "Home → Styles/Heading",
-        "Layout → Margins",
-        "References → Table of Contents",
-        "Insert → Page Break"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Daniel sedang menyusun laporan dan diminta mengatur batas tepi kiri 4 cm, kanan 3 cm, atas 3 cm, dan bawah 3 cm pada dokumen sesuai ketentuan sekolah. Agar dapat mengatur ukuran tersebut secara khusus, Daniel harus memilih opsi ...",
-      "opsi": [
-        "Normal",
-        "Narrow",
-        "Wide",
-        "Custom Margins",
-        "Moderate"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Pak Guru meminta siswa mengatur sisi kiri halaman lebih lebar dibandingkan sisi lainnya karena laporan akan dikumpulkan dalam bentuk hard file. Jika pengaturan tersebut tidak dilakukan, kemungkinan dampak yang paling tepat adalah ...",
-      "opsi": [
-        "Tata letak paragraf menjadi tidak rata kanan-kiri",
-        "Sebagian isi teks berisiko tertutup atau terpotong saat proses penjilidan",
-        "Nomor halaman berubah secara otomatis",
-        "Ukuran huruf menyesuaikan dengan lebar kertas",
-        "Jarak antarbaris menjadi lebih renggang"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Dewi sedang menulis laporan, agar isi paragraf terlihat rapi dan rata di sisi kiri dan kanan halaman, format paragraf yang harus Dewi digunakan adalah ...",
-      "opsi": [
-        "Align Left",
-        "Align Right",
-        "Center",
-        "Justify",
-        "Bold"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Dimas ingin membuat daftar isi otomatis, langkah pertama yang harus Dimas lakukan adalah ...",
-      "opsi": [
-        "Mengatur ukuran kertas",
-        "Memberi nomor halaman",
-        "Memberi caption pada gambar",
-        "Menggunakan Heading Style pada judul",
-        "Mengetik daftar isi manual"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Dalam penyusunan laporan, penggunaan Heading 1, Heading 2, dan Heading 3 biasanya digunakan untuk ...",
-      "opsi": [
-        "Mengatur tingkatan judul bab, subbab, dan sub-subbab dalam dokumen",
-        "Mengatur format paragraf agar memiliki jarak dan perataan yang konsisten",
-        "Mengatur penomoran bab dan subbab secara otomatis tanpa pengaturan tambahan",
-        "Mengelompokkan teks berdasarkan gaya huruf agar tampilan lebih seragam",
-        "Mengatur struktur halaman agar setiap bagian memiliki format yang berbeda"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Gema telah memberi format Heading 1 pada judul bab dan Heading 2 pada subbab dalam dokumennya. Agar bab dan subbab tersebut dapat ditampilkan secara otomatis lengkap dengan nomor halaman dalam satu halaman khusus, maka Gema harus menggunakan fitur ...",
-      "opsi": [
-        "Insert → Page Number",
-        "Home → Styles/Heading",
-        "Layout → Margins",
-        "References → Table of Contents",
-        "Insert → Page Break"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Syahrika telah membuat daftar isi secara otomatis. Setelah mendapat revisi, ia menambahkan satu subbab baru dan sudah diberi format Heading yang sesuai. Namun, daftar isi belum menampilkan subbab tersebut. Apa yang harus dilakukan Syahrika agar daftar isi menampilkan subbab yang baru ditambahkan?",
-      "opsi": [
-        "Memilih References → Insert Caption lalu menyegarkan dokumen",
-        "Menghapus daftar isi lalu mengetiknya kembali secara manual",
-        "Mengklik daftar isi kemudian memilih Update Table/Update Field",
-        "Mengaktifkan Link to Previous pada bagian header",
-        "Mengubah Format Page Numbers pada menu Page Number"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Menu yang digunakan untuk menambahkan nomor halaman secara otomatis pada dokumen adalah ...",
-      "opsi": [
-        "Insert → Page Number",
-        "Home → Styles/Heading",
-        "Layout → Margins",
-        "References → Table of Contents",
-        "Insert → Page Break"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Dalam penyusunan laporan resmi, beberapa bagian biasanya tidak diberi nomor halaman agar format dokumen tetap sesuai kaidah. Bagian mana yang umumnya tidak menampilkan nomor halaman?",
-      "opsi": [
-        "Kata Pengantar",
-        "Lembar Pengesahan",
-        "Halaman Sampul",
-        "Bab I Pendahuluan",
-        "Lampiran"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Jika nomor halaman ingin ditampilkan di bagian bawah tengah setiap halaman dokumen, opsi mana yang harus dipilih?",
-      "opsi": [
-        "Top of Page",
-        "Page Margins",
-        "Bottom of Page",
-        "Current Position",
-        "Page Color"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Ripandi sedang menyusun laporan PKL, semua halaman laporan sudah diberi nomor secara otomatis. Saat sampai pada Bab I Pendahuluan, ia melihat halaman tersebut tercatat sebagai halaman 5, padahal Bab I seharusnya dimulai dari nomor 1 sesuai aturan penulisan laporan. Langkah atau fitur mana yang tepat digunakan agar nomor halaman Bab I dimulai dari 1 tanpa mengubah nomor halaman di bagian sebelumnya?",
-      "opsi": [
-        "Menggunakan Page Break agar Bab I dimulai di halaman baru",
-        "Menggunakan Section Break → lalu mengatur Format Page Number mulai dari 1",
-        "Menghapus semua nomor halaman dan mengetik nomor Bab I secara manual",
-        "Menambahkan Page Number pada Current Position dan mengganti angka menjadi 1",
-        "Menambahkan Columns → Break"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Manakah dari pilihan berikut yang merupakan perbedaan antara Page Break dan Section Break dalam dokumen?",
-      "opsi": [
-        "Page Break digunakan untuk mengatur jarak antarbaris",
-        "Section Break membagi dokumen menjadi beberapa bagian berbeda",
-        "Page Break menghapus halaman",
-        "Section Break menambahkan baris baru",
-        "Semua jawaban salah"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Dalam pembuatan laporan PKL, gambar sering digunakan untuk memperjelas penjelasan, misalnya foto kegiatan, diagram, atau hasil pekerjaan. Cara yang tepat untuk menambahkan gambar ke dalam laporan menggunakan Microsoft Word adalah ...",
-      "opsi": [
-        "Klik menu Insert lalu pilih Shapes",
-        "Klik menu Insert lalu pilih Pictures",
-        "Klik menu Insert lalu pilih Text Box",
-        "Klik menu Home lalu pilih Border",
-        "Klik menu Insert lalu pilih Icons"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Sebelum membuat daftar gambar otomatis di laporan, syarat apa yang harus dipenuhi agar setiap gambar muncul di daftar?",
-      "opsi": [
-        "Menambahkan Page Break pada setiap gambar",
-        "Memberi caption pada setiap gambar",
-        "Mengubah margin halaman agar cukup untuk daftar gambar",
-        "Memberi Heading pada gambar",
-        "Mengubah ukuran gambar agar sesuai"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Fajar menambahkan keterangan pada sebuah gambar di laporan dan memberi style khusus, seperti warna font, ukuran, dan jenis huruf. Ia ingin menerapkan style yang sama pada keterangan gambar lain dengan cepat tanpa mengatur satu per satu. Fitur yang paling tepat digunakan adalah...",
-      "opsi": [
-        "Menyalin teks dan menempelkannya",
-        "Mengubah font di setiap keterangan secara manual",
-        "Menambahkan border pada keterangan",
-        "Menggunakan fitur Styles di menu Home",
-        "Menggunakan Format Painter"
+        "Klik tab Insert - Pilih Pictures - This Device - Pilih foto - Klik tab Format - Send Backward",
+        "Klik tab Home - Pada Drawing Group pilih Shapes - Buat persegi seukuran slide - Klik Shape Fill - Pilih Picture",
+        "Klik tab Design - Pilih Format Background - Pilih opsi Pattern fill - Klik File untuk mencari foto",
+        "Klik tab View - Pilih Slide Master - Klik Background Styles -Pilih Format Background - Klik Online Pictures",
+        "Klik kanan pada area kosong di slide - Pilih Format Background - Pilih opsi Picture or texture fill - Klik tombol Insert"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Lita ingin menampilkan semua gambar beserta nomor halamannya di halaman khusus secara otomatis, menu mana yang harus Lita digunakan?",
+      "pertanyaan": "Perhatikan langkah-langkah acak berikut!<br><br>1) Klik dan geser (drag) kursor pada slide untuk membuat kotak teks<br>2) Ketik teks yang diinginkan<br>3) Klik tab Insert<br>4) Pilih menu Text Box<br>5) Arahkan kursor ke area slide yang kosong<br><br>Urutan yang paling tepat untuk menambahkan kotak teks (text box) baru pada slide di Microsoft PowerPoint adalah...",
       "opsi": [
-        "References → Insert Table of Figures",
-        "Insert → Page Number → Format Page number → Start at",
-        "Home → Styles → Heading 1",
-        "References → Table of Contents",
-        "References → Insert Citation"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Dalam penulisan karya ilmiah seperti makalah, laporan, atau skripsi, penulis sering menggunakan berbagai sumber seperti buku, jurnal, dan artikel untuk mendukung isi tulisannya. Semua sumber yang digunakan tersebut dicantumkan pada bagian akhir karya tulis yang disebut daftar pustaka, tujuan utama penulisan daftar pustaka adalah untuk ...",
-      "opsi": [
-        "Memperpanjang isi karya tulis agar terlihat lebih lengkap",
-        "Menghias bagian akhir karya tulis agar lebih menarik",
-        "Menjelaskan isi seluruh buku yang digunakan sebagai referensi",
-        "Menyimpulkan seluruh isi karya tulis yang telah dibuat",
-        "Menunjukkan sumber referensi yang digunakan dalam karya tulis"
+        "3 -- 4 -- 1 -- 5 -- 2",
+        "4 -- 3 -- 5 -- 1 -- 2",
+        "3 -- 5 -- 4 -- 1 -- 2",
+        "4 -- 1 -- 5 -- 3 -- 2",
+        "3 -- 4 -- 5 -- 1 -- 2"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Apa yang akan terjadi jika sebuah laporan menggunakan banyak referensi tetapi tidak menyertakan daftar pustaka?",
+      "pertanyaan": "Setelah menambahkan teks ke dalam slide Microsoft PowerPoint, pengguna dapat mengubah gaya teks tersebut (seperti menebalkan, memiringkan, atau memberi garis bawah). Manakah menu dan fitur yang tepat digunakan untuk melakukan perubahan tersebut?",
       "opsi": [
-        "Laporan terlihat kurang lengkap dan tidak resmi",
-        "Laporan bisa dianggap plagiat dan tidak valid secara akademik",
-        "Laporan sulit dinilai karena sumber informasi tidak jelas",
-        "Laporan akan kehilangan kredibilitas akademik",
-        "Laporan tetap sah tapi terlihat kurang rapi"
+        "Pilih menu Home, lalu klik fitur Bold, Italic, atau Underline pada grup Font.",
+        "Pilih menu Insert, lalu klik fitur WordArt atau Text Box pada grup Text.",
+        "Pilih menu Design, lalu klik fitur Themes atau Variants pada grup Customize.",
+        "Pilih menu View, lalu klik fitur Ruler atau Gridlines pada grup Show.",
+        "Pilih menu Animations, lalu klik fitur Add Animation pada grup Advanced Animation."
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Di Microsoft PowerPoint, pengguna dapat mengubah warna dari teks atau shapes (bentuk) yang telah ditambahkan ke dalam slide. Manakah urutan langkah yang paling tepat untuk melakukan hal tersebut?",
+      "opsi": [
+        "Pilih menu Animations, lalu klik fitur Font Color untuk warna teks atau Object Color untuk warna shapes.",
+        "Pilih menu Insert, lalu klik fitur WordArt untuk mengubah warna teks atau Shapes untuk warna shapes.",
+        "Pilih menu Design, lalu klik fitur Variants untuk warna teks atau Slide Size untuk warna shapes.",
+        "Pilih menu Home, lalu klik fitur Font Color untuk warna teks atau Shape Fill untuk warna shapes.",
+        "Pilih menu View, lalu klik fitur Slide Master untuk warna teks atau Reading View untuk warna shapes."
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Perhatikan gambar berikut!<br><br><img src='soal/img/XI/mp-tjkt/Picture1.png' width='300'><br><br>Peter ingin menyatukan beberapa objek berupa lingkaran, gambar, dan kotak teks. Hal ini bertujuan agar seluruh objek tersebut dapat digeser, diubah ukurannya, atau diberi animasi secara bersamaan sebagai satu kesatuan. Langkah yang paling tepat untuk memfasilitasi kebutuhan Peter adalah...",
+      "opsi": [
+        "Pilih semua objek - Klik tab Home - Arrange - Pilih Align",
+        "Pilih semua objek - Klik tab Home - Arrange - Pilih Bring to Front",
+        "Pilih semua objek - Klik tab Home - Arrange - Pilih Group",
+        "Pilih semua objek - Klik tab Home - Arrange - Pilih Ungroup",
+        "Pilih semua objek - Klik tab Home - Arrange - Pilih Selection Pane"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perhatikan gambar berikut!<br><br><img src='soal/img/XI/mp-tjkt/Picture2.png' width='300'><br><br>Hendrik memasukkan sebuah foto produk ke dalam slide. Namun, foto tersebut memiliki latar belakang (background) berwarna putih yang menutupi desain slidenya. Langkah yang paling tepat dan berurutan untuk menghilangkan latar belakang foto tersebut secara langsung di Microsoft PowerPoint adalah...",
+      "opsi": [
+        "Klik gambar - Klik tab Insert - Pilih Crop -Tentukan area yang ingin dibuang",
+        "Klik kanan pada gambar - Pilih Format Picture - Pada menu Fill, pilih No Fill",
+        "Klik gambar - Klik tab Picture Format - Pada Adjust Group, pilih Remove Background",
+        "Klik gambar - Klik tab Design - Pada kelompok Customize, pilih Format Background",
+        "Klik kanan pada slide - Pilih Cut - Klik tab Home - Pilih Paste Special - As PNG"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Pada Microsoft PowerPoint, langkah yang paling tepat untuk memasukkan file video yang telah diunduh dan tersimpan di dalam komputer ke dalam slide presentasi adalah...",
+      "opsi": [
+        "Klik tab Insert - Pada Media Group klik Video - Pilih Online Videos",
+        "Klik tab Insert - Pada Media Group klik Video - Pilih This Device",
+        "Klik tab Home - Pada Drawing Group klik Shapes - Pilih Video Frame",
+        "Klik tab View - Pada Presentation Views Group klik Video - Pilih From File",
+        "Klik tab Video Format - Pada Adjust Group klik Change Media - Pilih This Device"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Daftar pustaka biasanya diletakkan pada bagian tertentu dalam struktur laporan. Penempatan ini bertujuan agar pembaca dapat dengan mudah menemukan sumber-sumber yang digunakan dalam penulisan laporan. Bagian yang tepat untuk menempatkan daftar pustaka adalah ...",
+      "pertanyaan": "Saat melakukan presentasi, Hans ingin sebuah video di dalam slide langsung berputar secara otomatis begitu slide tersebut terbuka di mode Slide Show. Langkah-langkah yang paling tepat dan berurutan untuk mengatur hal tersebut adalah...",
       "opsi": [
-        "Pada bagian awal sebelum kata pengantar",
-        "Setelah halaman judul laporan",
-        "Di tengah-tengah pembahasan laporan",
-        "Pada bagian akhir setelah penutup",
-        "Di setiap akhir halaman laporan"
+        "Klik video - Pilih tab Video Format - Pada Video Options Group, ubah Start menjadi Automatically",
+        "Klik kanan pada slide - Pilih Format Background - Centang pilihan Autoplay Video",
+        "Pilih tab Transitions - Pada Timing Group, centang pilihan After dan atur waktunya ke 00:00",
+        "Klik video - Pilih tab Playback - Pada kelompok Video Options, ubah Start menjadi Automatically",
+        "Pilih tab Slide Show - Klik Set Up Slide Show - Centang Loop continuously until 'Esc'"
       ],
       "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Ketika video yang dimasukkan ke dalam slide Microsoft PowerPoint memiliki durasi yang terlalu panjang, pemotongan bagian awal atau akhir video dapat dilakukan agar sesuai dengan kebutuhan presentasi. Pasangan menu dan fitur yang tepat untuk melakukan hal tersebut adalah...",
+      "opsi": [
+        "Menu Insert - Fitur Video Trimming",
+        "Menu Playback - Fitur Trim Video",
+        "Menu Video Format - Fitur Cut Video",
+        "Menu Transitions - Fitur Crop Video",
+        "Menu Animations - Fitur Split Video"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Ketika ingin membuat presentasi menjadi lebih interaktif, pengguna dapat menambahkan berkas suara atau musik ke dalam slide. Manakah urutan menu dan fitur yang tepat untuk memasukkan audio dari komputer ke dalam slide Microsoft PowerPoint?",
+      "opsi": [
+        "Pilih menu Home, lalu klik fitur Audio pada grup Media.",
+        "Pilih menu Insert, lalu klik fitur Audio pada grup Media.",
+        "Pilih menu Design, lalu klik fitur Background Audio pada grup Customize.",
+        "Pilih menu Slide Show, lalu klik fitur Record Audio pada grup Set Up.",
+        "Pilih menu Transitions, lalu klik fitur Sound pada grup Timing."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Di bawah ini merupakan objek di dalam sebuah slide yang dapat diberi efek animasi, <b>kecuali</b>...",
+      "opsi": [
+        "Suara",
+        "Gambar",
+        "Teks",
+        "Shapes",
+        "WordArt"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Fitur pada Microsoft PowerPoint yang digunakan untuk menghubungkan suatu teks, objek, atau gambar ke slide lain dalam presentasi yang sama, ke file dokumen lain, atau ke halaman situs web (URL) tertentu secara langsung saat presentasi dijalankan adalah...",
+      "opsi": [
+        "Transition",
+        "Animation",
+        "Hyperlink",
+        "Slide Show",
+        "SmartArt"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Ketika menyusun elemen visual pada sebuah slide presentasi, terdapat sebuah objek gambar yang harus diposisikan tepat di titik pusat koordinat slide (berada di tengah secara horizontal sekaligus di tengah secara vertikal). Guna memastikan posisi objek tersebut sangat akurat dan seimbang tanpa melakukan pergeseran manual menggunakan mouse, kombinasi perintah yang paling tepat pada menu tab Shape Format / Picture Format adalah...",
+      "opsi": [
+        "Memilih menu Align - klik Align to Page, dilanjutkan dengan memilih opsi Center Content.",
+        "Memilih menu Align - memastikan opsi Align to Slide aktif, lalu klik Align Center diikuti dengan klik Align Middle.",
+        "Memilih menu Position - mengisi kolom Horizontal Distance dan Vertical Distance secara manual dengan angka 0 cm.",
+        "Memilih menu Distribute - klik Distribute Horizontally diikuti dengan klik Distribute Vertically.",
+        "Memilih menu Arrange - klik Group Elements, lalu mengaktifkan pilihan Snap to Grid Central."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perhatikan gambar berikut!<br><br><img src='soal/img/XI/mp-tjkt/Picture3.png' width='300'><br><br>Saat menyusun elemen visual pada sebuah slide, sebuah bentuk lingkaran baru saja dimasukkan ke dalam slide. Keberadaan bentuk tersebut ternyata menutupi gambar dan teks yang sudah dibuat sebelumnya karena tumpukan gambar baru otomatis berada di posisi paling depan. Agar gambar dan teks kembali terlihat tanpa perlu mengubah posisi tumpukannya, objek bentuk lingkaran yang berada di depan harus dipindahkan ke lapisan paling belakang. Perintah yang paling tepat untuk memindahkan objek yang berada di depan tersebut langsung ke posisi tumpukan paling belakang adalah klik pada objek gambar tersebut, lalu pada tab Picture Format/Shape Format memilih...",
+      "opsi": [
+        "Menu Arrange - klik Bring Forward",
+        "Menu Arrange - klik Send Backward",
+        "Menu Arrange - klik Send to Back",
+        "Menu Align - klik Send to Bottom Layers",
+        "Menu Selection Pane - Klik Bring to Front"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dalam dunia desain presentasi Microsoft PowerPoint, pengguna sering kali tertukar dalam mengimplementasikan efek gerak. Manakah pernyataan di bawah ini yang paling akurat dalam mendefinisikan batas perbedaan teknis antara fitur Transisi dan Animasi?",
+      "opsi": [
+        "Transisi hanya bisa menggunakan efek bawaan (default), sedangkan Animasi memungkinkan pembuatan gerakan kustom dari nol (custom path).",
+        "Transisi bekerja dengan memberikan efek visual pada level pergantian seluruh lembar slide, sedangkan Animasi bekerja pada level objek spesifik di dalam slide tersebut.",
+        "Transisi mengontrol durasi pemutaran elemen multimedia seperti video, sedangkan Animasi hanya mengontrol durasi kemunculan teks dan bentuk (shape).",
+        "Transisi memengaruhi performa berat ringannya file presentasi, sedangkan Animasi sama sekali tidak memengaruhi ukuran file dokumen PowerPoint.",
+        "Transisi hanya dapat diterapkan pada slide yang memiliki tipe tata letak (layout) yang sama, sedangkan Animasi bebas diaplikasikan tanpa terikat aturan tata letak slide."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Saat presentasi dijalankan, pergantian dari satu halaman ke halaman berikutnya ingin dibuat sangat dinamis, di mana sebuah objek pada halaman pertama dapat otomatis bergerak, berubah ukuran, atau berganti bentuk secara mulus saat bertransformasi ke halaman kedua. Fitur bawaan Microsoft PowerPoint yang mengontrol efek visual perpindahan berbasis transformasi antar-halaman tersebut adalah...",
+      "opsi": [
+        "Animation-Grow/Shrink",
+        "Transition-Morph",
+        "Animation-Trigger Action",
+        "Animation-Motion Path",
+        "Transition-Fade"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Dalam sebuah presentasi promosi brand, terdapat satu halaman khusus yang menampilkan gambar logo produk terbaru. Guna menarik perhatian calon konsumen, logo produk yang awalnya diam tersebut diatur agar memberikan efek mendadak membesar secara dramatis saat materi keunggulan produk dipaparkan, tanpa memindahkan layar ke halaman berikutnya. Fitur spesifik yang wajib diaplikasikan pada objek logo produk tersebut adalah...",
+      "opsi": [
+        "Animation-Grow/Shrink",
+        "Transition-Morph",
+        "Animation-Trigger Action",
+        "Animation-Motion Path",
+        "Transition-Fade"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Wiliam baru saja selesai menyusun materi presentasi tugas sekolahnya di Microsoft PowerPoint. Sebelum maju ke depan kelas, Wiliam ingin menguji tampilan hasil karyanya secara penuh (full screen) di layar proyektor, dimulai tepat dari halaman slide pertama. Langkah atau tombol shortcut yang paling tepat untuk membantu Wiliam adalah...",
+      "opsi": [
+        "Tekan tombol F5 pada keyboard",
+        "Tekan kombinasi tombol Shift + F5 pada keyboard",
+        "Tekan tombol Esc",
+        "Klik tab Slide Show - Pada kelompok Start Slide Show, pilih From Current Slide",
+        "Tekan kombinasi tombol Alt + F5 pada keyboard"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Sebuah presentasi promosi produk yang dipajang pada layar informasi toko (display digital) harus dapat berjalan secara otomatis secara terus-menerus. Ketika mode Slide Show aktif, setiap halaman presentasi wajib berpindah sendiri ke halaman berikutnya setelah tayang selama 5 detik tanpa memerlukan klik dari mouse atau keyboard. Pengaturan teknis yang paling tepat untuk memenuhi kebutuhan tersebut adalah melalui menu...",
+      "opsi": [
+        "Tab Animations - Timing Group - mengubah pemicu Start menjadi After Previous dengan durasi 05.00 detik.",
+        "Tab Transitions - Timing Group - mengosongkan tanda centang pada On Mouse Click dan mengaktifkan pilihan After diisi 00:05.00.",
+        "Tab Slide Show - Set Up Group - mengaktifkan fitur Rehearse Timings lalu mengetikkan angka 5 secara manual pada setiap pergantian halaman.",
+        "Tab Transitions - Transition to This Slide Group - memilih efek Morph lalu mengatur parameter Duration ke angka 5.00.",
+        "Tab Slide Show - Start Slide Show Group - mengubah mode Presentation Type menjadi Browsed at a kiosk (full screen)."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Saat ingin menampilkan presentasi (Slide Show), Microsoft PowerPoint menyediakan beberapa pilihan utama untuk memulai tayangan, di antaranya adalah \"From Beginning\" dan \"From Current Slide\". Manakah pernyataan berikut yang paling tepat mengenai perbedaan kedua fungsi tersebut?",
+      "opsi": [
+        "Menu Slide Show - From Beginning memulai presentasi dari slide pertama, sedangkan From Current Slide memulai tayangan dari slide yang sedang aktif/dipilih saat itu.",
+        "Menu Slide Show - From Beginning digunakan untuk menampilkan slide dalam format video, sedangkan From Current Slide untuk menyimpan slide sebagai gambar.",
+        "Menu Slide Show - From Beginning berfungsi untuk mengedit animasi dari awal, sedangkan From Current Slide berfungsi untuk mengedit animasi pada slide tertentu saja.",
+        "Menu Slide Show - From Beginning hanya menampilkan slide yang memiliki teks, sedangkan From Current Slide hanya menampilkan slide yang berisi gambar atau grafik.",
+        "Menu Slide Show - From Beginning menampilkan presentasi secara otomatis tanpa klik, sedangkan From Current Slide memerlukan klik manual untuk berpindah slide."
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Dalam aplikasi Microsoft PowerPoint, panel Animation Pane digunakan untuk mengatur urutan dan waktu animasi. Jika Anda ingin sebuah teks muncul secara otomatis tepat setelah animasi gambar di atasnya selesai bergerak tanpa perlu diklik, maka opsi pengaturan Start yang harus dipilih adalah...",
+      "opsi": [
+        "On Click",
+        "With Previous",
+        "After Previous",
+        "Trigger",
+        "Effect Options"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Tombol pada keyboard yang berfungsi untuk mengakhiri slide show pada Microsoft PowerPoint adalah ...",
+      "opsi": [
+        "F5",
+        "Esc",
+        "Ctrl + D",
+        "Ctrl + M",
+        "Shift"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Saat merancang slide presentasi, pencarian dan penggunaan referensi desain (seperti contoh layout, kombinasi warna, atau tren visual) dinilai sangat memengaruhi hasil akhir. Mengapa sebuah slide presentasi umumnya akan terlihat jauh lebih menarik dan profesional jika dibuat dengan memanfaatkan referensi desain tersebut?",
+      "opsi": [
+        "Karena referensi desain memberikan inspirasi visual dan memicu ide tata letak kreatif agar struktur slide tidak monoton.",
+        "Karena referensi desain menyediakan format ukuran slide standar yang otomatis sesuai dengan semua jenis layar proyektor.",
+        "Karena referensi desain memastikan semua elemen visual di dalam slide teratur secara otomatis sesuai dengan prinsip tipografi baku.",
+        "Karena referensi desain berfungsi sebagai panduan baku yang wajib diikuti seluruh polanya agar tidak terjadi kesalahan desain.",
+        "Karena referensi desain langsung memberikan pilihan animasi dan transisi yang paling cocok untuk setiap jenis materi presentasi."
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Format file dokumen presentasi Microsoft PowerPoint versi standar pada umumnya berekstensi...",
+      "opsi": [
+        ".xls",
+        ".ppt",
+        ".rtf",
+        ".mdb",
+        ".docx"
+      ],
+      "jawaban": "B"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Tuliskan struktur laporan PKL secara lengkap dan berurutan yang biasanya digunakan dalam penulisan laporan menggunakan Microsoft Word!"
+      "pertanyaan": "Jelaskan apa yang Anda ketahui tentang Microsoft PowerPoint menggunakan bahasa Anda sendiri!"
     },
     {
-      "pertanyaan": "Tuliskan langkah-langkah mengatur margin khusus (custom margin) pada dokumen menggunakan Microsoft Word secara singkat!"
+      "pertanyaan": "Sebutkan 3 bagian antarmuka (user interface) Microsoft PowerPoint beserta fungsinya!"
     },
     {
-      "pertanyaan": "Tuliskan langkah-langkah membuat daftar isi otomatis pada dokumen menggunakan Microsoft Word secara singkat!"
+      "pertanyaan": "Berdasarkan pemahaman Anda apa perbedaan antara transition dan animation?"
     },
     {
-      "pertanyaan": "Tuliskan langkah-langkah membuat daftar gambar otomatis pada dokumen menggunakan Microsoft Word secara singkat!"
+      "pertanyaan": "Buatlah satu desain tata letak (layout) slide yang terdiri dari judul, teks dan gambar berdasarkan file presentasi yang telah Anda buat!"
     },
     {
-      "pertanyaan": "Tuliskan langkah-langkah membuat penomoran halaman otomatis pada dokumen menggunakan Microsoft Word secara singkat!"
+      "pertanyaan": "Gambarkan 3 ikon Microsoft PowerPoint yang anda gunakan dalam pembuatan slide presentasi beserta fungsinya!"
     }
   ]
 }
