@@ -1,139 +1,18 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Tentukan determinan dari matriks N = $\\begin{pmatrix} - 1 & 2 & - 3 \\\\ 0 & 5 & - 4 \\\\ 1 & 4 & 0 \\end{pmatrix}$ adalah...",
+      "pertanyaan": "Tentukan determinan dari matriks C = $\\begin{pmatrix} 3 & 2 \\\\ 0 & 3 \\end{pmatrix}$ adalah ...",
       "opsi": [
-        "9",
-        "-9",
-        "10",
-        "-10",
-        "11"
+        "0",
+        "2",
+        "6",
+        "7",
+        "9"
       ],
-      "jawaban": "B"
+      "jawaban": "E"
     },
     {
-      "pertanyaan": "Tentukan invers dari matriks C = $\\begin{pmatrix} - 4 & 7 \\\\ - 2 & 4 \\end{pmatrix}$ adalah ...",
-      "opsi": [
-        "$\\begin{pmatrix} - 2 & 3\\frac{1}{2} \\\\ - 1 & 2 \\end{pmatrix}$",
-        "$\\begin{pmatrix} 2 & 3\\frac{1}{2} \\\\ - 1 & 2 \\end{pmatrix}$",
-        "$\\begin{pmatrix} - 2 & 3\\frac{1}{2} \\\\ 1 & 2 \\end{pmatrix}$",
-        "$\\begin{pmatrix} - 2 & - 3\\frac{1}{2} \\\\ - 1 & 2 \\end{pmatrix}$",
-        "$\\begin{pmatrix} 2 & 3\\frac{1}{2} \\\\ - 1 & - 2 \\end{pmatrix}$"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Hitunglah pola bilangan dari 20, 18, 16, 14, ...",
-      "opsi": [
-        "12",
-        "10",
-        "8",
-        "4",
-        "2"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Hitunglah pola bilangan dari 2,6,12,20,...",
-      "opsi": [
-        "25",
-        "30",
-        "35",
-        "40",
-        "45"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Hitunglah pola bilangan dari 0,2,5,10,17,28, ...",
-      "opsi": [
-        "29",
-        "32",
-        "41",
-        "42",
-        "56"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Suku ke-n pada barisan aritmatika 2, 6, 10, 14, ... bisa dinyatakan dengan ...",
-      "opsi": [
-        "$u_{n} = \\ 4n\\  + 4$",
-        "$u_{n} = \\ 4n\\  + 2$",
-        "$u_{n} = \\ 4n\\  - 2$",
-        "$u_{n} = \\ 4n\\  + 1$",
-        "$u_{n} = \\ 4n\\  - 1$"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Suku ke -20 pada barisan aritmatika 13, 10, 7, 4, ...",
-      "opsi": [
-        "-43",
-        "-44",
-        "-45",
-        "-56",
-        "-60"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Suku keempat suatu deret aritmatika adalah 9 dan jumlah suku keenam dan kedelapan adalah 30. Jumlah 20 suku pertama deret tersebut adalah ...",
-      "opsi": [
-        "240",
-        "400",
-        "440",
-        "600",
-        "640"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Dari deret aritmatika diketahui $U_{6}\\  + \\ U_{9}\\  + U_{12}\\  + \\ U_{15}\\  = \\ 20,\\ $maka $s_{20}$ = ...",
-      "opsi": [
-        "50",
-        "80",
-        "100",
-        "200",
-        "400"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Suku ke-7 dari barisan geometri 3,6,12, ... adalah...",
-      "opsi": [
-        "185",
-        "186",
-        "192",
-        "196",
-        "198"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Tentukan jumlah 5 suku pertama dari deret geometri 3 + (-6) + 12 + (-24)+ ... !",
-      "opsi": [
-        "30",
-        "33",
-        "35",
-        "40",
-        "45"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Diketahui deret geometri 7 + 14 + 28 + 56 + ... Tentukan jumlah 7 suku pertama adalah ...",
-      "opsi": [
-        "889",
-        "890",
-        "900",
-        "980",
-        "990"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Tentukan mean dari data 8,6,6,5,7,8,7,9,7 adalah ...",
+      "pertanyaan": "Tentukan determinan dari matriks D = $\\begin{pmatrix} -2 & 2 & 0 \\\\ 1 & 0 & 1 \\\\ 5 & -1 & 1 \\end{pmatrix}$ adalah ...",
       "opsi": [
         "6",
         "7",
@@ -141,10 +20,120 @@
         "9",
         "10"
       ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Tentukan rasio dari deret geometri 2 + 6 + 18 + 54 + ...",
+      "opsi": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Tentukan median dari data 4,5,6,5,7,3,5 adalah ...",
+      "pertanyaan": "Tentukan suku ke-15 dari barisan geometri 3, 6, 12, 24, 48, ...",
+      "opsi": [
+        "49.152",
+        "49.153",
+        "49.154",
+        "49.155",
+        "49.156"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Tentukan suku ke-100 dari barisan aritmatika 150, 140, 130, 120, ...",
+      "opsi": [
+        "-800",
+        "-820",
+        "-830",
+        "-840",
+        "-890"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Hitunglah jumlah 6 suku pertama dari deret geometri 2 + 6 + 18 + ...",
+      "opsi": [
+        "727",
+        "728",
+        "729",
+        "730",
+        "732"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Diketahui suatu barisan geometri suku ke-6 adalah 96 dan suku ke-9 adalah 768. Tentukan suku ke-12.",
+      "opsi": [
+        "6143",
+        "6144",
+        "6145",
+        "6146",
+        "6147"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Suku ke-4 adalah 81, dan suku ke-6 adalah 729. Tentukan suku pertama dan rasionya dari barisan geometri?",
+      "opsi": [
+        "a = 2, r = 2",
+        "a = 3, r = 3",
+        "a = 4, r = 4",
+        "a = 5, r = 5",
+        "a = 6, r = 6"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Tentukan nilai sigma dari $\\sum_{n=6}^{10} (n^2 - 1)$ adalah ...",
+      "opsi": [
+        "324",
+        "325",
+        "326",
+        "327",
+        "328"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Tentukan nilai sigma dari $\\sum_{i=1}^{100} (2i + 5)$ adalah ...",
+      "opsi": [
+        "10600",
+        "10700",
+        "10800",
+        "10900",
+        "11000"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Perhatikan tabel berikut!<br><br><blockquote>\nNilai | Frekuensi (fi)<br>\n55-59 | 6<br>\n60-64 | 8<br>\n65-69 | 16<br>\n70-74 | 10<br>\n75-79 | 6<br>\n80-84 | 4\n</blockquote><br>Modus dari data dalam tabel diatas adalah ...",
+      "opsi": [
+        "66,36",
+        "68,36",
+        "67,36",
+        "69,36",
+        "70,36"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perhatikan tabel berikut!<br><br><blockquote>\nNilai | Frekuensi (fi)<br>\n1-20 | 3<br>\n21-40 | 12<br>\n41-60 | 25<br>\n61-80 | 16<br>\n81-90 | 4\n</blockquote><br>Tentukan Batas Atas & Tepi Atas dari kolom ke-3 adalah ...",
+      "opsi": [
+        "40 & 40,5",
+        "41 & 41,5",
+        "60 & 60,5",
+        "60 & 61",
+        "61 & 80,5"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Tentukan median dari data 3,9,4,10,5,8,6,8,4 adalah ...",
       "opsi": [
         "3",
         "4",
@@ -152,139 +141,205 @@
         "6",
         "7"
       ],
-      "jawaban": "C"
+      "jawaban": "D"
     },
     {
-      "pertanyaan": "Tentukan modus dari data 2,6,7,8,8,2,2,2,7,7,9,7,8,5,7 adalah ...",
+      "pertanyaan": "Tentukan modus dari data 8,9,12,14,5,12,9,3,10,9,5,3 adalah ...",
       "opsi": [
-        "6, 2",
-        "2",
-        "7",
-        "7, 8",
-        "2, 7, 8"
+        "3",
+        "5",
+        "9",
+        "12",
+        "14"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "<blockquote><b>Nilai matematika 40 siswa disajikan dalam tabel berikut.</b><br><br><table><tr><th>Nilai</th><th>F</th></tr><tr><td>41-50</td><td>2</td></tr><tr><td>51-60</td><td>5</td></tr><tr><td>61-70</td><td>10</td></tr><tr><td>71-80</td><td>13</td></tr><tr><td>81-90</td><td>6</td></tr><tr><td>91-100</td><td>4</td></tr></table></blockquote><br>Tentukan Tepi atas dari interval kelas ke- 5 adalah ...",
+      "pertanyaan": "Tentukan nilai Quartil ke-2 dari data 1,3,6,9,5,10,8 adalah ...",
       "opsi": [
-        "80,5",
-        "81,5",
-        "90,5",
-        "89,5",
-        "91"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "<blockquote><table><tr><th>Berat Badan</th><th>F</th></tr><tr><td>21-25</td><td>2</td></tr><tr><td>26-30</td><td>8</td></tr><tr><td>31-35</td><td>9</td></tr><tr><td>36-40</td><td>6</td></tr><tr><td>41-45</td><td>3</td></tr><tr><td>46-50</td><td>2</td></tr></table></blockquote><br>Tentukan Batas Bawah & Batas Atas dari interval kelas ke- 4 adalah ...",
-      "opsi": [
-        "36,5 -- 40,5",
-        "35,5 -- 39,5",
-        "36 -- 40",
-        "40 -- 36",
-        "35 - 39"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "<blockquote><b>Panjang interval dari data berikut ini adalah ...</b><br><br><table><tr><th>Nilai</th><th>Frekuensi</th></tr><tr><td>1-5</td><td>4</td></tr><tr><td>6-10</td><td>8</td></tr><tr><td>11-15</td><td>2</td></tr><tr><td>16-20</td><td>6</td></tr><tr><td>21-25</td><td>9</td></tr><tr><td>26-30</td><td>5</td></tr></table></blockquote><br>Panjang interval dari data berikut ini adalah ...",
-      "opsi": [
-        "1",
+        "4",
         "5",
         "6",
         "7",
-        "10"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "<blockquote><b>Berdasarkan data pada tabel berikut</b><br><br><table><tr><th>Nilai</th><th>Frekuensi</th></tr><tr><td>1-5</td><td>4</td></tr><tr><td>6-10</td><td>8</td></tr><tr><td>11-15</td><td>2</td></tr><tr><td>16-20</td><td>6</td></tr><tr><td>21-25</td><td>9</td></tr><tr><td>26-30</td><td>5</td></tr></table></blockquote><br>Tentukana Mean data kelompok dari data di atas adalah ...",
-      "opsi": [
-        "16",
-        "16,5",
-        "16,38",
-        "18,3",
-        "18,38"
+        "8"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Tentukan Quartil data ke-2 dari 6,7,6,8,10,8,11,10 adalah ...",
+      "pertanyaan": "Perhatikan tabel berikut!<br><br><blockquote>\nNilai | Frekuensi (fi)<br>\n30-34 | 8<br>\n35-39 | 10<br>\n40-44 | 13<br>\n45-49 | 17<br>\n50-54 | 14<br>\n55-59 | 11<br>\n60-64 | 7<br>\nJumlah | 80\n</blockquote><br>Tentukan Quartil ke-2 dari data kelompok tersebut adalah ...",
       "opsi": [
-        "7",
-        "8",
-        "8,5",
-        "9",
-        "10"
+        "47",
+        "47,12",
+        "47,14",
+        "47,15",
+        "48"
       ],
-      "jawaban": "B"
+      "jawaban": "D"
     },
     {
-      "pertanyaan": "Diketahui suatu barisan geometri suku ke-6 adalah 96 dan suku ke-9 adalah 768. Tentukan suku ke-12.",
+      "pertanyaan": "Tentukan Jangkauan Quartil dari data yang ada di No 16 adalah ...",
       "opsi": [
-        "6142",
-        "6143",
-        "6144",
-        "6145",
-        "6146"
+        "13,50",
+        "13,51",
+        "13,52",
+        "13,53",
+        "13,54"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Tentukan jumlahnya dari deret geometri 1+2+4+8+...(sampai 13 Suku)",
+      "pertanyaan": "Tentukan Desil 4 dari data yang ada di No 16 adalah ...",
       "opsi": [
-        "8190",
-        "8191",
-        "8192",
-        "8193",
-        "8194"
+        "44,78",
+        "44,79",
+        "45,78",
+        "45,79",
+        "46"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Tentukan nilai dari $$\\sum_{i = 1}^{100}{(2i + 5}) = \\ldots.$$",
+      "pertanyaan": "Perhatikan tabel berikut ini:<br><br><blockquote>\nNilai | Frekuensi (fi)<br>\n140-144 | 5<br>\n145-149 | 15<br>\n150-154 | 20<br>\n155-159 | 30<br>\n160-164 | 16<br>\n165-169 | 8<br>\n170-174 | 6\n</blockquote><br>Tentukan Persentil ke-30 adalah ...",
       "opsi": [
-        "10600",
-        "10601",
-        "10602",
-        "10603",
-        "10604"
+        "150",
+        "151",
+        "152",
+        "153",
+        "154"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Tentukan Jangkauan Persentil dari data No 19 diatas adalah ...",
+      "opsi": [
+        "20,83",
+        "20,84",
+        "20,85",
+        "20,86",
+        "20,87"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Tentukan persamaan garis lurus yang bergadien $- \\frac{2}{3}$ dan melalui (-6, 2) adalah ...",
+      "pertanyaan": "Nilai kebenaran dari pernyataan dalam tabel berikut adalah ...<br><br><blockquote>\np | q | ~p v q<br>\nB | B | ....<br>\nB | S | ....<br>\nS | B | ....<br>\nS | S | ....\n</blockquote>",
       "opsi": [
-        "3y = -2x-6",
-        "3y = 2x+6",
-        "3y= -2x -- 6",
-        "-3y = 2x-6",
-        "3y = -2+6"
+        "BSBB",
+        "BBSB",
+        "BSSB",
+        "SBSB",
+        "BBSS"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Tentukan desil-2 dari data 2, 11, 1, 10, 3, 9 adalah ...",
+      "pertanyaan": "p : 2 > 3<br>q : 2 adalah bilangan genap<br><br>Tentukan p → q adalah ...",
       "opsi": [
-        "1,2",
-        "1,3",
-        "1,4",
-        "1,5",
-        "1,6"
+        "Jika 2 > 3 dan hanya jika 2 adalah bilangan genap",
+        "Jika 2 > 3 maka 2 adalah bilangan genap",
+        "Jika 2 > 3 dan 2 adalah bilangan genap",
+        "2 > 3 dan 2 adalah bilangan genap",
+        "2 > 3 atau 2 adalah bilangan genap"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "p : 5 < 1<br>q : $3^2 = 9$<br><br>Tentukan p ↔ q adalah ...",
+      "opsi": [
+        "5 < 1 jika dan hanya jika $3^2 = 9$",
+        "Jika 5 < 1 hanya jika $3^2 = 9$",
+        "5 < 1 maka $3^2 = 9$",
+        "5 < 1 dan $3^2 = 9$",
+        "5 < 1 atau $3^2 = 9$"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "p : Jakarta Ibukota Indonesia<br><br>Tentukan Negasi p nya?",
+      "opsi": [
+        "Jakarta adalah ibu kota indonesia",
+        "Jakarta merupakan ibu kota indonesia",
+        "Jakarta bukan ibu kota indonesia",
+        "Jakarta bukan indonesia",
+        "Tidak benar"
       ],
       "jawaban": "C"
+    },
+    {
+      "pertanyaan": "p : Dua garis saling sejajar<br>q : Dua garis saling berpotongan<br><br>Tentukan p v q?",
+      "opsi": [
+        "Dua garis saling sejajar dan Dua garis saling berpotongan",
+        "Dua garis saling sejajar dan garis saling berpotongan",
+        "Dua garis saling sejajar atau dua garis berpotongan",
+        "Dua garis saling sejajar atau saling berpotongan",
+        "Semuanya bener"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Tentukanlah persamaan garis lurus yang melalui titik (3,-4) dan (-2,6) adalah ...",
+      "opsi": [
+        "y = -2x + 2",
+        "y = -3x + 2",
+        "y = -2x + 3",
+        "y = -3x + 3",
+        "y = 2x + 2"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Tentukan nilai x dari persamaan $\\frac{3x + 7}{5} = \\frac{1 + 4x}{6}$ adalah ...",
+      "opsi": [
+        "$18\\frac{1}{2}$",
+        "$18\\frac{1}{3}$",
+        "$18\\frac{1}{4}$",
+        "$18\\frac{1}{5}$",
+        "$18\\frac{1}{6}$"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Diketahui log 2 = p, log 3 = q dan log 5 = r, harga log 1500 jika dinyatakan dalam p, q, dan r adalah ...",
+      "opsi": [
+        "p + q + r",
+        "p + 2q + 3r",
+        "2p + q + r",
+        "2p + q + 3r",
+        "3p + q + 2r"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Harga 5 buku tulis dan 2 pensil di koperasi adalah Rp13.000,00. Harga 3 buku tulis dan 3 pensil adalah Rp10.500,00. Berapa harga sebuah buku tulis dan sebatang pensil?",
+      "opsi": [
+        "Buku tulis Rp2.000,00 & sebatang pensil Rp1.500,00",
+        "Buku tulis Rp1.500,00 & sebatang pensil Rp2.000,00",
+        "Buku tulis Rp2.000,00 & sebatang pensil Rp1.200,00",
+        "Buku tulis Rp2.000,00 & sebatang pensil Rp1.600,00",
+        "Semuanya betul"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "1, $\\frac{1}{5}$, $\\frac{1}{25}$, $\\frac{1}{125}$, $\\frac{1}{625}$ tentukan rasio dari barisan berikut ...",
+      "opsi": [
+        "1",
+        "$\\frac{1}{5}$",
+        "$\\frac{1}{25}$",
+        "$-\\frac{1}{5}$",
+        "-1"
+      ],
+      "jawaban": "B"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Tentukan jumlah 10 suku pertama dari deret aritmatika 3 + 5 + 7 + 9, ..."
+      "pertanyaan": "Buatlah kalimat pernyataan P V Q?"
     },
     {
-      "pertanyaan": "Sebuah barisan geometri memiliki suku ke-6 sebesar 2430 dan suku ke-3 sebesar 90. Maka, jumlah 4 suku pertama adalah ..."
+      "pertanyaan": "(~p v ~q) v (~p v q)"
     },
     {
-      "pertanyaan": "<blockquote><b>Nilai Matematika 40 siswa disajikan dalam tabel berikut.</b><br><br><table><tr><th>Nilai</th><th>F</th></tr><tr><td>41-50</td><td>2</td></tr><tr><td>51-60</td><td>5</td></tr><tr><td>61-70</td><td>10</td></tr><tr><td>71-80</td><td>13</td></tr><tr><td>81-90</td><td>6</td></tr><tr><td>91-100</td><td>4</td></tr></table></blockquote><br>Tentukan :<br><br>A. Mean data kelompok<br>B. Median data kelompok<br>C. Modus data kelompok"
+      "pertanyaan": "Perhatikan tabel berikut ini<br><br><blockquote>\nNilai | Frekuensi (fi)<br>\n1-20 | 9<br>\n21-40 | 16<br>\n41-60 | 25<br>\n61-80 | 7<br>\n81-100 | 3\n</blockquote><br>Tentukan:<br>A. Desil ke-3<br>B. Persentil ke-45<br>C. Jangkauan persentil"
     }
   ]
 }
