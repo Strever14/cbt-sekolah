@@ -7,7 +7,7 @@
         "terinspirasi",
         "perantaraan",
         "sebuah keajaiban",
-        "Karomah"
+        "karomah"
       ],
       "jawaban": "D"
     },
@@ -15,7 +15,7 @@
       "pertanyaan": "Seorang nabi yang diberikan keistimewaan oleh Allah. Dapat berbicara ketika baru lahir..",
       "opsi": [
         "Adam as",
-        "Nuh.as",
+        "Nuh as",
         "Isa as",
         "sulaiman as",
         "Muhammad saw"
@@ -28,8 +28,8 @@
         "Terpercaya",
         "Siddiq",
         "Tablig",
-        "Fathanah",
-        "khitmat"
+        "Fatana",
+        "Kitman"
       ],
       "jawaban": "B"
     },
@@ -38,14 +38,14 @@
       "opsi": [
         "Zabur",
         "Taurat",
-        "Taurat",
+        "Injil",
         "Alquran",
         "weda"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Nabi Musa as telah menerima wahyu melalui dialog langsung dengan AlohYang Maha kuasa. Dan terjadi di ...",
+      "pertanyaan": "Nabi Musa as telah menerima wahyu melalui dialog langsung dengan Tuhan Yang Mahakuasa. Dan terjadi di ...",
       "opsi": [
         "Gua Hira",
         "Jabal Nur",
@@ -72,8 +72,8 @@
         "Siddiq",
         "Terpercaya",
         "Sempurna",
-        "Fana",
-        "tablig"
+        "Fatana",
+        "Tabligh"
       ],
       "jawaban": "B"
     },
@@ -82,7 +82,7 @@
       "opsi": [
         "Sulaiman as",
         "Musa as",
-        "Daud as",
+        "Daut as",
         "Adam as",
         "Muhammad saw"
       ],
@@ -115,11 +115,11 @@
       "opsi": [
         "piagam penghargaan",
         "uang dari guru",
-        "keberkahan ilmu",
         "pujian dari teman",
+        "keberkahan ilmu",
         "nilai bagus di raport"
       ],
-      "jawaban": "C"
+      "jawaban": "D"
     },
     {
       "pertanyaan": "Tuntunan doa kepada orang tua telah dijelaskan di dalam Al-Qur'an, yaitu....",
@@ -169,7 +169,7 @@
       "pertanyaan": "Surga itu ada di bawah telapak kaki....",
       "opsi": [
         "nabi",
-        "Ayah",
+        "ayah",
         "Ibu",
         "Guru",
         "Ulama"
@@ -309,7 +309,7 @@
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Sikap kita apabila akan pulang telat karena mengerjakan tugas di rumah teman adalah...",
+      "pertanyaan": "Sikap kita apabila akan pulang telat karena mengerjakan tugas di rumah teman adalah....",
       "opsi": [
         "sekalian bermain setelah belajar selesai",
         "pamit terlebih dahulu dengan orang tua",
@@ -329,23 +329,78 @@
         "berusaha selalu menyenangkan hati orang tua"
       ],
       "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Orang yang sakit dan mendekati sakaratul maut diperintahkan oleh Rasulullah saw. untuk ditalkinkan, yaitu dengan membaca....",
+      "opsi": [
+        "Surat Yasin",
+        "kalimat tahlil",
+        "kalimat tahmid",
+        "kalimat tasbih",
+        "kalimat basmalah"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Di bawah ini adalah syarat-syarat jenazah yang wajib dimandikan menurut ketentuan Islam, <i>kecuali</i>....",
+      "opsi": [
+        "jenazah meninggal dalam keadaan mukmin",
+        "masih ada anggota tubuhnya, walaupun hanya sedikit",
+        "bukan mati syahid",
+        "murtad dari agama Islam",
+        "mati karena kecelakaan"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Di bawah ini yang <i>tidak</i> termasuk rukun-rukun salat jenazah adalah....",
+      "opsi": [
+        "rukuk dengan tumakinah",
+        "takbir empat kali",
+        "membaca salawat nabi",
+        "membaca al-Fatihah",
+        "niat salat jenazah"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Imam salat jenazah bila jenazahnya laki-laki maka berada di .... jenazah.",
+      "opsi": [
+        "Pinggang",
+        "Paha",
+        "Kepala",
+        "Kaki",
+        "perut"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Di bawah ini adalah perlakuan yang harus dilakukan oleh seorang muslim terhadap orang yang telah meninggal, kecuali....",
+      "opsi": [
+        "menyegerakan penyelenggaraan jenazah",
+        "memejamkan kedua mata jenazah",
+        "menutup jenazah dengan kain",
+        "melunasi utang-utang jenazah",
+        "meratap dan menangisi kepergian jenazah"
+      ],
+      "jawaban": "E"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Apa perbedaan nabi dan rosul ?"
+      "pertanyaan": "Buatlah contoh dan prilaku yang menggambarkan berani membela kejujuran !"
     },
     {
-      "pertanyaan": "Berapa jumlah nabi dan rosul yang sebenar nya ?"
+      "pertanyaan": "Tulislah ayat al-qur'an yang menjelaskan bahwa orang tua adalah manusia yang paling pertama untuk dihormati sebelum seorang orang lain!"
     },
     {
-      "pertanyaan": "Apa kewajiban kita terhadap jenazah ?"
+      "pertanyaan": "Sebutkan syarat dan rukun khutbah ?"
     },
     {
-      "pertanyaan": "Sebutkan rician memandikan jenazah yang benar ?"
+      "pertanyaan": "Sebutkan lima macam usaha untuk memenuhi kebutuhan dengan cara yang tidak halal merugikan orang lain!"
     },
     {
-      "pertanyaan": "Tulis Do'a Sholat jenazah pada takbir ke 3..."
+      "pertanyaan": "Sebutkan tokoh-tokoh islam penemua teknologi dan pengetahuan!"
     }
   ]
 }
