@@ -111,7 +111,7 @@
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Perhatikan tabel berikut!<br><br><blockquote>\nNilai | Frekuensi (fi)<br>\n55-59 | 6<br>\n60-64 | 8<br>\n65-69 | 16<br>\n70-74 | 10<br>\n75-79 | 6<br>\n80-84 | 4\n</blockquote><br>Modus dari data dalam tabel diatas adalah ...",
+      "pertanyaan": "Perhatikan tabel berikut!<br><br><table border='1' cellpadding='5' cellspacing='0' style='border-collapse: collapse;'><tr><th>Nilai</th><th>Frekuensi (fi)</th></tr><tr><td>55-59</td><td>6</td></tr><tr><td>60-64</td><td>8</td></tr><tr><td>65-69</td><td>16</td></tr><tr><td>70-74</td><td>10</td></tr><tr><td>75-79</td><td>6</td></tr><tr><td>80-84</td><td>4</td></tr></table><br>Modus dari data dalam tabel diatas adalah ...",
       "opsi": [
         "66,36",
         "68,36",
@@ -122,7 +122,7 @@
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Perhatikan tabel berikut!<br><br><blockquote>\nNilai | Frekuensi (fi)<br>\n1-20 | 3<br>\n21-40 | 12<br>\n41-60 | 25<br>\n61-80 | 16<br>\n81-90 | 4\n</blockquote><br>Tentukan Batas Atas & Tepi Atas dari kolom ke-3 adalah ...",
+      "pertanyaan": "Perhatikan tabel berikut!<br><br><table border='1' cellpadding='5' cellspacing='0' style='border-collapse: collapse;'><tr><th>Nilai</th><th>Frekuensi (fi)</th></tr><tr><td>1-20</td><td>3</td></tr><tr><td>21-40</td><td>12</td></tr><tr><td>41-60</td><td>25</td></tr><tr><td>61-80</td><td>16</td></tr><tr><td>81-90</td><td>4</td></tr></table><br>Tentukan Batas Atas & Tepi Atas dari kolom ke-3 adalah ...",
       "opsi": [
         "40 & 40,5",
         "41 & 41,5",
@@ -166,7 +166,7 @@
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Perhatikan tabel berikut!<br><br><blockquote>\nNilai | Frekuensi (fi)<br>\n30-34 | 8<br>\n35-39 | 10<br>\n40-44 | 13<br>\n45-49 | 17<br>\n50-54 | 14<br>\n55-59 | 11<br>\n60-64 | 7<br>\nJumlah | 80\n</blockquote><br>Tentukan Quartil ke-2 dari data kelompok tersebut adalah ...",
+      "pertanyaan": "Perhatikan tabel berikut!<br><br><table border='1' cellpadding='5' cellspacing='0' style='border-collapse: collapse;'><tr><th>Nilai</th><th>Frekuensi (fi)</th></tr><tr><td>30-34</td><td>8</td></tr><tr><td>35-39</td><td>10</td></tr><tr><td>40-44</td><td>13</td></tr><tr><td>45-49</td><td>17</td></tr><tr><td>50-54</td><td>14</td></tr><tr><td>55-59</td><td>11</td></tr><tr><td>60-64</td><td>7</td></tr><tr><td><strong>Jumlah</strong></td><td><strong>80</strong></td></tr></table><br>Tentukan Quartil ke-2 dari data kelompok tersebut adalah ...",
       "opsi": [
         "47",
         "47,12",
@@ -199,7 +199,7 @@
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Perhatikan tabel berikut ini:<br><br><blockquote>\nNilai | Frekuensi (fi)<br>\n140-144 | 5<br>\n145-149 | 15<br>\n150-154 | 20<br>\n155-159 | 30<br>\n160-164 | 16<br>\n165-169 | 8<br>\n170-174 | 6\n</blockquote><br>Tentukan Persentil ke-30 adalah ...",
+      "pertanyaan": "Perhatikan tabel berikut ini:<br><br><table border='1' cellpadding='5' cellspacing='0' style='border-collapse: collapse;'><tr><th>Nilai</th><th>Frekuensi (fi)</th></tr><tr><td>140-144</td><td>5</td></tr><tr><td>145-149</td><td>15</td></tr><tr><td>150-154</td><td>20</td></tr><tr><td>155-159</td><td>30</td></tr><tr><td>160-164</td><td>16</td></tr><tr><td>165-169</td><td>8</td></tr><tr><td>170-174</td><td>6</td></tr></table><br>Tentukan Persentil ke-30 adalah ...",
       "opsi": [
         "150",
         "151",
@@ -221,7 +221,7 @@
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Nilai kebenaran dari pernyataan dalam tabel berikut adalah ...<br><br><blockquote>\np | q | ~p v q<br>\nB | B | ....<br>\nB | S | ....<br>\nS | B | ....<br>\nS | S | ....\n</blockquote>",
+      "pertanyaan": "Nilai kebenaran dari pernyataan dalam tabel berikut adalah ...<br><br><table border='1' cellpadding='5' cellspacing='0' style='border-collapse: collapse;'><tr><th>p</th><th>q</th><th>~p v q</th></tr><tr><td>B</td><td>B</td><td>....</td></tr><tr><td>B</td><td>S</td><td>....</td></tr><tr><td>S</td><td>B</td><td>....</td></tr><tr><td>S</td><td>S</td><td>....</td></tr></table>",
       "opsi": [
         "BSBB",
         "BBSB",
@@ -339,7 +339,7 @@
       "pertanyaan": "(~p v ~q) v (~p v q)"
     },
     {
-      "pertanyaan": "Perhatikan tabel berikut ini<br><br><blockquote>\nNilai | Frekuensi (fi)<br>\n1-20 | 9<br>\n21-40 | 16<br>\n41-60 | 25<br>\n61-80 | 7<br>\n81-100 | 3\n</blockquote><br>Tentukan:<br>A. Desil ke-3<br>B. Persentil ke-45<br>C. Jangkauan persentil"
+      "pertanyaan": "Perhatikan tabel berikut ini<br><br><table border='1' cellpadding='5' cellspacing='0' style='border-collapse: collapse;'><tr><th>Nilai</th><th>Frekuensi (fi)</th></tr><tr><td>1-20</td><td>9</td></tr><tr><td>21-40</td><td>16</td></tr><tr><td>41-60</td><td>25</td></tr><tr><td>61-80</td><td>7</td></tr><tr><td>81-100</td><td>3</td></tr></table><br>Tentukan:<br>A. Desil ke-3<br>B. Persentil ke-45<br>C. Jangkauan persentil"
     }
   ]
 }
