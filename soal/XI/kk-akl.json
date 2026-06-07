@@ -1,161 +1,282 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Pada tanggal 8 Januari 2026, Toko Maju mengembalikan sebagian barang yang dibeli secara kredit sebesar Rp1.500.000 karena rusak. Transaksi tersebut dicatat dalam.....",
+      "pertanyaan": "Fungsi utama kartu persediaan adalah.....",
       "opsi": [
-        "Jurnal penjualan",
-        "Jurnal pembelian",
-        "Jurnal retur pembelian",
-        "Jurnal umum",
-        "Jurnal penerimaan kas"
+        "Menghitung laba perusahaan",
+        "Menentukan harga jual",
+        "Mencatat mutasi persediaan barang",
+        "Menghitung pajak",
+        "Menentukan modal usaha"
       ],
-      "jawaban": "D"
+      "jawaban": "C"
     },
     {
-      "pertanyaan": "Pada tanggal 5 Januari 2026, PT Sinar menjual barang dagang secara kredit kepada Toko Maju sebesar Rp10.000.000 dengan syarat 2/10, n/30. Jika Toko Maju melunasi pada tanggal 12 Januari 2026, maka potongan yang diberikan....",
+      "pertanyaan": "Metode FIFO adalah metode.....",
       "opsi": [
-        "Rp100.000",
-        "Rp200.000",
-        "Rp300.000",
-        "Rp500.000",
-        "Rp1.000.000"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Diterima pelunasan piutang sebesar Rp3.000.000, maka jurnalnya adalah ...",
-      "opsi": [
-        "Kas (D), Piutang (K)",
-        "Piutang (D), Kas (K)",
-        "Penjualan (D), Kas (K)",
-        "Kas (D), Penjualan (K)",
-        "HPP (D), Kas (K)"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Membayar utang sebesar Rp2.000.000, maka jurnalnya adalah ...",
-      "opsi": [
-        "Utang (D), Kas (K)",
-        "Kas (D), Utang (K)",
-        "Pembelian (D), Kas (K)",
-        "Beban (D), Kas (K)",
-        "HPP (D), Kas (K)"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Pembentukan kas kecil sebesar Rp1.000.000, maka jurnalnya adalah ...",
-      "opsi": [
-        "Kas Kecil (D), Kas (K)",
-        "Kas (D), Kas Kecil (K)",
-        "Beban (D), Kas (K)",
-        "Kas (D), Modal (K)",
-        "Persediaan (D), Kas (K)"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Pada tanggal 15 April 2026, perusahaan menerima pendapatan bunga dari bank sebesar Rp 950.000 secara tunai. Jurnal yang dibuat untuk transaksi tersebut adalah....",
-      "opsi": [
-        "Beban Bunga (D), Kas (K)",
-        "Piutang Bunga (D), Pendapatan Bunga (K)",
-        "Kas (D), Modal (K)",
-        "Pendapatan Bunga (D), Kas (K)",
-        "Kas (D), Pendapatan Bunga (K)"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Pembelian peralatan secara kredit Rp5.000.000, dalam kartu utang dicatat disisi....",
-      "opsi": [
-        "Debit Rp5.000.000",
-        "Kredit Rp5.000.000",
-        "Tidak dicatat",
-        "Debit kas",
-        "Kredit beban"
+        "Barang terakhir masuk pertama keluar",
+        "Barang pertama masuk pertama keluar",
+        "Barang pertama masuk terakhir keluar",
+        "Barang terakhir masuk terakhir keluar",
+        "Barang rusak keluar lebih dulu"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Pembayaran utang Rp2.000.000 dicatat disisi ....",
+      "pertanyaan": "Pencatatan barang masuk dilakukan pada kolom ...",
       "opsi": [
-        "Kredit",
-        "Debit",
-        "Tidak dicatat",
-        "Modal",
+        "Keluar",
+        "Masuk",
+        "Saldo",
+        "Harga jual",
         "Beban"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Jika saldo awal utang sebesar Rp3.000.000 dan pembelian Rp2.000.000, maka saldo menjadi ....",
+      "pertanyaan": "Sistem pencatatan persediaan terus-menerus disebut.....",
       "opsi": [
-        "1.000.000",
-        "3.000.000",
-        "4.000.000",
-        "5.000.000",
-        "6.000.000"
+        "Sistem perpetual",
+        "Sistem periodik",
+        "Sistem saldo",
+        "Sistem manual",
+        "Sistem kas"
       ],
-      "jawaban": "D"
+      "jawaban": "A"
     },
     {
-      "pertanyaan": "Saldo awal utang kepada PT Sumber Makmur Rp6.000.000. Tanggal 5 dibeli barang secara kredit Rp4.000.000. Tanggal 12 dibayar Rp3.000.000. Berapakah saldo akhir utang?",
+      "pertanyaan": "Kartu persediaan biasanya dibuat untuk setiap ...",
       "opsi": [
-        "Rp. 2.000.000,-",
-        "Rp 3.000.000,-",
-        "Rp 4.000.000,-",
-        "Rp 5.000.000,-",
-        "Rp 6.000.000,-"
+        "Pelanggan",
+        "Supplier",
+        "Jenis barang",
+        "Pegawai",
+        "Cabang perusahaan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Kartu persediaan membantu perusahaan dalam.....",
+      "opsi": [
+        "Mengontrol stok barang",
+        "Menghitung pajak kendaraan",
+        "Menentukan gaji",
+        "Mengontrol modal",
+        "Menentukan laba bersih"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Kolom utama dalam kartu persediaan adalah....",
+      "opsi": [
+        "Debit dan kredit",
+        "Aktiva dan pasiva",
+        "Masuk, keluar, saldo",
+        "Pendapatan dan beban",
+        "Modal dan prive"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Metode perpetual memungkinkan perusahaan mengetahui.....",
+      "opsi": [
+        "Jumlah modal setiap saat",
+        "Saldo kas setiap saat",
+        "Nilai penjualan setiap saat",
+        "Jumlah utang setiap saat",
+        "Saldo persediaan setiap saat"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Kartu persediaan digunakan untuk mencatat ....",
+      "pertanyaan": "Kartu aset tetap digunakan untuk mencatat....",
       "opsi": [
-        "Utang",
-        "Modal",
-        "Mutasi barang",
-        "Beban",
-        "Kas"
+        "Persediaan barang",
+        "Kas perusahaan",
+        "Data aset tetap",
+        "Piutang usaha",
+        "Modal perusahaan"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Kartu persediaan termasuk buku ....",
+      "pertanyaan": "Kartu aset tetap memuat informasi tentang.....",
       "opsi": [
-        "Buku besar",
-        "Jurnal",
-        "Buku pembantu",
-        "Neraca",
-        "Laporan"
+        "Harga perolehan aset",
+        "Jumlah pelanggan",
+        "Penjualan harian",
+        "Jumlah pegawai",
+        "Utang perusahaan"
       ],
-      "jawaban": "C"
+      "jawaban": "A"
     },
     {
-      "pertanyaan": "Jurnal yang digunakan untuk mencatat transaksi keuangan pemerintah daerah yang berhubungan dengan kelompok akun neraca, antara lain akun aset, kewajiban, dan ekuitas, serta kelompok akun laporan operasional seperti pendapatan dan beban disebut......",
+      "pertanyaan": "Kartu aset tetap membantu perusahaan dalam...",
       "opsi": [
-        "Jurnal",
-        "Jurnal pelaksanaan anggaran",
-        "Jurnal finansial",
-        "Jurnal umum",
-        "Jurnal khusus"
+        "Mengontrol penjualan",
+        "Menghitung pajak kendaraan",
+        "Mengontrol piutang",
+        "Mengontrol kas kecil",
+        "Mengontrol aset"
       ],
-      "jawaban": "C"
+      "jawaban": "E"
     },
     {
-      "pertanyaan": "Jurnal yang digunakan untuk mencatat transaksi keuangan pemerintah daerah yang dilakukan secara tunai atau menggunakan kas, yang berhubungan dengan kelompok akun laporan realisasi anggaran, seperti pendapatan, belanja, transfer, dan pembiayaan disebut......",
+      "pertanyaan": "Tujuan utama pencatatan aset tetap adalah....",
       "opsi": [
-        "Jurnal",
-        "Jurnal pelaksanaan anggaran",
-        "Jurnal finansial",
-        "Jurnal umum",
-        "Jurnal khusus"
+        "Menghitung utang",
+        "Mengontrol persediaan",
+        "Menentukan harga jual",
+        "Mengetahui kondisi dan nilai aset",
+        "Menghitung laba bersih"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Aset tetap memiliki masa manfaat lebih dari.....",
+      "opsi": [
+        "1 bulan",
+        "3 bulan",
+        "6 bulan",
+        "1 tahun",
+        "2 minggu"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Penyusutan aset tetap disebut juga...",
+      "opsi": [
+        "Investasi",
+        "Depresiasi",
+        "Amortisasi",
+        "Rekonsiliasi",
+        "Akumulasi"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Seluruh pengeluaran yang mengurangi rekening kas unum daerah dalam periode tahun anggaran bersangkutan dan pembayarannya tidak dapat diperoleh kembali oleh pemerintah daerah disebut.....",
+      "pertanyaan": "Bagian yang mencatat pengurangan nilai aset tetap setiap periode adalah...",
+      "opsi": [
+        "Modal",
+        "Persediaan",
+        "Akumulasi penyusutan",
+        "Piutang",
+        "Utang usaha"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Informasi yang tidak terdapat dalam kartu aktiva tetap adalah...",
+      "opsi": [
+        "Harga perolehan aset",
+        "Tanggal pembelian aset",
+        "Akumulasi penyusutan",
+        "Nama pelanggan",
+        "Nilai buku aset"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Kumpulan setiap akun yang disusun berdasarkan kelompok akun, serta disusun secara sistematis dan saling berkaitan satu sama lain disebut....",
+      "opsi": [
+        "Jurnal",
+        "Jurnal finansial",
+        "Jurnal pelaksanaan anggaran",
+        "Buku besar",
+        "Laporan keuangan"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Formulir khusus untuk mencatat setiap bukti transaksi, berupa pendebitan dan pengkreditan secara kronologis beserta penjelasan yang diperlukan dari transaksi tersebut disebut.....",
+      "opsi": [
+        "Jurnal",
+        "Jurnal finansial",
+        "Jurnal pelaksanaan anggaran",
+        "Buku besar",
+        "Laporan keuangan"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Laporan yang menyajikan ikhtisar sumber daya ekonomi yang menambah ekuitas dan penggunaannya dikelola oleh pemerintah daerah untuk kegiatan penyelenggarann pemerintahan dalam satu periode laporan disebut......",
+      "opsi": [
+        "Laporan realisasi anggaran (LRA)",
+        "Laporan operasional (LO)",
+        "Neraca",
+        "Laporan keuangan pemerintah daerah",
+        "Laporan perubahan ekuitas (LPE)"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Laporan yang menyajikan ikhtisar sumber, alokasi, dan penggunaan sumber daya ekonomi yang dikelola oleh pemerintah daerah dalam satu periode laporan disebut......",
+      "opsi": [
+        "Laporan realisasi anggaran (LRA)",
+        "Laporan operasional (LO)",
+        "Neraca",
+        "Laporan keuangan pemerintah daerah",
+        "Laporan perubahan ekuitas (LPE)"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Laporan yang menyajikan informasi kenaikan atau penurunan ekuitas pada tahun pelaporan dibandingkan dengan tahun sebelumnya disebut.....",
+      "opsi": [
+        "Laporan realisasi anggaran (LRA)",
+        "Laporan operasional (LO)",
+        "Neraca",
+        "Laporan keuangan pemerintah daerah",
+        "Laporan perubahan ekuitas (LPE)"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Laporan yang menggambarkan posisi keuangan berupa nilai aset, kewajiban, dan ekuitas yang dimiliki entitas pemerintah pada periode tertentu disebut......",
+      "opsi": [
+        "Laporan realisasi anggaran (LRA)",
+        "Laporan operasional (LO)",
+        "Neraca",
+        "Laporan keuangan pemerintah daerah",
+        "Laporan perubahan ekuitas (LPE)"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Akun kas yang menjadi tanggung jawab Bendahara Umum Daerah (BUD) adalah......",
+      "opsi": [
+        "Kas di Bendahara penerimaan SKPD",
+        "Kas di kas daerah",
+        "Kas di Bendahara pengeluaran SKPD",
+        "Kas dari transaksi pendapatan daerah",
+        "Kas dari pendapatan pada bendahara penerimaan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Pada tanggal 2 Juni 2026 Bendahara Penerimaan Kota Bandung menerima pembayaran retribusi terminal dari PT Suka Dana Bandung sebesar Rp 5.000.000. Berdasarkan data transaksi tersebut buatkan jurnal finansialnya.....",
+      "opsi": [
+        "Kas di Bendahara Penerimaan Rp 5.000.000 (D) <br> Pendapatan Retribusi Terminal-LRA Rp 5.000.000 (K)",
+        "Kas di Bendahara Penerimaan Rp 5.000.000 (D) <br> Pendapatan Diterima di Muka Rp 5.000.000 (K)",
+        "Pendapatan Retribusi Terminal-LO Rp 5.000.000 (D) <br> Kas di Bendahara Pengeluaran Rp 5.000.000 (K)",
+        "Pendapatan Retribusi Terminal-LO Rp 5.000.000 (D) <br> Kas di Bendahara Penerimaan Rp 5.000.000 (K)",
+        "Kas di Bendahara Penerimaan Rp 5.000.000 (D) <br> Pendapatan Retribusi Terminal-LO Rp 5.000.000 (K)"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Pada tanggal 20 Juni 2026 SP2D LS diterbitkan atas pembelian peralatan untuk kepentingan operasional Pemerintah Kota Bandung sebesar Rp 8.000.000. Berdasarkan data transaksi tersebut buatkan jurnal finansialnya.....",
+      "opsi": [
+        "Peralatan Rp 8.000.000 (D) <br> Kas di Bendahara Pengeluaran Rp 8.000.000 (K)",
+        "Kas di Bendahara Penerimaan Rp 8.000.000 (D) <br> Peralatan Rp 8.000.000 (K)",
+        "R/K/PPKD Rp 8.000.000 (D) <br> Peralatan Rp 8.000.000 (K)",
+        "Peralatan Rp 8.000.000 (D) <br> R/K PPKD Rp 8.000.000 (K)",
+        "R/K PPKD Rp 8.000.000 (D) <br> Belanja Peralatan Rp 8.000.000 (K)"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Seluruh pengeluaran yang mengurangi rekening kas umum daerah dalam periode tahun anggaran bersangkutan dan pembayarannya tidak dapat diperoleh kembali oleh pemerintah daerah disebut.....",
       "opsi": [
         "Akun transfer",
         "Akun pembiayaan",
@@ -177,175 +298,109 @@
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Pada tanggal 1 Juni 2026 Bendahara Penerimaan Kota Bandung menerima pembayaran retribusi terminal dari PT Terminal Bandung sebesar Rp 5.000.000. Berdasarkan data transaksi tersebut buatkan jurnal finansialnya.....",
+      "pertanyaan": "Transaksi keuangan pemerintah daerah diikhtisarkan atau dicatat berdasarkan .....",
       "opsi": [
-        "Kas di Bendahara Penerimaan Rp 5.000.000<br>Pendapatan Retribusi Terminal-LRA Rp 5.000.000",
-        "Kas di Bendahara Penerimaan Rp 5.000.000<br>Pendapatan Diterima di Muka Rp 5.000.000",
-        "Pendapatan Retribusi Terminal-LO Rp 5.000.000<br>Kas di Bendahara Pengeluaran Rp 5.000.000",
-        "Pendapatan Retribusi Terminal-LO Rp 5.000.000<br>Kas di Bendahara Penerimaan Rp 5.000.000",
-        "Kas di Bendahara Penerimaan Rp 5.000.000<br>Pendapatan Retribusi Terminal-LO Rp 5.000.000"
+        "Daftar hadir",
+        "Daftar saldo",
+        "Daftar akun",
+        "Daftar neraca",
+        "Daftar BAS"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Penerapan Standar Akuntansi Pemerintah berbasis Akrual pada Pemerintah Daerah yaitu berdasarkan .....",
+      "opsi": [
+        "Permendagri No. 63 Tahun 2023",
+        "Permendagri No. 64 Tahun 2013",
+        "Permendagri No. 60 Tahun 2013",
+        "Permendagri No. 46 Tahun 2023",
+        "Permendagri No 46 Tahun 2023"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perhatikan tabel berikut!<br><br><blockquote><table border='1' cellpadding='5' cellspacing='0' style='border-collapse: collapse;'><tr><th>No.</th><th>Nama Akun</th><th>Debit</th><th>Kredit</th></tr><tr><td>1</td><td>Aset</td><td>(+)</td><td>(-)</td></tr><tr><td>2</td><td>Liabilitas</td><td>(-)</td><td>(+)</td></tr><tr><td>3</td><td>Ekuitas</td><td>(-)</td><td>(+)</td></tr><tr><td>4</td><td>Pendapatan -- LO/ Pendapatan-LRA</td><td>(-)</td><td>(+)</td></tr><tr><td>5</td><td>Beban/ Belanja</td><td>(+)</td><td>(-)</td></tr><tr><td>6</td><td>Penerimaan Pembiayaan</td><td>(-)</td><td>(+)</td></tr><tr><td>7</td><td>Pengeluaran Pembiayaan</td><td>(+)</td><td>(-)</td></tr><tr><td>8</td><td>Perubahan SAL</td><td>menyesuaikan</td><td>menyesuaikan</td></tr><tr><td>9</td><td>Estimasi Pendapatan</td><td>(+)</td><td>..........</td></tr></table></blockquote><br>Berdasarkan tabel tersebut isian titik-titik yang benar adalah........",
+      "opsi": [
+        "Tidak ada",
+        "(+)",
+        "(-)",
+        "menyesuaikan",
+        "Tidak menyesuaikan"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Diketahui pada tanggal 12 Juni 2024, pemerintah Kota Atlas menerbitkan Surat Ketetapan Pajak Daerah untuk pajak hotel sebesar Rp 25.000.000. Tentukan jurnal finansial yang benar.....",
+      "opsi": [
+        "Pendapatan Pajak Hotel-LO Rp 25.000.000 (D) <br> Piutang Pajak Daerah Rp 25.000.000 (K)",
+        "Piutang Pajak Daerah Rp 25.000.000 (D) <br> Pendapatan Pajak Hotel-LO Rp 25.000.000 (K)",
+        "Kas Bendahara Penerimaan Rp 25.000.000 (D) <br> Piutang Pajak Daerah Rp 25.000.000 (K)",
+        "Kas Bendahara Penerimaan Rp 25.000.000 (D) <br> Pendapatan Diterima di Muka Rp 25.000.000 (K)",
+        "Tidak ada pencatatan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Diketahui pada tanggal 12 Juni 2024, pemerintah Kota Atlas menerbitkan Surat Ketetapan Pajak Daerah untuk pajak hotel sebesar Rp 25.000.000. Tentukan jurnal pelaksanaan anggaran yang benar.....",
+      "opsi": [
+        "Pendapatan Pajak Hotel-LO Rp 25.000.000 (D) <br> Piutang Pajak Daerah Rp 25.000.000 (K)",
+        "Piutang Pajak Daerah Rp 25.000.000 (D) <br> Pendapatan Pajak Hotel-LO Rp 25.000.000 (K)",
+        "Kas Bendahara Penerimaan Rp 25.000.000 (D) <br> Piutang Pajak Daerah Rp 25.000.000 (K)",
+        "Kas Bendahara Penerimaan Rp 25.000.000 (D) <br> Pendapatan Diterima di Muka Rp 25.000.000 (K)",
+        "Tidak ada pencatatan"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Pada tanggal 18 Juni 2026 SP2D LS diterbitkan atas pembelian peralatan untuk kepentingan operasional Pemerintah Kota Bandung sebesar Rp 7.000.000. Berdasarkan data transaksi tersebut buatkan jurnal finansialnya.....",
+      "pertanyaan": "Diketahui pada tanggal 15 Juni 2024, Bendaharan penerimaan SKPD menerima pendapatan retribusi terminal bulan lalu sebesar Rp 4.500.000. Tentukan jurnal pelaksanaan anggaran yang benar.....",
       "opsi": [
-        "Peralatan Rp 7.000.000<br>Kas di Bendahara Pengeluaran Rp 7.000.000",
-        "Kas di Bendahara Penerimaan Rp 7.000.000<br>Peralatan Rp 7.000.000",
-        "R/K/PPKD Rp 7.000.000<br>Peralatan Rp 7.000.000",
-        "Peralatan Rp 7.000.000<br>R/K PPKD Rp 7.000.000",
-        "R/K PPKD Rp 7.000.000<br>Belanja Peralatan Rp 7.000.000"
+        "Pendapatan Pajak Hotel-LO Rp 4.500.000 (D) <br> Piutang Pajak Daerah Rp 4.500.000 (K)",
+        "Piutang Pajak Daerah Rp 4.500.000 (D) <br> Pendapatan Pajak Hotel-LO Rp 4.500.000 (K)",
+        "Kas Bendahara Penerimaan Rp 4.500.000 (D) <br> Piutang Pajak Daerah Rp 4.500.000 (K)",
+        "Perubahan SAL Rp 4.500.000 (D) <br> Pendapatan Retribusi Parkir-LRA Rp 4.500.000 (K)",
+        "Tidak ada pencatatan"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Surat Keputusan Banding diterbitkan oleh ...",
+      "pertanyaan": "Diketahui pada tanggal 30 Juni 2024, Bendaharan penerimaan SKPD menyetorkan pendapatan retribusi parkir sebesar Rp 2.750.000. Tentukan jurnal pelaksanaan anggaran yang benar.....",
       "opsi": [
-        "DJP",
-        "Kantor Pajak",
-        "Pengadilan Pajak",
-        "Wajib Pajak",
-        "Bank"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "SPT berfungsi sebagai sarana untuk ...",
-      "opsi": [
-        "Menghapus pajak",
-        "Melaporkan perhitungan pajak",
-        "Menagih pajak",
-        "Memberi sanksi",
-        "Mengurangi pajak"
+        "Pendapatan Pajak Hotel-LO Rp 2.750.000 (D) <br> Piutang Pajak Daerah Rp 2.750.000 (K)",
+        "Tidak ada pencatatan",
+        "Piutang Pajak Daerah Rp 2.750.000 (D) <br> Pendapatan Pajak Hotel-LO Rp 2.750.000 (K)",
+        "Kas Bendahara Penerimaan Rp 2.750.000 (D) <br> Piutang Pajak Daerah Rp 2.750.000 (K)",
+        "Perubahan SAL Rp 2.750.000 (D) <br> Pendapatan Retribusi Parkir-LRA Rp 2.750.000 (K)"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Jika ditemukan data baru yang menyebabkan pajak bertambah, maka diterbitkan ...",
+      "pertanyaan": "Singkatan dari SKPD adalah......",
       "opsi": [
-        "SKPKB",
-        "SKPKBT",
-        "SKPLB",
-        "SKPN",
-        "STP"
+        "Satuan Kerja Pungutan Desa",
+        "Satuan Kerja Perangkat Daerah",
+        "Satuan Kinerja Perangkat Daerah",
+        "Satuan Daerah Kerja Perangkat",
+        "Satuan Kerja Perangkat Desa"
       ],
       "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Surat Keterangan Bebas (SKB) berkaitan dengan ...",
-      "opsi": [
-        "Pembebasan pajak tertentu",
-        "Penagihan pajak",
-        "Denda pajak",
-        "Pajak kurang bayar",
-        "Pajak lebih bayar"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Surat Himbauan biasanya berisi ...",
-      "opsi": [
-        "Perintah penyitaan",
-        "Ancaman pidana",
-        "Imbauan untuk melapor atau membayar pajak",
-        "Penghapusan pajak",
-        "Pengembalian pajak"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "SSP saat ini banyak digantikan dengan sistem pembayaran melalui ...",
-      "opsi": [
-        "e-Billing",
-        "e-Mail",
-        "e-Commerce",
-        "e-Learning",
-        "e-Book"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Tax Code NT (No Tax) digunakan untuk transaksi ...",
-      "opsi": [
-        "Kena pajak",
-        "Ekspor",
-        "Tidak dikenakan pajak",
-        "Pajak masukan",
-        "Pajak keluaran"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Menu untuk membuat atau mengedit Tax Code adalah ...",
-      "opsi": [
-        "Accounts",
-        "Setup → Tax Codes",
-        "Card File",
-        "Inventory",
-        "Banking"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Tax Code pada MYOB digunakan untuk ...",
-      "opsi": [
-        "Mengatur akun",
-        "Mengatur pelanggan",
-        "Menghitung dan mengelompokkan pajak",
-        "Mengatur saldo awal",
-        "Mengatur persediaan"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Prinsip pengisian saldo awal pada MYOB adalah ...",
-      "opsi": [
-        "Total debit ≠ total kredit",
-        "Hanya debit saja",
-        "Harus seimbang",
-        "Tidak perlu dicek",
-        "Hanya akun kas"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Data yang harus diisi saat membuat item persediaan adalah ...",
-      "opsi": [
-        "Nama pelanggan",
-        "Harga jual dan akun persediaan",
-        "Nama bank",
-        "Nama kasir",
-        "Nama pajak"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Kesalahan umum saat input saldo awal adalah ...",
-      "opsi": [
-        "Periode salah",
-        "Data tidak lengkap",
-        "Saldo tidak seimbang",
-        "Akun belum dibuat",
-        "Semua benar"
-      ],
-      "jawaban": "E"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Perusahaan menerima pelunasan piutang sebesar Rp5.000.000. Buat jurnalnya dan dicatat ke dalam jurnal apa?"
+      "pertanyaan": "Cermati neraca saldo setelah penyesuaian Puskesmas Bersemi per 31 Desember 2024 berikut untuk menjawab soal nomor 1-2<br><br><blockquote>Puskesmas Bersemi<br>Neraca Saldo Setelah Penyesuaian<br>Per 31 Desember 2024<br>(In Rp)<br><br><table border='1' cellpadding='5' cellspacing='0' style='border-collapse: collapse;'><tr><th>Nama Akun</th><th>Debit</th><th>Kredit</th></tr><tr><td>Kas di Bendahara Penerimaan</td><td>165.500.000</td><td></td></tr><tr><td>Kas di Bendahara Pengeluaran</td><td>139.250.000</td><td></td></tr><tr><td>Rekening Bank BLUD</td><td>451.975.000</td><td></td></tr><tr><td>Piutang Kapitasi BPJS</td><td></td><td></td></tr><tr><td>Persediaan Obat-obatan</td><td>108.000.000</td><td></td></tr><tr><td>Persediaan Bahan Pakai Habis</td><td>31.500.000</td><td></td></tr><tr><td>Tanah untuk Bangunan Tempat Kerja</td><td>3.018.000.000</td><td></td></tr><tr><td>Bangunan Gedung tempat Kerja</td><td>4.518.000.000</td><td></td></tr><tr><td>Bangunan Gedung Tempat Tinggal</td><td>2.268.000.000</td><td></td></tr><tr><td>Alat Angkutan Darat Bermotor</td><td>2.928.000.000</td><td></td></tr><tr><td>Alat Kantor</td><td>198.000.000</td><td></td></tr><tr><td>Alat Rumah Tangga</td><td>138.000.000</td><td></td></tr><tr><td>Komputer</td><td>738.000.000</td><td></td></tr><tr><td>Meja dan Kursi Kerja</td><td>258.000.000</td><td></td></tr><tr><td>Akumulasi Penyusutan Bangunan Gedung</td><td></td><td>1.696.500.000</td></tr><tr><td>Akumulasi Penyusutan Peralatan dan Mesin</td><td></td><td>2.130.000.000</td></tr><tr><td>Utang Belanja Barang dan Jasa</td><td></td><td>23.500.000</td></tr><tr><td>Ekuitas</td><td></td><td>9.803.900.000</td></tr><tr><td>Perubahan SAL</td><td></td><td>1.009.900.000</td></tr><tr><td>Pendapatan Jasa Layanan Pasien Umum -- LRA</td><td></td><td>346.500.000</td></tr><tr><td>Pendapatan Kapitasi BPJS-LRA</td><td></td><td>573.000.000</td></tr><tr><td>Pendapatan Prolanis-LRA</td><td></td><td>513.000.000</td></tr><tr><td>Belanja Gaji dan Tunjangan</td><td>295.000.000</td><td></td></tr><tr><td>Belanja Tagihan Telepon</td><td>4.400.000</td><td></td></tr><tr><td>Belanja Tagihan Listrik</td><td>11.600.000</td><td></td></tr><tr><td>Belanja Tagihan Air</td><td>3.800.000</td><td></td></tr><tr><td>Belanja Bahan Pakai Habis</td><td>19.750.000</td><td></td></tr><tr><td>Belanja Perjalanan Dinas</td><td>85.500.000</td><td></td></tr><tr><td>Belanja Pemeliharaan Kendaraan Bermotor</td><td>39.750.000</td><td></td></tr><tr><td>Belanja Pemeliharaan Gedung</td><td>32.600.000</td><td></td></tr><tr><td>Belanja Modal Pengadaan Komputer</td><td>570.000.000</td><td></td></tr><tr><td>Belanja Modal Alat Angkutan Darat Bermotor</td><td>950.000.000</td><td></td></tr><tr><td>Surplus (Defisit)-LRA</td><td></td><td></td></tr><tr><td>Pendapatan Jasa Layanan Pasien Umum-LO</td><td></td><td>346.500.000</td></tr><tr><td>Pendapatan Kapitasi BPJS-LO</td><td></td><td>573.000.000</td></tr><tr><td>Pendapatan Prolanis-LO</td><td></td><td>513.000.000</td></tr><tr><td>Surplus (Defisit)-LO</td><td></td><td></td></tr><tr><td>Beban Gaji dan Tunjangan</td><td>295.000.000</td><td></td></tr><tr><td>Beban Tagihan Telepon</td><td>4.400.000</td><td></td></tr><tr><td>Beban Tagihan Listrik</td><td>11.600.000</td><td></td></tr><tr><td>Beban Tagihan Air</td><td>3.800.000</td><td></td></tr><tr><td>Beban Bahan Pakai Habis</td><td>19.750.000</td><td></td></tr><tr><td>Beban Perjalanan Dinas</td><td>85.500.000</td><td></td></tr><tr><td>Beban Pemeliharaan Kendaraan Bermotor</td><td>39.750.000</td><td></td></tr><tr><td>Beban Pemeliharaan Gedung</td><td>32.600.000</td><td></td></tr><tr><td>Beban Penyusutan Bangunan Gedung</td><td>28.275.000</td><td></td></tr><tr><td>Beban Penyusutan Peralatan dan Mesin</td><td>35.500.000</td><td></td></tr><tr><td><strong>Total</strong></td><td><strong>17.528.800.000</strong></td><td><strong>17.528.800.000</strong></td></tr></table></blockquote><br>Berilah tanda centang (✔) pada pernyataan-pernyataan berikut yang sesuai dengan data keuangan tersebut. (Jawaban benar lebih dari satu)<br><br>a. Selama bulan Desember 2024, total belanja puskesmas bersemi adalah Rp 2.012.400.000<br>b. Total pendapatan-LO Puskesmas Bersemi per 31 Desember 2024 adalah Rp 1.432.500.000<br>c. Total pendapatan-LRA Puskesmas Bersemi per 31 Desember 2024 adalah Rp 2.012.400.000<br>d. Pada bulan Desember 2024, Puskesmas Bersemi memperoleh surplus-LO sebesar Rp 876.325.000"
     },
     {
-      "pertanyaan": "PT Maju Jaya memiliki saldo utang kepada Toko Sinar Rp4.000.000. Pada tanggal 10 dibeli barang kredit Rp3.000.000 dan tanggal 15 dibayar Rp2.000.000. Hitung saldo akhir utang!"
+      "pertanyaan": "Berapakah jumlah surplus-LRA yang diperoleh Puskesmas Bersemi pada bulan Desember 2024?"
     },
     {
-      "pertanyaan": "Data transaksi keuangan SKPD Dinas Pendapatan Kota Bandung selama tahun 2026 adalah sebagai berikut. Pada tanggal 15 Januari 2026 Bendahara Penerimaan SKPD menerima pendapatan restribusi terminal bulan lalu sebesar Rp 4.500.000. Buatlah jurnal finansial!"
+      "pertanyaan": "Jelaskan pengertian kartu persediaan dan fungsinya dalam perusahaan dagang maupun manufaktur!"
     },
     {
-      "pertanyaan": "Apa perbedaan antara SKPKB, SKPLB, dan SKPN? Jelaskan!"
+      "pertanyaan": "Jelaskan pengertian kartu aktiva tetap dan tujuan penggunaannya dalam perusahaan!!"
     },
     {
-      "pertanyaan": "Analisislah dampak jika PD Nana FF salah mengatur Linked Account sejak awal!"
+      "pertanyaan": "Jelaskan perbedaan metode FIFO, LIFO, dan rata-rata tertimbang dalam pencatatan kartu persediaan!"
     }
   ]
 }
