@@ -1,351 +1,406 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Seorang siswa tidak sengaja menulis rumus di sel yang salah karena tidak memperhatikan alamat sel. Bagian Excel yang seharusnya diperhatikan terlebih dahulu adalah ...",
+      "pertanyaan": "Bagaimana sintaks Right....",
       "opsi": [
-        "Ribbon",
-        "Formula Bar",
-        "Worksheet",
-        "Status Bar",
-        "Name Box"
+        "Jumlah karakter, data teks",
+        "Jumlah, karakter awal, data teks",
+        "Data teks, jumlah karakter",
+        "Data teks, jumlah",
+        "Jumlah"
       ],
-      "jawaban": "E"
+      "jawaban": "C"
     },
     {
-      "pertanyaan": "Guru ingin siswa memahami bahwa satu file Excel dapat berisi banyak lembar kerja. Istilah yang tepat untuk satu file Excel adalah ...",
+      "pertanyaan": "Sebuah sekolah menetapkan siswa dinyatakan <b>Lulus Seleksi</b> apabila:<br><br>Nilai Matematika ≥ 80<br>Nilai Bahasa Inggris ≥ 75<br><br>Data siswa berada pada sel B2 (Matematika) dan C2 (Bahasa Inggris).<br><br>Rumus yang tepat untuk menentukan status kelulusan adalah ....",
       "opsi": [
-        "Sheet",
-        "Cell",
-        "Range",
-        "Workbook",
-        "Column"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Jika guru ingin memastikan siswa mengetahui lokasi penulisan rumus dan fungsi, maka bagian jendela Excel yang harus dijelaskan adalah ...",
-      "opsi": [
-        "Ribbon",
-        "Formula Bar",
-        "Name Box",
-        "Status Bar",
-        "Scroll Bar"
+        "=IF(OR(B2>=80,C2>=75),\"Lulus\",\"Tidak\")",
+        "=IF(AND(B2>=80,C2>=75),\"Lulus\",\"Tidak\")",
+        "=IF(B2>=80,\"Lulus\",\"Tidak\")",
+        "=AND(B2>=80,C2>=75,\"Lulus\")",
+        "=IF(AND(B2>=80),\"Lulus\",\"Tidak\")"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Dalam kegiatan praktik, siswa diminta berpindah cepat ke sel tertentu (misalnya C10). Fitur yang paling efisien digunakan adalah ...",
+      "pertanyaan": "Jika data menunjukkan 123-KIMIA, apabila menggunakan rumus =MID menjadi......",
       "opsi": [
-        "Ribbon",
-        "Worksheet",
-        "Name Box",
-        "Formula Bar",
-        "Status Bar"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Jika seluruh menu perintah seperti pengaturan font, alignment, dan grafik tidak terlihat, kemungkinan bagian Excel yang disembunyikan adalah ...",
-      "opsi": [
-        "Status Bar",
-        "Ribbon",
-        "Worksheet",
-        "Formula Bar",
-        "Name Box"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Data nilai siswa per bulan ingin dianalisis kecenderungan naik-turunnya. Grafik yang paling tepat adalah ...",
-      "opsi": [
-        "Pie Chart",
-        "Column Chart",
-        "Line Chart",
-        "Scatter Chart",
-        "Doughnut Chart"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Jika guru ingin membandingkan jumlah siswa tiap jurusan dalam satu tahun, jenis grafik yang paling efektif adalah ...",
-      "opsi": [
-        "Line",
-        "Pie",
-        "Column",
-        "Area",
-        "Scatter"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Seorang siswa langsung memilih menu Insert → Chart tanpa memblok data. Akibat yang paling mungkin terjadi adalah ...",
-      "opsi": [
-        "Grafik tidak bisa diedit",
-        "Excel menutup otomatis",
-        "Grafik tidak sesuai data",
-        "Grafik lebih rapi",
-        "Data hilang"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Data komposisi pengeluaran sekolah ingin ditampilkan dalam bentuk persentase. Grafik yang paling tepat adalah ...",
-      "opsi": [
-        "Column",
-        "Line",
-        "Area",
-        "Pie",
-        "Scatter"
+        "123",
+        "1",
+        "MIA",
+        "3-K",
+        "2"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Grafik XY (Scatter) lebih tepat digunakan dibanding grafik Line apabila ...",
+      "pertanyaan": "Fungsi yang digunakan untuk menghitung jumlah sel yang berisi data angka dan huruf, sedangkan sel kosong tidak akan terhitung sintaks yang digunakan adalah.....",
       "opsi": [
-        "Data berupa kategori",
-        "Data berbentuk persentase",
-        "Data menunjukkan hubungan dua variabel numerik",
-        "Data hanya satu variabel",
-        "Data bersifat perbandingan sederhana"
+        "Count (value, (value 2)...)",
+        "Counta (range data)",
+        "Countif (rane, kriteria)",
+        "Countblank (range)",
+        "STDEV (range)"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Apa fungsi TEKS....",
+      "opsi": [
+        "Untuk mengubah data menjadi numerik",
+        "Untuk mengambil karakter dari kanan",
+        "Untuk merubah data angka menjadi huruf",
+        "Untuk menyimpulkan seluruh huruf",
+        "Untuk mengambil karakter dari kiri"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Grafik sudah benar, tetapi sulit dipahami karena tidak ada keterangan warna. Komponen grafik yang perlu ditambahkan adalah ...",
+      "pertanyaan": "Fungsi count digunakan untuk....",
       "opsi": [
-        "Chart Title",
-        "Axis",
-        "Legend",
-        "Data Table",
-        "Gridlines"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Jika judul grafik tidak menggambarkan isi data, dampak yang paling mungkin adalah ...",
-      "opsi": [
-        "Grafik menjadi salah",
-        "Grafik tidak bisa dicetak",
-        "Pembaca salah menafsirkan data",
-        "Warna grafik berubah",
-        "Data hilang"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Guru ingin nilai setiap batang grafik langsung terlihat tanpa melihat tabel. Fitur yang harus diaktifkan adalah ...",
-      "opsi": [
-        "Axis",
-        "Legend",
-        "Data Label",
-        "Chart Area",
-        "Gridlines"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Perubahan warna grafik bertujuan utama untuk ...",
-      "opsi": [
-        "Mengubah data",
-        "Mempercantik tampilan tanpa makna",
-        "Mempermudah membedakan data",
-        "Menghapus grafik",
-        "Menyembunyikan kesalahan"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Jika area grafik terlalu sempit sehingga data tidak jelas, solusi terbaik adalah ...",
-      "opsi": [
-        "Menghapus grafik",
-        "Mengubah jenis grafik",
-        "Mengatur ukuran Chart Area",
-        "Menghapus data",
-        "Menutup worksheet"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Seorang siswa menulis rumus A1+B1 dan hasil tidak muncul. Kesalahan utama adalah ...",
-      "opsi": [
-        "Salah sel",
-        "Tidak ada operator",
-        "Tidak menggunakan tanda sama dengan",
-        "Angka terlalu kecil",
-        "Salah worksheet"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Jika A1=10 dan B1=5, hasil rumus =A1-B1*2 adalah ...",
-      "opsi": [
-        "0",
-        "5",
-        "10",
-        "-10",
-        "20"
+        "menghitung banyaknya angka",
+        "menghitung saldo awal",
+        "mengetahui peningkatan atau penurunan kas",
+        "Menghitung jumlah sel kosong",
+        "Menghitung jumlah saldo"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Rumus yang paling efisien untuk menjumlahkan data A1 sampai A10 adalah ...",
+      "pertanyaan": "Fungsi dari sintaks \"LOWER\" adalah.....",
       "opsi": [
-        "=A1+A2+...+A10",
-        "=COUNT(A1:A10)",
-        "=AVERAGE(A1:A10)",
-        "=SUM(A1:A10)",
-        "=MAX(A1:A10)"
+        "Untuk menambahkan seluruh huruf menjadi huruf kecil",
+        "Untuk memanpilkan huruf besar diawal teks",
+        "Untuk menampilkan seluruh huruf menjadi huruf besar",
+        "Untuk merubah data angka menjadi text (huruf)",
+        "Untuk merubah data teks menjadi numeric atau angka"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Pie Chart atau grafik lingkaran digunakan untuk apa.....",
+      "opsi": [
+        "Menunjukkan presentase",
+        "Menunjukkan proporsi",
+        "Komposisi biaya",
+        "Menunjukkan data",
+        "Semua benar"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Apa fungsi SUM IF (1 kriteria)",
+      "opsi": [
+        "Digunakan untuk menjumlahkan sel",
+        "Digunakan untuk menjumlahkan data berdasarkan 1 kriteria tertentu",
+        "Digunakan untuk menghitung dari data beberapa range",
+        "Digunakan untuk menghitung jumlah angka",
+        "Digunakan untuk menghitung jumlah data"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Sintaks fungsi LEFT adalah.....",
+      "opsi": [
+        "=(data teks, jumlah, karakter) untuk mengambil karakter dari kiri/awal",
+        "=(data teks, jumlah, karakter) untuk mengambil karakter dari kanan/belakang",
+        "=(data teks, karakter awal, jumlah) untuk mengambil dari kiri ke tengah",
+        "=(data teks, karakter awal, jumlah) untuk menampilkan seluruh menjadi huruf kecil",
+        "=(data teks, karakter awal, jumlah) huruf besar di awal teks)"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Rumus IF, AND, OR adalah fungsi logika dasar di excel untuk membuat ...",
+      "opsi": [
+        "Keputusan otomatis berdasarkan syarat tertentu",
+        "Untuk menghasilkan TRUE",
+        "Untuk menghasilkan nilai",
+        "Untuk melihat nilai",
+        "Untuk merapihkan sel"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Fungsi PROFER adalah.....",
+      "opsi": [
+        "Untuk menampilkan seluruh huruf menjadi kecil",
+        "Untuk mengubah data text",
+        "Untuk menampilkan huruf besar di awal text",
+        "Untuk mengubah angka",
+        "Untuk menampilkan data"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Chart yang digunakan untuk membandingkan nilai antar periode/bulan adalah....",
+      "opsi": [
+        "Bar chart",
+        "Column chart",
+        "Pie chart",
+        "Triangle chart",
+        "Combo chart"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Fungsi COUNTBLANK adalah.....",
+      "opsi": [
+        "Menghitung dara dari beberapa range lebih dari 1",
+        "Menghitung jumlah sel-sel tidak bernilai",
+        "Menghitung hasil semua range",
+        "Menghitung banyaknya data angka dalam suatu range",
+        "Menghitung data dengan nama siswa"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Rumus untuk menghitung jumlah data dengan kriteria tertentu adalah....",
+      "opsi": [
+        "SUM",
+        "AVERAGE",
+        "COUNTIF",
+        "MAX",
+        "MIN"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Fungsi OR akan menghasilkan TRUE jika.....",
+      "opsi": [
+        "Semua kondisi salah",
+        "Semua kondisi benar",
+        "Salah satu kondisi benar",
+        "Tidak ada data",
+        "Sel kosong"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Fitur excel yang digunakan untuk mengunci baris atau kolom agar tetap terlihat saat di scroll adalah...",
+      "opsi": [
+        "Merge and center",
+        "Freeze panes",
+        "Wrap text",
+        "Sort",
+        "filter"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Fungsi MID digunakan untuk mengambil sebagian karakter teks, yaitu yang terletak di bagian....",
+      "opsi": [
+        "Awal teks",
+        "Akhir teks",
+        "Tengah teks",
+        "Seluruh teks",
+        "Awal dan akhir teks sekaligus"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "VLOOKUP biasanya dipakai untuk.....",
+      "opsi": [
+        "Mengurutkan data",
+        "Mencari data pada tabel secara vertikal berdasarkan kunci tertentu",
+        "Menggabungkan sel",
+        "Membuat grafik",
+        "Menghapus data duplikat"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Rumus yang digunakan untuk mengambil 3 karakter terakhir adalah.....",
+      "opsi": [
+        "=LEFT(A1,3",
+        "=MID(A1,3,2)",
+        "=RIGHT(A1,3)",
+        "=LOWER(A1)",
+        "=UPPER(A1)"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Bagian excel yang berbentuk kotak-kotak kecil tempat kita menginput data tersebut disebut......",
+      "opsi": [
+        "Worksheet",
+        "Cell",
+        "Sheet lab",
+        "Column heading",
+        "Formula bar"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "String adalah...",
+      "opsi": [
+        "karakter",
+        "angka",
+        "data",
+        "jumlah",
+        "kumpulan karakter, angka, kombinasi huruf, dan angka"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Jenis grafik yang paling tepat digunakan untuk menunjukkan presentase atau proporsi serta komposisi biaya adalah......",
+      "opsi": [
+        "Bar chart",
+        "Line chart",
+        "Combo chart",
+        "Pie chart",
+        "Radar chart"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Seorang siswa mendapatkan hasil error (#DIV/0!). Kemungkinan penyebabnya adalah ...",
+      "pertanyaan": "Fungsi logika yang hasilnya BENAR hanya jika SEMUA syarat terpenuhi adalah......",
       "opsi": [
-        "Rumus salah ketik",
-        "Sel pembagi bernilai nol",
-        "Data berupa teks",
-        "Salah operator",
-        "Grafik belum dibuat"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Jika rumus =5+10/5 menghasilkan 7, maka konsep yang diterapkan Excel adalah ...",
-      "opsi": [
-        "Penjumlahan dahulu",
-        "Urutan penulisan",
-        "Prioritas operasi matematika",
-        "Pembulatan angka",
-        "Penggunaan fungsi"
+        "OR",
+        "IF",
+        "AND",
+        "COUNTIF",
+        "SUMIF"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Untuk menghitung total nilai lalu menampilkannya dalam grafik, urutan kerja yang benar adalah ...",
+      "pertanyaan": "Sebuah perusahaan memberikan bonus kepada karyawan yang memenuhi <b>salah satu</b> syarat berikut:<br><br>Masa kerja ≥ 10 tahun, atau<br>Penjualan ≥ Rp100.000.000<br><br>Jika masa kerja berada di sel B2 dan penjualan di sel C2, maka rumus yang tepat adalah ....",
       "opsi": [
-        "Grafik → rumus → data",
-        "Data → grafik → rumus",
-        "Rumus → data → grafik",
-        "Data → rumus → grafik",
-        "Grafik → data → rumus"
+        "=IF(AND(B2>=10,C2>=100000000),\"Bonus\",\"Tidak\")",
+        "=IF(OR(B2>=10,C2>=100000000),\"Bonus\",\"Tidak\")",
+        "=OR(B2>=10,C2>=100000000,\"Bonus\")",
+        "=IF(B2>=10,\"Bonus\",\"Tidak\")",
+        "=IF(C2>=100000000,\"Bonus\",\"Tidak\")"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Rumus yang menghasilkan TRUE jika salah satu atau lebih kondisi yang diuji terpenuhi yaitu menggunakan rumus.....",
+      "opsi": [
+        "IF",
+        "MAX",
+        "MIN",
+        "AND",
+        "OR"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Jika Anda ingin mengambil 3 karakter dari sebelah kiri pada kata \"Indonesia\" rumus/ fungsi yang tepat adalah.....",
+      "opsi": [
+        "=LEFT(\"Indonesia\";3)",
+        "=UPPER(\"Indonesia\")",
+        "=TEXT(\"Indonesia\")",
+        "=VALUE(\"Indonesia\";3)",
+        "=RIGHT(\"Indonesia\";3)"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Untuk menjumlahkan data berdasarkan beberapa kriteria sekaligus merupakan pengertian dari fungsi......",
+      "opsi": [
+        "SUMIF",
+        "SUMIFS",
+        "IFSUM",
+        "MAX",
+        "MIN"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Ada berapa jenis grafik di excel........",
+      "opsi": [
+        "3",
+        "7",
+        "4",
+        "6",
+        "5"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Fungsi VALUE adalah......",
+      "opsi": [
+        "Untuk menampilkan seluruh huruf menjadi huruf kecil",
+        "Untuk menampilkan huruf besar diawal",
+        "Untuk merubah data teks menjadi numerik atau angka",
+        "Untuk merubah data angka menjadi text",
+        "Untuk menampilkan seluruh huruf menjadi huruf besar"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Menu atau tab yang digunakan untuk menyisipkan grafik baru di Microsoft word adalah......",
+      "opsi": [
+        "Home",
+        "Layout",
+        "reference",
+        "Insert",
+        "Design"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Jika hasil perhitungan berubah, grafik juga ikut berubah. Hal ini menunjukkan bahwa grafik di Excel bersifat ...",
+      "pertanyaan": "Seorang siswa ingin menampilkan persentase jumlah siswa berdasarkan jurusan AKL, MPLB, dan TJKT. Jenis grafik yang paling sesuai adalah ....",
       "opsi": [
-        "Statis",
-        "Manual",
-        "Dinamis",
-        "Tetap",
-        "Terpisah"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Seorang guru ingin menilai pemahaman siswa tentang fungsi Excel. Aktivitas yang paling tepat adalah ...",
-      "opsi": [
-        "Menghafal menu",
-        "Menyalin tabel",
-        "Mengolah data lalu menyajikannya dalam grafik",
-        "Mengganti warna sel",
-        "Menutup aplikasi"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Jika data salah, tetapi grafik terlihat bagus, sikap yang paling tepat adalah ...",
-      "opsi": [
-        "Membiarkannya",
-        "Menghapus grafik",
-        "Memperbaiki data terlebih dahulu",
-        "Mengganti warna grafik",
-        "Menyimpan file"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Kesalahan paling fatal dalam penggunaan rumus Excel adalah ...",
-      "opsi": [
-        "Salah warna sel",
-        "Salah ukuran grafik",
-        "Salah data yang dihitung",
-        "Salah font",
-        "Salah tema"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Penggunaan grafik dalam laporan bertujuan utama untuk ...",
-      "opsi": [
-        "Menghias laporan",
-        "Mengurangi data",
-        "Mempermudah analisis dan pemahaman",
-        "Mengganti tabel",
-        "Menghemat waktu mengetik"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Jika siswa diminta membandingkan dua data berbeda secara visual, maka grafik lebih unggul dibanding tabel karena ...",
-      "opsi": [
-        "Lebih kecil ukurannya",
-        "Lebih cepat dipahami",
-        "Lebih sulit dibuat",
-        "Lebih banyak warna",
-        "Lebih sedikit angka"
+        "Line Chart",
+        "Pie Chart",
+        "Area Chart",
+        "Scatter Chart",
+        "Stock Chart"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Rumus =A1+A2*A3 berbeda hasil dengan (A1+A2)*A3 karena ...",
+      "pertanyaan": "Pada rumus =(COUNTIF(A1:A10;\"LULUS\"), bagian A1:A10 berfungsi sebagai......",
       "opsi": [
-        "Sel berbeda",
-        "Grafik mempengaruhi",
-        "Urutan operasi matematika",
-        "Kesalahan Excel",
-        "Angka tidak valid"
+        "Rentang sel (range) yang akan diperiksa",
+        "Kriteria yang dicari",
+        "Nilai acuan untuk menjumlahkan",
+        "Hasil dari rumus",
+        "Rumus"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Perhatikan data berikut!<br><br><table border='1' cellpadding='5' cellspacing='0'><tr><th>Bulan</th><th>Penjualan</th></tr><tr><td>Januari</td><td>120</td></tr><tr><td>Februari</td><td>150</td></tr><tr><td>Maret</td><td>180</td></tr><tr><td>April</td><td>160</td></tr></table><br>Jika data tersebut dibuat dalam bentuk grafik garis (Line Chart), maka dapat disimpulkan bahwa ....",
+      "opsi": [
+        "Penjualan selalu menurun setiap bulan",
+        "Penjualan tertinggi terjadi pada Februari",
+        "Penjualan mengalami kenaikan hingga Maret kemudian menurun pada April",
+        "Penjualan tertinggi terjadi pada Januari",
+        "Penjualan stabil setiap bulan"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Jika grafik tidak sesuai dengan tujuan penyajian data, maka tindakan terbaik adalah ...",
+      "pertanyaan": "Jika golongan 1 atau golongan 2 dapat bonus 7000 golongan 3 bonusnya 12000, maka rumus yang tepat adalah......",
       "opsi": [
-        "Menghapus data",
-        "Mengganti jenis grafik",
-        "Mengganti warna sel",
-        "Mengunci worksheet",
-        "Menutup file"
+        "=IF(AND(B2;A;C2=\"7000\");\"7000\";\"12000\")",
+        "=IF(OR(B2=2;B2=2);\"17000\";\"12000\")",
+        "=IF(OR(B2=2;B2=1);\"12000\";\"7000\")",
+        "Semua salah",
+        "=IF(OR(B2=1;B2=2);\"7000\";\"12000\")"
       ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Kombinasi kemampuan yang paling tepat dalam pembelajaran Excel adalah ...",
-      "opsi": [
-        "Menghafal menu",
-        "Menyalin rumus",
-        "Memahami data, menghitung, dan menyajikannya secara visual",
-        "Mengganti tema",
-        "Mengatur margin"
-      ],
-      "jawaban": "C"
+      "jawaban": "E"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Jelaskan mengapa pemilihan jenis grafik yang tepat sangat penting dalam penyajian data!"
+      "pertanyaan": "Jelaskan perbedaan fungsi RIGHT dan LEFT!"
     },
     {
-      "pertanyaan": "Sebuah data nilai siswa sudah dihitung dengan rumus, tetapi grafik tidak berubah. Analisis kemungkinan penyebabnya!"
+      "pertanyaan": "Diketahui, Penerima beasiswa harus memenuhi dua syarat:<br><br>- Nilai rata-rata minimal 85.<br>- Kehadiran minimal 90%.<br><br>Nilai rata-rata terdapat pada sel <b>B2</b> dan kehadiran pada sel <b>C2</b>.<br><br>Buatlah rumus Excel menggunakan fungsi AND untuk menentukan apakah siswa berhak menerima beasiswa!"
     },
     {
-      "pertanyaan": "Bandingkan fungsi grafik Column dan Pie dalam konteks laporan sekolah!"
+      "pertanyaan": "Jelaskan perbedaan fungsi COUNT, COUNTA, dan COUNTBLANK!"
     },
     {
-      "pertanyaan": "Mengapa memahami urutan operasi matematika penting dalam penggunaan rumus Excel?"
+      "pertanyaan": "Jelaskan perbedaan rumus IF, AND, OR!"
     },
     {
-      "pertanyaan": "Jelaskan hubungan antara pengolahan data, penggunaan rumus, dan pembuatan grafik di Microsoft Excel!"
+      "pertanyaan": "Diketahui, Sebuah perusahaan memberikan bonus kepada karyawan yang memenuhi salah satu syarat berikut:<br><br>- Masa kerja minimal 10 tahun, atau<br>- Total penjualan minimal Rp100.000.000.<br><br>Masa kerja terdapat pada sel <b>B2</b> dan total penjualan pada sel <b>C2</b>.<br><br>Buatlah rumus Excel menggunakan fungsi OR untuk menentukan apakah karyawan memperoleh bonus!"
     }
   ]
 }
