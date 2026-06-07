@@ -1,345 +1,406 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Perangkat Komputer Yang Dijadikan Media Atau Tempat Memasang Processor, Memory Dan Perangkat Keras Yang Lain Ialah ...",
+      "pertanyaan": "Perubahan paling signifikan dari komputer generasi kedua dibanding generasi pertama adalah ....",
       "opsi": [
-        "Casing",
-        "Harddisk",
-        "Power Supply",
-        "Prosessor",
-        "Motherboard"
+        "Penggunaan internet pertama kali",
+        "Penggunaan transistor menggantikan tabung vakum",
+        "Penggunaan SSD sebagai media penyimpanan",
+        "Penggunaan sistem operasi berbasis GUI",
+        "Penggunaan kecerdasan buatan"
       ],
-      "jawaban": "E"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Peralatan Yang Berfungsi Sebagai Pusat/Sentral Dalam Pengelolaan Data Pada Komputer Disebut....",
+      "pertanyaan": "Seorang teknisi menemukan komputer lama yang menggunakan IC sebagai komponen utama pemrosesannya. Komputer tersebut kemungkinan termasuk generasi ....",
       "opsi": [
-        "Keyboard",
-        "Harddisk",
+        "Pertama",
+        "Kedua",
+        "Ketiga",
+        "Keempat",
+        "Kelima"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Sistem komputer terdiri atas tiga komponen utama. Jika salah satu komponen tidak tersedia, maka proses pengolahan data dapat terganggu. Komponen tersebut adalah ....",
+      "opsi": [
+        "Hardware, software, dan internet",
+        "Hardware, software, dan brainware",
+        "Hardware, CPU, dan RAM",
+        "Software, browser, dan brainware",
+        "Hardware, jaringan, dan brainware"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Seorang pengguna memiliki komputer dengan spesifikasi tinggi, tetapi tidak dapat menjalankan aplikasi apa pun karena sistem operasi belum terinstal. Kondisi tersebut menunjukkan bahwa ....",
+      "opsi": [
+        "Hardware lebih penting daripada software",
+        "Brainware tidak dibutuhkan",
+        "Software diperlukan agar hardware dapat digunakan secara optimal",
+        "RAM mengalami kerusakan",
+        "Motherboard tidak kompatibel"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perhatikan urutan berikut:<br>1. Data dimasukkan<br>2. Data diproses<br>3. Informasi dihasilkan<br><br>Urutan tersebut menggambarkan konsep ....",
+      "opsi": [
+        "Jaringan komputer",
+        "Sistem operasi",
+        "Siklus pengolahan data",
+        "Virtualisasi",
+        "Topologi jaringan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perangkat yang berfungsi mengubah gerakan fisik pengguna menjadi data digital untuk diproses komputer adalah ....",
+      "opsi": [
         "Monitor",
+        "Printer",
+        "Scanner",
+        "Speaker",
+        "Proyektor"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Jika pengguna ingin menyimpan data secara permanen meskipun komputer dimatikan, perangkat yang paling tepat digunakan adalah ....",
+      "opsi": [
         "RAM",
-        "CPU"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Perangkat Keras Komputer Yang Berfungsi Untuk Menyimpan Data Adalah....",
-      "opsi": [
-        "CD ROM",
-        "Prosessor",
-        "Input Device",
-        "Harddisk",
-        "RAM"
+        "Cache Memory",
+        "Register",
+        "SSD",
+        "ROM Sementara"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Contoh Perangkat-Perangkat Input Ialah ...",
+      "pertanyaan": "Komponen yang bertugas melakukan perhitungan aritmatika dan logika dalam komputer adalah ....",
       "opsi": [
-        "Monitor, Printer, Speaker",
-        "Card Vga, Card I/O, Sound Card",
-        "Analis, Programmer",
-        "Casing, Power Supply",
-        "Keyboard, Scanner, CD-ROM"
+        "PSU",
+        "CPU",
+        "HDD",
+        "VGA",
+        "NIC"
       ],
-      "jawaban": "E"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Jika Menjalankan Game Tapi Tampilannya Lambat, Hardware Yang Perlu Di-Upgrade Yaitu..",
+      "pertanyaan": "Slot DIMM DDR3 pada motherboard digunakan untuk memasang ....",
       "opsi": [
-        "Sound Card",
-        "Processor",
         "VGA Card",
-        "Hard Disk",
-        ""
+        "SSD NVMe",
+        "RAM",
+        "Processor",
+        "Sound Card"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "<img src='soal/img/X/dpk-tjkt/picture1.jpg'><br><br>Gambar Berikut Termasuk Kategori...",
+      "pertanyaan": "Seorang siswa memasang kartu grafis tambahan pada motherboard. Slot yang paling tepat digunakan adalah ....",
       "opsi": [
-        "Media Penyimpanan",
-        "Alat Input",
-        "Alat Output",
-        "Alat Proses.",
-        "Alat Media"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Kepanjangan RAM Adalah...",
-      "opsi": [
-        "Random Access Monitor",
-        "Read Access Monitor",
-        "Random Access Memory",
-        "Read Access Memory",
-        "Ramdom Accept Memory"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Port LAN Pada Motherboard Digunakan Untuk...",
-      "opsi": [
-        "Memasang VGA",
-        "Memasang Keyboard",
-        "Memasang Mouse",
-        "Memasang Kabel Jaringan",
-        "Memasang Wifi"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Urutan Langkah Merakit Komputer Yang Benar Adalah....",
-      "opsi": [
-        "Pasang Motherboard, Keyboard, Mouse, Monitor, Kabel Power",
-        "Pasang Hard Disk, Disk Drive, CD ROM, Motherboard, Prosesor, RAM",
-        "Pasang Motherboard, RAM, Hard Disk, Prosesor, Disk Drive, CD ROM",
-        "Pasang Kabel Aksesoris, Motherboard, Prosesor, RAM, Hard Disk",
-        "Pasang Power Supply, Motherboard, Prosesor, RAM, Hard Disk, Disk Drive, CD ROM Dan Kabel Aksesoris"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "<img src='soal/img/X/dpk-tjkt/picture2.jpg'><br><br>Untuk Langkah Memasang Random Access Memory Ditunjukkan Pada Bagian...",
-      "opsi": [
-        "Bagian 2",
-        "Bagian 5",
-        "Bagian 4",
-        "Bagian 1",
-        "Bagian 3"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "<img src='soal/img/X/dpk-tjkt/picture3.jpg'><br><br>Perhatikan Gambar Berikut Pada Bagian No 14 Adalah ...",
-      "opsi": [
-        "Port Power",
-        "Port SATA",
-        "Back Panel",
-        "Slot AGP",
-        "Port Paralel"
+        "PCIe x16",
+        "SATA",
+        "DIMM",
+        "M.2",
+        "ATX Power"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Fungsi Dari Power Supply Adalah...",
+      "pertanyaan": "Kabel SATA Data memiliki fungsi utama untuk ....",
       "opsi": [
-        "Penyimpan Data",
-        "Pengalir Listrik",
-        "Pendingin Komputer",
-        "Penghantar Panas",
-        "Penghambat Listik"
+        "Menyalurkan listrik ke motherboard",
+        "Menghubungkan PSU ke VGA",
+        "Menghubungkan media penyimpanan dengan motherboard untuk transfer data",
+        "Menyalurkan listrik ke CPU",
+        "Menghubungkan monitor ke motherboard"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Jika kabel SATA Power tidak terhubung ke SSD, maka kemungkinan yang terjadi adalah ....",
+      "opsi": [
+        "SSD terdeteksi tetapi lambat",
+        "SSD tidak mendapatkan daya sehingga tidak terdeteksi",
+        "SSD tetap berfungsi normal",
+        "Motherboard mati total",
+        "BIOS rusak"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Urutan Langkah Merakit Komputer Yang Benar Adalah....",
+      "pertanyaan": "Pada pemasangan kabel Front Panel, konektor PWR SW berfungsi untuk ....",
       "opsi": [
-        "Pasang Motherboard, Keyboard, Mouse, Monitor, Kabel Power",
-        "Pasang Hard Disk, Disk Drive, CD ROM, Motherboard, Prosesor, RAM",
-        "Pasang Motherboard, RAM, Hard Disk, Prosesor, Disk Drive, CD ROM",
-        "Pasang Kabel Aksesoris, Motherboard, Prosesor, RAM, Hard Disk",
-        "Pasang Power Supply, Motherboard, Prosesor, RAM, Hard Disk, Disk Drive, CD ROM Dan Kabel Aksesoris"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Sebuah komputer klien dikonfigurasi dengan IP Address 192.168.1.10 dan Subnet Mask 255.255.255.0. Jika dianalogikan dengan sistem pengiriman pos, bagian mana dari IP tersebut yang bertindak sebagai \"Nama Jalan\" (Network ID) agar komputer dapat mengetahui bahwa tujuan datanya masih berada di lingkungan yang sama?",
-      "opsi": [
-        "192.168",
-        "192.168.1",
-        "10",
-        "1.10",
-        "192.168.1.10"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "IP Address dalam jaringan dibedakan menjadi dua jenis, yaitu IPv4 dan IPv6. IPv4 mempunyai jumlah bit sebanyak ....",
-      "opsi": [
-        "32 bit",
-        "48 bit",
-        "64 bit",
-        "128 bit",
-        "256 bit"
+        "Menyalakan dan mematikan komputer melalui tombol power casing",
+        "Menyalakan lampu HDD",
+        "Menghubungkan speaker internal",
+        "Mereset BIOS",
+        "Menghubungkan USB depan"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "IP Address dalam jaringan dibedakan menjadi dua jenis, yaitu Ipv4 dan Ipv6. Ipv6 mempunyai jumlah bit sebanyak ....",
+      "pertanyaan": "Setelah merakit komputer, kipas prosesor berputar dan lampu motherboard menyala, tetapi saat tombol power casing ditekan komputer tidak merespons. Kemungkinan terbesar adalah ....",
       "opsi": [
-        "32 bit",
-        "48 bit",
-        "64 bit",
-        "128 bit",
-        "256 bit"
+        "Kabel SATA Data rusak",
+        "RAM terlalu besar",
+        "Kabel PWR SW pada Front Panel salah pemasangan atau tidak terpasang",
+        "SSD tidak terdeteksi",
+        "Monitor mati"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Sebuah komputer dapat masuk BIOS, namun Layar Monitor tidak Menyala. Setelah diperiksa, kabel daya SSD terpasang dengan baik. Kemungkinan masalah yang paling logis adalah ....",
+      "opsi": [
+        "Kabel SATA Data tidak terpasang atau rusak",
+        "Tombol power rusak",
+        "RAM tidak kompatibel",
+        "Front panel salah pemasangan",
+        "Monitor bermasalah"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Sekumpulan aktivitas atau tugas terstruktur yang saling berkaitan dan dirancang untuk menghasilkan suatu produk atau layanan tertentu bagi konsumen untuk mendapatkan keuntungan atau laba disebut dengan...",
+      "opsi": [
+        "Struktur Organisasi",
+        "Proses Bisnis",
+        "Standar Operasional Prosedur (SOP)",
+        "Rantai Pasok (Supply Chain)",
+        "Manajemen Kualitas"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Tujuan utama dari otomatisasi dalam perancangan proses bisnis adalah...",
+      "opsi": [
+        "Memperumit alur kerja perusahaan",
+        "Mengurangi jumlah pegawai secara drastis",
+        "Meningkatkan efisiensi dan mengurangi kesalahan manusia (human error)",
+        "Menghilangkan peran manajemen puncak",
+        "Menambah biaya operasional harian"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Di bawah ini yang merupakan contoh proses bisnis berupa layanan jasa di bidang TJKT adalah...",
+      "opsi": [
+        "Produksi perangkat keras komputer massal",
+        "Pembuatan sistem operasi komputer",
+        "Jasa instalasi jaringan LAN dan CCTV",
+        "Penjualan suku cadang kendaraan bermotor",
+        "Perakitan telepon pintar (smartphone)"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dalam proses bisnis di bidang TJKT, siklus yang dimulai dari pengumpulan kebutuhan klien, perancangan jaringan, hingga implementasi dan pemeliharaan disebut sebagai...",
+      "opsi": [
+        "Manajemen rantai pasok (Supply Chain)",
+        "Siklus hidup pengembangan sistem (System Development Life Cycle)",
+        "Manajemen sumber daya manusia",
+        "Analisis laba rugi perusahaan",
+        "Strategi pemasaran digital"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Berikut ini yang BUKAN merupakan contoh peluang usaha/bisnis di bidang TJKT adalah...",
+      "opsi": [
+        "Membuka jasa penyedia layanan internet (ISP) lokal",
+        "Membuka layanan servis komputer dan laptop",
+        "Menjadi seorang Network Administrator lepas (freelancer)",
+        "Membuka usaha toko bangunan dan material",
+        "Pembuatan dan penyewaan website atau aplikasi"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Sebuah sekolah ingin membangun jaringan lokal (LAN) untuk lab komputernya. Admin tidak ingin jaringan tersebut terhubung langsung ke internet terbuka menggunakan alamat IP publik karena alasan biaya dan keamanan. Berdasarkan dokumen RFC 1918, manakah dari IP Address berikut yang paling sah dan tepat untuk digunakan sebagai IP jaringan lokal lab tersebut?",
+      "pertanyaan": "Dalam komponen analisis pasar, metode analisis yang digunakan untuk mengetahui kekuatan, kelemahan, peluang, dan ancaman dari bisnis yang akan dijalankan adalah...",
       "opsi": [
-        "8.8.8.8",
-        "172.16.10.5",
-        "169.254.1.1",
-        "224.0.0.5",
-        "127.0.0.1"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Komputer A dan Komputer B dihubungkan menggunakan kabel UTP secara langsung tanpa adanya konfigurasi IP manual maupun DHCP Server. Saat diperiksa menggunakan perintah ipconfig, Komputer A mendapatkan IP Address 169.254.10.5. Apa makna teknis dari IP Address tersebut bagi operasional Komputer A?",
-      "opsi": [
-        "Komputer A sedang berkomunikasi dengan dirinya sendiri untuk proses testing (Loopback)",
-        "Komputer A menggunakan IP Public resmi yang diberikan secara otomatis oleh ISP",
-        "Komputer A menggunakan Automatic Private IP Addressing (APIPA) untuk komunikasi lokal dalam satu segmen kabel",
-        "Komputer A bertindak sebagai pengirim Broadcast Address utama di jaringan tersebut",
-        "Komputer A mengalami malfungsi pada kartu jaringan sehingga IP diacak oleh sistem"
+        "Analisis 5W+1H",
+        "Analisis STP (Segmentation, Targeting, Positioning)",
+        "Analisis SWOT",
+        "Analisis BEP (Break Even Point)",
+        "Analisis Marketing Mix"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Seorang teknisi menemukan perangkat asing dengan MAC Address 00:1A:2B:9C:5D:7E terhubung ke switch perusahaannya. Jika teknisi tersebut ingin mengetahui identitas perusahaan atau pabrik yang memproduksi kartu jaringan (NIC) perangkat tersebut untuk keperluan pelacakan, bagian mana dari MAC Address tersebut yang harus dianalisis?",
+      "pertanyaan": "Untuk mengetahui berapa lama modal yang diinvestasikan akan kembali saat bisnis mulai beroperasi, seorang perencana bisnis harus menghitung...",
       "opsi": [
-        "9C:5D:7E",
-        "00:1A:2B:9C:5D:7E",
-        "00:1A:2B",
-        "2B:9C:5D",
-        "5D:7E"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Sebagai konsultan TKJ, Anda diminta mengaudit topologi jaringan perusahaan klien yang kerap putus sambung. Dalam laporannya, Anda menemukan sebuah Workstation milik direktur dipasang IP statis 224.0.0.10 oleh teknisi lama. Menurut standarisasi IANA (Internet Assigned Numbers Authority), alasan spesifik mengapa konfigurasi tersebut menyebabkan kecacatan jaringan adalah?",
-      "opsi": [
-        "IP tersebut adalah IP APIPA yang dilarang dipasang manual karena fungsi aslinya sebagai sistem cadangan ketika DHCP gagal",
-        "IP tersebut termasuk IP Kelas A publik yang di-blacklist oleh ISP lokal sehingga rentan penyadapan",
-        "IP tersebut merupakan blok TEST-NET yang secara eksklusif dikhususkan untuk sampel modul dokumentasi / buku panduan",
-        "IP tersebut tergolong alamat Multicast (Kelas D) yang difungsikan untuk pengiriman ke grup/protokol routing, bukan untuk NIC pengguna tunggal (Unicast)",
-        "IP tersebut merupakan IP Cadangan Eksperimental (Kelas E) yang ditolak mentah-mentah oleh BIOS dan MAC perangkat keras"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Dari IP Address berikut ini, manakah yang merupakan IP Address kelas B?",
-      "opsi": [
-        "126.24.3.5",
-        "190.25.4.57",
-        "195.46.57.7",
-        "200.6.8.78",
-        "236.57.26.8"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Alamat fisik yang sudah tertanam permanen di dalam kartu jaringan sejak perangkat itu dibuat di pabrik adalah ....",
-      "opsi": [
-        "Media Access Control",
-        "IP Address",
-        "Network Interface Card",
-        "Address Resolution Protocols",
-        "Network Identifier"
+        "Payback Period",
+        "Net Present Value (NPV)",
+        "ROI (Return on Investment)",
+        "BEP (Break Even Point)",
+        "IRR (Internal Rate of Return)"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Bagian pada MAC Address yang berfungsi untuk mengidentifikasi nama perusahaan atau produsen yang membuat kartu jaringan (NIC) terletak pada .....",
+      "pertanyaan": "Komponen perencanaan bisnis yang memuat daftar kebutuhan modal awal, biaya operasional bulanan, dan target laba perusahaan dikelompokkan dalam bagian...",
       "opsi": [
-        "24 bit pertama pada MAC Address",
-        "24 bit terakhir pada MAC Address",
-        "8 bit pertama pada MAC Address",
-        "8 bit pertama pada MAC Address",
-        "32 bit pertama pada MAC Address"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Modal dalam usaha dapat berupa...",
-      "opsi": [
-        "Uang saja",
-        "Barang saja",
-        "Tenaga saja",
-        "Uang, tenaga, dan pikiran",
-        "Bangunan saja"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Salah satu manfaat menjadi wirausaha adalah...",
-      "opsi": [
-        "Bergantung pada atasan",
-        "Penghasilan tidak terbatas",
-        "Tidak memiliki tanggung jawab",
-        "Tidak memiliki risiko",
-        "Tidak perlu bekerja keras"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Etika kerja yang baik dalam profesi ditunjukkan dengan...",
-      "opsi": [
-        "Datang terlambat",
-        "Bekerja asal-asalan",
-        "Menghargai waktu dan aturan",
-        "Menunda pekerjaan",
-        "Mengabaikan pelanggan"
+        "Rencana Produksi",
+        "Deskripsi Bisnis",
+        "Proyeksi Keuangan",
+        "Rencana Organisasi",
+        "Strategi Pemasaran"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Inovasi dalam kewirausahaan berarti...",
+      "pertanyaan": "Komponen perencanaan bisnis yang secara khusus menjelaskan tentang bagaimana produk atau jasa yang ditawarkan dapat sampai ke tangan konsumen dan strategi promosi yang digunakan adalah...",
       "opsi": [
-        "Meniru produk orang lain",
-        "Membuat sesuatu yang baru atau memperbarui yang lama",
-        "Mengurangi kualitas produk",
-        "Menghindari perubahan",
-        "Menutup usaha lama"
+        "Rencana Pemasaran",
+        "Rencana Manajemen",
+        "Rencana Operasional",
+        "Proyeksi Keuangan",
+        "Deskripsi Perusahaan"
       ],
-      "jawaban": "B"
+      "jawaban": "A"
     },
     {
-      "pertanyaan": "Salah satu faktor keberhasilan usaha adalah...",
+      "pertanyaan": "Kepanjangan dari analisis SWOT adalah ...",
       "opsi": [
-        "Tidak memiliki target",
-        "Tidak membuat perencanaan",
-        "Manajemen yang baik",
-        "Tidak promosi",
-        "Tidak melayani konsumen"
+        "Strengths, Weaknesses, Opportunities, Threats",
+        "Strategies, Weaknesses, Options, Treatments",
+        "Strengths, Work, Operations, Techniques",
+        "Sales, Wealth, Opportunities, Time",
+        "Supplies, Wants, Outputs, Terms"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Dalam matriks analisis SWOT, faktor yang berasal dari dalam perusahaan atau organisasi adalah ...",
+      "opsi": [
+        "Opportunities dan Threats",
+        "Strengths dan Opportunities",
+        "Strengths dan Weaknesses",
+        "Weaknesses dan Threats",
+        "Opportunities dan Weaknesses"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Sikap pantang menyerah dalam berwirausaha dikenal dengan istilah...",
+      "pertanyaan": "Sebuah perusahaan makanan cepat saji memiliki rasa produk yang sangat khas dan digemari masyarakat. Dalam analisis SWOT, hal ini termasuk dalam kategori ...",
       "opsi": [
-        "Pesimis",
-        "Optimis",
-        "Apatis",
-        "Emosional",
-        "Individualis"
+        "Strengths",
+        "Weaknesses",
+        "Opportunities",
+        "Threats",
+        "Steps"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Berikut ini yang merupakan contoh dari Opportunities (Peluang) dalam analisis SWOT adalah ...",
+      "opsi": [
+        "Memiliki karyawan yang sangat ahli dan terlatih",
+        "Adanya kebijakan pemerintah yang mendukung UMKM",
+        "Tingkat inflasi yang tinggi di suatu negara",
+        "Munculnya pesaing baru yang menjual produk sejenis",
+        "Lokasi usaha yang jauh dari pusat keramaian"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Contoh peluang usaha di lingkungan sekolah adalah...",
+      "pertanyaan": "Mengapa analisis SWOT sangat penting dilakukan sebelum menyusun strategi pemasaran suatu produk?",
       "opsi": [
-        "Membuka jasa fotokopi",
-        "Membuka pabrik besar",
-        "Mendirikan perusahaan internasional",
-        "Membuka tambang",
-        "Membuat bandara"
+        "Untuk menghilangkan seluruh risiko kerugian secara mutlak",
+        "Untuk mengetahui posisi perusahaan di pasar dan menentukan langkah strategis yang tepat",
+        "Untuk memaksimalkan jumlah karyawan di perusahaan",
+        "Untuk menetapkan harga jual yang paling tinggi",
+        "Untuk membatasi inovasi produk"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Apa tujuan utama dari penyusunan sebuah proposal bisnis?",
+      "opsi": [
+        "Untuk memberikan laporan keuangan akhir tahun kepada pemerintah",
+        "Untuk menjabarkan rencana usaha kepada pihak pembaca (investor/mitra) agar memperoleh persetujuan atau pendanaan",
+        "Untuk mencatat daftar seluruh karyawan di dalam perusahaan",
+        "Untuk memberikan panduan teknis kepada konsumen cara menggunakan produk",
+        "Untuk mempublikasikan sejarah berdirinya perusahaan kepada masyarakat umum"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Dalam struktur proposal usaha, bagian yang menjelaskan visi, misi, serta latar belakang mengapa bisnis tersebut didirikan disebut...",
+      "opsi": [
+        "Analisis Pasar",
+        "Rencana Operasional",
+        "Pendahuluan",
+        "Manajemen Risiko",
+        "Lampiran"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Jika sebuah proposal usaha membutuhkan total investasi awal sebesar Rp 80.000.000 dan 40% dari dana tersebut berasal dari modal sendiri, berapa jumlah dana yang perlu diajukan sebagai pinjaman ke bank?",
+      "opsi": [
+        "Rp 48.000.000",
+        "Rp 40.000.000",
+        "Rp 80.000.000",
+        "Rp 32.000.000",
+        "Rp 52.000.000"
       ],
       "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Berikut ini adalah langkah-langkah yang harus dihindari dalam penulisan proposal bisnis, kecuali...",
+      "opsi": [
+        "Menggunakan struktur dokumen yang tidak jelas dan berantakan",
+        "Melakukan koreksi/pengecekan ulang tata bahasa sebelum dicetak",
+        "Terlalu melebih-lebihkan kemampuan diri sendiri secara berlebihan",
+        "Tidak mempersonalisasi proposal sesuai dengan profil investor",
+        "Manajemen risiko yang tidak memadai dalam bisnis"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Apa komponen utama yang biasanya diuraikan di dalam bagian \"Strategi Pemasaran\" pada sebuah proposal bisnis?",
+      "opsi": [
+        "Jumlah mesin produksi dan lokasi pabrik",
+        "Struktur organisasi dan latar belakang pendiri",
+        "Cara bisnis menjangkau konsumen dan menetapkan harga",
+        "Anggaran biaya sewa tempat dan listrik",
+        "Riwayat pengeluaran kas perusahaan di masa lalu"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Mengapa proposal usaha yang kuat harus disusun secara realistis dan berdasarkan data yang akurat?",
+      "opsi": [
+        "Agar proposal terlihat lebih tebal dan formal",
+        "Karena investor hanya tertarik pada dokumen yang menggunakan bahasa yang rumit",
+        "Agar dapat dipercaya oleh calon investor atau pihak bank yang akan memberikan modal",
+        "Untuk memenuhi syarat tugas akademis di sekolah",
+        "Untuk menutupi kerugian di tahun-tahun sebelumnya"
+      ],
+      "jawaban": "C"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Jelaskan pengertian dari Profesi dan berikan contoh nya minimal 2 !"
+      "pertanyaan": "Jelaskan Apa itu Sistem Komputer dan Berikan Contohnya masing-masing!"
     },
     {
-      "pertanyaan": "Sebutkan dan jelaskan contoh profesi dibidang TJKT (Teknik Jaringan Komputer dan Telekomunikasi) , minimal 4 jenis profesi !"
+      "pertanyaan": "Gambarkan Tabel dari Front Panel secara Lengkap!"
     },
     {
-      "pertanyaan": "Sebutkan faktor-faktor kegagalan yang menyebabkan usaha menjadi bangkrut !"
+      "pertanyaan": "Jelaskan apa yang dimaksud dengan proses bisnis dalam konteks TJKT dan berikan satu contoh konkret layanan bisnis di bidang ini!"
+    },
+    {
+      "pertanyaan": "Dalam menjalankan bisnis di bidang TJKT, analisis kebutuhan pelanggan (Customer Requirements) sangatlah penting. Mengapa seorang wirausahawan TJKT harus menganalisis kebutuhan klien sebelum melakukan instalasi jaringan?"
+    },
+    {
+      "pertanyaan": "Sebutkan tiga contoh peluang profesi atau jenis usaha di bidang TJKT yang bisa dikembangkan menjadi bisnis yang menjanjikan di era digital!"
     }
   ]
 }
