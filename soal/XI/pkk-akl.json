@@ -1,351 +1,406 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Penjualan adalah kegiatan untuk ...",
+      "pertanyaan": "Tujuan utama pengelolaan usaha adalah ....",
       "opsi": [
-        "Membuat produk",
-        "Menawarkan dan menjual produk kepada konsumen",
-        "Menyimpan barang",
-        "Menghitung pajak",
-        "Mengemas produk"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Tujuan utama kegiatan penjualan adalah ...",
-      "opsi": [
-        "Mengurangi produksi",
-        "Mendapatkan keuntungan",
-        "Menambah karyawan",
-        "Mengurangi konsumen",
-        "Menyimpan barang"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Penjualan yang dilakukan langsung kepada konsumen tanpa perantara disebut ...",
-      "opsi": [
-        "Penjualan grosir",
-        "Penjualan kredit",
-        "Penjualan langsung",
-        "Penjualan tidak langsung",
-        "Penjualan lelang"
+        "Mengurangi jumlah tenaga kerja",
+        "Memperbesar biaya operasional",
+        "Mencapai tujuan usaha secara efektif dan efisien",
+        "Mengurangi kualitas produk",
+        "Menghindari persaingan"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Penjualan dalam jumlah besar kepada pedagang lain disebut ...",
+      "pertanyaan": "Langkah pertama dalam pengelolaan usaha adalah ....",
       "opsi": [
-        "Penjualan eceran",
-        "Penjualan grosir",
-        "Penjualan tunai",
-        "Penjualan kredit",
-        "Penjualan online"
+        "Pengawasan",
+        "Evaluasi",
+        "Pengorganisasian",
+        "Perencanaan",
+        "Pelaporan"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Kegiatan membagi tugas dan tanggung jawab kepada anggota tim disebut ....",
+      "opsi": [
+        "Pengawasan",
+        "Pengorganisasian",
+        "Pengendalian",
+        "Evaluasi",
+        "Promosi"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Penjualan yang pembayarannya dilakukan di kemudian hari disebut ...",
+      "pertanyaan": "Modal yang digunakan untuk kegiatan operasional sehari-hari disebut ....",
       "opsi": [
-        "Penjualan tunai",
-        "Penjualan langsung",
-        "Penjualan kredit",
-        "Penjualan cepat",
-        "Penjualan lelang"
+        "Modal tetap",
+        "Modal investasi",
+        "Modal kerja",
+        "Modal cadangan",
+        "Modal asing"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Dokumen yang dibuat sebagai bukti transaksi penjualan disebut ...",
+      "pertanyaan": "Pencatatan keuangan yang baik akan membantu pengusaha ....",
       "opsi": [
-        "Nota penjualan",
-        "Surat jalan",
-        "Faktur pembelian",
-        "Proposal",
-        "Laporan produksi"
+        "Menambah pengeluaran",
+        "Mengetahui kondisi keuangan usaha",
+        "Mengurangi jumlah pelanggan",
+        "Menghilangkan keuntungan",
+        "Mengurangi kualitas produk"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Berikut yang termasuk kegiatan pemasaran adalah ....",
+      "opsi": [
+        "Membeli mesin produksi",
+        "Membayar gaji karyawan",
+        "Menyusun laporan keuangan",
+        "Memperkenalkan produk kepada konsumen",
+        "Menghitung pajak"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Analisis SWOT digunakan untuk mengetahui ....",
+      "opsi": [
+        "Harga bahan baku",
+        "Kualitas mesin produksi",
+        "Kekuatan, kelemahan, peluang, dan ancaman usaha",
+        "Jumlah tenaga kerja",
+        "Besarnya modal usaha"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Salah satu sikap yang harus dimiliki seorang wirausahawan adalah ....",
+      "opsi": [
+        "Boros",
+        "Pesimis",
+        "Mudah menyerah",
+        "Tidak disiplin",
+        "Tanggung jawab"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Keuntungan usaha diperoleh apabila ....",
+      "opsi": [
+        "Pengeluaran lebih besar dari pemasukan",
+        "Pengeluaran sama dengan pemasukan",
+        "Pemasukan lebih kecil dari pengeluaran",
+        "Pemasukan lebih besar dari pengeluaran",
+        "Tidak ada transaksi"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Dokumen yang berisi rencana lengkap suatu usaha disebut ....",
+      "opsi": [
+        "Faktur",
+        "Nota",
+        "Kwitansi",
+        "Proposal usaha",
+        "Surat jalan"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Pengawasan dalam usaha bertujuan untuk ....",
+      "opsi": [
+        "Menentukan harga produk",
+        "Mengetahui lokasi usaha",
+        "Memastikan kegiatan berjalan sesuai rencana",
+        "Menambah jumlah pesaing",
+        "Mengurangi produksi"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Pelayanan yang baik kepada pelanggan dapat ....",
+      "opsi": [
+        "Menurunkan kepercayaan pelanggan",
+        "Mengurangi penjualan",
+        "Menambah keluhan",
+        "Menurunkan kualitas produk",
+        "Meningkatkan kepuasan pelanggan"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Penentuan harga jual produk sebaiknya mempertimbangkan ....",
+      "opsi": [
+        "Biaya produksi dan laba yang diinginkan",
+        "Warna produk",
+        "Hobi pemilik usaha",
+        "Jumlah karyawan",
+        "Bentuk kemasan saja"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Sikap yang harus dimiliki seorang tenaga penjual adalah ...",
+      "pertanyaan": "Kegiatan menghasilkan barang atau jasa disebut ....",
       "opsi": [
-        "Ramah dan jujur",
-        "Pemarah",
-        "Tidak peduli",
-        "Acuh tak acuh",
-        "Tertutup"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Kegiatan menawarkan produk secara langsung kepada calon pembeli disebut ...",
-      "opsi": [
-        "Produksi",
-        "Personal selling",
         "Distribusi",
         "Konsumsi",
-        "Administrasi"
+        "Promosi",
+        "Produksi",
+        "Evaluasi"
       ],
-      "jawaban": "B"
+      "jawaban": "D"
     },
     {
-      "pertanyaan": "Penjualan melalui internet disebut ...",
+      "pertanyaan": "Salah satu manfaat evaluasi usaha adalah ....",
       "opsi": [
-        "Penjualan tradisional",
-        "Penjualan manual",
-        "Penjualan online",
-        "Penjualan grosir",
-        "Penjualan lelang"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Layanan purna jual bertujuan untuk ...",
-      "opsi": [
-        "Mengurangi kualitas produk",
-        "Meningkatkan kepuasan pelanggan",
-        "Menambah harga",
-        "Mengurangi konsumen",
-        "Menghapus garansi"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Diskon diberikan kepada pembeli dengan tujuan untuk ...",
-      "opsi": [
+        "Menambah biaya operasional",
+        "Mengetahui kekurangan dan kelebihan usaha",
         "Mengurangi keuntungan",
-        "Menarik minat beli",
-        "Mengurangi stok saja",
-        "Menutup usaha",
-        "Menghentikan produksi"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Penjualan eceran biasanya dilakukan kepada ...",
-      "opsi": [
-        "Distributor",
-        "Pedagang besar",
-        "Konsumen akhir",
-        "Agen",
-        "Produsen"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Surat jalan digunakan untuk ...",
-      "opsi": [
-        "Bukti pembayaran",
-        "Bukti pengiriman barang",
-        "Bukti produksi",
-        "Bukti pajak",
-        "Bukti promosi"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Tenaga penjual disebut juga ...",
-      "opsi": [
-        "Investor",
-        "Sales",
-        "Distributor",
-        "Supplier",
-        "Konsumen"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Komunikasi yang baik dalam penjualan bertujuan untuk ...",
-      "opsi": [
-        "Membingungkan pelanggan",
-        "Meningkatkan kepercayaan pelanggan",
-        "Mengurangi minat beli",
-        "Mengurangi kualitas",
-        "Menutup toko"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Target penjualan ditetapkan agar ...",
-      "opsi": [
-        "Usaha tidak berkembang",
-        "Ada tujuan yang ingin dicapai",
-        "Konsumen berkurang",
-        "Harga naik terus",
-        "Stok habis"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Strategi upselling adalah ...",
-      "opsi": [
-        "Menawarkan produk lebih murah",
-        "Menawarkan produk dengan kualitas lebih tinggi",
-        "Menurunkan harga",
-        "Menghentikan penjualan",
-        "Mengurangi stok"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Cross selling berarti ...",
-      "opsi": [
-        "Menawarkan produk tambahan yang berkaitan",
-        "Mengurangi harga",
-        "Menghentikan promosi",
-        "Mengganti produk",
-        "Menghapus diskon"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Penanganan keluhan pelanggan harus dilakukan dengan ...",
-      "opsi": [
-        "Emosi",
-        "Acuh",
-        "Sabar dan solusi yang tepat",
-        "Menyalahkan pelanggan",
-        "Mengabaikan"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Laporan penjualan berfungsi untuk ...",
-      "opsi": [
-        "Mengetahui hasil penjualan",
-        "Mengurangi stok",
-        "Menambah biaya",
-        "Menyimpan barang",
+        "Menurunkan kualitas produk",
         "Mengurangi pelanggan"
       ],
-      "jawaban": "A"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Retur penjualan terjadi apabila ...",
+      "pertanyaan": "Media yang paling banyak digunakan untuk promosi pada era digital adalah ....",
       "opsi": [
-        "Barang rusak atau tidak sesuai pesanan",
-        "Barang habis",
-        "Harga naik",
-        "Toko tutup",
-        "Diskon besar"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Penjualan melalui marketplace termasuk penjualan ...",
-      "opsi": [
-        "Offline",
-        "Tradisional",
-        "Online",
-        "Grosir",
-        "Langsung"
+        "Surat pribadi",
+        "Papan tulis",
+        "Media sosial",
+        "Buku tulis",
+        "Mesin ketik"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Sikap profesional dalam penjualan ditunjukkan dengan ...",
+      "pertanyaan": "Sumber daya manusia dalam usaha berperan sebagai ....",
       "opsi": [
-        "Berpakaian rapi",
-        "Datang terlambat",
-        "Berbicara kasar",
-        "Tidak sopan",
-        "Mengabaikan pelanggan"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Harga jual ditentukan berdasarkan ...",
-      "opsi": [
-        "Biaya produksi dan keuntungan",
-        "Warna produk",
-        "Jumlah karyawan",
-        "Ukuran toko",
-        "Jumlah rak"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Pelayanan yang cepat dan tepat dapat ...",
-      "opsi": [
-        "Menurunkan kepuasan",
-        "Meningkatkan loyalitas pelanggan",
-        "Mengurangi penjualan",
-        "Menambah complain",
-        "Mengurangi kualitas"
+        "Pelengkap usaha",
+        "Faktor produksi yang mengelola usaha",
+        "Faktor yang tidak penting",
+        "Penghambat usaha",
+        "Pengurang keuntungan"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Sistem pembayaran menggunakan kartu debit termasuk penjualan ...",
+      "pertanyaan": "Jika hasil penjualan menurun, langkah yang tepat dilakukan pengusaha adalah ....",
       "opsi": [
-        "Kredit",
-        "Tunai non-tunai",
-        "Lelang",
-        "Grosir",
-        "Konsinyasi"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Konsinyasi adalah sistem penjualan di mana ...",
-      "opsi": [
-        "Barang dibayar di muka",
-        "Barang dititipkan kepada penjual",
-        "Barang dijual langsung ke pabrik",
-        "Tidak ada perantara",
-        "Tanpa nota"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Promosi dalam penjualan bertujuan untuk ...",
-      "opsi": [
-        "Mengurangi pembeli",
-        "Meningkatkan volume penjualan",
-        "Mengurangi stok",
-        "Menghentikan usaha",
-        "Mengurangi kualitas"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Penjualan tunai berarti ...",
-      "opsi": [
-        "Pembayaran dilakukan secara cicilan",
-        "Pembayaran dilakukan saat transaksi",
-        "Pembayaran dilakukan tahun depan",
-        "Tanpa pembayaran",
-        "Tanpa nota"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Hubungan baik dengan pelanggan akan berdampak pada ...",
-      "opsi": [
-        "Penurunan penjualan",
-        "Kerugian usaha",
-        "Pembelian ulang",
-        "Pengurangan stok",
-        "Penutupan usaha"
+        "Menutup usaha tanpa evaluasi",
+        "Mengurangi kualitas produk",
+        "Melakukan analisis penyebab dan mencari solusi",
+        "Menghentikan promosi",
+        "Mengurangi pelayanan"
       ],
       "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Distribusi adalah kegiatan ....",
+      "opsi": [
+        "Menghasilkan barang",
+        "Menentukan harga jual",
+        "Menyimpan modal usaha",
+        "Menyalurkan barang dari produsen ke konsumen",
+        "Mengawasi karyawan"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Kemampuan menciptakan ide baru yang bermanfaat dalam usaha disebut ....",
+      "opsi": [
+        "Konsumsi",
+        "Inovasi",
+        "Distribusi",
+        "Administrasi",
+        "Investasi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Risiko yang timbul karena perubahan selera konsumen disebut ...",
+      "opsi": [
+        "Risiko operasional",
+        "Risiko pasar",
+        "Risiko keuangan",
+        "Risiko hukum",
+        "Risiko teknologi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Kerusakan mesin produksi yang menghambat proses kerja merupakan contoh ...",
+      "opsi": [
+        "Risiko operasional",
+        "Risiko pasar",
+        "Risiko likuiditas",
+        "Risiko investasi",
+        "Risiko sosial"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Risiko yang terjadi karena perusahaan tidak mampu memenuhi kewajiban pembayaran utangnya disebut ...",
+      "opsi": [
+        "Risiko hukum",
+        "Risiko pasar",
+        "Risiko likuiditas",
+        "Risiko reputasi",
+        "Risiko strategis"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perubahan peraturan pemerintah yang merugikan perusahaan termasuk ...",
+      "opsi": [
+        "Risiko hukum",
+        "Risiko operasional",
+        "Risiko pasar",
+        "Risiko teknologi",
+        "Risiko produksi"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Kebocoran data pelanggan akibat serangan siber merupakan contoh ...",
+      "opsi": [
+        "Risiko pasar",
+        "Risiko teknologi",
+        "Risiko keuangan",
+        "Risiko produksi",
+        "Risiko lingkungan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Bencana alam yang menyebabkan kerusakan fasilitas usaha termasuk ...",
+      "opsi": [
+        "Risiko operasional",
+        "Risiko pasar",
+        "Risiko lingkungan",
+        "Risiko hukum",
+        "Risiko investasi"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Menurunnya kepercayaan masyarakat terhadap perusahaan akibat pelayanan buruk disebut ...",
+      "opsi": [
+        "Risiko hukum",
+        "Risiko reputasi",
+        "Risiko pasar",
+        "Risiko teknologi",
+        "Risiko produksi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Kenaikan harga bahan baku yang menyebabkan biaya produksi meningkat termasuk ...",
+      "opsi": [
+        "Risiko pasar",
+        "Risiko likuiditas",
+        "Risiko hukum",
+        "Risiko sosial",
+        "Risiko reputasi"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Risiko yang muncul akibat kesalahan dalam perencanaan bisnis disebut ...",
+      "opsi": [
+        "Risiko operasional",
+        "Risiko strategis",
+        "Risiko hukum",
+        "Risiko lingkungan",
+        "Risiko teknologi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Kehilangan barang karena pencurian di gudang merupakan contoh ...",
+      "opsi": [
+        "Risiko pasar",
+        "Risiko hukum",
+        "Risiko operasional",
+        "Risiko investasi",
+        "Risiko reputasi"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Risiko yang berkaitan dengan penanaman modal dan kemungkinan kerugian investasi disebut ...",
+      "opsi": [
+        "Risiko investasi",
+        "Risiko pasar",
+        "Risiko sosial",
+        "Risiko hukum",
+        "Risiko teknologi"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Demonstrasi masyarakat yang mengganggu aktivitas perusahaan termasuk ...",
+      "opsi": [
+        "Risiko pasar",
+        "Risiko sosial",
+        "Risiko investasi",
+        "Risiko teknologi",
+        "Risiko likuiditas"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perusahaan mengalami kerugian karena fluktuasi nilai tukar mata uang asing. Hal tersebut termasuk ...",
+      "opsi": [
+        "Risiko hukum",
+        "Risiko reputasi",
+        "Risiko keuangan",
+        "Risiko lingkungan",
+        "Risiko sosial"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Kegagalan sistem komputer yang menyebabkan data transaksi hilang merupakan ...",
+      "opsi": [
+        "Risiko teknologi",
+        "Risiko pasar",
+        "Risiko hukum",
+        "Risiko investasi",
+        "Risiko sosial"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Risiko yang berkaitan dengan proses produksi sehingga barang tidak sesuai standar kualitas disebut ...",
+      "opsi": [
+        "Risiko hukum",
+        "Risiko produksi",
+        "Risiko pasar",
+        "Risiko reputasi",
+        "Risiko sosial"
+      ],
+      "jawaban": "B"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Apa yang dimaksud dengan penjualan?"
+      "pertanyaan": "Sebutkan minimal 3 dari 5 tujuan pengelolaan usaha beserta pengertiannya....?"
     },
     {
-      "pertanyaan": "Apa tujuan memberikan diskon kepada pelanggan?"
+      "pertanyaan": "Sebutkan jenis-jenis resiko beserta contohnya....?"
     },
     {
-      "pertanyaan": "Jelaskan pentingnya laporan penjualan dalam pengambilan keputusan manajemen?"
+      "pertanyaan": "Jelaskan konsep 4 P dari strategi pemasaran....?"
     },
     {
-      "pertanyaan": "Analisislah dampak pelayanan yang buruk terhadap proses penjualan dan keberlangsungan usaha?"
+      "pertanyaan": "Jelaskan alur kerja produksi dibawah ini ...<br><br>a. Planning<br>b. Routing<br>c. Scheduling<br>d. Dispatching<br>e. Evaluation"
     },
     {
-      "pertanyaan": "Suatu perusahaan mengalami penurunan penjualan meskipun produk berkualitas baik. Analisis kemungkinan penyebabnya dari sisi strategi penjualan?"
+      "pertanyaan": "Ada 2 sumber dana, sebutkan dan jelaskan....?"
     }
   ]
 }
