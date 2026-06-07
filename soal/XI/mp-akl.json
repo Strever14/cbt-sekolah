@@ -14,8 +14,8 @@
     {
       "pertanyaan": "Sebuah sekolah menetapkan siswa dinyatakan <b>Lulus Seleksi</b> apabila:<br><br>Nilai Matematika ≥ 80<br>Nilai Bahasa Inggris ≥ 75<br><br>Data siswa berada pada sel B2 (Matematika) dan C2 (Bahasa Inggris).<br><br>Rumus yang tepat untuk menentukan status kelulusan adalah ....",
       "opsi": [
-        "=IF(OR(B2>=80,C2>=75),\"Lulus\",\"Tidak\")",
-        "=IF(AND(B2>=80,C2>=75),\"Lulus\",\"Tidak\")",
+        "=IF(OR(B2>=80,C2>=75),\"Lulus\", \"Tidak\")",
+        "=IF(AND(B2>=80,C2>=75),\"Lulus\", \"Tidak\")",
         "=IF(B2>=80,\"Lulus\",\"Tidak\")",
         "=AND(B2>=80,C2>=75,\"Lulus\")",
         "=IF(AND(B2>=80),\"Lulus\",\"Tidak\")"
@@ -267,9 +267,9 @@
     {
       "pertanyaan": "Sebuah perusahaan memberikan bonus kepada karyawan yang memenuhi <b>salah satu</b> syarat berikut:<br><br>Masa kerja ≥ 10 tahun, atau<br>Penjualan ≥ Rp100.000.000<br><br>Jika masa kerja berada di sel B2 dan penjualan di sel C2, maka rumus yang tepat adalah ....",
       "opsi": [
-        "=IF(AND(B2>=10,C2>=100000000),\"Bonus\",\"Tidak\")",
-        "=IF(OR(B2>=10,C2>=100000000),\"Bonus\",\"Tidak\")",
-        "=OR(B2>=10,C2>=100000000,\"Bonus\")",
+        "=IF(AND(B2>=10,C2>=100000000), \"Bonus\",\"Tidak\")",
+        "=IF(OR(B2>=10,C2>=100000000), \"Bonus\",\"Tidak\")",
+        "=OR(B2>=10,C2>=100000000, \"Bonus\")",
         "=IF(B2>=10,\"Bonus\",\"Tidak\")",
         "=IF(C2>=100000000,\"Bonus\",\"Tidak\")"
       ],
@@ -377,7 +377,7 @@
     {
       "pertanyaan": "Jika golongan 1 atau golongan 2 dapat bonus 7000 golongan 3 bonusnya 12000, maka rumus yang tepat adalah......",
       "opsi": [
-        "=IF(AND(B2;A;C2=\"7000\");\"7000\";\"12000\")",
+        "=IF(AND(B2;A;C2=\"7000\");\"7000\"; \"12000\")",
         "=IF(OR(B2=2;B2=2);\"17000\";\"12000\")",
         "=IF(OR(B2=2;B2=1);\"12000\";\"7000\")",
         "Semua salah",
