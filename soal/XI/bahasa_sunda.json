@@ -1,279 +1,334 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Dongeng kaasup kana karya sastra lisan anu miboga sipat...",
+      "pertanyaan": "Warta nya éta...",
       "opsi": [
-        "Ilmiah jeung faktual",
-        "Realistis jeung logis",
-        "Imajinatif jeung teu kabuktian sacara ilmiah",
-        "Historis jeung kronologis",
-        "Dokumenter"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Struktur dongeng biasana ngawengku...",
-      "opsi": [
-        "Bubuka -- Masalah -- Akhir carita",
-        "Abstrak -- Orientasi -- Reorientasi",
-        "Tesis -- Argumentasi -- Penegasan ulang",
-        "Identifikasi - Deskripsi",
-        "Prolog -- Dialog - Epilog"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Dongeng <i>Sangkuriang</i> kaasup kana golongan dongeng...",
-      "opsi": [
-        "Fabel",
-        "Mite",
-        "Legenda",
-        "Parable",
-        "Sage"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Ciri utama dongeng fabel nyaéta...",
-      "opsi": [
-        "Nyarioskeun kahirupan karajaan",
-        "Tokohna sato nu bisa nyarita siga manusa",
-        "Nyokot carita tina sajarah",
-        "Eusina ngeunaan dewa-dewi",
-        "Nyarioskeun asal-usul tempat wungkul"
+        "Carita fiksi anu ngandung amanat",
+        "Laporan ngeunaan kajadian anu anyar sarta penting dipikanyaho ku balaréa",
+        "Dongéng anu diwariskeun sacara turun-tumurun",
+        "Karangan ngeunaan pangalaman pribadi",
+        "Paguneman antara dua jalma"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Dongeng <i>Ciung Wanara</i> nyaritakeun konflik utama antara...",
+      "pertanyaan": "Tujuan utama warta nyaéta...",
       "opsi": [
-        "Sangkuriang jeung Tumang",
-        "Ciung Wanara jeung Prabu Barma Wijaya",
-        "Ciung Wanara jeung Hariang Banga",
-        "Dewi Pangrenyep jeung Dayang Sumbi",
-        "Ciung Wanara jeung Tumang"
+        "Méré hiburan",
+        "Méré naséhat",
+        "Méré informasi ka masarakat",
+        "Méré kritik",
+        "Méré pujian"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Amanat dina dongeng biasana ditepikeun sacara...",
+      "pertanyaan": "Unsur 5W+1H dina warta anu nuduhkeun \"saha\" nyaéta...",
       "opsi": [
-        "Langsung jeung écés",
-        "Tersirat ngaliwatan lampah tokoh",
-        "Dina bentuk angka",
-        "Dina bentuk tabel",
-        "Ngaliwatan grafik"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Tema utama dongeng <i>Sangkuriang</i> nyaéta...",
-      "opsi": [
-        "Kahirupan Patani",
-        "Cinta terlarang eung takdir",
-        "Parebutan tahta",
-        "Persahabatan sato",
-        "Perdagangan laut"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Nu jadi sabab Ciung Wanara bisa jadi raja nyaéta...",
-      "opsi": [
-        "Kakuatan fisikna",
-        "Harta banda",
-        "Kacerdasan jeung kaadilan",
-        "Bantuan ti dewa",
-        "Kasaktian nagawiru"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Unsur intrinsik anu patali jeung waktu jeung tempat dina dongeng disebut....",
-      "opsi": [
-        "Tema",
-        "Amanat",
-        "Latar",
-        "Alur",
-        "Tokoh"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Alur dina dongeng biasana maké alur...",
-      "opsi": [
-        "Mundur",
-        "Campuran",
-        "Maju",
-        "Sorot balik",
-        "Paralel"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Dongeng anu nyaritakeun asal-usul hiji tempat disebut...",
-      "opsi": [
-        "Fabel",
-        "Parable",
-        "Legenda",
-        "Mite",
-        "Hikayat"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Dina <i>Sangkuriang</i>, Tumang sabenerna nyaéta...",
-      "opsi": [
-        "Raja",
-        "Jalma biasa",
-        "Anjing sakti",
-        "Dewa",
-        "Panglima"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Sipat Dewi Pangrenyep dina dongeng <i>Ciung Wanara</i> nyaéta...",
-      "opsi": [
-        "Jujur jeung sabar",
-        "Sirik jeung licik",
-        "Adil jeung wijaksana",
-        "Gagah jeung wani",
-        "Satia jeug bageur"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Konflik dina dongeng biasana dimimitian dina bagian...",
-      "opsi": [
-        "Resolusi",
-        "Orientasi",
-        "Komplikasi",
-        "Amanat",
-        "Epilog"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Nilai moral anu bisa dicokot tina dongeng <i>Ciung Wanara</i> nyaéta....",
-      "opsi": [
-        "Kakuatan leueih penting tibatan kaadilan",
-        "Kaujuran jeung kaadilan bakal meunang",
-        "Bohong teh meunangkeun kauntungan",
-        "Kakawasaan teu bisa diganggu",
-        "Sirik the hal anu biasa"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Dina dongeng, tokoh protagonis nyaéta tokoh anu...",
-      "opsi": [
-        "Nyieun konflik",
-        "Miboga sipat jahat",
-        "Jadi lawan utama",
-        "Dipikaresep jeung boga sipat hade",
-        "Teu penting"
+        "What",
+        "When",
+        "Where",
+        "Who",
+        "How"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Dongeng biasana sumebar sacara...",
+      "pertanyaan": "Patalékan \"Iraha kajadian éta lumangsung?\" mangrupa unsur...",
       "opsi": [
-        "Tulisan ilmiah",
-        "Lisan ti generasi ka generasi",
-        "Media sosial",
-        "Buku pelejaran",
-        "Arsip nagara"
+        "What",
+        "When",
+        "Where",
+        "Who",
+        "How"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Salah sahiji ciri basa dina dongeng nyaéta...",
+      "pertanyaan": "Bagian warta anu ngandung inti informasi disebut...",
       "opsi": [
-        "Ngagunakeun basa resmi pisan",
-        "Pinuh ku istilah ilmiah",
-        "Naggunakeun basa sederhana jeung imajinatif",
-        "Basa statistik",
-        "Basa teknis"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Upama hiji dongeng nyaritakeun déwa jeung kajadian gaib anu dipercaya ku masarakat baheula, éta disebut...",
-      "opsi": [
-        "Legenda",
-        "Fabel",
-        "Mite",
-        "Parabel",
-        "Carpon"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Dina struktur dongeng, bagian ahir anu eusina ngaréngsékeun masalah disebut...",
-      "opsi": [
-        "Orientasi",
-        "Komplikasi",
-        "Resolusi",
-        "Abstrak",
-        "Tesis"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Naon sababna Sangkuriang gagal ngawujudkeun parahu dina sapeuting?",
-      "opsi": [
-        "Kurang alat",
-        "Ditipu Dayang Sumbi",
-        "Teu boga kakuatan",
-        "Diserang musuh",
-        "Hujan badai"
+        "Judul",
+        "Lead",
+        "Eusi",
+        "Panutup",
+        "Ilustrasi"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Nilai budaya anu kaciri dina dongeng <i>Sangkuriang</i> nyaéta...",
+      "pertanyaan": "Judul warta anu hadé kudu...",
       "opsi": [
-        "Sistem demokrasi",
-        "Hormat ka kolot",
-        "Industrialisasi",
-        "Urbanisasi",
-        "Globalisasi"
+        "Panjang jeung rumit",
+        "Ngandung opini panulis",
+        "Singget, écés, sarta ngagambarkeun eusi",
+        "Maké kecap-kecap puitis",
+        "Henteu aya hubungan jeung eusi"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Warta kudu ditulis sacara...",
+      "opsi": [
+        "Subjektif",
+        "Émosional",
+        "Objektif",
+        "Imajinatif",
+        "Dramatis"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Kalimah di handap anu mangrupa fakta nyaéta...",
+      "opsi": [
+        "Festival budaya téh kacida alusna.",
+        "Acara éta paling narik di Jawa Barat",
+        "Festival budaya dilaksanakeun tanggal 10 Méi 2026.",
+        "Kegiatan éta pasti bakal suksés.",
+        "Panitia kacida kreatifna"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Di handap ieu anu lain ciri-ciri warta nyaéta.....",
+      "opsi": [
+        "Aktual",
+        "Faktual",
+        "Objektif",
+        "Imajinatif",
+        "Informatif"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Unsur \"where\" dina warta nuduhkeun...",
+      "opsi": [
+        "Waktu kajadian",
+        "Tempat kajadian",
+        "Jalma anu kalibet",
+        "Sabab kajadian",
+        "Cara kajadian"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Ciung Wanara bisa salamet sabab...",
+      "pertanyaan": "Kecap \"kumaha\" dina unsur warta kaasup...",
       "opsi": [
-        "Disalametkeun",
-        "Dibuang ka leuweung",
-        "Diasuh ku Aki Balangantrang",
-        "Diasuh ku Nagawiru",
-        "Diasuh ku Dewa"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Peran Aki Balangantrang dina dongeng <i>Ciung Wanara</i> nyaéta...",
-      "opsi": [
-        "Antagonis",
-        "Tokoh tambahan teu penting",
-        "Nu ngasuh jeung ngadidik Ciung Wanara",
-        "Raja",
-        "Musuh utama"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Salah sahiji konflik batin dina dongeng <i>Sangkuriang</i> nyaéta...",
-      "opsi": [
-        "Dayang Sumbi bingung milih pakean",
-        "Dayang sumbi teu sadar yen eta budakna",
-        "Sangkuriang teu boga pakarang",
-        "Tumang gering",
-        "Dayang Sumbi sadar eta budakna tapi kudu nolak"
+        "What",
+        "Who",
+        "Where",
+        "When",
+        "How"
       ],
       "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Warta anu eusina ngeunaan kajadian pulitik disebut...",
+      "opsi": [
+        "Warta olahraga",
+        "Warta hiburan",
+        "Warta pulitik",
+        "Warta ékonomi",
+        "Warta pendidikan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Hal anu kudu dihindari dina nyusun warta nyaéta...",
+      "opsi": [
+        "Fakta",
+        "Data",
+        "Opini pribadi",
+        "Narasumber",
+        "Kajadian nyata"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Narasumber nyaéta...",
+      "opsi": [
+        "Panulis warta",
+        "Jalma anu méré informasi",
+        "Nu maca warta",
+        "Nu nyebarkeun berita",
+        "Panonton acara"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Kecap-kecap dina warta kudu....",
+      "opsi": [
+        "Ambigu",
+        "Sulit dipikaharti",
+        "Basajan tur écés",
+        "Puitis",
+        "Hiperbolis"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Bagian awal dina warta biasana disebut...",
+      "opsi": [
+        "Terasan",
+        "Panutup",
+        "Lampiran",
+        "Catetan",
+        "Ringkesan"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Unsur \"why\" dina warta ngajelaskeun...",
+      "opsi": [
+        "Tempat",
+        "Jalma",
+        "Alesan kajadian",
+        "Waktu",
+        "Cara"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Warta anu hadé kudu dumasar kana...",
+      "opsi": [
+        "Gosip",
+        "Fakta",
+        "Ramalan",
+        "Khayalan",
+        "Carita rakyat"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Media anu biasa nyebarkeun warta nyaéta...",
+      "opsi": [
+        "Surat kabar",
+        "Radio",
+        "Televisi",
+        "Media Digital",
+        "Leres Sadayana"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Kalimah anu merenah pikeun warta nyaéta...",
+      "opsi": [
+        "Jigana acara éta suksés.",
+        "Panginten loba nu datang",
+        "Acara dihadiran ku 500 urang peserta",
+        "Katingalina hadé pisan.",
+        "Sigana bakal rame"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Informasi anu can pasti kabeneranana disebut...",
+      "opsi": [
+        "Fakta",
+        "Data",
+        "Opini",
+        "Hoaks",
+        "Tiruan"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Warta kudu ngandung unsur aktual, hartina...",
+      "opsi": [
+        "Lucu",
+        "Anyar",
+        "Ringkes",
+        "Panjang",
+        "Lengkep"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Anu kaasup unsur \"what\" nyaéta...",
+      "opsi": [
+        "Saha nu kalibet",
+        "Iraha kajadian",
+        "Naon kajadianana",
+        "Di mana kajadian",
+        "Kumaha kajadian"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Warta anu nyaritakeun pertandingan Persib kaasup...",
+      "opsi": [
+        "Warta budaya",
+        "Warta pulitik",
+        "Warta olahraga",
+        "Warta pendidikan",
+        "Warta ékonomi"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Kaobjektifan warta penting sangkan....",
+      "opsi": [
+        "Narik perhatian",
+        "Lucu dibaca",
+        "Dipercaya ku nu maca",
+        "Panjang eusina",
+        "Loba gambarna"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Anu lain sumber informasi pikeun nyusun warta nyaéta",
+      "opsi": [
+        "Wawancara",
+        "Observasi",
+        "Dokumen",
+        "Imajinasi",
+        "Data Lapangan"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Dina piramida tibalik, informasi pangpentingna diteundeun dina bagian",
+      "opsi": [
+        "Akhir",
+        "Tengah",
+        "Awal",
+        "Lampiran",
+        "Catetan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Kalimah \"Numutkeun katerangan Kapolsek...\" nuduhkeun ayana...",
+      "opsi": [
+        "Judul",
+        "Narasumber",
+        "Opini",
+        "Simpulan",
+        "Komentar"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Warta anu nyaritakeun hasil panén patani kaasup kana widang",
+      "opsi": [
+        "Pertanian",
+        "Hiburan",
+        "Pulitik",
+        "Olahraga",
+        "Kasehatan"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Basa anu digunakeun dina warta nyaéta",
+      "opsi": [
+        "Basa ilmiah jeung puitis",
+        "Basa sapopoe anu eces",
+        "Basa sindiran",
+        "Basa kasar",
+        "Basa gaul"
+      ],
+      "jawaban": "B"
     },
     {
       "pertanyaan": "Dongeng miboga fungsi sosial nyaéta...",
@@ -298,7 +353,7 @@
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Dina dongeng <i>Ciung Wanara</i>, adu hayam ngalambangkeun...",
+      "pertanyaan": "Dina dongeng *Ciung Wanara*, adu hayam ngalambangkeun...",
       "opsi": [
         "Hiburan biasa",
         "Parebut kakawasaan",
@@ -333,19 +388,19 @@
   ],
   "essay": [
     {
-      "pertanyaan": "Jelaskeun béda antara mite, legenda, jeung fabel! Pasihan conto masing-masing hiji!!"
+      "pertanyaan": "Warta kudu nyumponan unsur 5W+1H. Jelaskeun naha unsur-unsur éta penting dina hiji warta sarta naon pangaruhna lamun salah sahiji unsur teu dicantumkeun!"
     },
     {
-      "pertanyaan": "Analisis unsur intrinsik (tema, alur, tokoh, latar, amanat) dina dongeng <i>Sangkuriang</i>!!"
+      "pertanyaan": "<b>Titénan warta di handap!</b><br><br><blockquote>\"Dina poé Senén, 2 Juni 2026, SMK Harapan Bangsa ngayakeun kagiatan donor darah di aula sakola. Kagiatan éta diiluan ku 150 siswa jeung guru. Numutkeun katerangan panitia, tujuan éta kagiatan pikeun ngabantu nyumponan kabutuhan stok darah PMI.\"</blockquote><br><b>Analisis unsur 5W+1H anu aya dina éta warta!</b>"
     },
     {
-      "pertanyaan": "Naon ajén moral jeung ajén budaya anu bisa dicokot tina dongeng <i>Ciung Wanara</i>? Jelaskeun!"
+      "pertanyaan": "Jelaskeun bédana antara fakta jeung opini dina warta. Teras jieun masing-masing dua conto kalimah fakta jeung dua conto kalimah opini!"
     },
     {
-      "pertanyaan": "Kumaha peran tokoh awéwé dina dongeng <i>Sangkuriang</i> jeung <i>Ciung Wanara</i>? Bandingkeun!"
+      "pertanyaan": "Wartawan dituntut pikeun objektif nalika nyusun warta. Kumaha cara ngajaga kaobjektifan dina nulis warta? Jelaskeun sahenteuna opat cara!"
     },
     {
-      "pertanyaan": "Numutkeun pamadegan anjeun, naha dongeng masih penting diajarkeun ka generasi ngora dina jaman digital ayeuna? Jelaskeun ku alesan anu logis!"
+      "pertanyaan": "Jieun hiji conto lead (terasan) warta ngeunaan kagiatan sakola dina 3-4 kalimah!"
     }
   ]
 }
