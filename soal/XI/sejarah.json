@@ -1,103 +1,114 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Latar belakang utama Jepang menduduki Indonesia pada tahun 1942 adalah ....",
+      "pertanyaan": "Salah satu faktor utama Jepang datang ke Indonesia adalah ....",
       "opsi": [
-        "Menyebarkan ideologi demokrasi",
-        "Menguasai sumber daya alam untuk perang Pasifik",
-        "Membalas kekalahan dari Belanda",
-        "Membantu kemerdekaan Indonesia",
-        "Mengembangkan pendidikan Asia"
+        "menyebarkan agama Shinto",
+        "mencari daerah pemasaran hasil industri",
+        "memperoleh sumber bahan mentah untuk perang",
+        "membantu Indonesia merdeka",
+        "mengembangkan pendidikan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perang Pasifik diawali oleh serangan Jepang terhadap ....",
+      "opsi": [
+        "London",
+        "Pearl Harbor",
+        "Berlin",
+        "Moskow",
+        "Hiroshima"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Penyerahan Belanda kepada Jepang di Indonesia terjadi pada tanggal 8 Maret 1942 di ....",
+      "pertanyaan": "Propaganda Jepang yang dikenal dengan Gerakan 3A memiliki semboyan ....",
+      "opsi": [
+        "Jepang Cahaya Asia, Pelindung Asia, Pemimpin Asia",
+        "Jepang Sahabat Indonesia",
+        "Indonesia Raya Merdeka",
+        "Asia untuk Indonesia",
+        "Jepang Pemimpin Dunia"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Belanda menyerah tanpa syarat kepada Jepang melalui Perjanjian ....",
       "opsi": [
         "Linggarjati",
-        "Jakarta",
         "Kalijati",
-        "Ambarawa",
-        "Bandung"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Perang Pasifik diawali oleh serangan Jepang terhadap pangkalan Amerika Serikat di ....",
-      "opsi": [
-        "Manila",
-        "Pearl Harbor",
-        "Singapura",
-        "Saigon",
-        "Hongkong"
+        "Renville",
+        "Roem-Royen",
+        "KMB"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Semboyan propaganda Jepang yang dikenal dengan Gerakan 3A adalah ....",
+      "pertanyaan": "Tanggal penyerahan Belanda kepada Jepang adalah ....",
       "opsi": [
-        "Asia Bersatu, Asia Maju, Asia Raya",
-        "Jepang Pelindung Asia, Jepang Cahaya Asia, Jepang Pemimpin Asia",
-        "Indonesia Maju, Asia Jaya, Jepang Sejahtera",
-        "Asia Timur Raya",
-        "Jepang Sahabat Indonesia"
+        "8 Maret 1942",
+        "17 Agustus 1945",
+        "29 April 1945",
+        "1 Juni 1945",
+        "14 Agustus 1945"
       ],
-      "jawaban": "B"
+      "jawaban": "A"
     },
     {
-      "pertanyaan": "Pemerintahan Jepang di Indonesia bersifat ....",
+      "pertanyaan": "Organisasi pertama bentukan Jepang untuk propaganda adalah ....",
       "opsi": [
-        "Demokratis",
-        "Parlementer",
-        "Militeristik",
-        "Federal",
-        "Liberal"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Sistem autarki yang diterapkan Jepang bertujuan untuk ....",
-      "opsi": [
-        "Meningkatkan ekspor",
-        "Memenuhi kebutuhan perang secara mandiri",
-        "Membuka perdagangan bebas",
-        "Mengembangkan industri modern",
-        "Meningkatkan kesejahteraan rakyat"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Kerja paksa pada masa Jepang dikenal dengan istilah ....",
-      "opsi": [
-        "Tanam Paksa",
-        "Rodi",
-        "Kerja Bakti",
-        "Romusha",
-        "Autarki"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Dampak kebijakan romusha bagi rakyat Indonesia adalah ....",
-      "opsi": [
-        "Peningkatan taraf hidup",
-        "Bertambahnya lapangan kerja",
-        "Penderitaan dan banyak korban jiwa",
-        "Modernisasi desa",
-        "Pendidikan semakin maju"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Organisasi militer yang dibentuk Jepang untuk melatih pemuda Indonesia adalah ....",
-      "opsi": [
-        "Budi Utomo",
+        "Putera",
+        "Jawa Hokokai",
+        "Gerakan 3A",
         "PETA",
-        "Sarekat Islam",
-        "Indische Partij",
-        "Jong Java"
+        "Heiho"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Tujuan utama kebijakan ekonomi Jepang di Indonesia adalah ....",
+      "opsi": [
+        "meningkatkan kesejahteraan rakyat",
+        "memenuhi kebutuhan perang Jepang",
+        "mengembangkan industri Indonesia",
+        "meningkatkan ekspor Indonesia",
+        "memperluas pendidikan"
       ],
       "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Kerja paksa pada masa pendudukan Jepang disebut ....",
+      "opsi": [
+        "Cultuurstelsel",
+        "Kerja rodi",
+        "Romusha",
+        "Tanam paksa",
+        "Kerja wajib"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dampak romusha bagi rakyat Indonesia adalah ....",
+      "opsi": [
+        "meningkatnya kesejahteraan",
+        "meningkatnya pendidikan",
+        "penderitaan dan kematian massal",
+        "bertambahnya lapangan kerja",
+        "kemajuan ekonomi"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Organisasi militer bentukan Jepang yang anggotanya pemuda Indonesia adalah ....",
+      "opsi": [
+        "BPUPKI",
+        "PPKI",
+        "PETA",
+        "Putera",
+        "Chuo Sangi In"
+      ],
+      "jawaban": "C"
     },
     {
       "pertanyaan": "PETA dibentuk pada tahun ....",
@@ -106,246 +117,290 @@
         "1943",
         "1944",
         "1945",
-        "1941"
+        "1946"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Perlawanan PETA di Blitar dipimpin oleh ....",
+      "pertanyaan": "Tokoh yang memimpin pemberontakan PETA di Blitar adalah ....",
       "opsi": [
         "Soekarno",
-        "Supriyadi",
         "Mohammad Hatta",
         "Sudirman",
-        "Tan Malaka"
+        "Supriyadi",
+        "Ahmad Yani"
       ],
-      "jawaban": "B"
+      "jawaban": "D"
     },
     {
-      "pertanyaan": "Organisasi PUTERA dipimpin oleh empat tokoh yang dikenal sebagai Empat Serangkai, yaitu ....",
+      "pertanyaan": "Organisasi Heiho bertugas ....",
       "opsi": [
-        "Soekarno, Hatta, Ki Hajar Dewantara, KH Mas Mansyur",
-        "Soekarno, Sudirman, Tan Malaka, Sjahrir",
-        "Hatta, Amir Sjarifuddin, Sjahrir, Sudirman",
-        "Ki Hajar Dewantara, Cokroaminoto, Agus Salim, Sudirman",
-        "Soekarno, Sjahrir, Tan Malaka, Hatta"
+        "membantu tentara Jepang",
+        "menyusun UUD",
+        "merumuskan dasar negara",
+        "menyebarkan proklamasi",
+        "mengelola pemerintahan"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Tujuan Jepang membentuk PUTERA adalah ....",
+      "pertanyaan": "Bahasa Indonesia pada masa Jepang justru semakin berkembang karena ....",
       "opsi": [
-        "Membantu persiapan kemerdekaan Indonesia",
-        "Menggerakkan rakyat membantu kepentingan perang Jepang",
-        "Membentuk parlemen Indonesia",
-        "Mengganti pemerintahan Belanda",
-        "Membentuk tentara nasional"
+        "Jepang melarang bahasa Indonesia",
+        "penggunaan bahasa Belanda dibatasi",
+        "semua sekolah ditutup",
+        "rakyat menolak bahasa Jepang",
+        "Belanda kembali berkuasa"
       ],
       "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Kebijakan Jepang di bidang pendidikan ditandai dengan ....",
-      "opsi": [
-        "Penggunaan bahasa Belanda",
-        "Penghapusan semua sekolah",
-        "Penggunaan bahasa Indonesia sebagai bahasa pengantar",
-        "Pendidikan bebas biaya",
-        "Pendidikan tinggi berkembang pesat"
-      ],
-      "jawaban": "C"
     },
     {
       "pertanyaan": "Salah satu dampak positif pendudukan Jepang adalah ....",
       "opsi": [
-        "Demokrasi berkembang",
-        "Bahasa Belanda semakin kuat",
-        "Pelatihan militer bagi pemuda Indonesia",
-        "Ekonomi rakyat stabil",
-        "Pajak dihapus"
+        "kemerdekaan langsung diberikan",
+        "lahirnya kader militer Indonesia",
+        "rakyat hidup makmur",
+        "ekonomi berkembang pesat",
+        "pendidikan tinggi meningkat"
       ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "BPUPKI dibentuk Jepang dengan tujuan ....",
-      "opsi": [
-        "Menggantikan PETA",
-        "Mempersiapkan kemerdekaan Indonesia",
-        "Membantu Sekutu",
-        "Mengatur perdagangan",
-        "Menghapus sistem autarki"
-      ],
-      "jawaban": "C"
+      "jawaban": "B"
     },
     {
       "pertanyaan": "BPUPKI dibentuk pada tanggal ....",
       "opsi": [
-        "1 Juni 1945",
-        "7 September 1944",
         "29 April 1945",
+        "1 Juni 1945",
         "17 Agustus 1945",
-        "8 Maret 1942"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Perlawanan rakyat Aceh terhadap Jepang dipimpin oleh ....",
-      "opsi": [
-        "Teuku Umar",
-        "Cut Nyak Dien",
-        "Tengku Abdul Jalil",
-        "Diponegoro",
-        "Sultan Hasanuddin"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Gerakan bawah tanah pada masa Jepang dilakukan oleh tokoh seperti ....",
-      "opsi": [
-        "Soekarno",
-        "Sutan Sjahrir",
-        "Ki Hajar Dewantara",
-        "KH Mas Mansyur",
-        "Supriyadi"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Strategi kooperatif yang dilakukan tokoh nasional bertujuan untuk ....",
-      "opsi": [
-        "Mendukung penjajahan Jepang",
-        "Mendapatkan jabatan",
-        "Memanfaatkan Jepang untuk kepentingan kemerdekaan",
-        "Membantu Sekutu",
-        "Menguasai ekonomi"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Sistem tonarigumi pada masa Jepang bertujuan untuk ....",
-      "opsi": [
-        "Meningkatkan demokrasi",
-        "Mengawasi masyarakat secara ketat",
-        "Mengembangkan pendidikan",
-        "Membentuk koperasi",
-        "Membantu perdagangan"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Organisasi Seinendan dibentuk untuk ....",
-      "opsi": [
-        "Melatih pemuda sebagai cadangan militer",
-        "Membentuk parlemen",
-        "Mengatur ekonomi",
-        "Mengembangkan budaya",
-        "Mengatur pendidikan"
+        "7 Agustus 1945",
+        "18 Agustus 1945"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Kebijakan ekonomi Jepang menyebabkan rakyat mengalami ....",
+      "pertanyaan": "Tujuan pembentukan BPUPKI adalah ....",
       "opsi": [
-        "Kemakmuran",
-        "Stabilitas harga",
-        "Inflasi dan kelangkaan bahan pokok",
-        "Perdagangan bebas",
-        "Kesejahteraan merata"
+        "mempersiapkan kemerdekaan Indonesia",
+        "melawan Sekutu",
+        "membantu Belanda",
+        "membentuk KNIP",
+        "membentuk kabinet"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Sidang pertama BPUPKI berlangsung pada ....",
+      "opsi": [
+        "10--17 Juli 1945",
+        "29 Mei--1 Juni 1945",
+        "18 Agustus 1945",
+        "16 Agustus 1945",
+        "7 Agustus 1945"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Tokoh yang menyampaikan rumusan Pancasila pada 1 Juni 1945 adalah ....",
+      "opsi": [
+        "Mohammad Yamin",
+        "Soepomo",
+        "Soekarno",
+        "Hatta",
+        "Agus Salim"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Janji kemerdekaan yang diumumkan Jepang disampaikan oleh Perdana Menteri ....",
+      "pertanyaan": "Panitia Sembilan menghasilkan ....",
       "opsi": [
-        "Tojo",
-        "Koiso",
-        "Hirohito",
-        "Yamamoto",
-        "Tanaka"
+        "UUD 1945",
+        "Pancasila",
+        "Piagam Jakarta",
+        "KNIP",
+        "Kabinet"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Sidang kedua BPUPKI membahas ....",
+      "opsi": [
+        "proklamasi",
+        "dasar negara",
+        "rancangan UUD",
+        "kabinet",
+        "pemilu"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Jepang menyerah kepada Sekutu pada tanggal ....",
+      "opsi": [
+        "8 Maret 1942",
+        "17 Agustus 1945",
+        "14 Agustus 1945",
+        "29 April 1945",
+        "1 Juni 1945"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Peristiwa Rengasdengklok terjadi pada tanggal ....",
+      "opsi": [
+        "14 Agustus 1945",
+        "15 Agustus 1945",
+        "16 Agustus 1945",
+        "17 Agustus 1945",
+        "18 Agustus 1945"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Tujuan Peristiwa Rengasdengklok adalah ....",
+      "opsi": [
+        "mengamankan Soekarno-Hatta dari pengaruh Jepang",
+        "menyusun UUD",
+        "membentuk KNIP",
+        "mengusir Belanda",
+        "membentuk kabinet"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Rumah tempat penyusunan teks proklamasi adalah rumah ....",
+      "opsi": [
+        "Ahmad Soebardjo",
+        "Laksamana Maeda",
+        "Soekarno",
+        "Hatta",
+        "Sutan Syahrir"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Perubahan penting dalam bidang bahasa pada masa Jepang adalah ....",
+      "pertanyaan": "Teks proklamasi diketik oleh ....",
       "opsi": [
-        "Penggunaan bahasa Belanda diperluas",
-        "Bahasa Indonesia berkembang luas",
-        "Bahasa Inggris diwajibkan",
-        "Bahasa Jepang dihapus",
-        "Bahasa daerah dilarang"
+        "Sayuti Melik",
+        "Soekarno",
+        "Hatta",
+        "Sukarni",
+        "Chaerul Saleh"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Proklamasi Kemerdekaan Indonesia dibacakan di ....",
+      "opsi": [
+        "Rengasdengklok",
+        "Pegangsaan Timur No. 56",
+        "Istana Negara",
+        "Gedung PPKI",
+        "Kalijati"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Salah satu bentuk eksploitasi hasil bumi pada masa Jepang adalah ....",
+      "pertanyaan": "Sidang pertama PPKI dilaksanakan pada ....",
       "opsi": [
-        "Tanam Paksa kopi",
-        "Penyerahan wajib hasil pertanian",
-        "Politik Etis",
-        "Sistem sewa tanah",
-        "Liberalisasi ekonomi"
+        "17 Agustus 1945",
+        "18 Agustus 1945",
+        "19 Agustus 1945",
+        "22 Agustus 1945",
+        "29 Agustus 1945"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Dampak sosial dari kebijakan Jepang adalah ....",
+      "pertanyaan": "Hasil sidang pertama PPKI adalah ....",
       "opsi": [
-        "Stratifikasi sosial hilang",
-        "Munculnya kesadaran nasional semakin kuat",
-        "Belanda kembali berkuasa",
-        "Rakyat semakin percaya Jepang",
-        "Perdagangan meningkat"
+        "pembentukan KNIP",
+        "pembentukan BKR",
+        "pengesahan UUD 1945",
+        "pembentukan partai nasional",
+        "pembentukan kementerian"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Presiden pertama Republik Indonesia adalah ....",
+      "opsi": [
+        "Mohammad Hatta",
+        "Soepomo",
+        "Soekarno",
+        "Ahmad Soebardjo",
+        "Sutan Syahrir"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Wakil Presiden pertama Republik Indonesia adalah ....",
+      "opsi": [
+        "Mohammad Hatta",
+        "Soekarno",
+        "Sudirman",
+        "Yamin",
+        "Soepomo"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "KNIP dibentuk untuk membantu tugas ....",
+      "opsi": [
+        "DPR",
+        "Presiden",
+        "Mahkamah Agung",
+        "Menteri",
+        "Gubernur"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Jepang membagi wilayah Indonesia menjadi ....",
+      "pertanyaan": "Makna proklamasi di bidang politik adalah ....",
       "opsi": [
-        "Dua wilayah administratif",
-        "Tiga wilayah militer",
-        "Empat provinsi",
-        "Lima daerah otonom",
-        "Satu pemerintahan pusat"
+        "berakhirnya penjajahan dan lahirnya negara merdeka",
+        "meningkatnya hasil pertanian",
+        "berkembangnya perdagangan",
+        "bertambahnya penduduk",
+        "berkembangnya teknologi"
       ],
-      "jawaban": "B"
+      "jawaban": "A"
     },
     {
-      "pertanyaan": "Salah satu organisasi wanita bentukan Jepang adalah ....",
+      "pertanyaan": "Proklamasi menjadi sumber hukum bagi ....",
       "opsi": [
-        "Aisyiyah",
-        "Fujinkai",
-        "Dharma Wanita",
-        "Puteri Indonesia",
-        "Kowani"
+        "Belanda",
+        "Jepang",
+        "Indonesia",
+        "Inggris",
+        "Sekutu"
       ],
-      "jawaban": "B"
+      "jawaban": "C"
     },
     {
-      "pertanyaan": "Secara umum, pendudukan Jepang bagi bangsa Indonesia lebih banyak ....",
+      "pertanyaan": "Salah satu bentuk penerapan nilai proklamasi dalam kehidupan sekolah adalah ....",
       "opsi": [
-        "Memberikan kemakmuran",
-        "Menguntungkan dalam ekonomi",
-        "Membawa penderitaan namun mempercepat persiapan kemerdekaan",
-        "Menghapus penjajahan",
-        "Membentuk sistem demokrasi"
+        "menyontek saat ujian",
+        "membolos sekolah",
+        "menghargai perbedaan dan menjaga persatuan",
+        "melanggar tata tertib",
+        "berkelahi"
       ],
       "jawaban": "C"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Pada awalnya kedatangan Jepang di Indonesia masyarakat tidak melihat adanya ancaman penjajahan yang akan dilakukan oleh Jepang apa saja cara yang ditempuh Jepang untuk memikat rakyat Indonesia?"
+      "pertanyaan": "Pada masa pendudukan Jepang, banyak rakyat Indonesia dipaksa menjadi romusha sehingga mengalami penderitaan yang berat. Analisislah dampak kebijakan romusha terhadap kondisi sosial dan ekonomi masyarakat Indonesia!"
     },
     {
-      "pertanyaan": "Romusha adalah istilah yang menunjuk pada kebijakan yang diterapkan Jepang saat menduduki Indonesia romusha merupakan sistem kerja paksa yang diterapkan Jepang kepada rakyat Indonesia, mengapa pengerahan tenaga romusha menimbulkan kesengsaraan dan kematian?"
+      "pertanyaan": "Golongan muda membawa Soekarno dan Hatta ke Rengasdengklok untuk mendesak segera dilaksanakannya proklamasi. Menurut pendapatmu, apakah tindakan golongan muda tersebut dapat dibenarkan? Berikan alasan yang logis!"
     },
     {
-      "pertanyaan": "Sebutkan organisasi semi militer yang dibentuk oleh Jepang di Indonesia!"
+      "pertanyaan": "Setelah Indonesia merdeka, PPKI segera mengadakan sidang dan mengambil berbagai keputusan penting. Analisislah mengapa pengesahan UUD 1945 dan pemilihan Presiden-Wakil Presiden harus segera dilakukan setelah proklamasi!"
     },
     {
-      "pertanyaan": "Ceritakan bagaimana latar belakang Jepang masuk ke Indonesia yang kamu ketahui!"
+      "pertanyaan": "Di era globalisasi saat ini, banyak generasi muda yang kurang memahami makna kemerdekaan. Evaluasilah relevansi nilai-nilai Proklamasi Kemerdekaan bagi kehidupan generasi muda saat ini!"
     },
     {
-      "pertanyaan": "Kedatangan Jepang yang sesungguhnya ke Indonesia akhirnya disadari oleh rakyat Indonesia hanya untuk menjajah saja hal tersebut menyebabkan terjadinya perlawanan di beberapa daerah terhadap Jepang, perlawanan yang terbesar adalah yang dilakukan oleh PETA di Blitar jelaskan alasan terjadinya perlawanan PETA di Blitar!"
+      "pertanyaan": "Di sekolah terdapat perbedaan suku, agama, dan budaya yang terkadang memicu konflik antarsiswa. Rancanglah tiga kegiatan nyata yang dapat dilakukan warga sekolah untuk menerapkan nilai persatuan yang terkandung dalam Proklamasi Kemerdekaan Indonesia!"
     }
   ]
 }
