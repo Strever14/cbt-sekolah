@@ -1,406 +1,406 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "<b><i>Teks berikut untuk menjawab soal nomor 1s.d 3!</i></b><br><blockquote>Sejumlah orang yang terjebak kebakaran di Glodok Plaza, Jakarta Barat, melambaikan kain dan menyalakan senter dari ponsel, Rabu (15/1/2025) malam. Hal ini mereka lakukan untuk meminta pertolongan dari warga dan petugas yang berada di lokasi. Lambaian kain dan sinar dari senter itu sebagai penanda keberadaan mereka agar mudah diketahui petugas dan warga. Pengamatan Kompas.com di lokasi, mereka yang terjebak beberapa kali melambaikan tangan ke arah kerumunan warga yang menonton dari bawah. Ada juga yang menampakkan diri melalui jendela gedung untuk meminta pertolongan. Sementara itu, warga yang menonton dari bawah gedung berteriak memperingatkan mereka untuk tidak melompat. Rata-rata posisi warga yang terjebak ini berada di lantai bawah dari pusat kobaran api. Kebakaran di Glodok Plaza ini diduga berasal dari diskotek yang berada di lantai 7 gedung itu. Sekitar pukul 22.20 WIB mobil petugas pemadam kebakaran datang ke lokasi. Petugas langsung menurunkan tangga untuk mengevakuasi warga yang terjebak. Belum diketahui secara pasti ada berapa orang yang terjebak dalam kebakaran di Glodok Plaza ini. Saat ini petugas pemadam masih berupaya mengevakuasi korban. Hingga pukul 22.58 WIB, petugas masih berupaya memadamkan api di lokasi. 105 personel dan 21 mobil pemadam sudah dikerahkan ke lokasi untuk memadamkan kebakaran di Glodok Plaza itu.</blockquote><br>(<i>Sumber:https://regional.kontan.co.id/news/glodok-plaza-kebakaran-warga-yang-terjebak-lambaikan-kain</i>)<br><br>Informasi di bawah ini yang sesuai dengan teks di atas, kecuali ....",
+      "pertanyaan": "Pahami teks berikut untuk soal nomor 1 s.d nomor 3<br><br><blockquote><b>Struktur Tanah dan Kerentanan Likuefaksi di Kawasan Sesar Lokal Ciparay</b><br><br>(1) Pengamatan geologis terpadu dilakukan untuk memetakan karakteristik geoteknik batuan dan struktur tanah pada zona depresi di wilayah Kecamatan Ciparay, Kabupaten Bandung. Observasi ini diarahkan untuk mengidentifikasi tingkat kerentanan lapisan tanah terhadap fenomena kehilangan kekuatan geser (<i>likuefaksi</i>) akibat aktivitas seismik dari sesar lokal sekitarnya. Objek yang diamati meliputi komposisi stratigrafi tanah, kedalaman muka air tanah (<i>water table</i>), dan tingkat kepadatan relatif lapisan pasir halus.<br><br>(2) Hasil pengeboran inti dan uji penetrasi standar (SPT) pada kedalaman 2 hingga 12 meter menunjukkan didominasi oleh endapan danau purba berupa pasir lanauan (<i>silty sand</i>) yang bersifat lepas (<i>loose configuration</i>) dengan nilai N-SPT rata-rata kurang dari 10. Pengukuran piezometer mendeteksi bahwa muka air tanah di area observasi sangat dangkal, yaitu berada pada kedalaman 1,5 hingga 2,2 meter di bawah permukaan tanah setempat. Ketika lapisan pasir lepas yang jenuh air (<i>fully saturated</i>) ini menerima beban siklik akibat simulasi getaran gempa, tekanan air pori meningkat drastis hingga menyamai tekanan vertikal tanah total. Kondisi ini memicu transisi fase material tanah, di mana agregat pasir kehilangan kontak antarbutiran secara mendadak dan bertransformasi dari fase padat menjadi fase cair (<i>likuefaksi</i>), yang secara visual ditunjukkan dengan amblesnya permukaan tanah dan munculnya semburan pasir (<i>sand boil</i>) di beberapa titik retakan.<br><br>(3) Temuan empiris dari observasi geoteknik ini membuktikan bahwa wilayah dataran rendah Ciparay yang tersusun atas endapan aluvial lunak dengan muka air tanah dangkal memiliki indeks kerentanan likuefaksi berkategori tinggi. Data ini menjadi dasar faktual penting dalam penyusunan zonasi risiko bencana dan standarisasi struktur bangunan tahan gempa bagi perencanaan tata ruang wilayah di Kabupaten Bandung.</blockquote><br>Kalimat di dalam teks yang paling kuat memenuhi kriteria <b>faktual dan objektif</b> sebagai ciri utama teks laporan hasil observasi adalah...",
       "opsi": [
-        "Kebakaran di Glodok Plaza diduga berasal dari diskotek di lantai 7",
-        "Petugas pemadam tiba di lokasi setelah kebakaran padam",
-        "Warga yang terjebak menggunakan kain dan senter untuk meminta pertolongan",
-        "Ada 105 personel dan 21 mobil pemadam dikerahkan ke lokasi",
-        "Kebakaran terjadi di malam hari"
+        "Pengamat merasa sangat ngeri membayangkan besarnya dampak gempa bumi yang akan menghancurkan rumah-rumah di Ciparay.",
+        "Sesar lokal di sekitar Ciparay sengaja mengincar wilayah endapan danau purba karena tanahnya sangat empuk dan mudah dihancurkan.",
+        "Hasil pengeboran inti pada kedalaman 2 hingga 12 meter didominasi oleh pasir lanauan dengan nilai N-SPT kurang dari 10 dan muka air tanah sedalam 1,5 hingga 2,2 meter.",
+        "Pemerintah Kabupaten Bandung dinilai lambat dan kurang peduli dalam menangani masalah kerentanan tanah di dataran rendah.",
+        "Di masa depan, seluruh daratan di Kecamatan Ciparay dipastikan akan mencair total dan menenggelamkan peradaban manusia dalam waktu singkat."
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dalam teks LHO geologi di atas, terdapat kata teknis <i>\"stratigrafi\"</i> pada paragraf (1) dan frasa <i>\"beban siklik\"</i> pada paragraf (2). Makna ilmiah yang tepat dari kedua istilah tersebut secara berurutan adalah...",
+      "opsi": [
+        "Proses penguapan air dari dalam retakan batuan; berat total kendaraan yang melintasi jalan raya Ciparay.",
+        "Ilmu yang mempelajari tata letak, urutan, dan kronologi lapisan-lapisan batuan atau tanah; gaya atau tegangan berulang secara berkala yang dialami tanah akibat getaran dinamis seperti gempa.",
+        "Teknik pengukuran kedalaman sumur menggunakan tali; tekanan angin kencang yang menghantam atap bangunan.",
+        "Pembersihan permukaan tanah dari rumput liar; proses pembakaran sampah organik di bawah lapisan tanah.",
+        "Peta penunjuk arah evakuasi bencana banjir; nilai kerugian material akibat kerusakan infrastruktur gedung."
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Makna kata dari \"evakuasi\" yang terdapat dalam konteks teks di atas adalah ....",
+      "pertanyaan": "Berdasarkan data eksperimen dan deskripsi pada paragraf (2), apa kondisi awal yang memicu tanah pasir lanauan di Ciparay mengalami kehilangan kekuatan geser hingga bertransformasi menjadi fase cair saat terjadi gempa?",
       "opsi": [
-        "Pemadaman api di lokasi kebakaran",
-        "Pencarian asal kebakaran",
-        "Pemberian peringatan kepada warga",
-        "Pemindahan barang dari lokasi kebakaran",
-        "Penyelamatan orang dari situasi berbahaya ke tempat yang aman"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Tujuan penulisan teks di atas adalah ....",
-      "opsi": [
-        "Mengkritik penanganan kebakaran oleh petugas",
-        "Menyampaikan pentingnya kesadaran warga terhadap bencana",
-        "Memberikan informasi tentang kronologi kebakaran di Glodok Plaza",
-        "Menginformasikan jumlah korban kebakaran",
-        "Menggambarkan situasi warga yang menonton kebakaran"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "<b><i>Teks berikut untuk menjawab soal nomor 4 s.d 6!</i></b><br><blockquote><b>PEMANASAN KOTA</b><br><br>Kobar matahari membakar kotaku<br>jalan raya, trotoar, keramik, pagar besi<br>mengirim panas pada wajahku<br>haruskah kuhentikan langkah kaki<br>di bawah dedaun yang juga gerah?<br>sedang air yang menyimpan sejuk jalanan<br>telah habis diminum zaman<br>Zaman yang memanggil para petani<br>menjadi tukang becak, penjual semangka, penjaga warung,<br>pembersih selokan atau pengemis yang tak tahu malu<br>kulihat semuanya di kota ini<br>membakar perih setiap nurani<br>Bagaimanapun kami hanyalah pejalan<br>yang mencari kebahagiaan<br>melihat rumah-rumah bertingkat, liuk-liuk jalanan<br>dan tanda-tanda jalan yang menyesakkan kepala<br>namun sebelum asap knalpot susut di dada magrib<br>kami tahu bahwa kebodohan yang bisu<br>adalah cara termudah mengulur waktu<br>seperti sajak yang tersesat di rimba kepalaku<br><br>Annuqayah, 30 Oktober 2017</blockquote><br>(<i>Sumber:https://jejakpublisher.com/2017/12/10/sehimpunan-puisi-ahmad-nyabeer/</i>)<br><br>Tema utama yang disampaikan dalam puisi di atas adalah ....",
-      "opsi": [
-        "Kehidupan massyarakat urban yang terpinggirkan",
-        "Kritik terhadap ketidakpedulian lingkungan di kota",
-        "Perjuangan para pejalan kaki di tengah panasnya kota",
-        "Hilangnya kehijauan dari keindahan kota akibat modernisasi",
-        "Kesulitan hidup masyarakat kota kecil"
+        "Lapisan pasir tersebut terlalu kering sehingga butiran mineral silikat pecah menjadi debu halus akibat radiasi matahari.",
+        "Struktur tanah tersusun atas pasir lepas yang berada dalam kondisi jenuh air (terendam air tanah dangkal), sehingga getaran gempa menaikkan tekanan air pori secara drastis.",
+        "Nilai N-SPT yang kecil membuat akar tanaman hortikultura di permukaan tanah tidak mampu menyerap air tanah secara optimal.",
+        "Tekanan vertikal tanah total menguap ke udara akibat reaksi kimia antara pasir lanauan dengan senyawa sulfur udara.",
+        "Piezometer memancarkan gelombang ultrasonik yang merusak ikatan kohesi antarbutiran pasir di bawah permukaan."
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Pesan utama yang ingin disampaikan oleh penulis dalam puisi di atas adalah .....",
+      "pertanyaan": "Pahami teks berikut untuk soal nomor 4 s.d nomor 5<br><br><blockquote><b>Reboisasi di Atas Aspal Jalan Raya Ciparay</b><br><br>(1) Pagi itu, sinar matahari baru saja menyentuh riak air di selokan Jalan Raya Ciparay yang mampet. Dudung dan Ujang, dua siswa SMK yang telat masuk sekolah, terpaksa berdiri di tepi jalan karena angkot yang mereka tumpangi terjebak kemacetan parah di dekat area pasar. Jalanan tampak semrawut karena kendaraan harus berjalan merayap menghindari rangkaian lubang jalan yang menganga lebar dan dalam, mirip deretan pot bunga raksasa kosong yang siap ditanami.<br><br>(2) \"Jang,\" kata Dudung sambil menunjuk ke arah lubang besar di tengah jalan, \"Pemerintah daerah kita ini sepertinya sangat peduli pada lingkungan hidup, ya? Konsep Green City Kurikulum Merdeka benar-benar diterapkan di mana-mana.\" Ujang mengerutkan dahi, bingung. \"Peduli bagaimana, Dung? Jalan hancur lebur seperti kubangan kerbau begini kamu bilang peduli lingkungan? Mata kamu kelilipan debu Ciparay?\"<br><br>(3) Dudung tersenyum lebar, \"Kamu ini tidak punya visi ekologis, Jang! Coba lihat lubang-lubang jalan itu. Kedalamannya sudah ideal untuk media tanam. Struktur genangan air hujan di dalamnya juga sudah menyediakan sistem irigasi alami. Kalau kita bawa bibit pohon pisang, lalu kita tanam di tengah jalan itu, kita tidak perlu repot menyiramnya lagi setiap pagi. Program reboisasi kecamatan pasti sukses besar!\"<br><br>(4) Mendengar celotehan temannya, Ujang terdiam sejenak. Matanya memandang lubang jalan, lalu memandang papan iklan besar di pinggir jalan yang menampilkan foto pejabat tersenyum ramah dengan slogan besar: \"Membangun Infrastruktur Ciparay dengan Hati\". Ujang pun mengangguk setuju, \"Oh, iya benar juga kamu, Dung. Mungkin aspal sengaja dibuat rapuh agar akar pohonnya nanti lebih mudah menembus ke dalam bumi. Kebijakan yang sangat futuristik!\"</blockquote><br>Ditinjau dari struktur teks anekdot konvensional, bagian Krisis <i>(puncak masalah yang mengandung keunikan/kelucuan/sindiran)</i> pada teks di atas ditandai oleh...",
       "opsi": [
-        "Modernisasi kota membawa perubahan yang merugikan manusia",
-        "Kehidupan kota memberikan kenyamanan bagi masyarakatnya",
-        "Kota adalah tempat yang penuh kebahagiaan dan harapan",
-        "Alam kota tetap dapat memberikan kesejukan di tengah modernisasi",
-        "Kehidupan kota harus dipenuhi dengan pengharapan yang besar"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Kritik sosial yang tersirat dalam puisi di atas adalah ....",
-      "opsi": [
-        "Modernisasi mempermudah kehidupan masyarakat perkotaan",
-        "Para petani di desa telah berhasil menyesuaikan diri di kota",
-        "Kehidupan kota menghilangkan nilai-nilai kemanusiaan",
-        "Kota menjadi tempat yang nyaman untuk mencari kebahagiaan",
-        "Pembangunan kota mengutamakan keseimbangan lingkungan"
+        "Paragraf (1) yang menggambarkan kondisi Dudung dan Ujang yang telat sekolah karena angkot terjebak macet akibat jalan berlubang di Ciparay.",
+        "Paragraf (2) saat Ujang memprotes pendapat Dudung karena menganggap pandangan Dudung aneh dan tidak masuk akal.",
+        "Paragraf (3) ketika Dudung menjabarkan analisis logis palsu mengenai kedalaman lubang jalan yang ideal untuk media tanam pohon pisang dan sistem irigasi alami sebagai bentuk reboisasi.",
+        "Paragraf (4) pada bagian Ujang melihat papan iklan foto pejabat dan menyimpulkan bahwa aspal sengaja dibuat rapuh demi pertumbuhan akar pohon.",
+        "Seluruh isi teks mulai dari paragraf (1) hingga paragraf (4) karena semuanya menceritakan penderitaan siswa SMK."
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "<b><i>Teks berikut untuk menjawab soal nomor 7 s.d 9!</i></b><br><blockquote><b>Kekuatan Mindfulness dalam Mengatasi Stres</b><br><br><b>Pendahuluan:</b><br><br>Mindfulness atau kesadaran penuh kian populer sebagai metode untuk mengatasi stres dan meningkatkan kesejahteraan mental. Di era sekarang, praktik ini menawarkan pendekatan efektif untuk mengelola emosi dan meningkatkan kualitas hidup.<br><br><b>Isi:</b><br><br>Dengan berfokus pada saat ini dan menerima pikiran serta perasaan tanpa penilaian, mindfulness dapat mengurangi stres dan meningkatkan konsentrasi. Penelitian menunjukkan bahwa praktik ini dapat menurunkan kadar hormon stres.<br><br>Selain itu, metode ini juga dapat membantu mengurangi gejala kecemasan dan depresi. Adapun berbagai cara untuk berlatih mindfulness, yaitu seperti meditasi dan berjalan sadar, dapat diintegrasikan dalam kehidupan sehari-hari.<br><br><b>Kesimpulan:</b><br><br>Mindfulness merupakan alat yang berguna dalam mengatasi stres dan meningkatkan kesehatan mental secara keseluruhan, sehingga perlu diintegrasikan dalam rutinitas harian.</blockquote><br>(<i>Sumber:https://kumparan.com/inspirasi-kata/15-contoh-artikel-ilmiah-populer-dalam-berbagai-tema-menarik-23g7eM5QdqE/1</i>)<br><br>Jenis karya tulis yang sesuai dengan teks di atas adalah ....",
+      "pertanyaan": "Makna tersirat berupa kritik sosial yang ingin disampaikan oleh penulis melalui dialog dan properti papan iklan pada paragraf (4) adalah...",
       "opsi": [
-        "Artikel ilmiah",
-        "Esai ilmiah",
-        "Karya tulis populer",
-        "Laporan penelitian",
-        "Tesis"
+        "Pujian yang tulus kepada pemerintah daerah atas kecerdasan mereka mendesain jalan raya yang ramah lingkungan.",
+        "Imbauan kepada seluruh siswa SMK di Ciparay agar selalu membawa bibit tanaman ke mana pun mereka pergi.",
+        "Sindiran tajam terhadap ketimpangan antara slogan politik pembangunan pejabat di papan iklan dengan realitas buruknya kualitas infrastruktur jalan di lapangan.",
+        "Penjelasan ilmiah mengenai teknik penanaman pohon jati di atas media aspal yang terdistorsi.",
+        "Saran agar anggaran perbaikan jalan dialihkan sepenuhnya untuk membeli pupuk tanaman hortikultura."
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Salah satu ciri-ciri dari karya tulis populer yang terlihat dalam teks di atas adalah ....",
+      "pertanyaan": "Pahami teks berikut untuk soal nomor 6 s.d nomor 7<br><br><blockquote><b>Hikayat Tuan Kadi Ciparay dan Tempayan Kejujuran</b><br><br>(1) Syahdan pada zaman dahulu kala, ada seorang hakim di negeri Ciparay bernama Tuan Kadi yang amat masyhur akan keadilannya. Maka pada suatu hari datanglah dua orang saudagar kaya menghadap Tuan Kadi. Adapun saudagar yang pertama membawa sepasang ayam jago berkaki sasa (kuat) seraya bersembah, \"Wahai Tuan Kadi yang bijaksana, hambamu ini memohon keadilan. Perihal tanah kebun di lereng perbukitan itu adalah milik hamba, namun telah dirampas sepihak oleh saudagar kedua ini.\" Maka saudagar yang kedua pun membantah, lalu menyodorkan sebuah tempayan tanah liat yang berisi penuh dengan keping emas batangan ke hadapan Tuan Kadi sebagai tanda hormat (suap).<br><br>(2) Tuan Kadi memandang tempayan emas itu, lalu memandang sepasang ayam jago di hadapannya. Maka seketika itu juga, Tuan Kadi memukul tempayan emas tersebut menggunakan tongkatnya hingga pecah berantakan. Ajaib sekali, kepingan emas di dalam tempayan itu seketika berubah wujud menjadi ratusan ulat bulu yang berbisa, lalu merayap menggigit kaki saudagar kedua yang mencoba menyuapnya hingga ia melompat kesakitan dan mengaku bersalah. Tuan Kadi pun bertitah, \"Kebun di lereng bukit Ciparay jatuh kepada saudagar pertama yang jujur, dan tempayan berisi ulat ini menjadi ganjaran bagi keserakahanmu!\" Maka segala rakyat yang melihat kejadian itu pun takjublah akan firasat dan keadilan Tuan Kadi.</blockquote><br>Berdasarkan teks hikayat kedua, bagaimana penggambaran watak tokoh Tuan Kadi dan metode yang digunakan penulis untuk menunjukkannya?",
       "opsi": [
-        "Memberikan informasi secara sederhana dan mudah dipahami",
-        "Penyajian kuantitatif yang rinci",
-        "Menggunakan bahasa formal dengan istilah teknis",
-        "Menyertakan refrensi penelitian di setiap argumen",
-        "Berfokus pada analisis akademik mendalam"
+        "Watak Tuan Kadi penakut; ditunjukkan secara dramatis melalui dialog ketakutan saat melihat ulat bulu.",
+        "Watak Tuan Kadi adil dan tidak dapat disuap; ditunjukkan secara analitik-dramatis melalui penolakan tegas menghancurkan tempayan emas suapan yang berubah menjadi ulat bisa.",
+        "Watak Tuan Kadi tamak; ditunjukkan secara langsung oleh narator saat ia merebut ayam jago milik saudagar pertama.",
+        "Watak Tuan Kadi bodoh; ditunjukkan melalui ketidakmampuannya membedakan antara emas asli dan ulat bulu.",
+        "Watak Tuan Kadi pemarah; ditunjukkan melalui tindakannya memukuli seluruh hulu balang istana menggunakan tongkat kayu."
       ],
-      "jawaban": "A"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Data yang mendukung efektivitas mindfulness menurut teks di atas, adalah....",
+      "pertanyaan": "Nilai <b>hukum/keadilan</b> yang mendominasi jalannya cerita pada teks hikayat kedua di atas mengajarkan bahwa...",
       "opsi": [
-        "Dapat mengurangi stres dan meningkatkan konsentrasi",
-        "Mindfulness membantu mengelola emosi dengan lebih baik",
-        "Mengurangi gejala kecemasan dan depresi",
-        "Penelitian menunjukkan bahwa praktik ini dapat menurunkan kadar hormon stres",
-        "Menawarkan cara hidup yang lebih sehat"
+        "Setiap keputusan hukum di pengadilan harus dimenangkan oleh orang yang membawa hewan ternak paling kuat.",
+        "Kebenaran suatu perkara dapat dibeli menggunakan kepingan emas asal disimpan di dalam wadah tanah liat yang rapi.",
+        "Hukum harus ditegakkan secara objektif tanpa pandang bulu, dan segala bentuk gratifikasi atau suap untuk memanipulasi keadilan pada akhirnya akan membawa kehancuran bagi pelakunya.",
+        "Hakim di daerah Ciparay diperbolehkan mengubah emas menjadi ulat bulu jika persediaan makanan di kantor habis.",
+        "Orang kaya berhak mengambil tanah milik petani miskin jika tanah tersebut terletak di area lereng bukit yang terisolasi."
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Hal yang membuat teks hikayat tidak diketahui pengarangnya adalah karena teks hikayat..",
+      "opsi": [
+        "berupa cerita rekaan",
+        "bertujuan menghibur",
+        "merupakan cerita pelipur lara",
+        "diceritakan dari mulut ke mulut",
+        "hanya berkembang di lingkungan istana"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "<b><i>Teks berikut untuk menjawab soal nomor 10!</i></b><br><blockquote>Dagang jamu selendangnya belang<br>Jamu disimpan di lemari kaca<br>Saat waktumu sedang luang<br>Ayo manfaatkan dengan membaca.</blockquote><br>(<i>Sumber:https://kaltara.tribunnews.com/2024/10/14/30-pantun-pendidikan-nasihat-semangat-menuntut-ilmu-untuk-peringati-hari-pelajar-sedunia-15-oktober?page=3</i>)<br><br>Maksud dari baris \"Ayo manfaatkan dengan membaca\" dalam pantun di atas adalah.....",
+      "pertanyaan": "Pahami teks berikut untuk soal nomor 9 s.d nomor 11<br><br><blockquote>(1) Perwakilan Petani Ciparay: \"Pak, kami ingin menyewa 3 unit truk pendingin selama 10 hari untuk mengangkut sayuran segar agar tidak membusuk. Berapa harga sewanya?\"<br><br>(2) Pihak PO Bus: \"Harga sewa normal truk kapasitas 5 ton adalah Rp2.500.000,00 per unit per hari. Totalnya Rp75.000.000,00.\"<br><br>(3) Perwakilan Petani: \"Harga itu terlalu tinggi bagi modal kami. Bagaimana jika Rp1.800.000,00 per hari? Imbal baliknya, bensin solar ditanggung penuh oleh petani dan kami berkomitmen kontrak sewa rutin setiap bulan pascapanen.\"<br><br>(4) Pihak PO Bus: \"Kontrak rutin itu menarik, tapi Rp1.800.000,00 belum menutup biaya perawatan mesin pendingin. Bagaimana kalau Rp2.000.000,00 per hari? Solar dari petani, tapi kami gratiskan biaya sopir dan beri jaminan asuransi muatan sayur.\"<br><br>(5) Perwakilan Petani: \"Harga Rp2.000.000,00 dengan fasilitas asuransi dan gratis sopir sangat adil. Kami sepakat.\"</blockquote><br>Alasan penguat (<i>leverage</i>) paling efektif yang digunakan petani pada kalimat (3) sehingga pihak PO Bus bersedia menurunkan harga sewa adalah...",
       "opsi": [
-        "Mendorong pembaca untuk menjual jamu di waktu luang",
-        "Menekankan pentingnya membaca sebagai hobi utama",
-        "Mengingatkan untuk memanfaatkan waktu dengan membaca buku",
-        "Mengajarkan cara menyimpan jamu di lemari kaca",
-        "Menyarankan agar membaca buku dilakukan setiap saat"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "<b><i>Teks berikut untuk menjawab soal nomor 11 s.d 13!</i></b><br><blockquote>Sejumlah wilayah di Indonesia saat ini tengah menghadapi dampak signifikan dari bencana alam yang terjadi dalam beberapa hari terakhir. Selain bencana erupsi Gunung Api Ibu di Kabupaten Halmahera Barat, Maluku Utara, terjadi pula angin kencang, hujan lebat, dan banjir rob di beberapa provinsi lain. Hujan lebat disertai angin kencang melanda Kecamatan Lakarsantri, Kelurahan Jeruk, Kota Surabaya, Provinsi Jawa Timur, Kamis (16/1). Akibatnya, 13 rumah warga mengalami kerusakan yang mengakibatkan 13 Kepala Keluarga (KK) terdampak. BPBD Kota Surabaya segera melakukan kaji cepat, pembersihan lokasi terdampak, serta memasang terpal untuk rumah-rumah yang rusak. Situasi saat ini masih dalam tahap penanganan dan pemulihan, dan BPBD terus berkoordinasi dengan pihak terkait untuk mendukung warga yang terdampak. Di Provinsi Sumatra Selatan, bencana banjir juga terjadi di Kabupaten Ogan Komering Ulu. Banjir yang melanda Kecamatan Baturaja Timur, Minggu (5/1) telah menyebabkan 478 KK atau 1.336 jiwa terdampak. Kondisi terkini meski air telah surut, BPBD setempat masih terus melakukan pemantauan dan distribusi bantuan logistik untuk membantu pemulihan kondisi warga. Masyarakat diimbau untuk tetap waspada terhadap potensi banjir susulan yang dapat terjadi di masa mendatang. Berpindah ke Provinsi Kalimantan Selatan, dua kabupaten di provinsi ini juga dilanda bencana banjir. Di Kabupaten Tapin, banjir rob pada Rabu (15/1) telah menggenangi 198 KK dan merendam fasilitas umum serta rumah warga. Meskipun debit air mulai surut, pihak BPBD tetap melaksanakan pendataan serta upaya tanggap darurat untuk mendukung pemulihan wilayah terdampak. Masyarakat diimbau untuk terus waspada terhadap kemungkinan terjadinya banjir susulan. Selanjutnya, di Kabupaten Banjar, banjir yang terjadi pada Rabu (15/1) merendam 432 unit rumah dan beberapa fasilitas, dengan 592 KK atau 1.644 jiwa terdampak. Tim gabungan dari BPBD, TNI, Polri, serta pemerintah setempat telah mengupayakan langkah-langkah tanggap darurat untuk meringankan beban warga terdampak. Kondisi terkini banjir belum surut.</blockquote><br>(<i>Sumber:https://kupang.tribunnews.com/2025/01/16/banjir-di-kota-surabaya-jawa-timur-13-rumah-warga-rusak</i>)<br><br>Apa yang tersirat dari tindakan BPBD Kota Surabaya setelah bencana terjadi?",
-      "opsi": [
-        "Fokus pada pencegahan bencana serupa di masa depan",
-        "Menyediakan bantuan logistik bagi warga terdampak",
-        "Melakukan pemulihan awal terhadap rumah yang rusak",
-        "menghimbau warrga untuk segera mengungsi ke lokasi aman",
-        "Menilai dampak lingkungan akibat bencana"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Dalam teks di atas, yang dimaksud dengan \"banjir rob\" adalah .....",
-      "opsi": [
-        "Banjir akibat air laut pasang mengenangi daratan",
-        "Banjir yang terjadi akibat kerusakan lingkungan",
-        "Banjir yang disebabkan oleh curah hujan tinggi",
-        "Banjir yang terjadi karena pergerakan tanah",
-        "Banjir akibat luapan sungai di sekitar wilayah terdampak"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Apa perbedaan utama antara bencana banjir di Kabupaten Tapin dan Kabupaten Banjar?",
-      "opsi": [
-        "Kondisi banjir di Kabupaten Tapin sudah surut, sedangkan di Kabupaten Banjar belum surut",
-        "Banjir di Kabupaten Tapin menggenangi lebih banyak rumah dibandingkan di Kabupaten Banjar",
-        "Banjir di Kabupaten Tapin berdampak pada lebih sedikit KK dibandingkan di Kabupaten Banjar",
-        "Banjir di Kabupaten Tapin tidak merendam fasilitas umum, sedangkan di Kabupaten Banjar merendam fasilitas umum",
-        "Banjir di Kabupaten Tapin disebabkan oleh hujan lebat, sedangkan di Kabupaten Banjar oleh banjir rob"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "<b><i>Teks berikut untuk menjawab soal nomor 14 s.d 16!</i></b><br><blockquote><b>Permainan di Balik Meja</b><br><br>Tikus-tikus berlari, tak kenal lelah,<br>Berkeliaran di kantor, penuh dengan dusta.<br>Berdasi dan licik, tak peduli harga diri,<br>Menunggu celah untuk kembali beraksi.<br>Kucing datang, wajahnya berubah,<br>Mengganti sikap, pura-pura tak tahu arah.<br>Tikus menghilang, cerdik bersembunyi,<br>Tak ada yang tahu siapa yang berpura-pura mati.<br>Rakus, selalu tak kenal puas,<br>Mereka menari di atas kerja yang tak adil.<br>Di balik meja mereka bersembunyi,<br>Menunggu saat, mengincar yang tak terlihat.<br>Namun, permainan ini berputar kembali,<br>Kucing yang lapar, tapi tikus tak akan berhenti.<br>Akhirnya, siapa yang tertawa terakhir?<br>Atau hanya silih berganti, selamanya terperangkap dalam kebohongan yang sama?</blockquote><br>Pesan moral yang ingin disampaikan dalam puisi di atas adalah .....",
-      "opsi": [
-        "Kejahatan akan selalu ada dalam kehidupan",
-        "Keadilan membutuhkan pengawasan ketat",
-        "Korupsi adalah lingkaran setan yang sulit diputus",
-        "Keserakahan hanya akan membawa kehancuran",
-        "Kebenaran selalu menang pada akhirnya"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Simbolisme dari kata \"meja\" yang terdapat dalam puisi di atas adalah .....",
-      "opsi": [
-        "Lingkaran permainan",
-        "Keadilan",
-        "Tempat persembunyian",
-        "Sumber masalah",
-        "Kekuasaan"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Sifat utama \"tikus\" yang digambarkan dalam puisi di atas adalah.....",
-      "opsi": [
-        "Lincah namun tidak berbahaya",
-        "Tenang namun berhati-hati",
-        "Lemah dan mudah menyerah",
-        "Pandai berwawasan",
-        "Licik dan serakah"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "<b><i>Teks berikut untuk menjawab soal nomor 17 s.d 19!</i></b><br><blockquote><b>1. Latar Belakang</b><br><br>Demam berdarah dengue (DBD) adalah penyakit demam akut yang ditemukan di daerah tropis. Penyakit Demam Berdarah Dengue (DBD) disebabkan oleh virus dengue yang ditularkan melalui gigitan nyamuk Aedes aegypti, yang mana menyebabkan gangguan pada pembuluh darah kapiler dan pada sistem pembekuan darah, sehingga mengakibatkan perdarahan-perdarahan. Kondisi masyarakat saat ini, masih banyak yang terkena demam berdarah dengue. Masyarakat masih belum menyadari apa yang mereka lakukan yaitu dapat merugikan orang-orang disekitarnya. Dari tahun ke tahun penderita penyakit demam berdarah dengue semakin meningkat. Penyakit demam berdarah ini sangat penting untuk dibahas, karena banyak warga di Indonesia yang masih menganggap penyakit ini, penyakit yang biasa. Terutama pada anak-anak sering terkena Demam Berdarah Dengue.<br><br><b>2. Rumusan Masalah</b><br><br>• Apa pengertian Demam Berdarah Dengue?<br>• Apa ciri ciri nyamuk Aedes Aegypti ?<br>• Apa gejala Demam Berdarah Dengue?<br>• Bagaimana cara pengobatan DBD?<br>• Bagaimana cara mencegah DBD?<br><br><b>3. Tujuan Penelitian</b><br><br>• Mengetahui pengertian Demam Beradarah Dengue<br>• Mengetahui ciri ciri nyamuk Aedes Aegypti<br>• Mengetahui gejala Demam Beradarah Dengue<br>• Mengetahui cara pengobatan Demam Berdarah Dengue<br>• Mengetahui cara mencegah Demam Berdarah Dengue<br><br><b>4. Manfaat Penelitian</b><br><br>• Penderita penyakit DBD berkurang<br>• Terjaganya kebersihan lingkungan<br>• Kesehatan tubuh yang terjaga</blockquote><br>(<i>Sumber:https://docs.google.com/viewerng/viewer?url=https://ridwaninstitute.co.id/wp-content/uploads/2023/06/Contoh-Karya-Ilmiah-Semiformal.pdf</i>)<br><br>Bagian manakah dalam struktur karya ilmiah yang sesuai dengan teks di atas?",
-      "opsi": [
-        "Penutup",
-        "Metode penelitian",
-        "Daftar pustaka",
-        "Penndahuluan",
-        "Hasil dan pembahasan"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Alasan utama penyakit DBD dianggap penting untuk dibahas sesuai dengan teks karya ilmiah di atas adalah .....",
-      "opsi": [
-        "Karena penyakit DBD dapat ditemukan di daerah tropis",
-        "Karena penderita penyakit DBD terus meningkat dari tahun ke tahun",
-        "Karena banyak warga Indonesia yang belum mengetahui cara pengobatan DBD",
-        "Karena masyarakat tidak peduli terhadap lingkungan mereka",
-        "Karena DBD lebih menyerang anak-anak"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Dalam teks di atas, manfaat penelitian menyebutkan bahwa salah satu hasil yang diharapkan adalah \"Penderitaan penyakit DBD berkurang.\" Keterkaitan manfaat ini dengan latar belakang adalah .....",
-      "opsi": [
-        "Menggambarkan kebiasaan buruk masyarakat yang harus diubah",
-        "Menyatakan pentingnya pengobatan medis untuk penderita DBD",
-        "Menekankan perlunya pencegahan penyebaran DBD",
-        "Menghubungkan kebersihan lingkungan dengan tingat kesehatan masyarakat",
-        "Menunjukkan dampak positif penelitian terhadap masyarakat"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "<b><i>Teks berikut untuk menjawab soal nomor 20 s.d 22!</i></b><br><blockquote>Assalamualaikum Wr. Wb,<br><br>Saya mengucapkan hormat saya kepada Ibu Kepala Sekolah, Bapak dan Ibu Guru, dan teman-teman yang saya sayangi. Pada kesempatan yang berbahagia ini, saya ingin menyampaikan pidato tentang kenakalan remaja untuk renungan bersama. Tetapi sebelum itu, mari kita ucapkan terima kasih kepada Tuhan Yang Maha Esa atas rahmat-Nya yang telah membuat kita berkumpul di sini.<br><br>Kita semua tahu bahwa masa kanak-kanak adalah masa yang sangat rentan dipengaruhi oleh banyak hal, baik yang positif maupun negatif. Tetapi pengaruh negatif biasanya lebih cepat diserap oleh teman-teman kita, yang jelas berdampak buruk pada kehidupan mereka di kemudian hari.<br><br>Fakta di lapangan menunjukkan bahwa banyak generasi muda terlibat dalam perilaku negatif dan perbuatan tidak terpuji. Contohnya adalah bagaimana generasi muda berperilaku, termasuk pergaulan bebas, penggunaan narkoba, dan keterlibatan dalam geng motor yang membahayakan dan kegiatan negatif lainnya.<br><br>Sebagai generasi muda, kita harus meningkatkan kesadaran untuk selalu mengingatkan satu sama lain tentang bahaya yang disebabkan oleh perilaku negatif ini. Kita harus selalu memiliki prinsip dalam hidup kita, harus mampu mandiri, dan mampu membawa diri kita sendiri agar kita tidak menjadi korban zaman. Kita harus menjadi generasi yang mampu mengubah dunia untuk kebaikan bersama.<br><br>Saya mohon maaf atas apa yang telah saya sampaikan. Semoga apa yang saya sampaikan bermanfaat bagi semua orang.<br><br>Wassalamualaikum Wr. Wb.</blockquote><br>(<i>Sumber:https://www.detik.com/jatim/berita/d-7134298/15-contoh-teks-pidato-singkat-untuk-tugas-sekolah-hingga-tema-umum</i>)<br><br>Tujuan utama dari teks di atas adalah ....",
-      "opsi": [
-        "Mengkritik generasi muda yang sering melakukan kenakalan remaja",
-        "Memberikan solusi konkret untuk mengatasi kenakalan remaja",
-        "Menghimbau guru untuk lebih aktif dalam mendidik remaja",
-        "Menyadarkan generasi muda akan bahaya perilaku negatif",
-        "Mengajarkan generasi muda cara mengubah dunia"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Argumen yang mendukung pernyataan tentang bahaya kenakalan remaja dalam teks di atas adalah ....",
-      "opsi": [
-        "Remaja sering dipengaruhi hal-hal positif di lingkungan mereka",
-        "Fakta menunjukkan bahwa remaja lebih rentan menyerap pengaruh negatif",
-        "Bahaya kenakalan remaja hanya berdampak pada pelaku itu sendiri",
-        "Generasi muda harus menyadari pentingnya kebebasan bergaul",
-        "Pergaulan bebas adalah salah satu cara mengenal dunia"
+        "Mengeluhkan tipisnya margin keuntungan akibat krisis harga pupuk di Ciparay.",
+        "Menawarkan penanggungan biaya bahan bakar solar dan menjanjikan kepastian kontrak sewa rutin bulanan jangka panjang.",
+        "Meminta fasilitas asuransi muatan barang gratis sejak awal pembicaraan.",
+        "Mengancam akan mencari PO Bus lain di luar wilayah Kabupaten Bandung.",
+        "Memilih skema pembayaran utang dagang pasca-penjualan sayur di pasar induk."
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Teks di atas yang memuat contoh perilaku negatif generasi muda terletak pada bagian ....",
+      "pertanyaan": "Karakteristik kebahasaan utama yang mendominasi kalimat (3) dan (4) pada teks di atas adalah penggunaan...",
       "opsi": [
-        "Argumentasi",
-        "Penutup",
-        "Orientasi",
-        "Klarifikasi",
-        "Penegasan ulang"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "<b><i>Teks berikut untuk menjawab soal nomor 23!</i></b><br><blockquote>Serat yang memiliki efek fisiologis tersebut kemudian disebut sebagai serat pangan atau dietary fiber. Menurut Kementerian Kesehatan, sayur-sayuran dan buah-buahan merupakan sumber serat pangan yang sangat mudah ditemukan dan selalu terdapat dalam hidangan sehari-hari masyarakat Indonesia. (...), akhir-akhir ini ada perubahan pola konsumsi pangan yang menyebabkan berkurangnya konsumsi sayuran dan buah-buahan hampir di semua provinsi. Misalnya, masyarakat perkotaan, yang punya mobilitas tinggi, cenderung memilih mengonsumsi makanan siap saji. Akibatnya, terjadi pergeseran pola makan, (...) tinggi karbohidrat, tinggi serat, dan rendah lemak ke rendah karbohidrat dan serat serta tinggi lemak dan protein. Hal inilah yang menyebabkan tingginya kasus penyakit seperti jantung koroner, kanker kolon, dan penyakit degeneratif lainnya. Serat banyak ditemukan dalam tumbuhan, seperti sayur, buah-buahan, biji-bijian, dan kacang-kacangan. Serat merupakan bagian dari tumbuhan yang dapat dikonsumsi dan tersusun dari karbohidrat yang memiliki sifat resistan terhadap proses pencernaan (...) penyerapan di usus halus manusia. Serat akan mengalami fermentasi sebagian atau keseluruhan di usus besar.</blockquote><br>(<i>Sumber:https://sehatnegeriku.kemkes.go.id/baca/blog/20240605/2745661/makanan-berserat-bukan-sekadar-pencahar/</i>)<br><br>Kata hubung yang tepat untuk melengkapi bagian rumpang pada teks di atas adalah ....",
-      "opsi": [
-        "tetapi, dan, atau",
-        "sedangkan, ke, dari",
-        "meskipiun, dari, atau",
-        "namun, dari, dan",
-        "karena. melalui, tetapi"
-      ],
-      "jawaban": ""
-    },
-    {
-      "pertanyaan": "<b><i>Teks berikut untuk menjawab soal nomor 24!</i></b><br><blockquote>Salah satu keunggulan utama dari mobil SUV adalah performanya. SUV dilengkapi dengan mesin besar dan kuat yang memungkinkan kendaraan ini melibas berbagai kondisi jalan, termasuk medan berat seperti jalan berlumpur atau berbatu. SUV umumnya menawarkan ruang kabin yang lebih luas (...) sedan, memberi kenyamanan lebih bagi penumpang dan barang. Ini sangat cocok untuk keluarga besar atau mereka yang sering bepergian dengan banyak barang. Dengan desain yang lebih tinggi dan ground clearance besar, SUV memberi pengemudi visibilitas yang lebih baik di jalan raya. Hal ini memudahkan pengemudi melihat kondisi sekitar dan mengurangi risiko kecelakaan. Banyak model SUV datang dengan fitur keselamatan (...) keamanan yang sering kali lebih banyak dan canggih ketimbang MPV seperti sensor parkir, kamera belakang, dan sistem bantuan pengemudi. Fitur-fitur ini memberikan rasa aman saat berkendara (...) perkotaan maupun medan off-road. SUV juga cocok untuk pengemudi yang sering beraktivitas di luar kota atau daerah dengan medan berat. Dengan sistem penggerak 4 roda (4WD atau AWD), mobil SUV melaju di jalan licin atau berbatu dengan mudah.</blockquote><br>(<i>Sumber:https://www.jawapos.com/otomotif/015483334/berikut-ini-deretan-kelebihan-dan-kekurangan-mobil-berjenis-suv</i>)<br><br>Kata hubung yang paling tepat untuk melengkapi bagian rompang pada teks di atas adalah ....",
-      "opsi": [
-        "dibandingkan, dan, di",
-        "dibandingkan, atau, ke",
-        "dengan, atau, di",
-        "lebih dari, atau, ke",
-        "terhadap, di, tetapi"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Catatan perjalanan hidup seseorang yang ditulis oleh orang lain disebut......",
-      "opsi": [
-        "Diary",
-        "Biografi",
-        "Biodata",
-        "Autobiografi",
-        "Daftar pustaka"
+        "Kalimat imperatif (perintah) untuk menekan posisi tawar lawan bicara.",
+        "Kalimat kondisional (persyaratan) dan ungkapan persuasif untuk menyelaraskan perbedaan kepentingan ekonomi.",
+        "Majas sarkasme untuk mengejek tingginya harga sewa yang ditawarkan pemilik truk.",
+        "Kalimat deklaratif (berita) yang menjelaskan sejarah berdirinya koperasi unit desa.",
+        "Kosakata arkais (klasik) untuk membangun suasana negosiasi yang formal."
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "<b><i>Teks berikut untuk menjawab soal nomor 26!</i></b><br><blockquote>Sepak terjang Wikan Sakarinto dalam dunia pendidikan vokasi terus melejit. Kiprahnya sebagai Dekan Sekolah Vokasi UGM sukses membawanya menduduki jabatan Direktur Jenderal Pendidikan Vokasi Kementerian Pendidikan dan Kebudayaan Republik Indonesia pada tahun 2020. Beliau resmi dilantik pada tanggal 08 Mei 2020 oleh Menteri Pendidikan dan Kebudayaan, Nadiem Makarim. Setelah dilantik untuk jabatan tersebut. Beliau menggagas konsep \"pernikahan massal\" antara pendidikan vokasi dengan dunia industri dan dunia kerja. Menurut kedua unsur tersebut harus mampu mencapai tahap \"menikah\" yaitu dengan membuat kolaborasi yang kuat dan erat. Pendidikan vokasi yang meliputi SMK, pendidikan tinggi vokasi, dan lembaga pelatihan keterampilan harus bersinergi erat dengan industri dan dunia kerja agar lulusan dapat menjadi tenaga yang andal dan memenuhi kebutuhan industri.</blockquote><br>Pronomina yang digunakan dalam penggalan teks biografi tersebut adalah....",
+      "pertanyaan": "Berdasarkan kesepakatan akhir pada kalimat (5), total efisiensi anggaran (penghematan pengeluaran) yang berhasil didapatkan oleh Kelompok Tani Ciparay adalah...",
       "opsi": [
-        "ia",
-        "dia",
-        "mereka",
-        "saya",
-        "beliau"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Penulisan titi mangsa yang benar adalah...",
-      "opsi": [
-        "Bandung, 15 Desember 2025",
-        "bandung, 15 desember 25",
-        "Bandung 15 - 12 -2025",
-        "bandung, 15 Desember",
-        "Bandung 15 Desember 2025"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "<b><i>Teks berikut untuk menjawab soal nomor 28!</i></b><br><blockquote>(1) CS : Selamat sore, silahkan duduk. Ada yang bisa saya bantu?<br><br>(2) Nasabah : Saya mau minta informasi tentang pengajuan kredit usaha, Mba.<br><br>(3) CS : Maaf, kalau boleh tau, usaha Ibu bergerak di bidang apa?<br><br>(4) Nasabah : Hanya usaha kecil-kecilan, Mba. Saya membuat seprei dan menjualnya secara online.<br><br>(5) CS : Baik, Ibu, kami ada program pemberian kredit usaha untuk usaha kecil atau industri rumah tangga. Ini brosurnya.</blockquote><br>Kalimat yang menunjukkan bagian orientasi ditandai dengan nomor ....",
-      "opsi": [
-        "1",
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "<b><i>Teks berikut untuk menjawab soal nomor 29!</i></b><br><blockquote>Sandy adalah peserta didik SMK Cinta Baharí. Suatu hari, ia dipanggil oleh wali kelas, Pak Andri, dan guru BK, Pak Rahmat, karena terpilih sebagai finalis Duta Lingkungan Hidup.Pada saat yang hampir bersamaan, Sandy juga harus mengikuti lomba keterampilan peserta didík tingkat provinsi. Wali kelas dan guru BK memanggil Sandy untuk memastikan apakah Sandy akan memilih salah satu kegiatan atau akan menjalani keduanya.</blockquote><br>Kalimat persuasif yang dapat disampaikan Sandy kepada wali kelas dan guru BK jika dia memutuskan untuk menjalani kedua kegiatan tersebut adalah ....",
-      "opsi": [
-        "Saya belum dapat memutuskan akan memilih yang mana.",
-        "Saya pasti dapat membagi waktu saya sebaik mungkin, Pak.",
-        "Saya merasa sangat bahagia karena mendapat kesempatan ini.",
-        "Saya terharu dengan kepercayaan yang diberikan oleh sekolah.",
-        "Saya senang dengan pilihan ini."
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Kalimat interogatif dalam teks tersebut adalah ....",
-      "opsi": [
-        "Saya siap bekerja dengan sebaik-baiknya, Pak.",
-        "Jadi, saya tidak akan menuntut gaji yang besar, Pak.",
-        "Apakah Anda bersedia dan tidak menuntut gaji yang besar?",
-        "Baiklah, Anda adalah orang yang tepat bekerja di perusahaan iní.",
-        "Namun, di sini mungkin Anda akan menerima gaji yang lebih kecil."
+        "Rp5.000.000,00",
+        "Rp7.500.000,00",
+        "Rp15.000.000,00",
+        "Rp20.000.000,00",
+        "Rp60.000.000,00"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Kalimat yang mengandung verba material adalah....",
+      "pertanyaan": "Berikut yang bukan merupakan ciri-ciri teks negosiasi adalah",
       "opsi": [
-        "Tiba-tiba Dika dipukuli oleh dua orang yang tidak dikenal saat melewati perempatan jalan Maskumambang.",
-        "Di Ciparay banyak sekali ditemukan para pedagang kaki lima yang seharusnya segera dialokasikan ke tempat yang lebih layak.",
-        "Kakak pergi ke dapur pukul 08.00 WIB untuk mengupas bawang merah sebanyak dua siung",
-        "Saat ini cuaca sedang tidak baik-baik saja karena sangat banyak sekali polusi yang bertebaran dimana-mana.",
-        "Akhir-akhir ini banyak sekali berita tentang kecelakaan di jalan raya. Alangkah baiknya kita lebih berhati-hati lagi ketika sedang berkendara di jalan raya."
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Berikut kalimat yang tidak mengandung konjungsi temporal adalah......",
-      "opsi": [
-        "Sebelum ban dilepas, standarkan motor Anda terlebih dahulu.",
-        "Gunakan kunci ring yang ukurannya sama dengan baut dan mur as roda motor.",
-        "Setelah selesai, anda dapat mengisi angin dengan standar tekanan sekitar 20-30 psi.",
-        "Selanjutnya, lepaskan ban luar motor dengan mencongkel menggunakan sendok ban.",
-        "Setelah itu, tarik ban luar dengan mengurut lingkarannya secara bertahap dan perlahan sampai semua bagian ban terlepas dari velgnya."
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Iklan tersebut termasuk jenis iklan... <br><img src='soal/img/XII/indo/picture1.png'>",
-      "opsi": [
-        "penawaran",
-        "permintaan",
-        "komersial",
-        "pemberitahuan",
-        "layanan masyarakat"
+        "melibatkan dua pihak",
+        "mengarah pada tujuan praktis",
+        "menghasilkan kesepakatan dua pihak",
+        "mengutamakan kepentingan bersama",
+        "berkaitan dengan hal yang telah terjadi"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Pesan yang terkandung pada gambar anekdot di atas adalah... <br><img src='soal/img/XII/indo/picture2.png'>",
+      "pertanyaan": "Pahami teks berikut untuk soal nomor 13 s.d nomor 15<br><br><blockquote>(1) Marc Anthony Klok merupakan figur sentral yang mendefinisikan ulang arti profesionalisme dalam industri sepak bola modern Indonesia. Lahir di Amsterdam, Belanda, gelandang bertenaga kuda ini mengambil keputusan besar dalam hidupnya untuk mengurus proses naturalisasi demi menjadi warga negara Indonesia (WNI). Kepindahannya ke PERSIB Bandung tidak hanya memecahkan rekor nilai pasar (<i>market value</i>) tertinggi bagi pemain lokal saat itu, tetapi juga membawa dimensi baru pada lini tengah tim Pangeran Biru. Sebagai jenderal lapangan tengah yang dipercaya memegang ban kapten, Klok mengintegrasikan visi bermain yang cerdas (<i>tactical awareness</i>), akurasi umpan jarak jauh, dan kemampuan memutus aliran serangan lawan secara simultan.<br><br>(2) Namun, reputasi elite Marc Klok tidak dibangun dalam semalam melalui <i>privilese</i>. Sebelum mengangkat trofi juara BRI Liga 1 bersama Persib, ia harus melewati fase adaptasi kultural, iklim tropis yang ekstrem, dan badai kritik publik pasca-kepindahannya yang kontroversial lintas klub rival. Di tengah tekanan mental yang masif, Klok memilih membungkam kritik melalui kedisiplinan tingkat tinggi di luar lapangan. Ia menginvestasikan waktu dan modal pribadinya untuk menyewa pelatih fisik khusus, menjaga ketat nutrisi makanan, serta mendirikan yayasan sosial Marc Klok Foundation untuk membangun fasilitas olahraga anak-anak kurang mampu di Indonesia. Dedikasi Klok membuktikan bahwa profesionalisme sejati seorang atlet tidak hanya diukur dari performa 90 menit di lapangan, melainkan pada integritas perilaku dan kontribusi sosialnya di luar stadion.</blockquote><br>Hubungan logis yang ditunjukkan antara paragraf (1) dan paragraf (2) pada teks di atas mencerminkan...",
       "opsi": [
-        "Siswa yang sedang melihat ke arah jendela",
-        "Guru sedang memarkirkan mobil ambulance",
-        "Cacing-cacing berbicara",
-        "Makanan bercacing menyebabkan keracunan maka harus tetap berhati-hati",
-        "Setelah makan nasi siswa akan diajak jalan-jalan naik mobil ambulan"
+        "Paragraf (1) sebagai koda yang memuat kesimpulan akhir penulis, disusul paragraf (2) sebagai orientasi awal.",
+        "Paragraf (1) berfungsi sebagai orientasi yang memperkenalkan identitas tokoh, status WNI, klub (Persib), dan peran teknisnya, disusul paragraf (2) sebagai rangkaian peristiwa penting yang memuat hambatan adaptasi, taktik membungkam kritik, investasi kedisiplinan pribadi, serta kontribusi sosialnya.",
+        "Paragraf (2) merupakan abstraksi fiksi yang tidak memiliki basis data kronologis sejarah klub Persib yang valid.",
+        "Paragraf (1) merupakan deskripsi bagian mengenai rincian harga kontrak jersey Marc Klok di toko resmi Persib.",
+        "Kedua paragraf tersebut menggunakan struktur teks prosedur yang menjelaskan tata cara mengurus paspor naturalisasi WNI."
       ],
-      "jawaban": "D"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Menyusun teks iklan harus memenuhi AIDA....",
+      "pertanyaan": "Karakter unggul dari Marc Klok dalam teks di atas yang paling krusial untuk diteladani oleh siswa SMK dalam mempersiapkan diri menuju dunia industri modern adalah...",
       "opsi": [
-        "Attention- interest- desire- action",
-        "Attention – internal – debian – action",
-        "Atlantis – internal – debian - action",
-        "Atlantik – interest – desire – actual",
-        "Attention – Impact – debire – actual"
+        "Keberaniannya berpindah-pindah kewarganegaraan demi mencari nilai kontrak finansial yang paling mahal di Asia Tenggara.",
+        "Sifat profesionalisme total, etos kerja tinggi dalam berinvestasi mengembangkan kapasitas diri secara mandiri, serta kepedulian sosial yang nyata untuk memberikan dampak positif bagi lingkungan sekitar.",
+        "Keputusannya mengandalkan nilai pasar (market value) yang tinggi agar ditakuti oleh rekan kerja sesama tim.",
+        "Kemampuannya memenangi penghargaan individu tanpa perlu memedulikan kerja sama tim secara keseluruhan.",
+        "Sifat ambisius memanfaatkan ban kapten untuk mendominasi hak siar wawancara media televisi internasional."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Karakteristik kebahasaan teks biografi ditandai dengan penggunaan kata kerja tindakan (material) dan kata ganti orang ketiga tunggal (pronomina).<br><br>Manakah kalimat berikut yang memuat kedua unsur tersebut secara bersamaan berdasarkan teks?",
+      "opsi": [
+        "\"Marc Anthony Klok merupakan figur sentral yang mendefinisikan ulang arti profesionalisme.\"",
+        "\"Kepindahannya ke PERSIB Bandung tidak hanya memecahkan rekor nilai pasar tertinggi saat itu.\"",
+        "\"Sebagai jenderal lapangan tengah, Klok mengintegrasikan visi bermain yang cerdas di lapangan.\"",
+        "\"Sebelum mengangkat trofi juara bersama Persib, Klok harus melewati fase adaptasi kultural yang berat.\"",
+        "\"Ia menginvestasikan waktu dan modal pribadinya untuk menyewa pelatih fisik khusus.\""
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Catatan perjalanan hidup seseorang yang ditulis oleh diri sendiri disebut....",
+      "opsi": [
+        "biografi",
+        "autobiografi",
+        "catatan harian",
+        "daftar pustaka",
+        "pengalaman pribadi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Pahami teks berikut untuk soal nomor 17 s.d nomor 18<br><br><blockquote><b>Sajak Almamater Ungu</b><br><i>Karya: Anonim</i><br><br>Di bawah atap Hibarna, kami melipat jarak dunia<br>Bukan dengan mantra, tapi konfigurasi dan logika yang nyata<br>Kami belajar meretas kebodohan, mengunci celah keraguan<br>Menyeimbangkan neraca hidup, menghapus segala ketimpangan<br><br>Jargon sekolah bukan sekadar hiasan dinding yang bisu<br>Ia mengalir di darah kami, membakar semangat yang baru<br>Esok hari, saat gerbang industri terbuka lebar menantang<br>Anak-anak Itikurih telah siap berdiri di garda paling depan</blockquote><br>Larik kedua bait pertama berbunyi: <i>\"Bukan dengan mantra, tapi konfigurasi dan logika yang nyata\"</i>. Makna tersirat dari kontras kata \"mantra\" dan \"konfigurasi\" pada larik tersebut bermaksud menegaskan bahwa...",
+      "opsi": [
+        "Siswa SMK Itikurih Hibarna dilarang mempelajari seni sastra dan cerita rakyat klasik.",
+        "Kesuksesan masa depan tidak diraih melalui keajaiban instan atau spekulasi tanpa dasar (mantra), melainkan melalui penguasaan sains, keahlian teknis jaringan, serta penalaran logika yang terukur (konfigurasi).",
+        "Jurusan TJKT lebih unggul daripada jurusan AKL karena menggunakan sistem logika komputer.",
+        "Pihak sekolah menyarankan siswa untuk bermigrasi ke industri perangkat lunak asing di Eropa.",
+        "Proses instalasi kabel jaringan siber di Ciparay harus menggunakan ritual adat kebudayaan lokal."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perhatikan larik: <i>\"Menyeimbangkan neraca hidup, menghapus segala ketimpangan\"</i> pada bait pertama puisi di atas! Jika dikaitkan dengan filosofi kompetensi AKL (Akuntansi) di SMK Itikurih Hibarna Ciparay, amanat kontekstual yang ingin disampaikan adalah...",
+      "opsi": [
+        "Staf akuntansi bertugas menghapus seluruh utang dagang koperasi sekolah agar neraca saldo selalu bersih.",
+        "Pembelajaran akuntansi harus menginternalisasikan nilai keseimbangan (<i>balance</i>) kehidupan, di mana ketelitian menghitung nominal uang harus sejalan dengan kejujuran moral untuk mencegah distorsi keadilan ekonomi.",
+        "Siswa jurusan akuntansi diwajibkan bekerja ganda sebagai teknisi server jaringan internet sekolah.",
+        "Perusahaan industri modern disarankan untuk menggunakan sistem manual dalam pelaporan aset tetap.",
+        "Ajakan untuk memboikot penggunaan kalkulator digital karena merusak kebiasaan berhitung manual siswa."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Pahami teks berikut untuk soal nomor 19 s.d nomor 20<br><br><blockquote><b>Aku</b><br><i>Karya: Chairil Anwar</i><br><br>Kalau sampai waktuku<br>'Ku mau tak seorang 'kan merayu<br>Tidak juga kau<br>Tak perlu sedu sedan itu<br><br>Aku ini binatang jalang<br>Dari kumpulannya terbuang<br>Biar peluru menembus kulitku<br>Aku tetap meradang menerjang<br><br>Luka dan bisa kubawa berlari<br>Berlari<br>Hingga hilang pedih peri<br>Dan aku akan lebih tidak peduli<br>Aku mau hidup seribu tahun lagi</blockquote><br>Larik <i>\"Aku ini binatang jalang / Dari kumpulannya terbuang\"</i> menggunakan gaya bahasa (majas) <b>metafora</b> yang bertujuan untuk mengeksplisitkan karakteristik tokoh \"Aku\" sebagai sosok yang...",
+      "opsi": [
+        "Mengalami gangguan jiwa karena dikucilkan dari lingkungan sosial masyarakat.",
+        "Memiliki jiwa merdeka yang liar, tidak mau dikekang oleh aturan konvensional, dan berani berdiri sendiri sebagai seorang individualis yang tangguh.",
+        "Mengaku bersalah karena telah melakukan pelanggaran hukum di tengah masyarakat.",
+        "Membandingkan bentuk fisik tubuhnya secara nyata dengan hewan liar di hutan.",
+        "Menyerah pada takdir karena merasa tidak lagi memiliki masa depan."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perhatikan bait keempat!<br><br>Larik <i>\"Luka dan bisa kubawa berlari / Berlari / Hingga hilang pedih peri\"</i> menggunakan kata konkret dan citraan (imaji) <b>kinestetik (gerak)</b> yang bermaksud mengonkretkan...",
+      "opsi": [
+        "Proses penyembuhan medis secara fisik di rumah sakit akibat kecelakaan kerja.",
+        "Sikap penakut dari tokoh \"Aku\" yang memilih melarikan diri dari tanggung jawab masalah.",
+        "Daya tahan mental, kegigihan, dan perjuangan tanpa henti (mobilitas dinamis) dalam menghadapi serta mengatasi penderitaan hidup hingga rasa sakit itu tidak lagi terasa.",
+        "Langkah kaki seorang pelari maraton profesional yang sedang berkompetisi di gelanggang olahraga.",
+        "Rasa putus asa yang mendalam karena luka fisik yang dialami tidak kunjung sembuh."
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "<b>Petunjuk Alur Verifikasi Berkas Fisik dan Kelayakan Syarat Beasiswa Pendidikan di Lingkungan Kecamatan Ciparay</b><br><br>Seluruh pendaftar wajib menyerahkan berkas fisik berupa fotokopi Kartu Keluarga (KK), Surat Keterangan Tidak Mampu (SKTM) dari desa/kelurahan setempat, serta rapor semester terakhir yang telah dilegalisasi. Panitia verifikasi hanya akan memproses berkas yang dimasukkan ke dalam map <i>snelhekter</i> sesuai warna keahlian masing-masing dan diserahkan secara langsung oleh calon penerima (tidak boleh diwakilkan). Berkas yang tidak lengkap atau diserahkan melampaui batas waktu yang ditentukan otomatis dinyatakan gugur pada tahap seleksi administrasi.<br><br>Pernyataan di bawah ini yang <b>paling sesuai</b> dengan implikasi dan alasan tersirat dari aturan prosedur verifikasi berkas di atas adalah ...",
+      "opsi": [
+        "Calon penerima beasiswa bebas menyerahkan berkas kapan saja asalkan dikirim melalui jasa ekspedisi/kurir.",
+        "Aturan penyerahan secara langsung tanpa diwakilkan bertujuan untuk memastikan keabsahan identitas serta komitmen penuh dari calon penerima beasiswa.",
+        "Kelengkapan berkas fisik tidak terlalu memengaruhi hasil verifikasi selama calon siswa memiliki nilai rapor yang sangat tinggi.",
+        "Panitia akan memberikan perpanjangan waktu otomatis bagi pendaftar yang lupa membawa Surat Keterangan Tidak Mampu (SKTM).",
+        "Penggunaan warna map snelhekter bersifat bebas dan tidak memiliki fungsi klasifikasi data bagi panitia verifikasi."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "<b>Pembuatan Kerupuk Emo/Puli Khas Industri Rumah Tangga Ciparay</b><br><br>(1) Pipihkan adonan nasi berbumbu yang telah dikukus menggunakan alat pemipih kayu hingga ketebalan mencapai 2--3 mm.<br>(2) Tata tirisan mentah Kerupuk Emo di atas <i>rancatan</i> atau <i>nyiru</i> bambu secara rapi dan tidak saling bertumpuk.<br>(3) Jemur adonan kerupuk di bawah terik matahari langsung selama 1--2 hari hingga kadar airnya benar-benar kering dan mengeras.<br>(4) Simpan mentahan Kerupuk Emo yang sudah kering di dalam wadah kedap udara sebelum masuk ke proses penggorengan.<br>(5) Goreng kerupuk mentah dalam minyak panas (<i>deep frying</i>) bertekanan stabil hingga mekar sempurna.<br><br>Apabila seorang pembuat kerupuk di Ciparay <b>melewatkan bagian akhir langkah nomor (3) (langsung menggoreng adonan kerupuk yang masih setengah basah/lembab)</b>, dampak teknis yang paling utama pada hasil olahan kerupuk adalah ...",
+      "opsi": [
+        "Kerupuk akan mekar terlalu besar dan menyerap seluruh minyak goreng di dalam wajan.",
+        "Kerupuk tidak dapat bantat dan teksturnya berubah menjadi sangat renyah menyerupai opak.",
+        "Kerupuk tidak mekar secara sempurna (bantat), teksturnya ulet/keras, dan minyak cepat berbusa saat digoreng.",
+        "Warna Kerupuk Emo akan berubah menjadi putih bersih dan tidak berbau gurih lagi.",
+        "Bumbu rempah di dalam adonan kerupuk akan mendidih dan menguap hilang sepenuhnya."
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "<b>Cermati kutipan teks ceramah berikut!</b><br><br>Perkembangan teknologi informasi ibarat pisau bermata dua bagi pelajar. Di satu sisi, ia memudahkan akses pengetahuan. Namun di sisi lain, jika tidak dibentengi oleh etika dan kearifan lokal, media sosial dapat menjadi sarana penyebaran kabar bohong (<i>hoaks</i>), ujaran kebencian, dan provokasi antarwarga. Kita sering menyaksikan bagaimana konflik kecil di jalanan atau antarkelompok dapat membesar menjadi perselisihan antarwilayah hanya karena diprovokasi oleh unggahan yang belum jelas kebenarannya di grup percakapan. Sebagai pelajar terpelajar di Ciparay, kalian harus menjadi <i>saringan</i> informasi, bukan <i>penyalur</i> kepalsuan. Saring sebelum <i>sharing</i>.<br><br>Maksud dari ungkapan metafora <b>\"kalian harus menjadi <i>saringan</i> informasi, bukan <i>penyalur</i> kepalsuan\"</b> dalam konteks ceramah di atas adalah ...",
+      "opsi": [
+        "Pelajar harus menghapus semua aplikasi media sosial di ponselnya agar tidak terpapar berita dari luar.",
+        "Pelajar harus memverifikasi kebenaran setiap informasi yang diterima sebelum membagikannya ke orang lain agar tidak memicu perselisihan.",
+        "Pelajar wajib melaporkan setiap akun media sosial teman sekolahnya kepada pihak kepolisian setempat.",
+        "Pelajar bertugas membuat berita-berita baru yang menarik agar grup percakapan warga menjadi rame.",
+        "Pelajar diharapkan hanya membaca berita-berita yang disukai dan mengabaikan fakta ilmiah yang ada."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "<b>Cermati kutipan teks ceramah berikut untuk menjawab soal nomor 24 dan 25!</b><br><br>Hadirin yang saya hormati,<br><br>Wilayah Ciparay dan sekitarnya bukanlah daerah yang asing dengan ancaman luapan air saat musim hujan tiba. Setiap tahun, ketika debit air Sungai Cikaro meningkat, kita kerap menyaksikan pemukiman dan jalanan terendam. Namun, apakah kita akan terus-menerus menyalahkan alam? Fenomena ini bukan semata-mata karena tingginya curah hujan di hulu, melainkan akibat dari akumulasi kelalaian kita sendiri. Kebiasaan membuang limbah plastik dan sampah rumah tangga ke aliran anak sungai telah menyumbat urat nadi drainase lingkungan kita. Oleh karena itu, mari kita ubah pola pikir ini. Menjaga kebersihan sungai bukan lagi sekadar himbauan, melainkan sebuah kewajiban moral demi keselamatan bersama dan keberlanjutan generasi muda di Ciparay.<br><br>Kutipan teks ceramah di atas dalam struktur teks ceramah tergolong ke dalam bagian ...",
+      "opsi": [
+        "Isu utama/Tesis, karena berisi pengenalan masalah lokal dan pandangan umum pembicara mengenai penyebab luapan air di Ciparay.",
+        "Rangkaian Argumen, karena memuat data statistik resmi mengenai jumlah kerugian akibat bencana banjir di Kabupaten Bandung.",
+        "Penegasan Ulang, karena berisi simpulan akhir dan ucapan terima kasih kepada seluruh warga yang hadir.",
+        "Orientasi Tokoh, karena menceritakan riwayat hidup pembicara saat menghadapi bencana banjir di daerah Cikaro.",
+        "Kalimat Sapaan Formal, karena hanya berfokus pada penghormatan kepada hadirin tanpa menyampaikan gagasan utama."
       ],
       "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Berdasarkan kutipan ceramah di atas, kalimat yang mengandung <b>kata kerja mental (verba mental)</b> dan <b>kalimat persuasif</b> secara berurutan ditunjukkan oleh ...",
+      "opsi": [
+        "\"Wilayah Ciparay dan sekitarnya bukanlah daerah yang asing...\" dan \"Setiap tahun, ketika debit air Sungai Cikaro meningkat...\"",
+        "\"kebiasaan membuang limbah plastik...\" dan \"Fenomena ini bukan semata-mata karena tingginya curah hujan...\"",
+        "\"menyaksikan\" / \"menyalahkan\" dan \"Oleh karena itu, mari kita ubah pola pikir ini.\"",
+        "\"terendam\" dan \"Kebiasaan membuang limbah plastik...\"",
+        "\"meningkat\" dan \"Menjaga kebersihan sungai bukan lagi sekadar himbauan...\""
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "<b>Cermati kutipan teks resensi buku berikut untuk menjawab soal nomor 26 dan 27!</b><br><br><b>Judul Buku:</b> <i>Derap Mesin di Tepi Citarum: Catatan Sosiologis Industri Tekstil Majalaya--Ciparay</i><br><b>Penulis:</b> Ratna Suhendar<br><b>Penerbit:</b> Pustaka Parahyangan, 2023<br><b>Tebal:</b> 210 halaman<br><br>Buku karya Ratna Suhendar ini secara lugas membedah perjalanan panjang industri tekstil di wilayah selatan Bandung, khususnya poros Majalaya dan Ciparay. Penulis berhasil merekam transformasi sosial masyarakat yang semula agraris menjadi masyarakat berbasis industri rumahan. Keunggulan utama buku ini terletak pada kekayaan data lapangan dan gaya bahasanya yang mengalir, sehingga pembaca awam dapat dengan mudah memahami dinamika ekonomi lokal tanpa terbebani istilah sosiologi yang rumit. Namun demikian, buku ini memiliki sedikit kelemahan pada bagian visual pendukung. Peta wilayah dan dokumentasi foto sejarah industri yang disajikan beresolusi rendah dan tampak buram, sehingga agak mengganggu kenyamanan estetika pembaca saat berusaha mencocokkan lokasi historis dengan kondisi geografis Ciparay saat ini.<br><br>Kutipan teks resensi di atas secara berurutan memuat bagian-bagian struktur resensi, yaitu ...",
+      "opsi": [
+        "Orientasi, Sinopsis Buku, Ketersediaan di Pasar, dan Kesimpulan",
+        "Identitas Buku, Orientasi/Pendahuluan, Keunggulan Buku, dan Kelemahan Buku",
+        "Identitas Buku, Kepribadian Penulis, Rincian Harga Buku, dan Kalimat Persuasif",
+        "Judul Resensi, Ringkasan Bab per Bab, Biografi Penulis, dan Rekomendasi",
+        "Pendahuluan, Latar Belakang Penulisan, Kritik Sastra, dan Penutup"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Berdasarkan kutipan resensi di atas, dampak paling nyata bagi seorang siswa SMK di Ciparay yang membaca buku tersebut untuk studi sejarah lokal adalah ...",
+      "opsi": [
+        "Siswa tidak akan dapat memahami isi tulisan karena gaya bahasanya penuh dengan istilah sosiologi yang tinggi.",
+        "Siswa dapat memahami perubahan sosial-ekonomi masyarakat lokal dengan mudah, namun mungkin kesulitan memvisualisasikan peta lokasi sejarah secara detail karena kualitas gambar yang kurang jelas.",
+        "Siswa akan menolak membaca buku tersebut karena data lapangan yang disajikan penulis tidak akurat.",
+        "Siswa akan kesulitan menemukan buku tersebut karena diterbitkan oleh penerbit yang tidak terdaftar.",
+        "Siswa harus mendatangi langsung penulis buku untuk meminta penjelasan mengenai isi bab pertama."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "<b>Cermati kutipan bagian proposal kegiatan berikut untuk menjawab soal nomor 28 dan 29!</b><br><br><b>PROPOSAL KEGIATAN: DIVERSIFIKASI PRODUK OLAHAN PANGAN LOKAL DAN PELATIHAN PEMASARAN DIGITAL BAGI UMKM CIPARAY</b><br><br><b>A. Latar Belakang</b><br><br>(1) Wilayah Ciparay dikenal sebagai salah satu sentra penghasil olahan pangan berbasis singkong dan beras, seperti opak, Kerupuk Emo, dan peuyeum.<br>(2) Sebagian besar pelaku UMKM di kawasan ini masih mengandalkan teknik pengemasan tradisional dan rantai pemasaran konvensional dari mulut ke mulut.<br>(3) Keterbatasan inovasi kemasan dan rendahnya pemanfaatan platform digital membuat produk lokal sulit menembus ritel modern dan <i>e-commerce</i>.<br>(4) Oleh karena itu, ekstrakurikuler Kewirausahaan SMK Itikurih Hibarna bermaksud menyelenggarakan pelatihan pengemasan kedap udara (<i>vacuum sealing</i>) dan pembuatan toko daring bagi UMKM lokal.<br><br>Berdasarkan kutipan di atas, rumusan <b>Tujuan Kegiatan</b> yang paling tepat dan selaras dengan bagian Latar Belakang proposal adalah ...",
+      "opsi": [
+        "Menghimpun dana bantuan modal dari bank BUMN untuk membiayai seluruh utang operasional UMKM di Ciparay.",
+        "Melatih para pelaku UMKM Ciparay dalam meningkatkan standar pengemasan produk serta menguasai promosi digital di platform e-commerce.",
+        "Menghentikan seluruh produksi opak dan Kerupuk Emo tradisional untuk digantikan dengan produk makanan siap saji impor.",
+        "Mendirikan pabrik pengolahan singkong skala besar yang dikelola sepenuhnya oleh siswa SMK Itikurih Hibarna.",
+        "Menyelenggarakan lomba makan Kerupuk Emo antar-RT dalam rangka memeriahkan hari jadi Kabupaten Bandung."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Jika dalam proposal kegiatan tersebut panitia <b>tidak mencantumkan sasaran peserta (<i>target audience</i>) dan estimasi luaran (<i>output</i>) pelatihan secara jelas</b>, dampak paling utama saat proposal tersebut diajukan kepada mitra sponsor adalah ...",
+      "opsi": [
+        "Proposal akan langsung disetujui karena sponsor dapat menentukan sendiri peserta pelatihannya secara bebas.",
+        "Pihak sponsor akan kesulitan mengukur efektivitas dan tingkat keberhasilan investasi dana yang mereka berikan.",
+        "Siswa SMK Itikurih Hibarna akan secara otomatis mendapatkan nilai kelulusan praktikum kewirausahaan.",
+        "Biaya operasional pelatihan akan menjadi lima kali lipat lebih murah dari rencana awal.",
+        "Pelaku UMKM di Ciparay akan memboikot kegiatan pelatihan tersebut."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "<b>Perhatikan kalimat berikut!</b><br><br><i>peneliti mengambil sampel air di anak sungai cikaro daerah ciparay pada hari senin.</i><br><br>Perbaikan huruf kapital yang <b>paling tepat</b> adalah ...",
+      "opsi": [
+        "Peneliti mengambil sampel air di anak Sungai Cikaro daerah Ciparay pada hari Senin.",
+        "Peneliti mengambil sampel Air di anak sungai Cikaro daerah Ciparay pada hari senin.",
+        "Peneliti mengambil Sampel Air di anak Sungai Cikaro Daerah Ciparay pada Hari Senin.",
+        "peneliti mengambil sampel air di Anak Sungai Cikaro Daerah Ciparay pada hari Senin.",
+        "Peneliti mengambil sampel air di anak Sungai Cikaro daerah ciparay pada hari Senin."
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "<b>Perhatikan judul Karya Ilmiah berikut!</b><br><br><i>Pemanfaatan Limbah Perca Konveksi Ciparay sebagai Bahan Peredam Suara Ruangan</i><br><br>Rumusan masalah yang <b>paling sesuai</b> dengan judul di atas adalah ...",
+      "opsi": [
+        "Berapa harga jual limbah perca kain di pasar Ciparay?",
+        "Mengapa konveksi di Ciparay menghasilkan banyak limbah kain?",
+        "Seberapa efektif limbah perca kain konveksi Ciparay dalam meredam suara?",
+        "Bagaimana cara mendirikan usaha konveksi pakaian di Ciparay?",
+        "Siapa pengusaha konveksi sukses yang ada di Ciparay?"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "<b>Cermati kutipan naskah drama berikut untuk menjawab soal nomor 32 dan 33!</b><br><br><i>(Di saung bambu UMKM Kerupuk Emo Ciparay. Maya duduk menghadap laptop, sedangkan Pak Hj membungkus kerupuk dengan plastik transparan.)</i><br><br><b>Maya:</b> \"Bapak, kalau Kerupuk Emo ini cuma dijual di warung sekitar Ciparay, omzet kita tidak akan pernah naik. Kemasan plastik polos begini kurang menarik pembeli luar daerah!\"<br><br><b>Pak Hj:</b> <i>(Tersenyum tipis)</i> \"Maya, sejak zaman kakekmu, Kerupuk Emo kita disukai warga karena rasanya yang gurih, bukan karena bungkusnya yang mentereng. Untuk apa buang uang buat kemasan mahal?\"<br><br><b>Maya:</b> \"Tapi zaman sudah beda, Pak! Anak muda sekarang beli barang karena tampilan awal di toko online. Kalau dikemas kedap udara dengan desain modern, pasar kita bisa menembus swalayan di Kota Bandung!\"<br><br>Watak tokoh <b>Maya</b> dan <b>Pak Hj</b> yang tergambar dalam dialog drama di atas adalah ...",
+      "opsi": [
+        "Maya sosok yang pembangkang; Pak Hj sosok yang pasrah pada nasib.",
+        "Maya berpikiran modern dan inovatif; Pak Hj berpikiran tradisional dan mempertahankan pola lama.",
+        "Maya sosok yang boros; Pak Hj sosok yang kikir dan pemarah.",
+        "Maya sosok yang pesimistis; Pak Hj sosok yang optimistis terhadap masa depan.",
+        "Maya sosok yang egois; Pak Hj sosok yang sangat menguasai teknologi digital."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Pesan moral (<i>amanat</i>) tersirat yang paling relevan bagi generasi muda SMK di Ciparay dari kutipan drama tersebut adalah ...",
+      "opsi": [
+        "Tradisi penjualan lama harus dimusnahkan secara total agar usaha tidak bangkrut.",
+        "Inovasi teknologi dan pemasaran modern penting untuk mengembangkan potensi produk lokal tanpa menghilangkan cita rasa khasnya.",
+        "Anak muda tidak perlu mendengarkan nasihat orang tua yang belum menguasai media sosial.",
+        "Usaha kuliner tradisional tidak mungkin bisa dijual di toko modern atau platform online.",
+        "Kemasan produk merupakan satu-satunya penentu keberhasilan usaha kuliner."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "<b>LOWONGAN KERJA (PT Tekstil Nusantara Jaya - Ciparay)</b><br><br>Dibutuhkan segera: <b>Staf Teknisi Pemeliharaan Mesin</b><br><br><b>Kualifikasi:</b> Lulusan SMK Jurusan Teknik/Otomotif/Elektronika, menguasai perawatan mesin industri, dan bersedia bekerja <i>shift</i>.<br><br>Kirimkan berkas lamaran ke alamat perusahaan atau via surel resmi: <i>hrd@tekstilnusantara.co.id</i>.<br><br>Kalimat pembuka surat lamaran pekerjaan yang <b>paling tepat dan santun</b> berdasarkan iklan lowongan di atas adalah ...",
+      "opsi": [
+        "Berdasarkan informasi lowongan pekerjaan yang saya baca di PT Tekstil Nusantara Jaya Ciparay, saya berniat mengajukan diri untuk mengisi posisi Staf Teknisi Pemeliharaan Mesin.",
+        "Saya adalah lulusan SMK yang berpengalaman dan sangat membutuhkan pekerjaan sebagai Staf Teknisi Pemeliharaan Mesin di perusahaan Bapak/Ibu.",
+        "Melalui surat ini, saya bermaksud melamar pekerjaan di PT Tekstil Nusantara Jaya karena rumah saya dekat dengan lokasi pabrik di Ciparay.",
+        "Bersama surat ini saya kirimkan syarat-syarat untuk bekerja sebagai Staf Teknisi Pemeliharaan Mesin di PT Tekstil Nusantara Jaya.",
+        "Dengan ini saya menyatakan bahwa saya sanggup bekerja <i>shift</i> di PT Tekstil Nusantara Jaya jika Bapak/Ibu mau menerima saya."
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Perhatikan penulisan bagian identitas (sistematika) pelamar berikut:<br><br><i>yang bertanda tangan di bawah ini,<br><br>nama : Asep Sunandar, S.T.<br>tempat, tanggal lahir : Bandung, 12 Mei 2005<br>pendidikan : SMK (Teknik Mesin)<br>alamat : Jl. Raya Ciparay No. 45, Kabupaten Bandung</i><br><br>Aturan ejaan yang harus diperbaiki pada bagian identitas di atas adalah ...",
+      "opsi": [
+        "Kata <i>nama, tempat, tanggal lahir, pendidikan,</i> dan <i>alamat</i> harus diawali huruf kapital karena merupakan rincian utama.",
+        "Penulisan nama <i>Asep Sunandar, S.T.</i> tidak perlu menggunakan koma sebelum gelar akademik.",
+        "Penulisan <i>Kabupaten Bandung</i> seharusnya huruf kapital pada awal kata.",
+        "Setiap baris identitas wajib diakhiri dengan tanda titik koma (:)",
+        "Titik dua harus diluruskan serta penulisan jalan tidak boleh disingkat."
+      ],
+      "jawaban": "E"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Apa perbedaan iklan komersial dan non komersial?"
+      "pertanyaan": "Sebutkan sistematika surat lamaran pekerjaan!"
     },
     {
-      "pertanyaan": "Perhatikan penulisan alamat surat berikut !<br><br><blockquote>Yth Kepala Dusun Mertisari<br>Jalan Widara no 5, Dusun Mertisari, Kabupaten Blitar Jawa Tengah 66111.</blockquote><br>Tuliskan perbaikan dari penulisan alamat tujuan surat di atas!"
+      "pertanyaan": "Sebutkan serta berikan contoh surat berdasarkan fungsinya!"
     },
     {
-      "pertanyaan": "Dalam membuat makalah, Afrizal mengambil referensi dari buku berikut.<br><br><blockquote>Judul Buku : Teori Pengkajian Fiksi<br>Pengarang : Burhan Nurgiyantoro<br>Tahun Terbit : 2010<br>Penerbit : Gadjah Mada University Press<br>Kota Terbit : Yogyakarta</blockquote><br>Tulislah daftar pustaka yang tepat berdasarkan data buku di atas!"
+      "pertanyaan": "Tuliskan minimal dua paragraf mengenai tokoh biografi idolamu, serta berikan teladan yang dapat kamu terapkan dalam kehidupan sehari-hari dari perjalanan tokoh idola tersebut!"
     },
     {
-      "pertanyaan": "Sebutkan struktur surat lamaran pekerjan!"
+      "pertanyaan": "Tuliskan puisi yang menggambarkan isi perasaan hatimu saat ini (minimal 2 bait)!<br><br><img src='soal/img/XII/bahasa-indonesia/Picture1.jpg' width='500'>"
     },
     {
-      "pertanyaan": "Tuliskan masing-masing:<br><br>a. 5 kata benda<br><br>b. 5 kata kerja<br><br>c. 5 kata penghubung"
+      "pertanyaan": "Jelaskan kritik sosial yang terdapat pada teks anekdot di atas!"
     }
   ]
 }
