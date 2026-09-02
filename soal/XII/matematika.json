@@ -1,351 +1,296 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Bentuk sederhana dari $\\left( \\frac{a^{2}b^{3}c^{- 2}}{a^{- 1}b^{2}c^{- 1}} \\right)^{2}$ adalah ...",
+      "pertanyaan": "Bentuk sederhana dari $\\left( \\frac{x^{2}y^{3}z^{- 2}}{x^{- 1}y^{2}z^{- 1}} \\right)^{3}$ adalah ...",
       "opsi": [
-        "$a^{6}b^{2}c^{- 2}$",
-        "$a^{6}b^{2}c^{- 3}$",
-        "$a^{4}b^{- 2}c^{- 3}$",
-        "$a^{3}b^{- 2}c^{- 3}$",
-        "$a^{- 6}b^{- 2}c^{- 3}$"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Nilai dari $32^{\\frac{1}{5}} + 81^{\\frac{2}{4}} - 36^{\\frac{1}{2}}$ adalah ...",
-      "opsi": [
-        "$17$",
-        "$14$",
-        "$10$",
-        "$5$",
-        "$3$"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Bentuk sederhana dari ($4\\sqrt{3} - 1$) (2+$\\sqrt{3}$ ) adalah ...",
-      "opsi": [
-        "$10 + 7\\sqrt{3}$",
-        "$10 + 5\\sqrt{3}$",
-        "$5 + 3\\sqrt{3}$",
-        "$5 + 2\\sqrt{3}$",
-        "$3 + 3\\sqrt{3}$"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Tentukan nilai dari $_{}^{7}{\\log 28} -_{}^{7}{\\log 4} +_{}^{7}{\\log 35} -_{}^{7}{\\log 5}$ adalah ...",
-      "opsi": [
-        "$-1$",
-        "$0$",
-        "$1$",
-        "$2$",
-        "$3$"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Konversikan ke bentuk pecahan dari 0,45 adalah ...",
-      "opsi": [
-        "$\\frac{1}{4}$",
-        "$\\frac{1}{5}$",
-        "$\\frac{1}{2}$",
-        "$\\frac{45}{100}$",
-        "$\\frac{45}{10}$"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Jika log 2 = c dan log 3 = d, tentukan nilai log 120 adalah ...",
-      "opsi": [
-        "$1 + 2c + 3d$",
-        "$1 + 3c + 4d$",
-        "$1 + 2c + 5d$",
-        "$1 + 2c + d$",
-        "$1 + 2c + 2d$"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Tentukan nilai x dari persamaan $\\frac{1}{2}x + 6 = \\frac{1}{4}x - 7$ adalah ...",
-      "opsi": [
-        "$-52$",
-        "$52$",
-        "$-51$",
-        "$4$",
-        "$-4$"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Tentukan nilai x dari $6(x - 3) - 2x = 8 + 3(x + 1)$ adalah ...",
-      "opsi": [
-        "$27$",
-        "$-27$",
-        "$28$",
-        "$-28$",
-        "$29$"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Nilai x yang memenuhi $5^{3x - 2} = 25^{2x + 1}$ adalah ...",
-      "opsi": [
-        "$-4$",
-        "$-3$",
-        "$-2$",
-        "$3$",
-        "$4$"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Nilai dari $_{}^{4}{\\log{81\\ .\\ _{}^{3}{\\log 32}}}$ adalah ...",
-      "opsi": [
-        "$32$",
-        "$20$",
-        "$15$",
-        "$10$",
-        "$5$"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Seorang pekerja bangunan membeli tiga kaleng cat dan dua kuas seharga Rp. 140.000,00. Keesokan harinya, pekerja tersebut membeli lagi dua kaleng cat dan satu kuas dengan merek dan di toko yang sama seharga Rp. 91.500,00. Harga satu kaleng cat dan satu kuas adalah ...",
-      "opsi": [
-        "Rp. 55.000,00",
-        "Rp. 53.500,00",
-        "Rp. 51.000,00",
-        "Rp. 48.500,00",
-        "Rp. 46.000,00"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Dari suatu barisan aritmatika diketahui suku ke-10=20 dan suku ke-24=48. Suku ke-50 barisan tersebut adalah ...",
-      "opsi": [
-        "$116$",
-        "$108$",
-        "$106$",
-        "$102$",
-        "$100$"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Diketahui bangun ruang balok ABCD.EFGH Panjang rusuk AB= 8cm, AE= 8cm, dan BC= 12cm. Titik P berada di tengah-tengah rusuk CG. Jarak B ke titik P adalah ...",
-      "opsi": [
-        "$4\\sqrt{2}$ cm",
-        "$4\\sqrt{3}$ cm",
-        "$4\\sqrt{10}$ cm",
-        "$610$ cm",
-        "$12$ cm"
+        "$x^{3}y^{3}z^{- 3}$",
+        "$x^{3}y^{15}z^{- 9}$",
+        "$x^{9}y^{3}z^{- 3}$",
+        "$x^{9}y^{3}z^{- 9}$",
+        "$x^{9}y^{15}z^{- 3}$"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Nilai dari $\\cos{210^{\\circ}}$ adalah ...",
+      "pertanyaan": "Jika log 2 = 0,3010 dan log 5 = 0,6990, maka nilai log 20 adalah ...",
       "opsi": [
-        "$\\frac{1}{2}\\sqrt{3}$",
-        "$\\frac{1}{2}\\sqrt{2}$",
-        "$\\frac{1}{2}$",
-        "$-\\frac{1}{2}\\sqrt{2}$",
-        "$-\\frac{1}{2}\\sqrt{3}$"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Diketahui suatu balok PQRS.TUVW dengan Panjang PQ= 4cm, QR= 6cm, dan RV= 12cm. jika O merupakan titik tengah TW, jarak R ke O adalah ...",
-      "opsi": [
-        "$38$ cm",
-        "$13$ cm",
-        "$24\\sqrt{2}$ cm",
-        "$25$ cm",
-        "$26$ cm"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Perhatikan tabel berikut:<br><table border='1'><tr><th>Jarak (m)</th><th>Frekuensi</th></tr><tr><td>10 – 14</td><td>5</td></tr><tr><td>15 – 19</td><td>7</td></tr><tr><td>20 – 24</td><td>8</td></tr><tr><td>25 – 29</td><td>12</td></tr><tr><td>30 – 34</td><td>10</td></tr><tr><td>35 – 39</td><td>8</td></tr><tr><td><b>Jumlah</b></td><td><b>50</b></td></tr></table><br>Rata-rata dari data pada tabel tersebut adalah ...",
-      "opsi": [
-        "$25,4$ m",
-        "$25,7$ m",
-        "$25,9$ m",
-        "$26,2$ m",
-        "$26,4$ m"
+        "0,6990",
+        "1,0000",
+        "1,3010",
+        "1,3970",
+        "2,0000"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Tentukan himpunan penyelesaian dari pertidaksamaan $3x - 4 \\geq 16 + 8x$ adalah ...",
+      "pertanyaan": "Bentuk sederhana dari $\\frac{2 + \\sqrt{3}}{2 - \\sqrt{3}}$ adalah ...",
       "opsi": [
-        "$x \\leq 4$",
-        "$x \\leq -4$",
-        "$x \\geq 4$",
-        "$x \\geq -4$",
-        "$x \\geq 5$"
+        "$7+4\\sqrt{3}$",
+        "$7+5\\sqrt{3}$",
+        "$7+6\\sqrt{3}$",
+        "$7-4\\sqrt{3}$",
+        "$7-5\\sqrt{3}$"
       ],
-      "jawaban": "B"
+      "jawaban": "A"
     },
     {
-      "pertanyaan": "Dalam suatu organisasi pemuda, akan dipilih 3 orang dari 6 orang calon pengurus untuk menempati posisi ketua, sekretaris, dan bendahara. Banyak cara pemilihan yang terjadi adalah...",
+      "pertanyaan": "Di sebuah Plaza Widya membeli 2 baju dan 3 sepatu seharga Rp 850.000,00. Indah membeli 1 baju dan 2 sepatu dengan merek yang sama seharga Rp 500.000,00. Harga 1 baju dan 1 sepatu di plaza tersebut berturut-turut adalah ...",
       "opsi": [
-        "$5.040$ cara",
-        "$640$ cara",
-        "$504$ cara",
-        "$420$ cara",
-        "$120$ cara"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Determinan dari matriks $K = \\begin{bmatrix} 2 & - 3 & 1 \\\\ - 1 & 0 & 3 \\\\ 4 & 1 & - 2 \\end{bmatrix}$ adalah ...",
-      "opsi": [
-        "$37$",
-        "$35$",
-        "$0$",
-        "$-32$",
-        "$-37$"
+        "Rp 200.000,00 dan Rp 200.000,00",
+        "Rp 200.000,00 dan Rp 50.000,00",
+        "Rp 50.000,00 dan Rp 200.000,00",
+        "Rp 150.000,00 dan Rp 200.000,00",
+        "Rp 200.000,00 dan Rp 150.000,00"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Diketahui matriks $A = \\begin{bmatrix} 3 & - 7 \\\\ - 4 & 2 \\end{bmatrix}$ Invers dari matriks A adalah ...",
+      "pertanyaan": "Diketahui deret aritmatika dengan $U_{3} = 6$ dan $U_{8} = -4$, jumlah 12 suku pertamanya adalah ...",
       "opsi": [
-        "$\\frac{1}{34}\\begin{bmatrix} 2 & 7 \\\\ - 4 & 2 \\end{bmatrix}$",
-        "$-\\frac{1}{22}\\begin{bmatrix} 2 & 7 \\\\ 4 & 3 \\end{bmatrix}$",
-        "$\\frac{1}{22}\\begin{bmatrix} 3 & - 7 \\\\ - 4 & 2 \\end{bmatrix}$",
-        "$-\\frac{1}{22}\\begin{bmatrix} 3 & - 4 \\\\ - 7 & 2 \\end{bmatrix}$",
-        "$-\\frac{1}{22}\\begin{bmatrix} 2 & - 4 \\\\ - 7 & 3 \\end{bmatrix}$"
+        "-24",
+        "-12",
+        "12",
+        "24",
+        "264"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Jumlah tak hingga dari deret $16 + 8 + 4 + 2 + \\ldots$ adalah ...",
+      "pertanyaan": "Barisan Geometri dari 3, 6, 12, 24, ... suku ke-8 adalah ...",
       "opsi": [
-        "$30$",
-        "$32$",
-        "$34$",
-        "$36$",
-        "$40$"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Nilai dari $\\lim_{x \\rightarrow 1}\\frac{{2x}^{2} - x - 1}{{3x}^{2} - 4x + 1}$ adalah ...",
-      "opsi": [
-        "$-\\frac{3}{2}$",
-        "$-\\frac{2}{3}$",
-        "$\\frac{2}{3}$",
-        "$0$",
-        "$\\frac{3}{2}$"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Nilai dari $\\lim_{x \\rightarrow \\infty}\\left( \\sqrt{3x + 2} - \\sqrt{3x + 3} \\right)$ adalah ...",
-      "opsi": [
-        "$-\\infty$",
-        "$-1$",
-        "$-\\frac{1}{6}\\sqrt{3}$",
-        "$0$",
-        "$5$"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Jika $f(x) = \\frac{3x + 2}{4 - x}$ untuk $x \\neq 4$, $f'(x)$ adalah ...",
-      "opsi": [
-        "$\\frac{- 6x + 10}{(4 - x)^{2}}$",
-        "$\\frac{3x - 5}{(4 - x)^{2}}$",
-        "$\\frac{14}{(4 - x)^{2}}$",
-        "$\\frac{10}{(4 - x)^{2}}$",
-        "$\\frac{5}{{(4 - x)}^{2}}$"
+        "192",
+        "256",
+        "384",
+        "512",
+        "768"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Jika $f'(x)$ turunan pertama dari $f(x) = x^{3} - 9x + 5$, nilai dari $f'(1)$ adalah ...",
+      "pertanyaan": "Diketahui matriks A = $\\begin{pmatrix} -2 & 3 \\\\ 1 & 5 \\end{pmatrix}$, B = $\\begin{pmatrix} 4 & -2 \\\\ 3 & -1 \\end{pmatrix}$, dan C = $\\begin{pmatrix} 6 & 4 \\\\ 3 & -1 \\end{pmatrix}$. Matriks 3A + 2B - 2C = ...",
       "opsi": [
-        "$-12$",
-        "$-6$",
-        "$0$",
-        "$6$",
-        "$12$"
+        "$\\begin{pmatrix} -10 & -3 \\\\ 3 & 15 \\end{pmatrix}$",
+        "$\\begin{pmatrix} -10 & 3 \\\\ -3 & 15 \\end{pmatrix}$",
+        "$\\begin{pmatrix} -8 & -3 \\\\ -3 & 14 \\end{pmatrix}$",
+        "$\\begin{pmatrix} -8 & -3 \\\\ 3 & 15 \\end{pmatrix}$",
+        "$\\begin{pmatrix} -8 & 3 \\\\ 3 & 15 \\end{pmatrix}$"
       ],
-      "jawaban": "B"
+      "jawaban": "A"
     },
     {
-      "pertanyaan": "Nilai dari $\\int_{}^{}\\left( \\frac{1}{3}x^{3} - \\frac{2}{3}x^{2} + 3x + 2 \\right)dx = \\ldots$",
+      "pertanyaan": "Himpunan penyelesaian dari $\\frac{x^{2} - 9}{x - 2} \\geq 0$ adalah ...",
       "opsi": [
-        "$\\frac{4}{3}x^{4} - \\frac{2}{3}x^{3} + \\frac{3}{2}x^{2} + 2x + C$",
-        "$\\frac{1}{12}x^{4} - \\frac{2}{9}x^{3} + \\frac{3}{2}x^{2} + 2x + C$",
-        "$\\frac{1}{12}x^{4} - \\frac{2}{9}x^{3} + 6x^{2} + 2x + C$",
-        "$\\frac{1}{12}x^{4} - \\frac{2}{9}x^{3} + 3x + 2 + C$",
-        "$x^{2} - \\frac{4}{3}x^{3} + 3 + C$"
+        "$x \\leq -3$ atau $2 < x \\leq 3$",
+        "$-3 \\leq x < 2$ atau $x \\geq 3$",
+        "$x \\leq -3$ atau $x > 3$",
+        "$-3 < x < 2$",
+        "$x \\leq -3$ atau $x \\geq 3$"
       ],
-      "jawaban": "B"
+      "jawaban": "A"
     },
     {
-      "pertanyaan": "$\\int_{- 2}^{2}{{3x}^{2} - 2x + 1\\ dx =}$ ...",
+      "pertanyaan": "Diketahui A = $\\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix}$ dan B = $\\begin{pmatrix} 2 & 3 & -1 \\\\ -4 & 2 & 4 \\end{pmatrix}$. Hasil dari A x B adalah ...",
       "opsi": [
-        "$18$",
-        "$19$",
-        "$20$",
-        "$21$",
-        "$22$"
+        "$\\begin{pmatrix} 0 & 8 & 2 \\\\ -10 & 17 & 13 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 0 & -8 & 2 \\\\ -10 & 17 & 13 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 0 & 3 & -1 \\\\ -10 & 17 & 13 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 2 & 0 & -1 \\\\ -10 & 13 & 4 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 2 & 3 & -1 \\\\ -10 & 17 & 0 \\end{pmatrix}$"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Tentukan $\\lim_{x \\rightarrow 0} \\frac{\\sqrt{1 + 3x} - \\sqrt{1 - x}}{x}$ adalah ...",
+      "opsi": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Invers dari matriks A adalah $A^{-1}$ jika A = $\\begin{pmatrix} 2 & 3 \\\\ 5 & 7 \\end{pmatrix}$. Tentukan matriks $(A^{-1})^{T}$ adalah ...",
+      "opsi": [
+        "$\\begin{pmatrix} -7 & 5 \\\\ 3 & -2 \\end{pmatrix}$",
+        "$\\begin{pmatrix} -7 & -5 \\\\ 3 & -2 \\end{pmatrix}$",
+        "$\\begin{pmatrix} -7 & 5 \\\\ 3 & 2 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 7 & 5 \\\\ 3 & -2 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 7 & 5 \\\\ 3 & 2 \\end{pmatrix}$"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Jumlah 10 suku pertama suatu deret aritmatika adalah 250. Jika suku pertama 7, maka beda deret tersebut adalah ...",
+      "opsi": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "$\\int_{2}^{3}{{3x}^{2} + 2x + 1\\ dx =}$ ...",
+      "pertanyaan": "Diketahui deret geometri 3 + 6 + 12 + 24 + ... jumlah 8 suku pertama adalah ...",
       "opsi": [
-        "$21$",
-        "$25$",
-        "$27$",
-        "$32$",
-        "$35$"
+        "381",
+        "384",
+        "765",
+        "768",
+        "1.536"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Negasi dari pernyataan \"semua siswa kelas XII lulus ujian\" adalah ...",
+      "opsi": [
+        "Semua siswa kelas XII tidak lulus ujian",
+        "Tidak ada siswa kelas XII yang lulus",
+        "Ada siswa kelas XII yang tidak lulus ujian",
+        "Ada siswa kelas XII yang lulus ujian",
+        "Sebagian besar siswa kelas XII tidak lulus"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Jika p benar dan q salah, maka nilai kebenaran dari (p ∧ q) ∨ ~q adalah ...",
+      "opsi": [
+        "Benar",
+        "Salah",
+        "Tidak dapat ditentukan",
+        "Benar dan salah",
+        "Pernyataan terbuka"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Rata-rata dari data 5, 7, 8, 10, x adalah 8. Nilai x adalah ...",
+      "opsi": [
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Berikut disajikan data berat badan dari 40 orang:<br><br><img src='soal/img/XII/matematika/Picture1.jpg' width='350'><br><br>Modus dari data tersebut adalah ...",
+      "opsi": [
+        "61,5",
+        "62,5",
+        "63,5",
+        "64,5",
+        "65,5"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Nilai $\\lim_{x \\rightarrow 2} \\frac{x^{2} - 4}{x - 2}$ adalah ...",
+      "opsi": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Nilai $y = (2x - 1)(x^{2} + 4)$ adalah ...",
+      "opsi": [
+        "$6x^{2} - 2x + 8$",
+        "$6x^{2} - 2x - 8$",
+        "$6x^{2} + 2x + 8$",
+        "$6x^{2} - 5x + 8$",
+        "$6x^{2} - 2x + 8$"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Nilai $\\lim_{x \\rightarrow 1} \\frac{x^{2} + x - 6}{x - 2}$ adalah ...",
+      "opsi": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Nilai $\\lim_{x \\rightarrow \\infty} \\frac{5x^{2} - 3x + 1}{2x^{2} + x - 4}$ adalah ...",
+      "opsi": [
+        "$\\frac{2}{5}$",
+        "$\\frac{5}{2}$",
+        "2",
+        "3",
+        "5"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Bentuk pemfaktoran dari ${8x}^{2} + 18x - 5$ adalah ...",
+      "pertanyaan": "Jika f(x) = $4x^{3} - 5x^{2} + 2x - 7$, turunan pertamanya adalah ...",
       "opsi": [
-        "$(4x + 5)(2x - 1)$",
-        "$(4x - 1)(2x - 5)$",
-        "$(4x - 1)(2x - 5)$",
-        "$(4x - 5)(2x - 1)$",
-        "$(4x - 1)(2x + 5)$"
+        "$12x^{2} - 10x + 2$",
+        "$12x^{2} - 5x + 2$",
+        "$4x^{2} - 10x + 2$",
+        "$12x^{3} - 10x + 2$",
+        "$4x^{3} - 5x + 2$"
       ],
-      "jawaban": "E"
+      "jawaban": "A"
     },
     {
-      "pertanyaan": "Tentukan interval nilai x yang memenuhi agar grafik fungsi f(x) naik dari fungsi $f(x) = {2x}^{3} - {3x}^{2} - 12x + 7$ adalah ...",
+      "pertanyaan": "Turunan pertama dari y = $(2x + 1)^{3}$ adalah ...",
       "opsi": [
-        "$x < 1$ atau $x > 2$",
-        "$x < -1$ atau $x > 2$",
-        "$x < 1$ atau $x > -2$",
-        "$x < -1$ atau $x > -2$",
-        "$1 < x < -2$"
+        "$3(2x + 1)^{2}$",
+        "$6(2x + 1)^{2}$",
+        "$6(2x + 1)^{3}$",
+        "$2(2x + 1)^{2}$",
+        "$3(2x + 1)^{3}$"
       ],
       "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Akar-akar persamaan kuadrat $-2x^{2} + 13x = 15$ adalah $x_{1}$ dan $x_{2}$. Nilai $x_{1}^{2} + x_{2}^{2}$ adalah ...",
+      "opsi": [
+        "-1",
+        "$27\\frac{1}{4}$",
+        "$57\\frac{1}{4}$",
+        "77",
+        "92"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perhatikan gambar berikut!<br><br><img src='soal/img/XII/matematika/Picture2.jpg' width='350'><br><br>Nilai dari limit tersebut adalah ...",
+      "opsi": [
+        "-12",
+        "-13",
+        "-14",
+        "15",
+        "16"
+      ],
+      "jawaban": "A"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Diketahui segitiga siku-siku ABC seperti pada gambar berikut.<br><br><img src='soal/img/XII/matematika/picture1.jpg'><br><br>Panjang sisi ABC adalah ..."
+      "pertanyaan": "Tentukan nilai dari $\\lim_{x \\rightarrow 4} \\frac{\\sqrt{x + 5} - 3}{x - 4}$!"
     },
     {
-      "pertanyaan": "Nilai dari $\\lim_{x \\rightarrow - 2}{\\frac{x^{2} - x - 6}{x^{2} + x - 2} = \\ldots}$"
+      "pertanyaan": "Diketahui f(x) = $x^{3} - 4x^{2} + 5x - 2$. Tentukan f'(x) dan nilai f'(2)!"
     },
     {
-      "pertanyaan": "Perhatikan tabel berikut<br><br><table border='1'><tr><th>Nilai</th><th>Frekuensi</th></tr><tr><td>10 – 19</td><td>7</td></tr><tr><td>20 – 29</td><td>10</td></tr><tr><td>30 – 39</td><td>12</td></tr><tr><td>40 – 49</td><td>8</td></tr><tr><td>50 – 59</td><td>5</td></tr><tr><td><b>Jumlah</b></td><td><b>42</b></td></tr></table><br>Median dari data pada tabel tersebut adalah ..."
+      "pertanyaan": "Tentukan turunan dari f(x) = $\\frac{1}{3}x^{\\frac{1}{2}} + 4x - 5$!"
     },
     {
-      "pertanyaan": "Arni, Febri, dan Dewi Bersama-sama pergi ke koperasi sekolah. Arni membeli 4 buku, 2 pulpen 3 pensil, dengan harga Rp. 26.000,00. Febri membeli 3 buku 3 pulpen dan 1 pensil dengan harga Rp. 21.000,00. Sedangkan Dewi membeli 3 buku dan 1 pensil dengan harga Rp. 12.000,00. Jika Mansur membeli 2 pulpen dan 3 pensil, maka jumlah uang yang harus dibayarkan oleh mansur adalah..."
+      "pertanyaan": "Diketahui y = $(3x^{2} - 2x)(x^{3} + 4)$. Tentukan y'!"
     },
     {
-      "pertanyaan": "Jika log 2 = c dan log 3 = d, tentukan nilai log 120 adalah ..."
+      "pertanyaan": "Diketahui y = $\\frac{2x^{2} - 3}{x - 1}$. Tentukan y'!"
     }
   ]
 }
