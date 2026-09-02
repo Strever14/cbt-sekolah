@@ -1,406 +1,351 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Perhatikan <i>Q.S. al-Isra</i>/17. 32 berikut!<br><br><img src='soal/img/XII/pabp/picture1.png'><br><br>Lafaz yang benar untuk melengkapi ayat tersebut adalah... .",
+      "pertanyaan": "Perhatikan Q.S. al-Hujurat ayat 12 berikut!<br><br><img src='soal/img/XII/pabp/Picture1.jpg' width='500'><br><br>Terjemah yang tepat untuk kalimat yang digarisbawahi pada ayat di atas adalah ....",
       "opsi": [
-        "<img src='soal/img/XII/pabp/picture2.png'>",
-        "<img src='soal/img/XII/pabp/picture3.png'>",
-        "<img src='soal/img/XII/pabp/picture4.png'>",
-        "<img src='soal/img/XII/pabp/picture5.png'>",
-        "<img src='soal/img/XII/pabp/picture6.png'>"
+        "jauhilah oleh kalian kebanyakan prasangka",
+        "karena sebagian dari prasangka itu dosa",
+        "dan janganlah mencari-cari keburukan orang",
+        "dan janganlah menggunjingkan satu sama lain",
+        "sesunguhnya Allah maha penerima taubat"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Perhatikan bacaan <i>Q.S. al-Hujurāt</i>/49. 10 berikut ini!<br><br><img src='soal/img/XII/pabp/picture7.png'><br><br>Pernyataan berikut merupakan contoh perilaku yang mencerminkan ayat tersebut yaitu ... .",
+      "pertanyaan": "Perhatikan Q.S. al-Isra ayat 32 di bawah ini!<br><br><img src='soal/img/XII/pabp/Picture2.jpg' width='350'><br><br>Hukum tajwid yang terdapat pada ayat yang bergaris bawah adalah...",
       "opsi": [
-        "Memiliki sikap empati terhadap permasalahan yang dihadapi",
-        "Menolong orang yang membutuhkan pertolongan",
-        "Menjalin hubungan dengan sesama muslim saja",
-        "Menyelesaikan perkara dengan musyawarah",
-        "Bersama-sama menjaga tali persaudaraan"
+        "mad jaiz munfashil, idghom bigunah",
+        "mad jaiz munfashil, alif lam komariah",
+        "idghom bilagunah, alif lam komariah",
+        "idghom bigunah, mad wajib muttashil",
+        "idghom bilagunah, mad wajib muttashil"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Perhatikan tabel Q.S. <i>Al-Hujurat</i> /49. 10 berikut dengan cermat!<br><br><div class='table-responsive'><table border='1'><tr><th>No</th><th>Potongan Ayat</th><th>Huruf</th><th>Arti ayat</th></tr><tr><td>1</td><td><img src='soal/img/XII/pabp/picture8.png'></td><td>a</td><td>karena itu damaikanlah antara kedua saudaramu (yang berselisih)</td></tr><tr><td>2</td><td><img src='soal/img/XII/pabp/picture9.png'></td><td>b</td><td>agar kamu mendapat rahmat</td></tr><tr><td>3</td><td><img src='soal/img/XII/pabp/picture10.png'></td><td>c</td><td>sesungguhnya orang-orang mukmin itu bersaudara</td></tr><tr><td>4</td><td><img src='soal/img/XII/pabp/picture11.png'></td><td>d</td><td>dan bertakwalah kepada Allah</td></tr></table></div><br>Pasangan potongan ayat dan arti ayat yang benar sebagaimana tertera dalam tabel di atas terdapat pada nomor ... .",
+      "pertanyaan": "Perhatikan Q.S. An-Nisa ayat 59 berikut!<br><br><img src='soal/img/XII/pabp/Picture3.jpg' width='500'><br><br>Pernyataan dibawah ini yang termasuk kandungan ayat di atas adalah...",
       "opsi": [
-        "1=a, 2=b, 3=c, dan 4=d",
-        "1=b, 2=c, 3=d, dan 4=a",
-        "1=c, 2=d, 3=a, dan 4=b",
-        "1=c, 2=a, 3=d, dan 4=b",
-        "1=d. 2=b, 3=a, dan 4=c"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Perhatikan tabel <i>asma'ulhusna</i> dan arti berikut!<br><br><div class='table-responsive'><table border='1'><tr><th>NO</th><th><i>Asmaulhusna</i></th><th>NO</th><th>Arti</th></tr><tr><td>1</td><td><i>Al Karim</i></td><td>a</td><td>Maha Pemberi rasa aman</td></tr><tr><td>2</td><td><i>Al Mu'min</i></td><td>b</td><td>Maha Pemurah</td></tr><tr><td>3</td><td><i>Al Wakil</i></td><td>c</td><td>Maha Pemelihara</td></tr><tr><td>4</td><td><i>AL Matin</i></td><td>d</td><td>Maha Kokoh</td></tr></table></div><br>Pasangan <i>asmaul husna</i> dan arti yang sesuai dari tabel tersebut adalah ... .",
-      "opsi": [
-        "1a, 2b, 3c, 4d",
-        "1a, 2c, 3b, 4d",
-        "1b, 2a, 3c, 4d",
-        "1b, 2c, 3a, 4d",
-        "1c, 2a, 3b, 4d"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "<blockquote>Keimanan kepada malaikat secara benar sangat berpengaruh pada karakter dan sikap seseorang dalam kehidupannya sehari-hari. Ia akan taat pada hukum Allah, aturan dan norma yang ada serta memiliki kejujuran dan integritas dalam menjalankan amanah yang diterima.</blockquote><br>Pernyataan berikut yang <b>tidak</b> merupakan cerminan sifat-sifat malaikat ... .",
-      "opsi": [
-        "Senantiasa taat dan patuh kepada Allah",
-        "Memberikan syafaat kepada manusia di hari kiamat",
-        "Tidak makan, minum dan memenuhi kebutuhan biologis",
-        "Senantiasa beribadah kepada Allah dan tidak pernah maksiat",
-        "Bertasbih siang dan malam dan tidak pernah melewatkannya"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "<blockquote>Siti menghadiri pesta pernikahan temannya dengan memakai pakaian yang baru dibelinya dari toko. Ia mendapatkan apresiasi bahwa pakaiannya sangat cocok dengan profesinya sebagai guru TPQ.</blockquote><br>Berdasarkan narasi tersebut, berikut ini yang <b>tidak</b> merupakan kriteria pakaian muslimah adalah ... .",
-      "opsi": [
-        "pakaian tidak terlalu panjang sampai menyapu tanah",
-        "pakaian tidak terlalu ketat sehingga menampakkan lekuk tubuh",
-        "pakaian tidak memancing nafsu bagi orang yang melihatnya",
-        "pakaian tidak menutup seluruh tubuh, termasuk muka dan tangannya terlihat",
-        "pakaian tidak terlalu tipis, sehingga bagian badan yang menjadi aurat wanita terlihat dengan jelas"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "<blockquote>Umat Islam harus membiasakan diri berperilaku jujur dalam kehidupan sehari-hari. Kejujuran adalah nilai utama dalam membentuk kepribadian. Perilaku jujur merupakan sifat terpuji yang akan mendatangkan banyak manfaat bagi diri sendiri dan masyarakat.</blockquote><br>Berikut ini yang merupakan contoh perilaku yang mencerminkan kejujuran adalah ... .",
-      "opsi": [
-        "Ali menolong temannya yang sedang mengalami musibah banjir bandang",
-        "Ridwan mengembalikan barang yang ia temukan kepada pemiliknya",
-        "Mulya memotivasi sahabatnya agar berkata jujur kepada orang lain",
-        "Nely membiarkan pemulung memasuki kawasan perumahan",
-        "Budi memberikan uang kepada pengemis di tepi jalan raya"
+        "menaati atasan selama dalam hal yang sejalan dengan aturan Islam",
+        "menghargai perbedaan pendapat dalam bermusyawarah",
+        "senantiasa bersyukur atas segala rezeki yang didapatkan",
+        "berusaha untuk menjauhi perbuatan yang mendekatkan kepada zina",
+        "berusaha untuk tidak berbisnis yang didalamnya mengandung unsur riba"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Perhatikan beberapa pernyataan berikut!<br><br>1) Abdul Bar memilih kuliah di jurusan ilmu falaq. Ia bertekad memberikan kontribusi kepada pemerintah dalam menentukan awal dan akhir bulan Ramadlan.<br>2) Rifa'i lebih memilih belajar di pondok pesantren berbasis pertanian untuk pengembangan pertanian di daerahnya<br>3) Marhamah termotivasi mendalami ilmu farmasi agar mampu mengembangkan obat herbal<br>4) Mahmudah memilih kuliah di fakultas kedokteran agar dapat menolong orang-orang miskin yang sakit<br>5) Syarifah meluangkan waktu lima bulan untuk mendalami ilmu tauhid (<i>ma'rifatullah</i>)<br><br>Berdasarkan pernyataan tersebut, contoh menuntut ilmu yang hukumnya <i>fardlu kifayah</i> adalah ... .",
+      "pertanyaan": "Perhatikan tabel berikut dengan cermat!<br><br><blockquote><table border='1' cellpadding='5' cellspacing='0' style='border-collapse: collapse;'><tr><th>No</th><th>Potongan Ayat</th><th>No</th><th>Hukum Tajwid</th></tr><tr><td>1</td><td>وَلَا تَقْرَبُوا الزِّنٰى</td><td>a</td><td>Idghom bigunnah</td></tr><tr><td>2</td><td>إِنَّ اللَّهَ كَانَ</td><td>b</td><td>Mad arid lisukun</td></tr><tr><td>3</td><td>يَاأَيُّهَا الَّذِينَ آمَنُوا</td><td>c</td><td>Mad wajib muttashil</td></tr><tr><td>4</td><td>فَإِنْ تَنَازَعْتُمْ</td><td>d</td><td>Alif lam qomariyah</td></tr><tr><td>5</td><td>وَأَنَّ هٰذَا صِرَاطِي</td><td>e</td><td>Idghom bilagunnah</td></tr></table></blockquote><br>Pasangan potongan ayat dan hukum tajwid yang benar pada tabel diatas adalah...",
       "opsi": [
-        "1), 2), 3) dan 4)",
-        "1), 2), 3) dan 5)",
-        "1), 2), 4) dan 5)",
-        "1), 3), 4) dan 5)",
-        "2), 3), 4) dan 5)"
+        "1-b, 2-a, 3-c, 4-d dan 5-e",
+        "1-b, 2-a, 3-e, 4-d dan 5-c",
+        "1-d, 2-a, 3-e, 4-b dan 5-c",
+        "1-d, 2-e, 3-a, 4-b dan 5-c",
+        "1-d, 2-e, 3-c, 4-b dan 5-a"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Perhatikan potongan hadis riwayat at-Tirmidzi berikut!<br><br><img src='soal/img/XII/pabp/Picture4.jpg' width='600'><br><br>Kandungan dari hadis di atas yang sesuai dengan kehidupan sehari-hari adalah...",
+      "opsi": [
+        "seorang muslim membiarkan tetangganya yang berlainan agama menjalankan aktivitas dan perayaaan hari besar keagamaannya",
+        "seorang muslim ikut memeriahkan perayaan hari besar agama lain yang dianut temannya atas dasar toleransi menjaga persatuan",
+        "seorang muslim ikut aktif di kampungnya melarang orang yang berbeda agama dengannya tinggal di kampung tersebut",
+        "seorang muslim memaksa dengan berbagai cara orang yang berbeda agamanya supaya memeluk agama Islam",
+        "seorang muslim membiarkan saudaranya menjalankan aktivitas kehidupannya walaupun bertentangan dengan aturan agama Islam"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "<blockquote>Transplantasi ialah pemindahan organ tubuh yang masih mempunyai daya hidup sehat untuk menggantikan organ tubuh yang tidak sehat dan tidak berfungsi lagi dengan baik. Transplantasi yang menjadi pembicaraan pada saat ini adalah mata, ginjal, dan jantung karena ketiganya sangat penting fungsinya bagi manusia.</blockquote><br>Berdasarkan narasi tersebut, hukum transplantasi organ tubuh ditempuh melalui ... .",
+      "pertanyaan": "Perhatikan Q.S. Ali Imran ayat 190-191 sebagai berikut:<br><br><img src='soal/img/XII/pabp/Picture5.jpg' width='500'><br><br>Perhatikan pernyataan berikut!<br><br>1. Pergantian siang dan malam disebabkan karena bumi berputar pada porosnya searah jarum jam mengelilingi matahari.<br>2. Pergantian siang dan malam merupakan tanda kebesaran Allah SWT bagi orang yang berfikir.<br>3. Profil ulil albab adalah kaum cerdik cendikia yang ditandai dengan selalu mengadakan penelitian yang hasilnya dipublikasikan bagi kepentingan kemanusiaan.<br>4. Semua ciptaan Allah SWT. tidak ada yang sia-sia, semua penuh dengan hikmah dan kebaikan yang besar bagi hamba-Nya.<br><br>Makna yang tepat dari kandungan ayat di atas ditunjukkan oleh nomor...",
       "opsi": [
-        "lembaga hukum milik pemerintah",
-        "upaya para ulama melalui ijtihad",
-        "pemikiran para penegak hukum",
-        "penggalian di kitab Al-Qur'an",
-        "penggalian di kitab Al-Qur'an"
+        "1 dan 2",
+        "1 dan 3",
+        "2 dan 3",
+        "2 dan 4",
+        "3 dan 4"
       ],
-      "jawaban": "B"
+      "jawaban": "D"
     },
     {
-      "pertanyaan": "<blockquote>Bapak Amir dan istrinya setelah menunaikan ibadah haji tiga tahun yang lalu dengan khusyu merasakan kehidupannya yang lebih indah, damai, gembira lahir batin, dan merasa sering diarahkan oleh Allah SWT agar melakukan perbuatan yang lebih baik dari sebelumnya.</blockquote><br>Kondisi yang dialami oleh bapak Amir dan istrinya menunjukkan suatu ... .",
+      "pertanyaan": "Perhatikan Q.S. Ali Imran ayat 159, berikut ini!<br><br><img src='soal/img/XII/pabp/Picture6.jpg' width='550'><br><br>Perhatikan tabel berikut!<br><br><img src='soal/img/XII/pabp/Picture7.jpg' width='550'><br><br>Berdasar pada tabel di atas, hubungan antara nomor potongan ayat dengan huruf makna yang sesuai adalah ...",
       "opsi": [
-        "Hikmah haji",
-        "Syarat haji",
-        "Wajib haji",
-        "Rukun haji",
-        "Sunah haji"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "<blockquote>Dakwah Nabi Muhammad dalam menyampaikan ajaran Islam di Makah telah tertanam kuat di kalangan sahabat-sahabatnya. Penyiksaan yang dialami para sahabat tidak mengubah keteguhan dan pendiriannya dalam mempertahankan ajaran Islam. Yang mencerminkan substansi dakwah Islam di atas adalah ... .</blockquote>",
-      "opsi": [
-        "Akhlak Mulia",
-        "Ajaran Tauhid",
-        "Sejarah",
-        "Hadits",
-        "Fiqih"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "<blockquote>Strategi Nabi Muhammad Saw. dalam membangun kebersamaan antar suku dan antar umat beragama menjadi titik awal keberhasilan dakwah Rasulullah di Madinah. Keberhasilan ini terlihat dengan adanya perlindungan bagi penduduk Madinah tanpa membedakan suku dan agama sehingga memudahkan pengembangan dakwahnya di Madinah.<br><br>Strategi yang dibangun Nabi Muhammad Saw. tersebut dikenal dengan istilah ... .</blockquote>",
-      "opsi": [
-        "Piagam Madinah",
-        "Baiat Aqabah II",
-        "Baiat Aqabah I",
-        "Darul Arqam",
-        "Baiat Ridwan"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Perhatikanlah kutipan <i>Q.S. an-Nisa</i>/4. 59 di bawah ini!<br><br><img src='soal/img/XII/pabp/picture12.png'><br><br>Pernyataan berikut yang merupakan isi kandungan ayat tersebut adalah ... .",
-      "opsi": [
-        "menjaga tali silaturahmi dengan kedua orang tua",
-        "bermusyawarah dalam menyelesaikan masalah",
-        "menaati perintah Allah, Rasul, dan pemimpin",
-        "perintah melaksanakan shalat lima waktu",
-        "bekerja dengan etos kerja yang tinggi"
+        "1 -- a, 2 -- b, 3 -- c, 4 -- d dan 5 -- e",
+        "1 -- b, 2 -- c, 3 -- d, 4 -- e dan 5 -- a",
+        "1 -- c, 2 -- d, 3 -- e, 4 -- a dan 5 -- b",
+        "1 -- d, 2 -- e, 3 -- a, 4 -- b dan 5 -- c",
+        "1 -- e, 2 -- a, 3 -- b, 4 -- c dan 5 -- d"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Perhatikan tabel penggalan <i>Q.S. Yūnus</i>/10. 40-41 dan artinya berikut ini!<br><br><div class='table-responsive'><table border='1'><tr><th>No</th><th>Lafal/Kalimat</th><th>No</th><th>Arti</th></tr><tr><td>1</td><td><img src='soal/img/XII/pabp/picture13.png'></td><td>a</td><td>dan jika mereka (tetap) mendustakanmu (Muhammad), maka katakanlah, \"Bagiku pekerjaanku dan bagimu pekerjaanmu</td></tr><tr><td>2</td><td><img src='soal/img/XII/pabp/picture14.png'></td><td>b</td><td>dan aku pun tidak bertanggung jawab terhadap apa yang kamu kerjakan</td></tr><tr><td>3</td><td><img src='soal/img/XII/pabp/picture15.png'></td><td>c</td><td>dan di antara mereka ada orang-orang yang beriman kepadanya (Al-Qur'an), dan di antaranya ada (pula) orang-orang yang tidak beriman kepadanya</td></tr><tr><td>4</td><td><img src='soal/img/XII/pabp/picture16.png'></td><td>d</td><td>sedangkan Tuhanmu lebih mengetahui tentang orang-orang yang berbuat kerusakan.</td></tr><tr><td>5</td><td><img src='soal/img/XII/pabp/picture17.png'></td><td>e</td><td>Kamu tidak bertanggung jawab terhadap apa yang aku kerjakan</td></tr></table></div><br>Berdasarkan tabel tersebut, pasangan lafal/kalimat dan arti yang benar adalah ... .",
+      "pertanyaan": "Perhatikan hadis berikut!<br><br><img src='soal/img/XII/pabp/Picture8.jpg' width='600'><br><br>Menurut Syekh Ali Ash-Shabuni makna yang terkandung dalam hadis di atas adalah...",
       "opsi": [
-        "1=a, 2=b, 3=c, dan 4=d",
-        "1=b, 2=c, 3=d, dan 4=a",
-        "1=c, 2=d, 3=a, dan 4=b",
-        "1=c, 2=a, 3=d, dan 4=b",
-        "1=d, 2=b, 3=a, dan 4=c"
+        "akal dan nalar yang dimiliki manusia tidak perlu dibatasi",
+        "akal dibatasi tetapi penggunaan nalar tidak perlu dibatasi",
+        "akal dan nalar dibatasi hanya pada hal-hal yang terkait dengan ciptaan-Nya",
+        "akal untuk memikirkan dzat Allah SWT melanggar qadha dan qadar",
+        "Memikirkan dzat Allah SWT. akan tercapai bila menggunakan akal dan nalarnya"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "<blockquote>Salah satu kewajiban orang beriman yaitu meyakini kebenaran Al Quran yang berfungsi sebagai petunjuk dan pedoman bagi manusia dalam berpikir, bersikap, dan berbuat.<br><br>Berdasarkan narasi tersebut, fungsi Al Quran adalah sebagai ... .</blockquote>",
+      "pertanyaan": "Perhatikan Q.S. Luqman ayat 13-14 dengan cermat!<br><br><img src='soal/img/XII/pabp/Picture9.jpg' width='600'><br><br>potongan ayat yang menunjukkan perintah Allah kepada manusia terdapat pada nomor...",
       "opsi": [
-        "<i>Al Mau'izah</i>",
-        "<i>Al bayyinat</i>",
-        "<i>Al Furqan</i>",
-        "<i>Asy Syifa'</i>",
-        "<i>Al Huda</i>"
+        "1, 2, 3",
+        "1, 3, 4",
+        "1, 4, 5",
+        "2, 3, 4",
+        "3, 4, 5"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perhatikan QS. Luqman ayat 13 berikut ini:<br><br><img src='soal/img/XII/pabp/Picture10.jpg' width='600'><br><br>Kesimpulan dari ayat di atas adalah larangan...",
+      "opsi": [
+        "mempersekutukan Allah",
+        "durhaka kepada orang tua",
+        "berbohong kepada orang lain",
+        "orangtua kepada anaknya",
+        "berbuat zalim kepada manusia"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Perhatikan pernyataan-pernyataan berikut:<br><br>1) Selalu berusaha untuk berbuat baik (amal soleh)<br>2) Menyadari bahwa kematian bisa datang kapan saja<br>3) Senantiasa berusaha memperbaiki bacaan al-Qur'an<br>4) Meyakini adanya malaikat yang menanyai di alam kubur<br>5) Meyakini bahwa malaikat diciptakan dari cahaya<br><br>Pernyataan yang menunjukkan iman kepada malaikat adalah...",
+      "opsi": [
+        "1, 2 dan 3",
+        "1, 2 dan 4",
+        "1, 3 dan 5",
+        "2, 3 dan 4",
+        "3, 4 dan 5"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Perhatikan tabel berikut!<br><br><div class='table-responsive'><table border='1'><tr><th>No</th><th>Sifat Wajib</th><th>No</th><th>Sifat mustahil</th></tr><tr><td>1</td><td><i>Siddiq</i></td><td>a</td><td><i>Kitman</i></td></tr><tr><td>2</td><td><i>Amanah</i></td><td>b</td><td><i>Baladah</i></td></tr><tr><td>3</td><td><i>Tablig</i></td><td>c</td><td><i>Khianat</i></td></tr><tr><td>4</td><td><i>Fatanah</i></td><td>d</td><td><i>Kidzib</i></td></tr></table></div><br>Berdasarkan tabel tersebut, pasangan sifat wajib dan sifat mustahil bagi rasul yang sesuai adalah ... .",
+      "pertanyaan": "Salah satu bagian dari literasi di sekolah, setiap hari diadakan pembiasaan tadarus dan tilawah sebagai upaya meningkatkan ketakwaan kepada Allah SWT.<br><br>Narasi di atas termasuk perilaku yang mencerminkan beriman kepada....",
       "opsi": [
-        "1=a, 2=b, 3=c, dan 4=d",
-        "1=a, 2=a, 3=d, dan 4=c",
-        "1=b, 2=a, 3=d, dan 4=c",
-        "1=d, 2=c, 3=a, dan 4=b",
-        "1=d, 2=a, 3=b, dan 4=c"
+        "Allah SWT",
+        "Kitab-kitab",
+        "Rasul-rasul",
+        "Hari Akhir",
+        "Qadha dan Qadar"
       ],
-      "jawaban": "D"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "<blockquote>Seseorang yang menerapkan perilaku <i>syaja'ah</i> selalu berbuah manis dan mendapatkan penghargaan yang tinggi dari Allah. Namun, terkadang mereka harus menghadapi tantangan dan hambatan, bahkan mendapat ancaman kekerasan dari orang-orang yang tidak menyukainya.</blockquote><br>Berikut ini yang merupakan contoh perilaku <i>syaja'ah</i> adalah ... .",
+      "pertanyaan": "Munculnya banyak problematika kehidupan dalam masyarakat, seperti tawuran antara pelajar, prostitusi online, pelecehan seksual, tindakan kekerasan merupakan dampak negative dari perilaku manusia yang semakin jauh dari Al-Quran. Oleh karena itu sebagai seorang mu'min kita harus berperilaku yang mencerminkan beriman pada Kitab-kitab Allah dengan cara....",
       "opsi": [
-        "Ahmad berani menegur seseorang yang akan berbuat jahat",
-        "Hadi mengerjakan semua tugas sekolah dengan penuh semangat",
-        "Irfan mengikhlaskan semua peristiwa hidupnya kepada Allah Swt",
-        "Joni memarkir sepeda motor miliknya didepan rumah tanpa dikunci",
-        "Kirana memukul tersangka pencuri burung di lingkungan tempat tinggalnya"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "<blockquote>Rasulullah memerintahkan umatnya untuk berbakti kepada orang tuanya, baik yang masih hidup ataupun yang meninggal dunia. Bahkan, bila orang tua berbeda agama, umat Islam tetap berkewajiban berbuat baik kepada keduanya pada batas yang diperbolehkan oleh Islam.</blockquote><br>Contoh perbuatan berikut yang <b>tidak</b> termasuk hormat dan patuh kepada orang tua adalah ... .",
-      "opsi": [
-        "Shadiq melaksanakan sholat berjama'ah seperti yang diajarkan orang tuanya",
-        "Suyanti hanya membantu pekerjaan ibunya dengan mengabaikan perintah bapaknya.",
-        "Shalihah menyapu halaman rumah karena melaksanakan tanggungjawabnya sebagai anak",
-        "Setelah shalat fardlu lima waktu, Shofiyah mendoakan kedua orangtuanya yang telah meninggal",
-        "Sebagai bentuk penghormatan, Ahmad mengucapkan salam kepada orang tuanya ketika keluar rumah"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "<blockquote>Ayahnya Ahmad meninggal dunia akibat mengalami kecelakaan lalulintas. Ahmad kemudian meminta tolong kepada seorang Ustadz untuk mengurus jenazah ayahnya. Oleh Ustadz tersebut, Ahmad diperintahkan untuk menyiapkan kain putih untuk mengkafani jenazah ayahnya.</blockquote><br>Adapun jumlah kain putih yang diperlukan oleh Ahmad adalah ... .",
-      "opsi": [
-        "1 lembar kain putih",
-        "2 lembar kain putih",
-        "3 lembar kain putih",
-        "4 lembar kain putih",
-        "5 lembar kain putih"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Perhatikan ketentuan shalat jenazah berikut!<br><br>1) Takbiratul ihram<br>2) Membacakan shalawat Nabi<br>3) Membaca surat al Fatihah<br>4) Berdo'a untuk keluarga<br>5) Berdo'a untuk jenazah<br>6) Salam<br><br>Urutan pelaksanaan shalat jenazah yang benar adalah ... .",
-      "opsi": [
-        "1), 2), 3), 4), 5), dan 6)",
-        "1), 4), 2), 3), 5), dan 6)",
-        "1), 3), 4), 2), 5), dan 6)",
-        "1), 5), 3), 4), 2), dan 6)",
-        "1), 3), 2), 5), 4), dan 6)"
+        "Hanya meyakini satu kitab suci saja yang dianggap paling benar",
+        "Berlomba-lomba untuk mempertahankan kebenarang masing-masing",
+        "Selalu menjalankan ajaran semua kitab suci yang diturunkan Allah SWT",
+        "Menyeleksi isi kitab kemudian melakukan yang paling mudah untuk diamalkan",
+        "Menjadikan Al-Qur'an sebagai pedoman hidup dan mengamalkannya"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Perhatikan tabel di bawah ini!<br><br>1) Mengucapkan hamdalah<br>2) Membaca ayat al-Qur'an<br>3) Membaca dua kalimah syahadat<br>4) Membaca shalawat atas Nabi Muhammad SAW<br>5) Berwasiat tentang ketaqwaan<br>6) Berdoa untuk kaum muslimin dan mukminin<br><br>Urutan rukun khutbah yang benar adalah ... .",
+      "pertanyaan": "Allah SWT. mewajibkan manusia untuk beriman kepada rasul-rasul yang diutus Allah. Sebahagian rasul dikisahkan dalam Al-Quran, dan sebahagian yang lain tidak terkisahkan. Pernyataan berikut yang bukan tanda-tanda beriman kepada rasul, yaitu ...",
       "opsi": [
-        "1), 2), 3), 4), 5), dan 6)",
-        "1), 3), 4), 5), 2), dan 6)",
-        "1), 3), 4), 2), 5), dan 6)",
-        "2), 3), 4), 5), 6), dan 1)",
-        "1), 4), 3), 5), 2), dan 6)"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "<blockquote>Nasabah diberikan pinjaman dana sebesar Rp. 1.000.000, dalam pembayaran perbulannya itu tergantung kemampuan nasabah. Terkadang nasabah ada yang menunggak pembayaran dan ada pula yang melunasinya sebelum jatuh tempo. Jika dalam waktu jatuh tempo nasabah tidak bisa melunasi sisa pembiayaan maka BMT akan melakukan analisis ke rumah nasabah, mencari tahu sebab-sebab kenapa nasabah tidak bisa membayar sisa pinjamannya. Jika sudah dianalisis oleh pihak BMT maka kebijakan BMT selanjutnya adalah memperpanjang waktu peminjaman menjadi maksimal satu tahun lagi untuk melunasi sisa pembayaran, tetapi di BMT Istiqomah Karangrejo ini jarang ada nasabah yang telat dalam pembayaranya, kebanyakan nasabah membayar dengan tepat waktu.</blockquote><br>Praktik ekonomi Islam yang ditawarkan dalam wacana tersebut adalah ... .",
-      "opsi": [
-        "<i>Mudharabah</i>",
-        "<i>Murabahah</i>",
-        "<i>Mukhabarah</i>",
-        "<i>Qardhul Hasan</i>",
-        "<i>Wadi'ah</i>"
+        "Membenarkan berita para rasul yang bersumber dari Allah SWT.",
+        "Meneladani perilaku rasul dalam kehidupan sehari-hari.",
+        "Mengamalkan syari'at rasul yang diutus Allah SWT.",
+        "Mengimani para rasul yang dikenalkan saja.",
+        "Mengimani bahwa risalah rasul dari Allah SWT"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "<blockquote>Masa klasik Ilmu pengetahuan berkembang sangat pesat terutama pada masa pemerintahan Abbasiyah. Hal ini ditandai dengan dengan munculnya para ilmuan muslim dalam berbagai disiplin ilmu. Seperti Ibnu Sina, Ar-Razi, Al-Khowarizmi, Al-Farazi dan lain-lain.</blockquote><br>Faktor berikut yang <b>tidak</b> sebagai pendukung kejayaan Islam adalah ... .",
+      "pertanyaan": "Hari akhir adalah hari hancurnya segala kehidupan alam semesta sekaligus menjadi awal kehidupan akhirat. Wujud keimanan pada hari akhir akan tergambar dalam perilaku kehidupan seorang mukmin.<br><br>Contoh perilaku di atas yang menggambarkan keimanan pada hari akhir adalah ...",
       "opsi": [
-        "Kesadaran umat Islam menggali dan mengembangkan ilmu pengetahuan",
-        "Gerakan penerjemahan buku-buku filsafat kedalam bahasa Arab",
-        "Didirikannya Baitul Hikmah sebagai pusat penerjemahan",
-        "Terjadinya asimilasi antara bangsa arab dan bangsa lain",
-        "Banyaknya madzhab aqidah dan fiqih dalam Islam"
+        "Menggunakan kesempatan dan menggunakan semua harta selama hidup.",
+        "Berusaha untuk berbuat baik dan beribadah kepada Allah swt dengan ikhlas.",
+        "Mengarahkan sesama ummat untuk melakukan tindakan demi harta.",
+        "Menjalani hidup dengan pesimis karena adanya perhitungan semua amal.",
+        "Berani menegakkan kebenaran untuk kepentingan diri dan kelompok."
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "<blockquote>Periode modern merupakan zaman kebangkitan Islam, hal ini tidak terlepas dari peranan pemikiran tokoh pembaharuan Islam yang memberikan pandangan kepada umat untuk terlepas dari belenggu kolonialisme dan terbuka terhadap kemajuan ilmu pengetahuan dan teknologi.</blockquote><br>Perilaku yang mencerminkan pemikiran Islam modern adalah ... .",
+      "pertanyaan": "Perhatikan beberapa pernyataan berikut!<br><br>(1) pengingat bahwa suatu hari nanti dunia akan berakhir<br>(2) menghindarkan diri dari masalah kehidupan duniawi<br>(3) memotivasi manusia untuk selalu beramal shalih<br>(4) pegangan dalam meraih kesuksesan hidup di dunia<br>(5) tuntunan dalam bersikap dan bertindak<br>(6) membiasakan hidup berhati-hati<br><br>Pernyataan yang menunjukan hikmah beriman kepada hari akhir adalah ....",
       "opsi": [
-        "Umat Islam menguasai sains dan teknologi",
-        "melanjutkan bentuk dan sistem pemerintahan dinasti",
-        "Al-Qur'an satu-satunya pedoman dalam kehidupan",
-        "Kurang mempelajari Islam dari sumber aslinya",
-        "Mengabaikan nilai-nilai ajaran Islam dalam dunia modern"
+        "(1),(2),(3),dan (4)",
+        "(1),(2),(4),dan (5)",
+        "(1),(3),(4),dan (5)",
+        "(1),(3),(5),dan (6)",
+        "(1),(4),(5),dan (6)"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Perhatikan <i>Q.S. Ali Imran</i>/3. 190 berikut!<br><br><img src='soal/img/XII/pabp/picture18.png'><br><br>Perilaku yang mencerminkan sikap sesuai dengan kandungan ayat tersebut yaitu ... .",
+      "pertanyaan": "Perhatikan pernyataan berikut ini!<br><br>1) Bertawakkal kepada Allah SWT. setelah melakukan suatu usaha<br>2) Memiliki prasangka bahwa Allah SWT. tidak suka dengan makhluk-Nya<br>3) Kejadian malapetaka di dunia adalah bentuk kemurkaan Allah SWT.<br>4) Tidak merasa sedih dan kesal hati di saat apa yang diinginkan tidak tercapai<br>5) Husnudzan kepada Allah SWT. dapat memperkuat keyakinan bahwa segala cobaan pasti ada hikmahnya<br><br>Dari pernyataan di atas yang termasuk hikmah beriman kepada Qadha dan Qadar Allah SWT. terdapat pada nomor ....",
       "opsi": [
-        "Bersikap obyektif dalam mengambil keputusan",
-        "Berpikir kritis dalam memahami fenomena alam",
-        "Berpikir kritis dalam menghadapi problema hidup",
-        "Memahami Al-Qur'an dengan baik untuk kehidupan",
-        "Memahami Al-Qur'an dengan baik sebagai bekal di akhirat"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Perhatikan <i>Q.S. Luqman</i>/31. 13 berikut!<br><br><img src='soal/img/XII/pabp/picture19.png'><br><br>Pernyataan berikut merupakan perilaku yang sesuai dengan isi kandungan ayat tersebut yaitu ... .",
-      "opsi": [
-        "Saling menyayangi dan saling menghormati berlaku dalam segala urusan",
-        "Mengajak manusia berbuat baik dengan lisan yang fasih sebagai sikap syukur",
-        "Menyampaikan kebenaran meskipun pahit , karena itu perintah Rasulullah saw",
-        "Menjauhi perilaku syirik dalam kehidupan dengan tidak menyekutukan Allah Swt.",
-        "Mendahulukan nilai-nilai kemanusian dalam dakwah karena Allah Swt pencipta alam semesta"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Amati penggalan <i>Q.S. al-Baqarah</i>/2. 83 di bawah ini!<br><br>1) <img src='soal/img/XII/pabp/picture20.png'><br>2) <img src='soal/img/XII/pabp/picture21.png'><br>3) <img src='soal/img/XII/pabp/picture22.png'><br>4) <img src='soal/img/XII/pabp/picture23.png'><br>5) <img src='soal/img/XII/pabp/picture24.png'><br><br>Susunan yang benar ayat tersebut ditandai nomor ... .",
-      "opsi": [
-        "1), 2), 3), 4), dan 5)",
-        "1), 2), 4), 3), dan 5)",
-        "1), 3), 5), 2), dan 4)",
-        "1), 4), 5), 3), dan 2)",
-        "1), 5), 4), 3), dan 2)"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "<blockquote>Setelah alam semesta hancur secara total dan kehidupan makhluk Allah Swt. berakhir, maka mulailah manusia menjalani beberapa fase kehidupan baru menuju alam <i>baqa</i>. Salah satu fase tersebut adalah manusia akan dibangkitkan dari alam kubur.</blockquote><br>Fase kebangkitan manusia dari alam kubur adalah ... .",
-      "opsi": [
-        "<i>Yaumul ba'ats</i>",
-        "<i>Yaumul mizan</i>",
-        "<i>Yaumul jaza'</i>",
-        "<i>Yaumul hasr</i>",
-        "<i>Ash - shirath</i>"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "<blockquote>Keyakinan akan adanya hari akhir dapat mengantarkan manusia untuk melakukan kegiatan-kegiatan yang positif dalam hidupnya.</blockquote><br>Perilaku berikut yang <b>tidak</b> mencerminkan kesadaran beriman kepada hari akhir adalah ... .",
-      "opsi": [
-        "apa yang kita lakukan selaras tuntunan Islam",
-        "Tidak mau kalah dalam berlomba.",
-        "tidak takabbur dan sombong.",
-        "melakukan amal saleh.",
-        "berakhlaqul karimah"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Perhatikan beberapa pernyataan berikut!<br><br>1) Ani bekerja keras siang malam, agar keluarganya bisa hidup layak.<br>2) Ilmi rela berpindah dari pekerjaan bergaji besar ke perusahaan yang bergaji kecil agar bisa beribadah dengan baik.<br>3) Kamal selalu beriktikaf di masjid dan tidak mau bekerja, karena ia percaya Allah yang mengatur rizqi.<br>4) Ria rajin belajar karena hanya dengan rajin belajar akan mendapatkan ilmu yang bermanfaat.<br>5) Ibu Giyem sampai tua tetap bekerja, karena dia berprinsip bahwa bekerja itu ibadah.<br><br>Perilaku yang mencerminkan iman kepada qada dan qadar terdapat pada nomor ... .",
-      "opsi": [
-        "1), 2), dan 3)",
-        "2), 3), dan 4)",
-        "2), 3), dan 5)",
-        "2), 4), dan 5)",
-        "3), 4), dan 5)"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "<blockquote>Islam mengajarkan kepada umatnya agar senantiasa bekerja keras. Sikap kerja keras dapat diterapkan di berbagai situasi dan kondisi, baik sebagai pelajar, pekerja, ataupun profesi lainnya.</blockquote><br>Perilaku berikut yang merupakan perilaku kerja keras bagi peserta didik di lingkungan sekolah adalah ... .",
-      "opsi": [
-        "Menggunakan seluruh waktu untuk kursus bahasa Inggris",
-        "Berpartisipasi aktif dalam semua kegiatan ekstrakurikuler",
-        "Mengikuti proses pembelajaran dengan displin dan antusias",
-        "Aktif mengikuti organisasi kemasyarakatan pada jam sekolah",
-        "Mengajak teman-teman untuk mendirikan organisasi tandingan OSIS"
+        "1, 2, 3",
+        "1, 3, 4",
+        "1, 4, 5",
+        "2, 3, 4",
+        "2, 4, 5"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "<blockquote>Islam adalah agama yang mendorong umatnya untuk bekerja dengan penuh keikhlasan dan kesungguhan, mempersembahkan hasil kerja dan amal yang terbaik (ihsan), baik dalam kaitannya dengan Allah SWT maupun dengan sesama manusia, bahkan dengan dirinya sendiri. Karena, dengan cara inilah seorang muslim akan meraih kebahagiaan yang hakiki di dunia maupun di akhirat.</blockquote><br>Berdasarkan narasi tersebut, contoh penerapan perilaku kerja keras menurut Islam adalah ... .",
+      "pertanyaan": "Allah SWT. Maha Menetapkan segala sesuatu dengan penuh perencanaan dan keadilan, sebelum manusia dilahirkan. nasib manusia telah ditentukan oleh Allah SWT. Meskipun demikian manusia tetap berkewajiban untuk berusaha, siapapun orangnya tidak mampu mengetahui taqdir Allah SWT.<br><br>Berdasarkan narasi di atas, dapat disimpulkan bahwa makna iman kepada qadha dan qadar Allah SWT. yang benar adalah sebagai berikut:",
       "opsi": [
-        "Siti memilih berjualan nasi bungkus di depan rumah demi memperoleh rizki halal",
-        "Amran bekerja keras tanpa memperhatikan kesehatannya untuk mengejar target produksi",
-        "Rofikin sering meninggalkan shalat fardlu karena kesibukannya sebagai manajer produksi",
-        "Rifa'i menerima tawaran pekerjaan di mesin produksi, meskipun tidak kompeten di bidang mesin",
-        "Nanda membuka cafe dengan melayani semua permintaan pelanggannya tanpa mempertimbangkan aturan agama"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "<blockquote>Tidak ada raut pesimis dalam wajah Sujadi, seorang penjual pensil keliling yang berusia 70 tahun. Cuaca hari itu terasa panas, ia membawa tas punggung berisi pensil berkeliling mencari tempat untuk menjajakan jualannya. Sungguh perjuangan hidup yang luar biasa, selama lebih dari 10 tahun menjual pensil. Ia lebih bahagia berjualan pensil daripada mengemis, meskipun keuntungan yang diperoleh hanya 250 rupiah per biji.</blockquote><br>Berdasarkan kisah tersebut, nilai keteladanan dari sosok Sujadi adalah ... .",
-      "opsi": [
-        "Pekerja keras tanpa pernah putus asa",
-        "Hemat dalam membelajakan harta",
-        "Rendah hati kepada siapapun",
-        "Mencintai dunia apa adanya",
-        "Ramah kepada setiap orang"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "<blockquote>Seorang muslim atau muslimah yang akan menikah selain harus memenuhi syarat juga harus memenuhi rukun nikah yang telah ditentukan dalam syari'at agama Islam. Karena jika tidak memenuhi keduanya, maka nikahnya menjadi tidak sah.</blockquote><br>Salah satu syarat nikah bagi seorang muslim atau muslimah adalah ... .",
-      "opsi": [
-        "Beridentitas jelas",
-        "Adanya ijab kabul",
-        "Adanya wali nikah",
-        "Adanya calon pengantin",
-        "Adanya dua orang saksi yang adil"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "<blockquote>Adam adalah seorang pemuda yang telah mampu baik fisik, mental, ekonomi maupun akhlak untuk melakukan pernikahan. Dia pun mempunyai keinginan untuk menikah, dan jika tidak menikah, maka dikhawatirkan akan jatuh pada perbuatan maksiat yakni zina. Dalam keadaan seperti ini, hukum menikah bagi Adam adalah ... .</blockquote>",
-      "opsi": [
-        "Sunnah",
-        "Mubah",
-        "Wajib",
-        "Makruh",
-        "Haram"
+        "Perbuatan hamba adalah makhluk yang berdiri sendiri, Allah tidak menciptakannya.",
+        "Perbuatan hamba seolah--olah dipaksa tanpa ada kemampuan karena semua sudah ditetapkan oleh Allah SWT.",
+        "Semua bentuk kejadian di alam raya ini adalah ketetapan Allah SWT.",
+        "Manusia laksana wayang yang didalangi oleh Allah SWT.",
+        "Karena qadha dan qadar sudah ditetapkan, maka tinggal menunggu ketentuan Allah SWT."
       ],
       "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perhatikan beberapa Gambar berikut dibawah ini!<br><br><img src='soal/img/XII/pabp/Picture11.jpg' width='500'><br><br>Dari gambar di atas, manakah pakaian yang sesuai dengan syari'at Islam?",
+      "opsi": [
+        "Gambar a",
+        "Gambar b",
+        "Gambar c",
+        "Gambar d",
+        "Gambar e"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Rina berangkat sekolah dengan rasa malas karena orang tuanya sudah berangkat kerja dan lupa memberinya uang saku. Ketika akan kembali ke kelas setelah selesai melaksanakan salat duha, dia menemukan uang Rp. 50.000,-. Rina bimbang apakah uang yang dia temukan digunakan untuk jajan atau diberikan pembina Rohis untuk diumumkan. Akhirnya dengan menahan rasa lapar dan dahaga, Rina melaporkan uang yang ditemukannya kepada pembina Rohis.<br><br>Sikap yang demikian itu menunjukkan bahwa Rina seorang yang ....",
+      "opsi": [
+        "suka mencari muka",
+        "memiliki sifat yang baik",
+        "menjunjung tinggi kejujuran",
+        "berpikiran polos dan logis",
+        "suka membela kebenaran"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Ketua kelas merupakan pemimpin yang bertugas mengatur kelasnya agar tertib, disiplin dan bertanggung jawab dengan terlebih dahulu memberikan contoh suri tauladan yang baik. Salah satu contoh perilaku syaja'ah yang dilakukan oleh ketua kelas adalah :<br><br>1) Memberikan tugas kelompok belajar<br>2) Membantu teman dalam mengerjakan soal ulangan<br>3) Mengatur teman-teman yang tidak dapat mengikuti pelajaran<br>4) Ikut mem-bully teman yang tidak dapat mengikuti pelajaran<br>5) Menasehati dan memberikan contoh kepada teman-teman untuk menjadi pribadi yang berakhlak mulia<br><br>Dari pernyataan di atas yang menunjukkan contoh perilaku syaja'ah dalam lingkungan di sekolah adalah terdapat pada nomor ....",
+      "opsi": [
+        "1, 2, dan 3",
+        "1, 2, dan 4",
+        "1, 2, dan 5",
+        "1, 3, dan 5",
+        "3, 4, dan 5"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Simaklah narasi berikut!<br><br>Arif sedang berkumpul dengan teman-temannya di halaman sekolah, mereka berbincang-bincang terkait pelajaran, kemudian lewatlah orang tua siswa didampingi oleh seorang guru. Sikap yang seharusnya dilakukan Arif dan teman-temannya adalah, kecuali...",
+      "opsi": [
+        "Menghentikan pembicaraan sejenak dengan teman-temannya.",
+        "Menyapa dan menegur kepada orang tua dan guru.",
+        "Membiarkan orang tua dan guru lewat dengan cuek",
+        "Mengucapkan salam kepada keduanya.",
+        "Bersalaman dengan orang tua dan guru."
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perhatikan beberapa pernyataan berikut!<br><br>(1) Seseorang yang malas bekerja tidak akan mendapat rizqi.<br>(2) Pak Ogah hanya mau bekerja jika dibayar.<br>(3) Ketika bermusyawarah, seseorang mampu memberikan solusi.<br>(4) Ketika azan Jumat dikumandangkan, Salman segera ke masjid.<br>(5) Di samping mencari penghasilan, Panji bekerja untuk mencari rida Allah.<br><br>Dari beberapa pernyataan tersebut, yang merupakan contoh perilaku etos kerja tinggi adalah ....",
+      "opsi": [
+        "(1),(2), dan (3)",
+        "(1),(4), dan (5)",
+        "(3),(4), dan (5)",
+        "(2),(3), dan (4)",
+        "(1),(3), dan (5)"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perhatikan perilaku-perilaku berikut!<br><br>1) Melakukan pekerjaan dengan penuh kesungguhan dan disiplin.<br>2) Menunda-nunda pekerjaan sehingga menumpuk.<br>3) Mencari informasi dengan rajin membaca dan bertanya untuk menambah wawasan.<br>4) Enggan bertanya karena merasa malu.<br>5) Bersikap optimis dalam menatap masa depan.<br><br>Dari pernyataan di atas, perilaku yang mencerminkan semangat kerja keras terdapat pada nomor....",
+      "opsi": [
+        "1, 2, 3",
+        "1, 2, 4",
+        "1, 2, 5",
+        "1, 3, 4",
+        "1, 3, 5"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Dalam suatu hadits Rasulullah SAW bersabda: \"Carilah duniamu seakan-akan kamu hidup selama lamanya dan carilah untuk akhiratmu seakan-akan kamu mati besok\".<br><br>Pernyataan berikut ini yang menunjukan perilaku kerja keras sesuai hadits di atas adalah...",
+      "opsi": [
+        "Mencari harta dunia sebanyak-banyaknya tapi mengabaikan kepentingan akhirat.",
+        "Mencari kebahagiaan untuk kehidupan akhirat tapi malas mencari harta untuk kehidupan di dunia.",
+        "Mencari harta sebanyak-banyaknya sesuai syariat Islam dan melakukan amal baik untuk kehidupan di akhirat karena Allah SWT.",
+        "Mencari kekayaan di dunia untuk memuaskan hawa nafsu.",
+        "Berserah diri kepada qudrat irodat Allah SWT."
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Salah satu fungsi Al-Qur'an dijelaskan dalam Q.S.Al-Baqarah/2:2 yaitu....",
+      "opsi": [
+        "Petunjuk bagi orang yang bertaqwa",
+        "sumber pokok ajaran Islam",
+        "obat dari segala penyakit",
+        "peringatan dan pelajaran bagi manusia",
+        "sebagai mukjizat bagi Nabi Muhammad SAW"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Perhatikan pernyataan dibawah ini<br><br>1) Pengembangan potensi umat<br>2) Senantiasa mengingat kematian<br>3) Menjiwai perjuangan para rasul<br>4) Mewujudkan kesejahteraan sosial<br>5) Senantiasa memperbanyak berdoa kepada Allah SWT<br>6) Menghilangkan sifat tamak dan kikir atas harta yang dimilikinya<br>7) Kepatuhan dan penyerahan kepada Allah semata<br><br>Dari pernyataan di atas manakah yang termasuk hikmah ibadah haji",
+      "opsi": [
+        "1,2,3, dan 4",
+        "1,2,3, dan 5",
+        "1,2,3, dan 6",
+        "2,3,4, dan 7",
+        "2,3,5, dan 7"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Kewajiban muslim terhadap orang yang meninggal secara tertib adalah ...",
+      "opsi": [
+        "Memandikan, menshalatkan mengkafani, dan menguburkan",
+        "Memandikan, mewudukan, menshalatkan dan menguburkan",
+        "Memandikan, mengkafani, mewudukan dan menguburkan",
+        "Memandikan, mengkafani, menshalatkan dan menguburkan",
+        "Memandikan, mewudukan, mengkafani dan menguburkan"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Perhatikan tabel di bawah ini!<br><br><blockquote><table border='1' cellpadding='5' cellspacing='0' style='border-collapse: collapse;'><tr><th>Amaliah</th><th></th><th>Syarat</th><th></th><th></th></tr><tr><td><b>1</b></td><td>Khutbah</td><td><b>A</b></td><td>1</td><td>Bersifat mengajak</td></tr><tr><td></td><td></td><td></td><td>2</td><td>Mengunakan metode yang sesuai</td></tr><tr><td></td><td></td><td></td><td>3</td><td>Menggunakan media yang sesuai</td></tr><tr><td><b>2</b></td><td>Tabligh</td><td><b>B</b></td><td>1</td><td>Dilaksanakan diwaktu dhuhur</td></tr><tr><td></td><td></td><td></td><td>2</td><td>Menyampaikan wasiat taqwa</td></tr><tr><td></td><td></td><td></td><td>3</td><td>Dilakukan oleh Laki-laki</td></tr><tr><td><b>3</b></td><td>Dakwah</td><td><b>C</b></td><td>1</td><td>Bersifat menyampaikan</td></tr><tr><td></td><td></td><td></td><td>2</td><td>Interaksi dengan jamaah</td></tr><tr><td></td><td></td><td></td><td>3</td><td>Tidak menghasut</td></tr></table></blockquote><br>Pasangan yang benar dari syarat khutbah, tabligh dan dakwah adalah....",
+      "opsi": [
+        "1 A, 2 B dan 3 C",
+        "1 B, 2 A dan 3 C",
+        "1 C, 2 A dan 3 B",
+        "1 A, 2 C dan 3 A",
+        "1 B, 2 C dan 3 A"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Suatu ketika salah satu Bank Syari'ah memberikan sosialisasi kepada para pelaku bisnis tentang bentuk-bentuk kerjasama ekonomi yang Islami. Diantara penjelasannya, petugas Bank Syari'ah menyampaikan bahwa ada bentuk kerja sama antara pihak bank dan pengusaha dimana masing-masing sama-sama memiliki saham. Oleh karena itu, kedua belah pihak mengelola usahanya secara bersama-sama dan menanggung untung ruginya secara bersama-sama pula.<br><br>Dari uraian tersebut, jenis produk perbankan syari'ah yang dimaksud adalah ....",
+      "opsi": [
+        "Wadhi'ah",
+        "Murabahah",
+        "Musyarakah",
+        "Mudharabah",
+        "Qordhuhasan"
+      ],
+      "jawaban": "D"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Perhatikan Q.S. Luqman/ 31:14 berikut!<br><br><img src='soal/img/XII/pabp/picture25.png'><br><br>a. Jelaskan isi kandungan ayat tersebut!<br>b. Bagaimana mengimplementasikan isi kandungan ayat tersebut dalam kehidupan sehari-hari?<br>c. Terjemahkan ke dalam Bahasa Indonesia"
+      "pertanyaan": "Perhatikan Q.S. Luqman/ 31:14 berikut!<br><br><img src='soal/img/XII/pabp/Picture12.jpg' width='500'><br><br>a. Jelaskan isi kandungan ayat tersebut!<br>b. Bagaimana mengimplementasikan isi kandungan ayat tersebut dalam kehidupan sehari-hari?"
     },
     {
-      "pertanyaan": "<i>Al Asma al Husna</i> adalah nama-nama Allah SWT, yang baik dan agung, salah satu <i>asma</i> Allah adalah '<i>Al-Adlu</i> artinya Maha Adil yakni menempatkan sesuatu pada tempatnya (<i>Wad'u syaiin Fii Mahaalihaa</i>).<br><br>a. Jelaskan perbedaan keadilan Allah SWT dengan keadilan manusia!<br>b. Tulis 15 Asmaul husna"
+      "pertanyaan": "Al Asma al Husna adalah nama-nama Allah SWT, yang baik dan agung, salah satu asma Allah adalah 'Al-Adlu artinya Maha Adil yakni menempatkan sesuatu pada tempatnya (Wad'u syaiin Fii Mahaalihaa).<br><br>Jelaskan perbedaan keadilan Allah SWT dengan keadilan manusia!"
     },
     {
-      "pertanyaan": "<blockquote>Abdullah Siswa SMK kelas XII, dia dari keluarga yang ekonominya sangat kurang, tiap hari dia harus berjalan kaki sekitar 7 kilometer untuk berangkat ke sekolah, pulang dari sekolah dia berjualan untuk membantu perekonomian keluarganya, kegiatan ini dia dilakukan sejak kelas X. Ketika Pengumuman kelulusan Ujian Sekolah Abdullah mendapatakan nilai terbaik. Dia memutuskan untuk terus berjualan, beberapa tahun kemudian dia sudah memiliki toko di tiap kecamatan.</blockquote><br>Apakah yang menjadi faktor keberhasilan kehidupan Abdullah tersebut?"
+      "pertanyaan": "Abdullah Siswa SMK kelas XII, dia dari keluarga yang ekonominya sangat kurang, tiap hari dia harus berjalan kaki sekitar 7 kilometer untuk berangkat ke sekolah, pulang dari sekolah dia berjualan untuk membantu perekonomian keluarganya, kegiatan ini dia dilakukan sejak kelas X. Ketika Pengumuman kelulusan Ujian Sekolah Abdullah mendapatkan nilai terbaik. Dia memutuskan untuk terus berjualan, beberapa tahun kemudian dia sudah memiliki toko di tiap kecamatan.<br><br>Apakah yang menjadi faktor keberhasilan kehidupan Abdullah tersebut?"
     },
     {
-      "pertanyaan": "<blockquote>Syahrul Anwar wafat meninggalkan harta peninggalan berupa harta perniagaan senilai Rp. 150.000.000. Harta peninggalan tersebut belum dizakati, dan belum dikeluarkan untuk keperluan pengurusan jenazah sebesar Rp. 750.000, melunasi hutang sebesar Rp. 24.000.000 dan memenuhi wasiatnya sebesar Rp. 1.500.000. Ahli waris terdiri dari istri, ibu, dua anak perempuan, seorang anak laki-laki, nenek, seorang saudara perempuan sekandung dan seorang paman (saudara laki-laki ayah).</blockquote><br>Berapakah bagian masing-masing ahli waris tersebut?"
+      "pertanyaan": "Syahrul Anwar wafat meninggalkan harta peninggalan berupa harta perniagaan senilai Rp. 150.000.000. Harta peninggalan tersebut belum dizakati, dan belum dikeluarkan untuk keperluan pengurusan jenazah sebesar Rp. 750.000, melunasi hutang sebesar Rp. 24.000.000 dan memenuhi wasiatnya sebesar Rp. 1.500.000. Ahli waris terdiri dari istri, ibu, dua anak perempuan, seorang anak laki-laki, nenek, seorang saudara perempuan sekandung dan seorang paman (saudara laki-laki ayah).<br><br>Berapakah bagian masing-masing ahli waris tersebut?"
     },
     {
-      "pertanyaan": "Surat apa yang pertama kali diturunkan Allah kepada Nabi Muhammad s.a.w, serta tulis ayat al-Qur'an dan terjemahnya...."
+      "pertanyaan": "Salah satu bukti kemajuan Islam pada masa kejayaan adalah munculnya tokoh-tokoh ilmu pengetahuan di berbagai bidang seperti filsafat, kedokteran, astronomi, fisika, matematika dan sebagainya.<br><br>Kemukakan sejarah singkat salah satu tokoh berikut karya-karyanya yang populer dalam sejarah perkembangan Islam pada masa kejayaan!"
     }
   ]
 }
