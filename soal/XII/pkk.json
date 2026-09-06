@@ -1,0 +1,406 @@
+{
+  "pilihan_ganda": [
+    {
+      "pertanyaan": "Peluang usaha adalah kesempatan yang dapat dimanfaatkan seseorang untuk...",
+      "opsi": [
+        "Menghindari persaingan",
+        "Mendapatkan keuntungan melalui suatu usaha",
+        "Mengurangi jumlah konsumen",
+        "Menghindari risiko usaha",
+        "Menambah pengeluaran"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Salah satu sumber peluang usaha yang berasal dari lingkungan sekitar adalah...",
+      "opsi": [
+        "Kebutuhan masyarakat",
+        "Larangan pemerintah",
+        "Persaingan yang ketat",
+        "Kenaikan biaya produksi",
+        "Penurunan daya beli"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Tujuan utama menganalisis peluang usaha adalah...",
+      "opsi": [
+        "Menambah jumlah pesaing",
+        "Mengetahui kemungkinan usaha dapat berkembang",
+        "Mengurangi kualitas produk",
+        "Menghindari konsumen",
+        "Memperbesar biaya operasional"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Berikut yang merupakan ciri peluang usaha yang baik adalah...",
+      "opsi": [
+        "Tidak memiliki konsumen",
+        "Membutuhkan modal sangat besar",
+        "Mampu memberikan keuntungan",
+        "Tidak memiliki nilai jual",
+        "Sulit dikembangkan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Kebutuhan masyarakat yang belum terpenuhi dapat menjadi...",
+      "opsi": [
+        "Hambatan usaha",
+        "Peluang usaha",
+        "Kerugian usaha",
+        "Beban produksi",
+        "Ancaman usaha"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Sebelum memulai usaha, seorang wirausahawan sebaiknya melakukan...",
+      "opsi": [
+        "Analisis peluang usaha",
+        "Pengurangan kualitas",
+        "Penutupan usaha",
+        "Pemutusan hubungan kerja",
+        "Pengurangan konsumen"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "SWOT merupakan metode analisis yang digunakan untuk mengetahui...",
+      "opsi": [
+        "Harga bahan baku saja",
+        "Kekuatan, kelemahan, peluang, dan ancaman usaha",
+        "Jumlah karyawan saja",
+        "Besarnya pajak usaha",
+        "Jumlah produk yang terjual"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Dalam analisis SWOT, <i>Strength</i> berarti...",
+      "opsi": [
+        "Ancaman",
+        "Peluang",
+        "Kelemahan",
+        "Kekuatan",
+        "Persaingan"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Dalam analisis SWOT, <i>Weakness</i> berarti...",
+      "opsi": [
+        "Kekuatan",
+        "Kelemahan",
+        "Peluang",
+        "Ancaman",
+        "Keuntungan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Faktor eksternal dalam analisis SWOT yang dapat dimanfaatkan untuk mengembangkan usaha disebut...",
+      "opsi": [
+        "Strength",
+        "Weakness",
+        "Opportunity",
+        "Threat",
+        "Production"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Contoh peluang usaha di bidang makanan adalah...",
+      "opsi": [
+        "Menjual makanan sesuai tren dan kebutuhan konsumen",
+        "Menjual produk tanpa memperhatikan kebersihan",
+        "Menjual barang yang tidak dibutuhkan",
+        "Mengabaikan selera konsumen",
+        "Mengurangi kualitas bahan"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Salah satu cara menemukan peluang usaha adalah dengan mengamati...",
+      "opsi": [
+        "Kebutuhan dan masalah yang dihadapi masyarakat",
+        "Jumlah pesaing saja",
+        "Keuntungan orang lain saja",
+        "Harga produk tanpa konsumen",
+        "Jumlah karyawan perusahaan lain"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Seorang siswa melihat banyak teman di sekolah membutuhkan makanan sehat dengan harga terjangkau. Hal tersebut dapat dijadikan peluang usaha dengan cara...",
+      "opsi": [
+        "Menjual makanan sehat dengan harga sesuai kemampuan siswa",
+        "Menjual makanan dengan harga sangat mahal",
+        "Tidak melakukan riset konsumen",
+        "Mengurangi kebersihan makanan",
+        "Menjual produk yang tidak diminati"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Berikut yang termasuk faktor internal dalam menentukan peluang usaha adalah...",
+      "opsi": [
+        "Kemampuan dan keterampilan pengusaha",
+        "Kondisi ekonomi negara",
+        "Kebijakan pemerintah",
+        "Perubahan tren masyarakat",
+        "Tingkat persaingan pasar"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Salah satu faktor eksternal yang memengaruhi peluang usaha adalah...",
+      "opsi": [
+        "Keterampilan pemilik usaha",
+        "Modal pribadi",
+        "Kondisi pasar",
+        "Motivasi pengusaha",
+        "Kemampuan produksi pribadi"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Riset pasar dilakukan dengan tujuan untuk...",
+      "opsi": [
+        "Mengetahui kebutuhan dan keinginan konsumen",
+        "Menghindari konsumen",
+        "Mengurangi jumlah produk",
+        "Menambah biaya tanpa tujuan",
+        "Meniru semua produk pesaing"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Produk yang memiliki keunikan dibandingkan produk pesaing akan memiliki...",
+      "opsi": [
+        "Daya tarik lebih tinggi bagi konsumen",
+        "Nilai jual yang selalu rendah",
+        "Risiko pasti lebih besar",
+        "Konsumen yang lebih sedikit",
+        "Kualitas yang pasti buruk"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Inovasi dalam usaha berarti...",
+      "opsi": [
+        "Meniru produk pesaing sepenuhnya",
+        "Menciptakan pembaruan atau pengembangan produk",
+        "Mengurangi kualitas produk",
+        "Menghentikan kegiatan produksi",
+        "Menghindari perubahan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Seorang wirausahawan melihat tren minuman kekinian dan kemudian membuat produk dengan varian rasa yang berbeda. Tindakan tersebut merupakan contoh...",
+      "opsi": [
+        "Inovasi produk",
+        "Pemborosan modal",
+        "Ancaman usaha",
+        "Kegagalan produksi",
+        "Pengurangan pasar"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Risiko usaha adalah...",
+      "opsi": [
+        "Kepastian memperoleh keuntungan",
+        "Kemungkinan terjadinya kerugian atau kegagalan dalam usaha",
+        "Jumlah modal yang dimiliki",
+        "Banyaknya konsumen",
+        "Harga jual produk"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Salah satu cara mengurangi risiko dalam menjalankan usaha adalah...",
+      "opsi": [
+        "Melakukan perencanaan dan analisis pasar",
+        "Mengabaikan kebutuhan konsumen",
+        "Menggunakan modal tanpa perhitungan",
+        "Tidak melakukan promosi",
+        "Menjual produk tanpa pengujian"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Peluang usaha yang baik seharusnya memiliki nilai ekonomis, artinya...",
+      "opsi": [
+        "Tidak dapat menghasilkan pendapatan",
+        "Tidak memiliki manfaat",
+        "Berpotensi menghasilkan keuntungan",
+        "Tidak membutuhkan konsumen",
+        "Tidak dapat dikembangkan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Jika banyak masyarakat membutuhkan jasa laundry karena kesibukan bekerja, kondisi tersebut merupakan peluang usaha yang muncul dari...",
+      "opsi": [
+        "Kebutuhan masyarakat",
+        "Kelemahan produk",
+        "Ancaman pesaing",
+        "Kenaikan modal",
+        "Penurunan kualitas"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Dalam menentukan peluang usaha, seorang wirausahawan harus mempertimbangkan modal, keterampilan, pasar, dan...",
+      "opsi": [
+        "Risiko usaha",
+        "Jumlah teman",
+        "Hobi orang lain",
+        "Jumlah pesaing saja",
+        "Keinginan tanpa perencanaan"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Sikap yang paling tepat bagi seorang wirausahawan ketika menemukan peluang usaha adalah...",
+      "opsi": [
+        "Takut mengambil keputusan",
+        "Menunggu orang lain memulai terlebih dahulu",
+        "Menganalisis peluang dan berani mengambil keputusan dengan perhitungan",
+        "Mengabaikan peluang tersebut",
+        "Menjalankan usaha tanpa perencanaan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perencanaan usaha adalah proses yang dilakukan untuk...",
+      "opsi": [
+        "Menghabiskan modal usaha",
+        "Menentukan langkah-langkah yang akan dilakukan dalam menjalankan usaha",
+        "Menghindari kegiatan produksi",
+        "Mengurangi jumlah konsumen",
+        "Menghentikan kegiatan pemasaran"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Tujuan utama dibuatnya perencanaan usaha adalah...",
+      "opsi": [
+        "Agar usaha berjalan tanpa tujuan",
+        "Agar kegiatan usaha lebih terarah dan memiliki tujuan yang jelas",
+        "Agar modal cepat habis",
+        "Agar tidak memiliki pesaing",
+        "Agar produk tidak berkembang"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Salah satu hal yang harus ditentukan sebelum memulai usaha adalah...",
+      "opsi": [
+        "Jenis usaha yang akan dijalankan",
+        "Jumlah pesaing yang harus dikalahkan",
+        "Cara menghindari konsumen",
+        "Jumlah kerugian yang diinginkan",
+        "Waktu untuk menghentikan usaha"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Analisis pasar dalam perencanaan usaha bertujuan untuk mengetahui...",
+      "opsi": [
+        "Kebutuhan dan keinginan konsumen",
+        "Jumlah uang pribadi pengusaha",
+        "Jumlah barang di gudang pesaing",
+        "Keuntungan semua perusahaan",
+        "Jumlah karyawan pemerintah"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Dalam perencanaan usaha, target pasar adalah...",
+      "opsi": [
+        "Tempat menyimpan produk",
+        "Kelompok konsumen yang menjadi sasaran penjualan produk",
+        "Orang yang menjadi pesaing usaha",
+        "Pemilik modal usaha",
+        "Karyawan bagian produksi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Salah satu komponen penting dalam perencanaan usaha adalah perencanaan pemasaran. Perencanaan tersebut berkaitan dengan...",
+      "opsi": [
+        "Cara memperkenalkan dan menjual produk kepada konsumen",
+        "Cara mengurangi kualitas produk",
+        "Cara menghindari konsumen",
+        "Cara menghentikan produksi",
+        "Cara menghabiskan bahan baku"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Perencanaan keuangan dalam usaha diperlukan untuk...",
+      "opsi": [
+        "Mengatur pemasukan, pengeluaran, modal, dan keuntungan usaha",
+        "Menentukan jumlah pesaing",
+        "Mengurangi jumlah konsumen",
+        "Menghindari kegiatan pemasaran",
+        "Menghapus semua biaya produksi"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Sebelum memproduksi suatu barang, seorang pengusaha perlu menentukan bahan baku, alat, tenaga kerja, dan jumlah produksi. Hal tersebut termasuk perencanaan...",
+      "opsi": [
+        "Pemasaran",
+        "Produksi",
+        "Promosi",
+        "Distribusi",
+        "Keuangan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Salah satu manfaat membuat perencanaan usaha adalah...",
+      "opsi": [
+        "Meningkatkan kemungkinan usaha berjalan sesuai tujuan",
+        "Membuat usaha tidak memiliki arah",
+        "Menambah risiko tanpa perhitungan",
+        "Mengurangi kualitas produk",
+        "Menghilangkan kebutuhan konsumen"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Perencanaan usaha yang baik harus dibuat berdasarkan kondisi yang...",
+      "opsi": [
+        "Tidak sesuai kenyataan",
+        "Hanya berdasarkan keinginan",
+        "Realistis dan dapat dilaksanakan",
+        "Tidak memiliki tujuan",
+        "Tidak memperhitungkan risiko"
+      ],
+      "jawaban": "C"
+    }
+  ],
+  "essay": [
+    {
+      "pertanyaan": "Apa yang dimaksud dengan peluang usaha? Jelaskan dan berikan satu contohnya!"
+    },
+    {
+      "pertanyaan": "Sebutkan 3 cara untuk menemukan peluang usaha!"
+    },
+    {
+      "pertanyaan": "Mengapa seorang wirausahawan harus melihat kebutuhan konsumen sebelum memulai usaha?"
+    },
+    {
+      "pertanyaan": "Apa yang dimaksud dengan perencanaan usaha?"
+    },
+    {
+      "pertanyaan": "Sebutkan 4 hal yang perlu diperhatikan dalam membuat perencanaan usaha!"
+    }
+  ]
+}
