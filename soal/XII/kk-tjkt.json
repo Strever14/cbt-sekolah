@@ -1,406 +1,403 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "IP Address kelas C memiliki range default pada oktet pertama yaitu...",
+      "pertanyaan": "Perhatikan gambar berikut!<br><br><img src='soal/img/XI/kk-tjkt/Picture1.png' width='230'><br><br>Seorang teknisi sedang melakukan verifikasi konektivitas dari PC client setelah konfigurasi router selesai. Prinsip pengujian bertingkat (layered testing) menekankan untuk selalu memulai dari ujung terdekat menuju ujung terjauh. Urutan perintah ping manakah yang PALING SESUAI dengan prinsip tersebut?",
       "opsi": [
-        "1 – 126",
-        "128 – 191",
-        "192 – 223",
-        "224 – 239",
-        "240 – 255"
+        "ping google.com → ping 8.8.8.8 → ping 192.168.Y.1 → ping 192.168.50.1",
+        "ping 192.168.Y.1 → ping 192.168.50.1 → ping 8.8.8.8 → ping google.com",
+        "ping 192.168.50.1 → ping 8.8.8.8 → ping 192.168.Y.1 → ping google.com",
+        "ping 192.168.Y.1 → ping google.com → ping 192.168.50.1 → ping 8.8.8.8",
+        "ping 8.8.8.8 → ping 192.168.50.1 → ping google.com → ping 192.168.Y.1"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perhatikan gambar di samping, gateway dari PC yang menuju internet adalah ....<br><br><img src='soal/img/XI/kk-tjkt/Picture2.png' width='420'>",
+      "opsi": [
+        "192.168.50.2",
+        "192.168.60.2",
+        "192.168.40.1",
+        "192.168.60.1",
+        "192.168.50.1"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Subnet mask default dari IP Address kelas B adalah...",
+      "pertanyaan": "Sebuah perusahaan kecil menggunakan satu router untuk menghubungkan jaringan lokal ke internet. Router tersebut memiliki dua interface: ether1 terhubung ke modem ISP dan ether2 terhubung ke switch lokal. Setelah semua konfigurasi selesai, PC client di jaringan lokal berhasil mendapatkan IP secara otomatis, dapat melakukan ping ke gateway LAN, namun tidak bisa mengakses internet. Perintah /ip route print pada router menunjukkan default route aktif (flag AS) dan router dapat melakukan ping ke 8.8.8.8. Apa penyebab paling mungkin dari masalah tersebut?",
       "opsi": [
-        "255.0.0.0",
-        "255.255.0.0",
-        "255.254.0.0",
-        "255.255.255.0",
-        "255.255.255.252"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "IP Address 255.255.255.255 digunakan untuk...",
-      "opsi": [
-        "Host tertentu",
-        "Broadcast",
-        "Gateway",
-        "Network ID",
-        "Loopback"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Jika sebuah PC memiliki IP 192.168.1.10/24, maka network ID-nya adalah...",
-      "opsi": [
-        "192.168.1.0",
-        "192.168.1.1",
-        "192.168.1.10",
-        "192.168.1.255",
-        "192.168.0.0"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Fungsi utama dari DNS adalah...",
-      "opsi": [
-        "Mengatur alokasi IP Address",
-        "Mengubah nama domain menjadi IP Address",
-        "Melakukan enkripsi data",
-        "Menghubungkan database",
-        "Mengatur hak akses"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Record DNS yang digunakan untuk memetakan nama domain ke alamat IPv4 adalah...",
-      "opsi": [
-        "MX",
-        "A",
-        "AAAA",
-        "CNAME",
-        "PTR"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "DHCP bekerja menggunakan model...",
-      "opsi": [
-        "Client–Client",
-        "Server–Client",
-        "Peer to Peer",
-        "Master–Slave",
-        "DNS–IP"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Lease time dalam DHCP berarti...",
-      "opsi": [
-        "Jumlah IP yang dibagikan",
-        "Lama transfer file",
-        "Durasi hak penggunaan IP Address",
-        "Waktu enkripsi data",
-        "Waktu sinkronisasi DNS"
+        "Kabel LAN antara switch dan PC client putus",
+        "Konfigurasi DNS server pada router belum diatur",
+        "Rule NAT Masquerade belum dibuat pada router",
+        "DHCP server pada interface LAN belum diaktifkan",
+        "Default route menuju gateway ISP salah"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Port default yang digunakan oleh protokol SSH adalah...",
+      "pertanyaan": "Perhatikan gambar dibawah ini!<br><br><img src='soal/img/XI/kk-tjkt/Picture3.png' width='470'><br><br>Untuk mengkonfigurasi Firewall NAT, Anda perlu menentukan?",
       "opsi": [
-        "20",
-        "21",
-        "22",
-        "23",
-        "25"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Perintah untuk melakukan koneksi SSH dari terminal adalah...",
-      "opsi": [
-        "connect user@ip",
-        "login user@ip",
-        "ssh user@ip",
-        "telnet user@ip",
-        "ftp user@ip"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "File konfigurasi utama SSH server di Linux adalah...",
-      "opsi": [
-        "/etc/ssh/ssh_config",
-        "/etc/ssh/sshd_config",
-        "/etc/resolv.conf",
-        "/etc/network/interfaces",
-        "/etc/dhcp/dhcpd.conf"
+        "action = accept, out-interface = ether 3, chain = src-nat",
+        "action = masquerade, out-interface = ether 1, chain = src-nat",
+        "action = masquerade, out-interface = ether 2, chain = src-nat",
+        "action = masquerade, out-interface = ether 4, chain = dst-nat",
+        "action = masquerade, out-interface list = ether 5, chain = src-nat"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Perintah untuk mengecek konfigurasi IP Address di Linux adalah...",
+      "pertanyaan": "Pada gambar dibawah ini<br><br><img src='soal/img/XI/kk-tjkt/Picture3.png' width='570'><br><br>yang berlaku sebagai dhcp server pada topologi tersebut adalah ether....",
       "opsi": [
-        "ping",
-        "netstat",
-        "nslookup",
-        "ifconfig atau ip addr",
-        "route"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "File konfigurasi utama DHCP Server di Linux Debian adalah...",
-      "opsi": [
-        "/etc/network/interfaces",
-        "/etc/resolv.conf",
-        "/etc/hosts",
-        "/etc/ssh/sshd_config",
-        "/etc/dhcp/dhcpd.conf"
+        "eth1",
+        "eth2",
+        "eth4",
+        "eth5",
+        "eth6"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Perintah untuk melakukan pengecekan DNS di Linux adalah...",
+      "pertanyaan": "Perhatikan gambar dibawah ini.<br><br><img src='soal/img/XI/kk-tjkt/Picture4.png' width='280'><br><br>Sebuah PC client dihubungkan ke ether2 pada mikrotik dan dikonfigurasi IP Address seperti pada gambar diatas. Pada IP ether 2 mikrotik di setting IP Address 192.168.2.1/24 Namun terjadi kendala dimana PC tersebut tidak dapat terkoneksi ke internet. Kemungkinan penyebab dari masalah tersebut adalah",
+      "opsi": [
+        "IP Address salah",
+        "Subnet Mask salah",
+        "Preferred DNS tidak diisi",
+        "Default gateway tidak diisi",
+        "Alternate DNS tidak diisi"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Saat melakukan konfigurasi beberapa Access Point (AP), seorang network administrator harus memperhatikan aspek kecepatan dan frekuensi. Frekuensi menentukan jumlah kanal (channel) yang tersedia. Bila AP tersebut dipasang pada standar 802.11n, interval kanal sebesar 10 MHz, serta lebar kanal sebesar 20 MHz. Maka manakah konfigurasi kanal berikut ini yang harus dihindari oleh admin agar memperoleh interferensi paling minimum?",
+      "opsi": [
+        "2, 4, 5",
+        "1, 7, 13",
+        "1, 8",
+        "2, 5, 8",
+        "2, 6, 12"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Anda memiliki router dengan konfigurasi<br>- IP Publik: 20.168.12.45/24<br>- Default gateway: 20.168.12.1<br>- Server DNS: 8.8.8.8, 8.8.4.4<br>- IP Lokal: 100.168.2.1/24<br><br>pilih konfigurasi yang benar pada PC klien untuk mengakses Internet",
+      "opsi": [
+        "IP: 100.168.0.1/24 gateway: 192.168.2.1",
+        "IP: 100.168.2.253/24 gateway: 20.168.12.1",
+        "IP: 100.168.1.223/24 gateway: 248.115.148.136",
+        "IP: 100.168.2.115/24 gateway: 100.168.2.1",
+        "IP: 100.168.2.2/24 gateway: 20.168.12.45"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Sebuah router telah dikonfigurasi dengan DHCP server pada interface ether2 untuk membagikan IP otomatis ke PC client. Namun, setelah PC dihubungkan, PC tidak mendapatkan IP address. Teknisi telah memastikan kabel fisik dalam kondisi baik dan interface ether2 menunjukkan status RUNNING. Berdasarkan prinsip troubleshooting, apa yang harus diperiksa PRIMER oleh teknisi?",
+      "opsi": [
+        "Apakah NAT Masquerade sudah aktif pada chain srcnat",
+        "Apakah DHCP server dalam keadaan running dan pool serta network DHCP sesuai subnet LAN",
+        "Apakah default route ke gateway ISP memiliki flag AS",
+        "Apakah firewall filter memblokir port DHCP",
+        "Apakah DNS server sudah diatur dengan benar"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Pada sebuah router, interface WAN (ether1) memiliki IP 192.168.50.20/24 dan interface LAN (ether2) memiliki IP 192.168.10.1/25. Setelah konfigurasi, teknisi menemukan bahwa PC client dengan IP 192.168.10.130 tidak dapat melakukan ping ke gateway LAN (192.168.10.1). PC client lain dengan IP 192.168.10.50 dapat berkomunikasi dengan normal. Berdasarkan subnet /25 yang digunakan, apa kesimpulan paling tepat?",
+      "opsi": [
+        "Gateway LAN mengalami overload karena terlalu banyak client",
+        "IP 192.168.10.130 berada di luar rentang subnet /25 yang valid",
+        "NAT Masquerade belum dikonfigurasi untuk subnet tersebut",
+        "DHCP pool terlalu kecil sehingga tidak mencakup IP .130",
+        "Interface ether2 mengalami masalah auto-negotiation"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Proxmox VE merupakan platform yang digunakan untuk melakukan...",
+      "opsi": [
+        "Pengolahan kata",
+        "Virtualisasi server",
+        "Desain grafis",
+        "Pengeditan video",
+        "Pembuatan website"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Salah satu teknologi virtualisasi yang digunakan oleh Proxmox VE adalah...",
+      "opsi": [
+        "KVM",
+        "HTML",
+        "PHP",
+        "MySQL",
+        "DNS"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Dalam Proxmox, sebuah mesin virtual yang menjalankan sistem operasi lengkap disebut...",
+      "opsi": [
+        "Container",
+        "VM",
+        "Repository",
+        "Storage",
+        "Cluster"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perintah pada Debian yang digunakan untuk melihat alamat IP pada interface jaringan adalah...",
+      "opsi": [
+        "ip addr",
+        "show ip",
+        "get ip",
+        "network ip",
+        "display ip"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Perintah yang umum digunakan untuk memperbarui daftar paket pada Debian adalah...",
+      "opsi": [
+        "apt update",
+        "apt install",
+        "apt upgrade",
+        "apt refresh",
+        "apt check"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Fungsi utama <b>SSH (Secure Shell)</b> pada Debian Server adalah...",
+      "opsi": [
+        "Mengelola database",
+        "Mengakses server secara remote",
+        "Membuat alamat IP otomatis",
+        "Mengatur nama domain",
+        "Membuat website"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Pada Proxmox, fitur <b>Snapshot</b> digunakan untuk...",
+      "opsi": [
+        "Menghapus seluruh VM",
+        "Menyimpan kondisi VM pada titik waktu tertentu",
+        "Mengubah IP server",
+        "Menginstal Debian secara otomatis",
+        "Menghapus storage"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "File konfigurasi jaringan pada Debian yang menggunakan metode konfigurasi klasik dapat ditemukan pada...",
+      "opsi": [
+        "/etc/network/interfaces",
+        "/etc/debian/network",
+        "/var/network/config",
+        "/home/network/interfaces",
+        "/usr/network/config"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Jika ingin membuat VM Debian baru di Proxmox, salah satu media instalasi yang dapat digunakan adalah...",
+      "opsi": [
+        "File ISO Debian",
+        "File TXT",
+        "File DOCX",
+        "File png",
+        "File MP3"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Salah satu kelebihan menggunakan Proxmox untuk pembelajaran Debian Server adalah...",
+      "opsi": [
+        "Harus menggunakan banyak komputer fisik",
+        "Tidak dapat menjalankan lebih dari satu server",
+        "Dapat menjalankan beberapa mesin virtual dalam satu perangkat fisik",
+        "Tidak membutuhkan RAM",
+        "Tidak membutuhkan sistem operasi"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Jaringan komputer yang digunakan untuk menghubungkan perangkat dalam area terbatas seperti ruang kelas, laboratorium, atau gedung sekolah disebut ....",
+      "opsi": [
+        "WAN",
+        "MAN",
+        "LAN",
+        "PAN",
+        "Internet"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perangkat jaringan yang berfungsi menghubungkan beberapa komputer dalam satu jaringan LAN dan meneruskan data berdasarkan alamat MAC adalah ....",
+      "opsi": [
+        "Router",
+        "Switch",
+        "Modem",
+        "Repeater",
+        "Access Point"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Kabel yang paling umum digunakan untuk menghubungkan komputer dengan switch pada jaringan LAN adalah ....",
+      "opsi": [
+        "Kabel coaxial",
+        "Kabel fiber optic",
+        "Kabel UTP",
+        "Kabel HDMI",
+        "Kabel USB"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dalam implementasi jaringan LAN, topologi yang setiap perangkatnya terhubung ke satu perangkat pusat seperti switch disebut topologi ....",
+      "opsi": [
+        "Bus",
+        "Ring",
+        "Mesh",
+        "Star",
+        "Tree"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Fungsi utama router dalam jaringan LAN dan WAN adalah ....",
+      "opsi": [
+        "Menyimpan file pengguna",
+        "Menghubungkan dan meneruskan paket antarjaringan",
+        "Mengubah sinyal digital menjadi suara",
+        "Mencetak dokumen melalui jaringan",
+        "Menambah kapasitas RAM komputer"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Sebuah perusahaan memiliki kantor pusat di Bandung dan kantor cabang di Jakarta. Agar kedua kantor dapat saling berkomunikasi melalui jaringan, jenis jaringan yang paling sesuai adalah ....",
+      "opsi": [
+        "PAN",
+        "LAN",
+        "CAN",
+        "WAN",
+        "WLAN"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Alamat IP yang digunakan untuk mengidentifikasi perangkat dalam jaringan disebut ....",
+      "opsi": [
+        "MAC Address",
+        "IP Address",
+        "URL",
+        "DNS",
+        "SSID"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Manakah contoh alamat IPv4 yang valid untuk digunakan pada sebuah perangkat jaringan?",
+      "opsi": [
+        "192.168.1.10",
+        "192.168.1.300",
+        "192.168.1",
+        "192.168.1.10.5",
+        "192.168.abc.10"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Dalam jaringan LAN, komputer A menggunakan IP 192.168.1.2/29. IP komputer B yang masih berada dalam subnet yang sama adalah ....",
+      "opsi": [
+        "192.168.10.1",
+        "192.168.1.6",
+        "192.168.1.8",
+        "192.168.1.0",
+        "Semua Salah"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perintah yang umum digunakan pada Windows untuk memeriksa konfigurasi IP pada komputer adalah ....",
       "opsi": [
         "ping",
-        "traceroute",
-        "nslookup atau dig",
-        "ifconfig",
-        "route"
+        "tracert",
+        "ipconfig",
+        "netstat",
+        "hostname"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Port default yang digunakan oleh FTP adalah...",
+      "pertanyaan": "Seorang administrator ingin mengetahui apakah komputer client dapat berkomunikasi dengan gateway. Perintah yang paling tepat digunakan adalah ....",
       "opsi": [
-        "20",
-        "21",
-        "22",
-        "23",
-        "25"
+        "format",
+        "ping",
+        "mkdir",
+        "ipconfig /release",
+        "tasklist"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Fungsi utama Trixbox dalam jaringan VoIP adalah...",
+      "pertanyaan": "Teknologi yang memungkinkan beberapa perangkat dalam jaringan lokal menggunakan satu alamat IP publik untuk mengakses Internet disebut ....",
       "opsi": [
-        "Menyediakan layanan email",
-        "Menyediakan layanan VPN",
-        "Menyediakan layanan telepon berbasis IP",
-        "Menyediakan layanan DNS",
-        "Menyediakan layanan file sharing"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Trixbox berbasis pada sistem operasi...",
-      "opsi": [
-        "Ubuntu Server",
-        "Debian",
-        "CentOS Linux",
-        "Windows Server",
-        "Windows 10"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Protokol standar yang digunakan dalam komunikasi VoIP adalah...",
-      "opsi": [
-        "HTTP",
-        "FTP",
-        "SIP",
-        "SMTP",
-        "POP3"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Aplikasi Zoiper dan 3CX Phone berfungsi sebagai...",
-      "opsi": [
-        "Server VoIP",
-        "Database VoIP",
-        "Software Phone",
-        "Media player",
-        "File manager"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Teknologi untuk mengubah suara analog menjadi digital dalam VoIP disebut...",
-      "opsi": [
-        "Firewall",
-        "Proxy",
-        "Codec",
-        "VPN",
-        "Cache"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Perangkat yang menghubungkan VoIP dengan jaringan telepon konvensional adalah...",
-      "opsi": [
-        "Switch",
-        "Router",
-        "Gateway",
-        "Hub",
-        "Proxy"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Salah satu fitur yang dapat diimplementasikan menggunakan Trixbox adalah...",
-      "opsi": [
-        "Cloud storage",
-        "Antivirus scanning",
-        "Video conference",
-        "File sharing",
-        "DHCP server"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Kejahatan siber dengan memalsukan identitas pengirim disebut...",
-      "opsi": [
-        "Carding",
-        "Traveling",
-        "Spoofing",
-        "Sniffing",
-        "Streaming"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Kejahatan siber yang menggunakan kartu kredit orang lain secara ilegal disebut...",
-      "opsi": [
-        "Spoofing",
-        "Sniffing",
-        "Phishing",
-        "Carding",
-        "Hacking"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Serangan yang bertujuan menguping komunikasi jaringan disebut...",
-      "opsi": [
-        "Brute force",
-        "Spoofing",
-        "Sniffing",
-        "Phishing",
-        "Hijacking"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Tujuan utama keamanan jaringan adalah...",
-      "opsi": [
-        "Mempercepat koneksi",
-        "Menambah perangkat",
-        "Melindungi data dan informasi",
-        "Mengurangi biaya",
-        "Menambah bandwidth"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Malware yang menyamar sebagai program normal disebut...",
-      "opsi": [
-        "Worm",
-        "Trojan Horse",
-        "Spyware",
-        "Rootkit",
-        "Adware"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "VPN digunakan untuk...",
-      "opsi": [
-        "Memperbesar bandwidth",
-        "Membuat jaringan aman terenkripsi",
-        "Menghapus virus",
-        "Mengatur IP",
-        "Memblokir iklan"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Teknik brute force digunakan untuk...",
-      "opsi": [
-        "Menghapus sistem",
-        "Menebak kata sandi",
-        "Mempercepat server",
-        "Mengubah IP",
-        "Mengirim spam"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Fungsi utama firewall pada Mikrotik adalah...",
-      "opsi": [
-        "Menyimpan data",
-        "Menggandakan bandwidth",
-        "Melindungi jaringan dari akses tidak sah",
-        "Mengatur IP statis",
-        "Menyediakan DNS"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Menu firewall pada Mikrotik dapat diakses melalui...",
-      "opsi": [
-        "Tools → Firewall",
-        "IP → Firewall",
-        "System → Firewall",
-        "Interface → Firewall",
-        "Queue → Firewall"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Perbedaan utama antara action Reject dan Drop adalah...",
-      "opsi": [
-        "Reject tanpa pesan",
-        "Drop kirim pesan",
-        "Reject kirim pesan error, Drop tanpa pesan",
-        "Reject hanya TCP",
-        "Reject mempercepat koneksi"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Fungsi NAT (Network Address Translation) pada Mikrotik adalah...",
-      "opsi": [
-        "Membuat VLAN",
-        "Menghapus log",
-        "Menghemat IP Public",
-        "Memblokir port",
-        "Mengatur routing"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Mode WLAN Mikrotik agar dapat berfungsi sebagai Access Point adalah...",
-      "opsi": [
-        "Station",
-        "WDS",
-        "PTP",
-        "AP Bridge",
-        "Station bridge"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Fitur Mikrotik untuk sinkronisasi waktu otomatis adalah...",
-      "opsi": [
-        "DHCP Client",
-        "SNTP Client",
+        "DHCP",
+        "DNS",
         "NAT",
-        "Web Proxy",
-        "SNMP"
+        "FTP",
+        "HTTP"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Fungsi DHCP pada jaringan LAN adalah ....",
+      "opsi": [
+        "Mengatur keamanan firewall",
+        "Memberikan alamat IP secara otomatis kepada client",
+        "Menghubungkan jaringan LAN dengan WAN",
+        "Mengubah nama domain menjadi alamat IP",
+        "Mengirimkan email antarclient"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Salah satu media transmisi yang banyak digunakan pada jaringan WAN karena memiliki kecepatan tinggi dan mampu mengirimkan data dalam jarak jauh adalah ....",
+      "opsi": [
+        "Kabel UTP",
+        "Kabel telepon biasa",
+        "Fiber optic",
+        "Kabel USB",
+        "Kabel HDMI"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dalam implementasi jaringan LAN dan WAN, firewall digunakan terutama untuk ....",
+      "opsi": [
+        "Mempercepat kinerja prosesor",
+        "Mengatur dan memfilter lalu lintas jaringan berdasarkan aturan keamanan",
+        "Mengubah kabel UTP menjadi fiber optic",
+        "Memberikan alamat MAC kepada komputer",
+        "Menambah jumlah port pada switch"
       ],
       "jawaban": "B"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Jelaskan langkah-langkah melakukan <b>konfigurasi IP statis pada Linux Debian</b>!"
+      "pertanyaan": "Pada topologi jaringan, Router-2 difungsikan sebagai switch. Buatkan tabel untuk konfigurasi yang harus dilakukan pada port ether1 dan port ether2 pada Router-2, meliputi: VLAN Mode, VLAN Header, dan Default VLAN ID!<br><br><img src='soal/img/XI/kk-tjkt/Picture5.png' width='260'>"
     },
     {
-      "pertanyaan": "Jelaskan <b>perbedaan virus, worm, dan trojan</b> dalam keamanan jaringan!"
+      "pertanyaan": "Pada topologi jaringan, Tuliskan konfigurasi pada Router-1 untuk membuat interface vlan!<br><br><img src='soal/img/XI/kk-tjkt/Picture6.png' width='540'>"
     },
     {
-      "pertanyaan": "Jelaskan secara singkat <b>sejarah perkembangan teknologi VoIP di Indonesia</b>!"
+      "pertanyaan": "Jelaskan Perbedaan Create VM dan Create CT pada Proxmox!"
     },
     {
-      "pertanyaan": "Menurut pendapat Anda, apa <b>tantangan terbesar dalam menjaga keamanan jaringan di era cloud computing</b>?"
-    },
-    {
-      "pertanyaan": "Jelaskan <b>fungsi utama NAT (Network Address Translation) pada Mikrotik</b>!"
+      "pertanyaan": "Sebuah sekolah mendapatkan jaringan <b>192.168.50.0/24</b>. Jaringan tersebut akan digunakan untuk:<br><br>Lab Admin : 28 host<br>Lab Hardware : 14 host<br><br>Buat rancangan pembagian subnet yang efisien menggunakan <b>VLSM</b>. Sertakan network address, subnet mask/prefix, broadcast address, dan range host setiap bagian."
     }
   ]
 }
