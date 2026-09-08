@@ -373,6 +373,17 @@
         "The victim seriously was injured"
       ],
       "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Read carefully this text below to answer number 35<br><br><blockquote>Many animals hibernate during parts of the year, entering a state that is similar to a very deep sleep. However, hibernation is more than simply a deep sleep. The animal's body temperature drops well below its normal range, the animal does not wake up for a long period of time, and its metabolism slows to the point that the animal does not need to eat or relieve itself during that period.<br><br>In order to prepare for hibernation, the animal must build up its body weight and increase its body fat. This is important because the animal will be living off its own body fat during the months of hibernation. Of course, once the period of hibernation is over, the animal \"wakes up\" to find itself slim and trim once again!</blockquote><br>This passage best supports the statement that",
+      "opsi": [
+        "All animals hibernate to some degree",
+        "Food is scarce in the winter",
+        "Hibernation is very different from normal sleep",
+        "Bears hibernate every year",
+        "Animals need to consume less food before hibernation"
+      ],
+      "jawaban": "C"
     }
   ],
   "essay": [
