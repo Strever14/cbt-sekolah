@@ -232,6 +232,17 @@
       "jawaban": "C"
     },
     {
+      "pertanyaan": "What does the writer imply about accepting a job that does not align with one’s career goals?",
+      "opsi": [
+        "It can provide valuable experience if the salary is sufficiently high.",
+        "It may prevent a person from developing the skills and experience needed for their desired career.",
+        "It is acceptable as long as the person is able to adapt to the working environment.",
+        "It can help a person discover a more suitable career path in the future.",
+        "It is necessary for people who are willing to make sacrifices to advance their careers."
+      ],
+      "jawaban": "B"
+    },
+    {
       "pertanyaan": "Based on the text, which sentence correctly expresses a conditional situation about advancing a career?",
       "opsi": [
         "If you accepted a job outside your career path, you will not get the experience you need.",
