@@ -1,0 +1,119 @@
+{
+  "pilihan_ganda": [
+    {
+      "pertanyaan": "Ide pokok paragraf terdapat pada ....",
+      "opsi": [
+        "kalimat utama",
+        "kalimat penjelas",
+        "kalimat terakhir",
+        "kalimat pertama saja",
+        "seluruh kalimat"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Teks yang bertujuan memaparkan informasi berdasarkan fakta secara objektif disebut teks ....",
+      "opsi": [
+        "narasi",
+        "deskripsi",
+        "eksposisi",
+        "persuasi",
+        "argumentasi"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Kalimat berikut yang menggunakan ejaan yang benar adalah ....",
+      "opsi": [
+        "Ia membeli buku, pensil dan penghapus.",
+        "Ia membeli buku, pensil, dan penghapus.",
+        "Ia membeli buku pensil dan penghapus.",
+        "Ia membeli buku; pensil; dan penghapus.",
+        "Ia membeli buku: pensil dan penghapus."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Karya ilmiah harus menggunakan bahasa yang bersifat denotatif. Makna denotatif berarti ....",
+      "opsi": [
+        "makna kiasan",
+        "makna subjektif",
+        "makna lugas dan objektif",
+        "makna ambigu",
+        "makna emosional"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Struktur teks proposal penelitian yang berisi teori-teori relevan disebut ....",
+      "opsi": [
+        "pendahuluan",
+        "landasan teori",
+        "metode penelitian",
+        "hasil penelitian",
+        "simpulan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Kalimat berikut yang merupakan kalimat efektif adalah ....",
+      "opsi": [
+        "Para siswa-siswa diharapkan agar supaya rajin belajar.",
+        "Menurut saya, penanganan sampah kayaknya kurang maksimal.",
+        "Berdasarkan hasil penelitian, kadar protein tempe mengalami penurunan.",
+        "Mungkin ada baiknya kita mencoba meneliti besok-besok.",
+        "Penulis merasa sangat sedih melihat lab yang rusak."
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Kata baku yang tepat untuk digunakan dalam karya ilmiah adalah ....",
+      "opsi": [
+        "analisa",
+        "metoda",
+        "efektip",
+        "analisis",
+        "sinkronisir"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Bagian proposal yang berisi rincian waktu, tempat, dan urutan acara disebut ....",
+      "opsi": [
+        "latar belakang",
+        "rumusan masalah",
+        "jadwal pelaksanaan",
+        "anggaran biaya",
+        "tujuan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Kalimat simpulan yang tepat untuk melengkapi paragraf rumpang adalah ....",
+      "opsi": [
+        "Oleh karena itu, masyarakat diharapkan lebih berhati-hati saat menyebarkan informasi.",
+        "Bahkan secara tidak langsung mereka menyebarkan ujaran kebencian.",
+        "Untuk itu kita tidak diperkenankan menyebar informasi apa pun.",
+        "Namun masyarakat belum sepenuhnya memahami bahaya hoaks.",
+        "Jadi hoaks sangat berbahaya bagi masyarakat Indonesia."
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Penulisan judul karya ilmiah yang tepat adalah ....",
+      "opsi": [
+        "Peran Generasi Muda dalam Pemartabatan Bahasa Indonesia",
+        "peran generasi muda dalam pemartabatan bahasa indonesia",
+        "Peran generasi muda Dalam Pemartabatan Bahasa Indonesia",
+        "PERAN GENERASI MUDA DALAM PEMARTABATAN BAHASA INDONESIA",
+        "Peran Generasi muda dalam pemartabatan Bahasa indonesia"
+      ],
+      "jawaban": "A"
+    }
+  ],
+  "essay": [
+    {
+      "pertanyaan": "Jelaskan perbedaan antara teks eksposisi dan teks argumentasi!"
+    }
+  ]
+}
