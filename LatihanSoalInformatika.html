@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ujian Informatika Kelas X SMK</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #eef2f5;
+      margin: 0;
+      padding: 20px;
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      background: #ffffff;
+      padding: 30px;
+      margin: 0 auto;
+      border-radius: 10px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    }
+    .header {
+      text-align: center;
+      border-bottom: 2px solid #007bff;
+      padding-bottom: 15px;
+      margin-bottom: 25px;
+    }
+    .header h1 {
+      margin: 0;
+      color: #007bff;
+      font-size: 22px;
+    }
+    .header p {
+      margin: 5px 0 0 0;
+      color: #666;
+    }
+    .form-group {
+      margin-bottom: 20px;
+    }
+    label {
+      font-weight: 600;
+      display: block;
+      margin-bottom: 8px;
+    }
+    input[type="text"].identitas {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      font-size: 14px;
+    }
+    .card {
+      background: #f8f9fa;
+      border-left: 4px solid #007bff;
+      padding: 15px;
+      margin-bottom: 20px;
+      border-radius: 4px;
+    }
+    .card-essay {
+      border-left-color: #28a745;
+    }
+    .soal-title {
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+    .option {
+      margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+    }
+    .option input {
+      margin-right: 10px;
+      cursor: pointer;
+    }
+    .option label {
+      font-weight: normal;
+      margin-bottom: 0;
+      cursor: pointer;
+    }
+    textarea {
+      width: 100%;
+      height: 100px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      resize: vertical;
+      font-family: inherit;
+    }
+    button {
+      width: 100%;
+      background-color: #007bff;
+      color: white;
+      padding: 14px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+      font-weight: bold;
+      transition: background-color 0.3s;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
+    button:disabled {
+      background-color: #cccccc;
+      cursor: not-allowed;
+    }
+    #status {
+      margin-top: 20px;
+      text-align: center;
+      font-size: 16px;
+      font-weight: bold;
+    }
+    .section-header {
+      background: #007bff;
+      color: white;
+      padding: 10px 15px;
+      border-radius: 5px;
+      margin-top: 30px;
+      margin-bottom: 20px;
+      font-weight: bold;
+    }
+    .section-header-green {
+      background: #28a745;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <div class="header">
+    <h1>PENILAIAN INFORMATIKA KELAS X SMK</h1>
+    <p>Materi: Berpikir Komputasional, Searching, Sorting, Stack & Queue, dan Integrasi Aplikasi Perkantoran</p>
+  </div>
+  
+  <form id="quizForm">
+    <!-- DATA SISWA -->
+    <div class="card">
+      <div class="form-group">
+        <label for="nama">Nama Lengkap Siswa:</label>
+        <input type="text" id="nama" name="nama" class="identitas" required placeholder="Contoh: Budi Santoso">
+      </div>
+      <div class="form-group" style="margin-bottom: 0;">
+        <label for="kelas">Kelas / Program Keahlian:</label>
+        <input type="text" id="kelas" name="kelas" class="identitas" required placeholder="Contoh: X TKJ 1 / X RPL 2">
+      </div>
+    </div>
+
+    <!-- BAGIAN A: PILIHAN GANDA -->
+    <div class="section-header">
+      BAGIAN A: PILIHAN GANDA (30 Soal)
+    </div>
+
+    <!-- SOAL 1 - 30 -->
+    <div class="card"><div class="soal-title">1. Pendekatan dalam memecahkan masalah dengan menerapkan prinsip-prinsip ilmu komputer dinamakan...</div>
+      <div class="option"><input type="radio" id="q1a" name="q1" value="A" required><label for="q1a">A. Berpikir Kritis</label></div>
+      <div class="option"><input type="radio" id="q1b" name="q1" value="B"><label for="q1b">B. Berpikir Komputasional</label></div>
+      <div class="option"><input type="radio" id="q1c" name="q1" value="C"><label for="q1c">C. Pemrograman Berbasis Objek</label></div>
+      <div class="option"><input type="radio" id="q1d" name="q1" value="D"><label for="q1d">D. Analisis Algoritma Sistem</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">2. Memecah masalah kompleks menjadi sub-masalah kecil yang lebih mudah dikelola disebut...</div>
+      <div class="option"><input type="radio" id="q2a" name="q2" value="A" required><label for="q2a">A. Dekomposisi</label></div>
+      <div class="option"><input type="radio" id="q2b" name="q2" value="B"><label for="q2b">B. Abstraksi</label></div>
+      <div class="option"><input type="radio" id="q2c" name="q2" value="C"><label for="q2c">C. Pengenalan Pola</label></div>
+      <div class="option"><input type="radio" id="q2d" name="q2" value="D"><label for="q2d">D. Algoritma</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">3. Mengabaikan rincian yang tidak relevan dan berfokus hanya pada informasi penting dinamakan...</div>
+      <div class="option"><input type="radio" id="q3a" name="q3" value="A" required><label for="q3a">A. Algoritma</label></div>
+      <div class="option"><input type="radio" id="q3b" name="q3" value="B"><label for="q3b">B. Dekomposisi</label></div>
+      <div class="option"><input type="radio" id="q3c" name="q3" value="C"><label for="q3c">C. Abstraksi</label></div>
+      <div class="option"><input type="radio" id="q3d" name="q3" value="D"><label for="q3d">D. Pengenalan Pola</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">4. Menemukan kesamaan atau keteraturan dalam beberapa masalah yang pernah diselesaikan termasuk proses...</div>
+      <div class="option"><input type="radio" id="q4a" name="q4" value="A" required><label for="q4a">A. Pengenalan Pola (Pattern Recognition)</label></div>
+      <div class="option"><input type="radio" id="q4b" name="q4" value="B"><label for="q4b">B. Abstraksi</label></div>
+      <div class="option"><input type="radio" id="q4c" name="q4" value="C"><label for="q4c">C. Dekomposisi</label></div>
+      <div class="option"><input type="radio" id="q4d" name="q4" value="D"><label for="q4d">D. Pemrograman</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">5. Urutan langkah-langkah logis dan terstruktur untuk menyelesaikan masalah dinamakan...</div>
+      <div class="option"><input type="radio" id="q5a" name="q5" value="A" required><label for="q5a">A. Variabel</label></div>
+      <div class="option"><input type="radio" id="q5b" name="q5" value="B"><label for="q5b">B. Algoritma</label></div>
+      <div class="option"><input type="radio" id="q5c" name="q5" value="C"><label for="q5c">C. Pseudocode</label></div>
+      <div class="option"><input type="radio" id="q5d" name="q5" value="D"><label for="q5d">D. Pengurutan</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">6. Metode pencarian data yang memeriksa setiap elemen satu per satu dari awal sampai akhir dinamakan...</div>
+      <div class="option"><input type="radio" id="q6a" name="q6" value="A" required><label for="q6a">A. Binary Search</label></div>
+      <div class="option"><input type="radio" id="q6b" name="q6" value="B"><label for="q6b">B. Sequential / Linear Search</label></div>
+      <div class="option"><input type="radio" id="q6c" name="q6" value="C"><label for="q6c">C. Bubble Sort</label></div>
+      <div class="option"><input type="radio" id="q6d" name="q6" value="D"><label for="q6d">D. Insertion Search</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">7. Syarat utama agar algoritma Binary Search dapat diterapkan pada sebuah sekumpulan data adalah...</div>
+      <div class="option"><input type="radio" id="q7a" name="q7" value="A" required><label for="q7a">A. Data harus berjumlah genap</label></div>
+      <div class="option"><input type="radio" id="q7b" name="q7" value="B"><label for="q7b">B. Data sudah dalam keadaan terurut (sorted)</label></div>
+      <div class="option"><input type="radio" id="q7c" name="q7" value="C"><label for="q7c">C. Data bernilai acak</label></div>
+      <div class="option"><input type="radio" id="q7d" name="q7" value="D"><label for="q7d">D. Data harus bertipe teks saja</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">8. Algoritma pencarian yang membagi rentang data menjadi dua bagian secara berulang-ulang disebut...</div>
+      <div class="option"><input type="radio" id="q8a" name="q8" value="A" required><label for="q8a">A. Linear Search</label></div>
+      <div class="option"><input type="radio" id="q8b" name="q8" value="B"><label for="q8b">B. Binary Search</label></div>
+      <div class="option"><input type="radio" id="q8c" name="q8" value="C"><label for="q8c">C. Selection Search</label></div>
+      <div class="option"><input type="radio" id="q8d" name="q8" value="D"><label for="q8d">D. Merge Search</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">9. Pengurutan data dari nilai terkecil ke nilai terbesar disebut...</div>
+      <div class="option"><input type="radio" id="q9a" name="q9" value="A" required><label for="q9a">A. Ascending</label></div>
+      <div class="option"><input type="radio" id="q9b" name="q9" value="B"><label for="q9b">B. Descending</label></div>
+      <div class="option"><input type="radio" id="q9c" name="q9" value="C"><label for="q9c">C. Randomizing</label></div>
+      <div class="option"><input type="radio" id="q9d" name="q9" value="D"><label for="q9d">D. Filtering</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">10. Pengurutan data dari nilai terbesar ke nilai terkecil dinamakan...</div>
+      <div class="option"><input type="radio" id="q10a" name="q10" value="A" required><label for="q10a">A. Ascending</label></div>
+      <div class="option"><input type="radio" id="q10b" name="q10" value="B"><label for="q10b">B. Descending</label></div>
+      <div class="option"><input type="radio" id="q10c" name="q10" value="C"><label for="q10c">C. Merging</label></div>
+      <div class="option"><input type="radio" id="q10d" name="q10" value="D"><label for="q10d">D. Searching</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">11. Algoritma pengurutan yang membandingkan elemen berdekatan dan menukarnya jika urutannya salah adalah...</div>
+      <div class="option"><input type="radio" id="q11a" name="q11" value="A" required><label for="q11a">A. Insertion Sort</label></div>
+      <div class="option"><input type="radio" id="q11b" name="q11" value="B"><label for="q11b">B. Selection Sort</label></div>
+      <div class="option"><input type="radio" id="q11c" name="q11" value="C"><label for="q11c">C. Bubble Sort</label></div>
+      <div class="option"><input type="radio" id="q11d" name="q11" value="D"><label for="q11d">D. Quick Sort</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">12. Algoritma sorting yang bekerja mirip cara orang mengurutkan kartu di tangan dengan menyisipkan satu per satu dinamakan...</div>
+      <div class="option"><input type="radio" id="q12a" name="q12" value="A" required><label for="q12a">A. Bubble Sort</label></div>
+      <div class="option"><input type="radio" id="q12b" name="q12" value="B"><label for="q12b">B. Insertion Sort</label></div>
+      <div class="option"><input type="radio" id="q12c" name="q12" value="C"><label for="q12c">C. Merge Sort</label></div>
+      <div class="option"><input type="radio" id="q12d" name="q12" value="D"><label for="q12d">D. Selection Sort</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">13. Algoritma sorting yang memilih elemen terkecil/terbesar dan menukarnya dengan elemen di posisi paling depan adalah...</div>
+      <div class="option"><input type="radio" id="q13a" name="q13" value="A" required><label for="q13a">A. Selection Sort</label></div>
+      <div class="option"><input type="radio" id="q13b" name="q13" value="B"><label for="q13b">B. Bubble Sort</label></div>
+      <div class="option"><input type="radio" id="q13c" name="q13" value="C"><label for="q13c">C. Insertion Sort</label></div>
+      <div class="option"><input type="radio" id="q13d" name="q13" value="D"><label for="q13d">D. Shell Sort</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">14. Prinsip kerja LIFO (Last In First Out) dimiliki oleh struktur data...</div>
+      <div class="option"><input type="radio" id="q14a" name="q14" value="A" required><label for="q14a">A. Queue</label></div>
+      <div class="option"><input type="radio" id="q14b" name="q14" value="B"><label for="q14b">B. Stack</label></div>
+      <div class="option"><input type="radio" id="q14c" name="q14" value="C"><label for="q14c">C. Tree</label></div>
+      <div class="option"><input type="radio" id="q14d" name="q14" value="D"><label for="q14d">D. Graph</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">15. Prinsip kerja FIFO (First In First Out) digunakan pada struktur data...</div>
+      <div class="option"><input type="radio" id="q15a" name="q15" value="A" required><label for="q15a">A. Stack</label></div>
+      <div class="option"><input type="radio" id="q15b" name="q15" value="B"><label for="q15b">B. Queue</label></div>
+      <div class="option"><input type="radio" id="q15c" name="q15" value="C"><label for="q15c">C. Array</label></div>
+      <div class="option"><input type="radio" id="q15d" name="q15" value="D"><label for="q15d">D. Tumpukan</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">16. Operasi untuk menambahkan/memasukkan elemen baru ke dalam Stack dinamakan...</div>
+      <div class="option"><input type="radio" id="q16a" name="q16" value="A" required><label for="q16a">A. Pop</label></div>
+      <div class="option"><input type="radio" id="q16b" name="q16" value="B"><label for="q16b">B. Push</label></div>
+      <div class="option"><input type="radio" id="q16c" name="q16" value="C"><label for="q16c">C. Enqueue</label></div>
+      <div class="option"><input type="radio" id="q16d" name="q16" value="D"><label for="q16d">D. Dequeue</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">17. Operasi untuk menghapus/mengambil elemen teratas dari Stack disebut...</div>
+      <div class="option"><input type="radio" id="q17a" name="q17" value="A" required><label for="q17a">A. Push</label></div>
+      <div class="option"><input type="radio" id="q17b" name="q17" value="B"><label for="q17b">B. Pop</label></div>
+      <div class="option"><input type="radio" id="q17c" name="q17" value="C"><label for="q17c">C. Enqueue</label></div>
+      <div class="option"><input type="radio" id="q17d" name="q17" value="D"><label for="q17d">D. Insert</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">18. Operasi untuk menambahkan data baru ke dalam antrean (Queue) dinamakan...</div>
+      <div class="option"><input type="radio" id="q18a" name="q18" value="A" required><label for="q18a">A. Push</label></div>
+      <div class="option"><input type="radio" id="q18b" name="q18" value="B"><label for="q18b">B. Pop</label></div>
+      <div class="option"><input type="radio" id="q18c" name="q18" value="C"><label for="q18c">C. Enqueue</label></div>
+      <div class="option"><input type="radio" id="q18d" name="q18" value="D"><label for="q18d">D. Dequeue</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">19. Operasi mengambil atau mengeluarkan elemen terdepan dari Queue dinamakan...</div>
+      <div class="option"><input type="radio" id="q19a" name="q19" value="A" required><label for="q19a">A. Dequeue</label></div>
+      <div class="option"><input type="radio" id="q19b" name="q19" value="B"><label for="q19b">B. Enqueue</label></div>
+      <div class="option"><input type="radio" id="q19c" name="q19" value="C"><label for="q19c">C. Push</label></div>
+      <div class="option"><input type="radio" id="q19d" name="q19" value="D"><label for="q19d">D. Pop</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">20. Fitur Undo dan Redo pada perangkat lunak pengolah kata merupakan penerapan dari konsep...</div>
+      <div class="option"><input type="radio" id="q20a" name="q20" value="A" required><label for="q20a">A. Queue</label></div>
+      <div class="option"><input type="radio" id="q20b" name="q20" value="B"><label for="q20b">B. Stack</label></div>
+      <div class="option"><input type="radio" id="q20c" name="q20" value="C"><label for="q20c">C. Searching</label></div>
+      <div class="option"><input type="radio" id="q20d" name="q20" value="D"><label for="q20d">D. Sorting</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">21. Contoh nyata penerapan konsep Queue (Antrean) dalam kehidupan sehari-hari adalah...</div>
+      <div class="option"><input type="radio" id="q21a" name="q21" value="A" required><label for="q21a">A. Tumpukan piring kotor yang akan dicuci</label></div>
+      <div class="option"><input type="radio" id="q21b" name="q21" value="B"><label for="q21b">B. Antrean pembeli tiket bioskop di kasir</label></div>
+      <div class="option"><input type="radio" id="q21c" name="q21" value="C"><label for="q21c">C. Tumpukan baju di lemari</label></div>
+      <div class="option"><input type="radio" id="q21d" name="q21" value="D"><label for="q21d">D. Tombol Back pada web browser</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">22. Penggabungan atau penghubungan antar aplikasi perkantoran (Word, Excel, PowerPoint) dinamakan...</div>
+      <div class="option"><input type="radio" id="q22a" name="q22" value="A" required><label for="q22a">A. Sistem Operasi</label></div>
+      <div class="option"><input type="radio" id="q22b" name="q22" value="B"><label for="q22b">B. Integrasi Aplikasi Perkantoran</label></div>
+      <div class="option"><input type="radio" id="q22c" name="q22" value="C"><label for="q22c">C. Kompilasi Data</label></div>
+      <div class="option"><input type="radio" id="q22d" name="q22" value="D"><label for="q22d">D. Otomatisasi Jaringan</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">23. Fitur di Microsoft Word yang digunakan untuk membuat dokumen massal seperti sertifikat/surat secara otomatis dinamakan...</div>
+      <div class="option"><input type="radio" id="q23a" name="q23" value="A" required><label for="q23a">A. Data Validation</label></div>
+      <div class="option"><input type="radio" id="q23b" name="q23" value="B"><label for="q23b">B. Mail Merge</label></div>
+      <div class="option"><input type="radio" id="q23c" name="q23" value="C"><label for="q23c">C. Object Linking</label></div>
+      <div class="option"><input type="radio" id="q23d" name="q23" value="D"><label for="q23d">D. Hyperlink</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">24. Dalam Mail Merge, file dokumen berisi format/template surat utama dinamakan...</div>
+      <div class="option"><input type="radio" id="q24a" name="q24" value="A" required><label for="q24a">A. Data Source</label></div>
+      <div class="option"><input type="radio" id="q24b" name="q24" value="B"><label for="q24b">B. Main Document</label></div>
+      <div class="option"><input type="radio" id="q24c" name="q24" value="C"><label for="q24c">C. Merge Field</label></div>
+      <div class="option"><input type="radio" id="q24d" name="q24" value="D"><label for="q24d">D. Output Document</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">25. File tabel (biasanya dari Ms. Excel) yang berisi daftar nama dan alamat penerima dalam Mail Merge dinamakan...</div>
+      <div class="option"><input type="radio" id="q25a" name="q25" value="A" required><label for="q25a">A. Data Source</label></div>
+      <div class="option"><input type="radio" id="q25b" name="q25" value="B"><label for="q25b">B. Main Document</label></div>
+      <div class="option"><input type="radio" id="q25c" name="q25" value="C"><label for="q25c">C. Form Fields</label></div>
+      <div class="option"><input type="radio" id="q25d" name="q25" value="D"><label for="q25d">D. Template Document</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">26. Teknologi OLE adalah singkatan dari...</div>
+      <div class="option"><input type="radio" id="q26a" name="q26" value="A" required><label for="q26a">A. Office Linking and Embedding</label></div>
+      <div class="option"><input type="radio" id="q26b" name="q26" value="B"><label for="q26b">B. Object Linking and Embedding</label></div>
+      <div class="option"><input type="radio" id="q26c" name="q26" value="C"><label for="q26c">C. Object Output and Loading Element</label></div>
+      <div class="option"><input type="radio" id="q26d" name="q26" value="D"><label for="q26d">D. Open Link and Execute</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">27. Perbedaan utama antara Object Linking dan Object Embedding adalah...</div>
+      <div class="option"><input type="radio" id="q27a" name="q27" value="A" required><label for="q27a">A. Object Linking memperbarui data secara otomatis jika sumber berubah, sedangkan Embedding tidak</label></div>
+      <div class="option"><input type="radio" id="q27b" name="q27" value="B"><label for="q27b">B. Embedding hanya bisa digunakan untuk gambar</label></div>
+      <div class="option"><input type="radio" id="q27c" name="q27" value="C"><label for="q27c">C. Object Linking menyimpan salinan penuh file di dokumen tujuan</label></div>
+      <div class="option"><input type="radio" id="q27d" name="q27" value="D"><label for="q27d">D. Tidak ada perbedaan di antara keduanya</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">28. Fitur pada Microsoft Excel yang berfungsi untuk membatasi input data sesuai kriteria tertentu (misal: usia 17-30) dinamakan...</div>
+      <div class="option"><input type="radio" id="q28a" name="q28" value="A" required><label for="q28a">A. Conditional Formatting</label></div>
+      <div class="option"><input type="radio" id="q28b" name="q28" value="B"><label for="q28b">B. Data Validation</label></div>
+      <div class="option"><input type="radio" id="q28c" name="q28" value="C"><label for="q28c">C. AutoFilter</label></div>
+      <div class="option"><input type="radio" id="q28d" name="q28" value="D"><label for="q28d">D. Consolidate</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">29. Dalam Data Validation pada Excel, pilihan untuk membuat daftar pilihan drop-down menu menggunakan tipe...</div>
+      <div class="option"><input type="radio" id="q29a" name="q29" value="A" required><label for="q29a">A. Whole Number</label></div>
+      <div class="option"><input type="radio" id="q29b" name="q29" value="B"><label for="q29b">B. List</label></div>
+      <div class="option"><input type="radio" id="q29c" name="q29" value="C"><label for="q29c">C. Text Length</label></div>
+      <div class="option"><input type="radio" id="q29d" name="q29" value="D"><label for="q29d">D. Custom</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">30. Saat melakukan Copy-Paste tabel dari Excel ke Word dengan fitur 'Paste Link', tindakan ini merupakan contoh dari...</div>
+      <div class="option"><input type="radio" id="q30a" name="q30" value="A" required><label for="q30a">A. Object Embedding</label></div>
+      <div class="option"><input type="radio" id="q30b" name="q30" value="B"><label for="q30b">B. Object Linking</label></div>
+      <div class="option"><input type="radio" id="q30c" name="q30" value="C"><label for="q30c">C. Mail Merge</label></div>
+      <div class="option"><input type="radio" id="q30d" name="q30" value="D"><label for="q30d">D. Data Validation</label></div>
+    </div>
+
+    <!-- BAGIAN B: ESAI -->
+    <div class="section-header section-header-green">
+      BAGIAN B: SOAL ESAI (5 Soal)
+    </div>
+
+    <div class="card card-essay">
+      <div class="soal-title">1. Jelaskan perbedaan cara kerja antara algoritma pencarian Linear Search dan Binary Search! Kapan Binary Search lebih efektif digunakan?</div>
+      <textarea id="essay1" name="essay1" required placeholder="Ketikkan jawaban Anda di sini..."></textarea>
+    </div>
+
+    <div class="card card-essay">
+      <div class="soal-title">2. Jelaskan perbedaan mendasar antara struktur data Stack (Tumpukan) dan Queue (Antrean)! Berikan masing-masing 1 contoh penerapannya dalam dunia komputer!</div>
+      <textarea id="essay2" name="essay2" required placeholder="Ketikkan jawaban Anda di sini..."></textarea>
+    </div>
+
+    <div class="card card-essay">
+      <div class="soal-title">3. Tuliskan langkah-langkah dalam membuat Mail Merge di Microsoft Word dengan data sumber yang berasal dari Microsoft Excel!</div>
+      <textarea id="essay3" name="essay3" required placeholder="Ketikkan jawaban Anda di sini..."></textarea>
+    </div>
+
+    <div class="card card-essay">
+      <div class="soal-title">4. Jelaskan perbedaan konsep antara Object Linking dan Object Embedding (OLE) ketika mengintegrasikan tabel dari Excel ke slide PowerPoint!</div>
+      <textarea id="essay4" name="essay4" required placeholder="Ketikkan jawaban Anda di sini..."></textarea>
+    </div>
+
+    <div class="card card-essay">
+      <div class="soal-title">5. Apa fungsi dari fitur Data Validation pada Microsoft Excel? Berikan contoh kasus penggunaannya saat membuat formulir pendaftaran!</div>
+      <textarea id="essay5" name="essay5" required placeholder="Ketikkan jawaban Anda di sini..."></textarea>
+    </div>
+
+    <button type="submit" id="btnSubmit">Kirim Semua Jawaban</button>
+  </form>
+
+  <div id="status"></div>
+</div>
+
+<script>
+  // =========================================================================
+  // TEMPELKAN URL GOOGLE APPS SCRIPT ANDA DI VARIABEL DI BAWAH INI:
+  // =========================================================================
+  const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbx_1saZRoqhXDGVqt6aidIYvwSe2E5RJuY8xPP7zARjVW-8diRBDtd-XF_9mM9kP_oi4g/exec"; 
+
+  // Kunci Jawaban Pilihan Ganda (Soal 1-30)
+  const kunciJawaban = {
+    q1: "B", q2: "A", q3: "C", q4: "A", q5: "B",
+    q6: "B", q7: "B", q8: "B", q9: "A", q10: "B",
+    q11: "C", q12: "B", q13: "A", q14: "B", q15: "B",
+    q16: "B", q17: "B", q18: "C", q19: "A", q20: "B",
+    q21: "B", q22: "B", q23: "B", q24: "B", q25: "A",
+    q26: "B", q27: "A", q28: "B", q29: "B", q30: "B"
+  };
+
+  document.getElementById('quizForm').addEventListener('submit', function(e) {
+    e.preventDefault();
+
+    const btn = document.getElementById('btnSubmit');
+    const statusDiv = document.getElementById('status');
+    
+    if (SCRIPT_URL === "URL_WEB_APP_ANDA" || SCRIPT_URL === "") {
+      alert("Error: Silakan masukkan URL Web App Google Script Anda pada variabel SCRIPT_URL di dalam kode!");
+      return;
+    }
+
+    btn.disabled = true;
+    statusDiv.innerText = "Sedang mengirimkan jawaban ke server... Mohon tunggu.";
+    statusDiv.style.color = "#007bff";
+
+    // Hitung Skor Pilihan Ganda Otomatis
+    let skorPG = 0;
+    let totalSoalPG = 30;
+
+    for (let i = 1; i <= totalSoalPG; i++) {
+      const selected = document.querySelector(`input[name="q${i}"]:checked`);
+      if (selected && selected.value === kunciJawaban[`q${i}`]) {
+        skorPG += 1;
+      }
+    }
+
+    // Hitung nilai PG skala 100
+    let nilaiPG = Math.round((skorPG / totalSoalPG) * 100);
+
+    // Ambil Data Identitas
+    const nama = document.getElementById('nama').value;
+    const kelas = document.getElementById('kelas').value;
+
+    // Ambil Data Esai
+    const e1 = document.getElementById('essay1').value;
+    const e2 = document.getElementById('essay2').value;
+    const e3 = document.getElementById('essay3').value;
+    const e4 = document.getElementById('essay4').value;
+    const e5 = document.getElementById('essay5').value;
+
+    // Kumpulkan Ringkasan Jawaban Pilihan Ganda
+    let listJawabanPG = [];
+    for (let i = 1; i <= totalSoalPG; i++) {
+      const selected = document.querySelector(`input[name="q${i}"]:checked`);
+      listJawabanPG.push(`No ${i}: ${selected ? selected.value : '-'}`);
+    }
+
+    // Payload JSON untuk Google Sheet
+    const payload = {
+      nama: nama,
+      kelas: kelas,
+      skorPG: skorPG,
+      nilaiPG: nilaiPG,
+      jawabanPG: listJawabanPG.join(", "),
+      essay1: e1,
+      essay2: e2,
+      essay3: e3,
+      essay4: e4,
+      essay5: e5
+    };
+
+    // Kirim Data menggunakan Fetch API
+    fetch(SCRIPT_URL, {
+      method: 'POST',
+      mode: 'no-cors',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(payload)
+    })
+    .then(() => {
+      statusDiv.innerHTML = `<span style="color: green; font-size: 18px;">Jawaban Berhasil Terkirim!</span><br>
+                             <strong>Nilai Pilihan Ganda Anda: ${nilaiPG} / 100</strong><br>
+                             <small>*Jawaban esai Anda telah tersimpan dan akan dikoreksi oleh Guru.*</small>`;
+      document.getElementById('quizForm').reset();
+      btn.disabled = false;
+    })
+    .catch(error => {
+      console.error('Error!', error.message);
+      statusDiv.innerText = "Gagal mengirim jawaban. Periksa koneksi internet Anda.";
+      statusDiv.style.color = "red";
+      btn.disabled = false;
+    });
+  });
+</script>
+
+</body>
+</html>
