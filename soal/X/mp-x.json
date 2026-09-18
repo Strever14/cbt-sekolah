@@ -1,351 +1,351 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Bahasa pemrograman Python termasuk bahasa yang bersifat ...",
+      "pertanyaan": "Berpikir komputasional adalah cara berpikir untuk ...",
       "opsi": [
-        "Low level",
-        "Machine language",
-        "High level",
-        "Assembly",
-        "Biner"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Perintah untuk menampilkan teks ke layar pada Python adalah ...",
-      "opsi": [
-        "show()",
-        "print()",
-        "input()",
-        "tampil()",
-        "echo()"
+        "Menghafalkan semua bahasa pemrograman",
+        "Menyelesaikan masalah secara logis, sistematis, dan terstruktur",
+        "Menggunakan komputer setiap hari",
+        "Membuat perangkat keras komputer",
+        "Mengoperasikan jaringan internet"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Fungsi dari input() adalah ...",
+      "pertanyaan": "Salah satu pilar utama dalam berpikir komputasional adalah dekomposisi. Dekomposisi berarti ...",
       "opsi": [
-        "Menampilkan teks",
-        "Menghapus data",
-        "Menerima masukan dari pengguna",
-        "Menghitung data",
-        "Menyimpan file"
+        "Menggabungkan beberapa masalah menjadi satu",
+        "Menghilangkan masalah yang sulit",
+        "Memecah masalah besar menjadi bagian-bagian yang lebih kecil",
+        "Menghafalkan langkah penyelesaian masalah",
+        "Mengubah masalah menjadi gambar"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Manakah penulisan variabel yang benar di Python?",
+      "pertanyaan": "Contoh penerapan dekomposisi dalam kehidupan sehari-hari adalah ...",
       "opsi": [
-        "1nama = \"Budi\"",
-        "nama siswa = \"Budi\"",
-        "nama_siswa = \"Budi\"",
-        "nama-siswa = \"Budi\"",
-        "class = \"Budi\""
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Tipe data untuk bilangan bulat adalah ...",
-      "opsi": [
-        "Float",
-        "String",
-        "Bool",
-        "Int",
-        "Char"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Hasil dari 5 + 3 * 2 adalah ...",
-      "opsi": [
-        "16",
-        "11",
-        "13",
-        "10",
-        "8"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Operator untuk pembagian di Python adalah ...",
-      "opsi": [
-        ":",
-        "//",
-        "%",
-        "/",
-        "X"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Simbol untuk komentar satu baris di Python adalah ...",
-      "opsi": [
-        "//",
-        "<!-- -->",
-        "#",
-        "/* */",
-        "**"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "<blockquote>x = 10<br>y = 5<br>print(x > y) ,</blockquote> Output nya adalah :",
-      "opsi": [
-        "15",
-        "5",
-        "True",
-        "False",
-        "Error"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Operator logika AND pada Python ditulis ...",
-      "opsi": [
-        "&&",
-        "And",
-        "AND",
-        "&",
-        "||"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Percabangan pada Python menggunakan kata kunci ...",
-      "opsi": [
-        "Switch",
-        "Case",
-        "If",
-        "Select",
-        "Choose"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Struktur percabangan yang benar adalah ...",
-      "opsi": [
-        "if kondisi then",
-        "if (kondisi) { }",
-        "if kondisi:",
-        "if kondisi do",
-        "if = kondisi"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Perulangan yang digunakan ketika jumlah pengulangan sudah diketahui adalah ...",
-      "opsi": [
-        "If",
-        "While",
-        "For",
-        "Switch",
-        "Break"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Perintah untuk menghentikan perulangan adalah ...",
-      "opsi": [
-        "Stop",
-        "Exit",
-        "Continue",
-        "Break",
-        "Close"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Tipe data Boolean hanya memiliki nilai ...",
-      "opsi": [
-        "0 dan 1",
-        "Ya dan Tidak",
-        "True dan False",
-        "Benar dan Salah",
-        "1 dan -1"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Fungsi len() digunakan untuk ...",
-      "opsi": [
-        "Menghapus data",
-        "Menghitung panjang data",
-        "Menambah data",
-        "Mengurutkan data",
-        "Menampilkan data"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Hasil dari 10 % 3 adalah ...",
-      "opsi": [
-        "3",
-        "1",
-        "0",
-        "2",
-        "10"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Untuk mengubah input menjadi bilangan bulat digunakan ...",
-      "opsi": [
-        "int()",
-        "str()",
-        "float()",
-        "bool()",
-        "chr()"
+        "Membagi tugas membersihkan kelas menjadi menyapu, mengepel, dan merapikan meja",
+        "Mengerjakan semua tugas sekaligus",
+        "Mengabaikan tugas yang sulit",
+        "Menghafalkan jadwal pelajaran",
+        "Menggunakan komputer untuk bermain game"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "List pada Python ditulis menggunakan tanda ...",
+      "pertanyaan": "Pengenalan pola dalam berpikir komputasional digunakan untuk ...",
       "opsi": [
-        "()",
-        "{}",
-        "<>",
-        "[]",
-        "\"\""
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Contoh list yang benar adalah ...",
-      "opsi": [
-        "list = (1,2,3)",
-        "list = [1,2,3]",
-        "list = {1,2,3}",
-        "list = <1,2,3>",
-        "list = \"1,2,3\""
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "<blockquote>for i in range(3):<br>print(i)</blockquote> Adalah ...",
-      "opsi": [
-        "1 2 3",
-        "0 1 2",
-        "0 1 2 3",
-        "1 2",
-        "3"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Fungsi range(5) menghasilkan angka dari ...",
-      "opsi": [
-        "1--5",
-        "0--5",
-        "0--4",
-        "1--4",
-        "5--10"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Struktur perulangan while digunakan ketika ...",
-      "opsi": [
-        "Jumlah pengulangan pasti",
-        "Kondisi masih bernilai benar",
-        "Tidak ada kondisi",
-        "Selalu 10 kali",
-        "Hanya sekali"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Perintah continue berfungsi untuk ...",
-      "opsi": [
-        "Menghentikan program",
-        "Keluar dari perulangan",
-        "Melewati satu iterasi",
-        "Mengulang dari awal program",
-        "Menghapus variable"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "<blockquote>x = \"10\"<br>y = 5<br>print(int(x) + y)</blockquote> Adalah ...",
-      "opsi": [
-        "105",
-        "15",
-        "Error",
-        "10",
-        "5"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Indentasi pada Python digunakan untuk ...",
-      "opsi": [
-        "Mempercantik kode",
-        "Menentukan blok kode",
-        "Memberi komentar",
-        "Menghapus error",
-        "Menyimpan file"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Keyword untuk kondisi alternatif selain if adalah ...",
-      "opsi": [
-        "Else",
-        "For",
-        "While",
-        "Def",
-        "Try"
+        "Menemukan kesamaan atau pola dari beberapa masalah",
+        "Menghapus semua data",
+        "Membuat komputer menjadi lebih cepat",
+        "Mengganti perangkat keras",
+        "Menghentikan proses komputer"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Hasil dari Boolean (0) adalah ...",
+      "pertanyaan": "Seorang siswa mengamati bahwa setiap kali hujan deras, halaman sekolah menjadi tergenang. Kegiatan tersebut merupakan contoh ...",
       "opsi": [
-        "True",
-        "False",
-        "0",
-        "1",
-        "Error"
+        "Algoritma",
+        "Dekomposisi",
+        "Abstraksi",
+        "Pengenalan pola",
+        "Debugging"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Abstraksi dalam berpikir komputasional berarti ...",
+      "opsi": [
+        "Menambahkan semua informasi ke dalam masalah",
+        "Menghilangkan masalah utama",
+        "Memusatkan perhatian pada informasi penting dan mengabaikan detail yang tidak diperlukan",
+        "Mengurutkan semua data secara acak",
+        "Membagi komputer menjadi beberapa bagian"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Ketika membuat denah sederhana sekolah, informasi seperti posisi ruang kelas dan laboratorium lebih penting dibandingkan warna cat setiap ruangan. Hal tersebut merupakan penerapan ...",
+      "opsi": [
+        "Dekomposisi",
+        "Abstraksi",
+        "Pengenalan pola",
+        "Algoritma",
+        "Evaluasi"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Tipe data untuk teks adalah ...",
+      "pertanyaan": "Algoritma adalah ...",
       "opsi": [
-        "Int",
-        "Float",
-        "Str",
-        "Bool",
-        "List"
+        "Sekumpulan perangkat keras komputer",
+        "Langkah-langkah logis dan sistematis untuk menyelesaikan suatu masalah",
+        "Program antivirus komputer",
+        "Bahasa yang digunakan komputer untuk berkomunikasi",
+        "Kumpulan data yang belum diolah"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Urutan yang tepat untuk membuat mi instan adalah ...",
+      "opsi": [
+        "Makan -- memasak -- merebus air -- menyiapkan mi",
+        "Merebus air -- memasukkan mi -- memasak -- menyiapkan bumbu -- mencampurkan",
+        "Memasukkan bumbu -- makan -- merebus air -- memasak",
+        "Memasak -- makan -- menyiapkan mi -- merebus air",
+        "Makan -- menyiapkan bumbu -- memasak -- merebus air"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Berikut ini yang merupakan contoh algoritma adalah ...",
+      "opsi": [
+        "Daftar nama siswa",
+        "Langkah-langkah melakukan login ke komputer",
+        "Gambar komputer",
+        "Foto laboratorium",
+        "Warna kabel jaringan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Tujuan utama penggunaan algoritma dalam menyelesaikan masalah adalah ...",
+      "opsi": [
+        "Membuat masalah menjadi lebih rumit",
+        "Menyediakan langkah penyelesaian yang jelas dan terurut",
+        "Menghilangkan seluruh data",
+        "Mengurangi penggunaan komputer",
+        "Membuat masalah tidak dapat diselesaikan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Contoh penerapan berpikir komputasional dalam bidang jaringan komputer adalah ...",
+      "opsi": [
+        "Memilih warna casing komputer",
+        "Menganalisis gangguan jaringan berdasarkan beberapa kemungkinan penyebab",
+        "Menghafalkan merek komputer",
+        "Menggambar logo jaringan",
+        "Mengganti wallpaper komputer"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perhatikan langkah berikut:<br><br>1. Masukkan username<br>2. Masukkan password<br>3. Klik tombol Login<br>4. Sistem memeriksa data<br><br>Urutan tersebut merupakan contoh ...",
+      "opsi": [
+        "Pola",
+        "Abstraksi",
+        "Algoritma",
+        "Dekomposisi",
+        "Kompresi"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Fungsi Python bersifat case sensitive artinya ...",
+      "pertanyaan": "Salah satu ciri algoritma yang baik adalah ...",
       "opsi": [
-        "Tidak membedakan huruf besar kecil",
-        "Tidak bisa error",
-        "Membedakan huruf besar dan kecil",
-        "Semua huruf harus besar",
-        "Semua huruf harus kecil"
+        "Memiliki langkah yang tidak beraturan",
+        "Langkah-langkahnya tidak memiliki tujuan",
+        "Sulit dipahami oleh pengguna",
+        "Memiliki langkah yang jelas dan logis",
+        "Tidak memiliki akhir penyelesaian"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Berikut yang merupakan contoh algoritma dalam kehidupan sehari-hari adalah ...",
+      "opsi": [
+        "Warna pakaian",
+        "Langkah-langkah membuat kopi",
+        "Bentuk meja",
+        "Ukuran ruangan",
+        "Nama seseorang"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Dalam algoritma, langkah-langkah harus disusun secara ...",
+      "opsi": [
+        "Acak",
+        "Tidak beraturan",
+        "Sistematis dan berurutan",
+        "Berulang tanpa tujuan",
+        "Berdasarkan warna"
       ],
       "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Simbol flowchart yang digunakan untuk menunjukkan <b>mulai dan selesai</b> adalah ...",
+      "opsi": [
+        "Persegi panjang",
+        "Jajar genjang",
+        "Belah ketupat",
+        "Oval/terminator",
+        "Lingkaran"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Simbol <b>persegi panjang (rectangle)</b> pada flowchart digunakan untuk ...",
+      "opsi": [
+        "Menunjukkan proses",
+        "Menunjukkan Keputusan",
+        "Menunjukkan input/output",
+        "Menunjukkan mulai",
+        "Menunjukkan arah aliran"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Simbol <b>jajar genjang (parallelogram)</b> pada flowchart digunakan untuk ...",
+      "opsi": [
+        "Proses",
+        "Keputusan",
+        "Input dan output",
+        "Terminator",
+        "Penghubung"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Simbol <b>belah ketupat (diamond)</b> digunakan untuk menunjukkan ...",
+      "opsi": [
+        "Proses",
+        "Input",
+        "Output",
+        "Keputusan atau percabangan",
+        "Awal program"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Fungsi tanda panah pada flowchart adalah ...",
+      "opsi": [
+        "Menunjukkan nama program",
+        "Menunjukkan arah aliran proses",
+        "Menunjukkan input data",
+        "Menunjukkan Keputusan",
+        "Mengakhiri program"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perhatikan urutan berikut:<br><br>1. Mulai<br>2. Masukkan nilai<br>3. Tampilkan nilai<br>4. Selesai<br><br>Urutan tersebut merupakan contoh algoritma ...",
+      "opsi": [
+        "Percabangan",
+        "Perulangan",
+        "Sederhana/sekuensial",
+        "Acak",
+        "Paralel"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dalam flowchart, setelah simbol keputusan biasanya terdapat ...",
+      "opsi": [
+        "Satu alur tanpa kondisi",
+        "Dua atau lebih kemungkinan alur berdasarkan kondisi",
+        "Hanya simbol terminator",
+        "Hanya simbol input",
+        "Tidak boleh ada alur"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Jika sebuah algoritma memiliki kondisi <b>\"Jika nilai ≥ 75 maka Lulus, jika tidak maka Tidak Lulus\"</b>, struktur algoritma yang digunakan adalah ...",
+      "opsi": [
+        "Sekuensial",
+        "Percabangan",
+        "Perulangan",
+        "Input",
+        "Output"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Algoritma untuk menghitung luas persegi panjang membutuhkan data ...",
+      "opsi": [
+        "Panjang dan lebar",
+        "Panjang dan warna",
+        "Lebar dan warna",
+        "Nama dan panjang",
+        "Warna dan tinggi"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Jika ingin membuat flowchart untuk menentukan apakah sebuah bilangan <b>genap atau ganjil</b>, simbol yang digunakan untuk menentukan kondisi adalah ...",
+      "opsi": [
+        "Oval",
+        "Persegi panjang",
+        "Jajar genjang",
+        "Belah ketupat",
+        "Panah"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Struktur algoritma yang menjalankan langkah secara berurutan dari awal sampai akhir disebut ...",
+      "opsi": [
+        "Percabangan",
+        "Perulangan",
+        "Sekuensial",
+        "Rekursif",
+        "Paralel"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Manakah urutan dasar flowchart yang paling tepat untuk sebuah program sederhana?",
+      "opsi": [
+        "Proses → Mulai → Selesai → Input",
+        "Selesai → Input → Mulai → Proses",
+        "Mulai → Input → Proses → Output → Selesai",
+        "Input → Selesai → Proses → Mulai",
+        "Output → Proses → Input → Selesai"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Koding adalah ...",
+      "opsi": [
+        "Aplikasi ponsel dan situs web yang dipakai sehari-hari",
+        "Peluang kerja baru di bidang teknologi",
+        "Instruksi atau perintah dalam bahasa pemrograman agar komputer dapat mengerti dan melakukan tugas tertentu",
+        "Bahasa mesin yang diterjemahkan ke dalam Bahasa manusia",
+        "Semua salah"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Berikut adalah beberapa manfaat utama kecerdasan artifisial dalam kehidupan sehari-hari, kecuali ...",
+      "opsi": [
+        "AI membantu mengotomatiskan tugas-tugas rutin yang berulang sehingga menghemat waktu.",
+        "Asisten virtual seperti Siri atau Google Assistant membantu mengatur jadwal, mencari informasi, atau membalas pesan dengan cepat melalui perintah suara",
+        "AI membantu dokter membaca hasil rontgen atau MRI dengan tingkat ketelitian yang tinggi.",
+        "AI menggantikan manusia seluruhnya dalam bekerja di suatu Perusahaan.",
+        "Aplikasi kebugaran di ponsel pintar dapat mencatat aktivitas fisik dan merancang pola hidup sehat yang disesuaikan dengan kondisi tubuh Anda."
+      ],
+      "jawaban": "D"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Jelaskan apa yang kalian ketahui mengenai pemrograman Python (misalkan siapa yang menciptakan nya, fungsi nya untuk membuat aplikasi apa) !"
+      "pertanyaan": "Jelaskan apa yang dimaksud dengan <b>berpikir komputasional</b> dengan menggunakan bahasa Anda sendiri!"
     },
     {
-      "pertanyaan": "Apa kelebihan Bahasa pemrograman Python dengan pemrograman yang lainnya ?"
+      "pertanyaan": "Sebutkan dan jelaskan <b>empat pilar utama dalam berpikir komputasional</b>!"
     },
     {
-      "pertanyaan": "Buatlah contoh penulisan <i>statement</i> Python untuk menampilkan Text \" Saya Sedang Belajar Pemrograman Python \" !"
+      "pertanyaan": "Berikan contoh masalah sederhana di lingkungan sekolah yang dapat diselesaikan menggunakan <b>berpikir komputasional</b>!"
     },
     {
-      "pertanyaan": "Jelaskan arti dari <i>case sensitive</i> pada Bahasa Pemrograman !"
+      "pertanyaan": "Buatlah algoritma untuk menentukan apakah sebuah bilangan yang dimasukkan pengguna merupakan <b>bilangan genap atau ganjil</b>!"
     },
     {
-      "pertanyaan": "Apa yang dimaksud dengan tipe data? Sebutkan minimal 4 tipe data dalam Python !"
+      "pertanyaan": "Sebutkan dan jelaskan fungsi dari simbol flowchart berikut:<br><br>1. Terminator<br>2. Process<br>3. Input/Output<br>4. Decision"
     }
   ]
 }
