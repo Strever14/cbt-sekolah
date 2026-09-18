@@ -1,370 +1,7 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Proses tawar menawar dengan jalan berunding guna mencapai kesepakatan bersama antara satu pihak dengan pihak yang lain disebut....",
-      "opsi": [
-        "musyawarah",
-        "diskusi",
-        "berkelompok",
-        "negosiasi",
-        "ngobrol"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Berikut ini yang <i>tidak</i> termasuk struktur teks negosiasi adalah...",
-      "opsi": [
-        "orientasi",
-        "pengajuan",
-        "penawaran",
-        "persetujuan",
-        "pertanyaan"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Tujuan dilakukannya negosiasi adalah untuk mencapai...",
-      "opsi": [
-        "memberikan kesenangan",
-        "memberikan informasi",
-        "keuntungan sendiri",
-        "kepentingan orang lain",
-        "kesepakatan bersama"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Kalimat yang digunakan untuk menanyakan sesuatu dalam teks negosiasi disebut ...",
-      "opsi": [
-        "introgatif",
-        "deklaratif",
-        "seru",
-        "persuasif",
-        "ekspresif"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "\"<i>Permisi, selamat siang!</i>\" Dialog tersebut merupakan bagian...",
-      "opsi": [
-        "orientasi",
-        "pengajuan",
-        "penawaran",
-        "persetujuan",
-        "perpisahan"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Di bawah ini yang <i>tidak</i> termasuk dalam bentuk teks negosiasi adalah...",
-      "opsi": [
-        "narasi",
-        "dialog",
-        "surat penawaran",
-        "surat permintaan barang",
-        "surat undangan"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Perhatikan kaidah kebahasaan berikut dengan cermat!<br><br>1) menggunakan pronomina<br>2) menggunakan kalimat imperatif<br>3) menggunakan kalimat deklaratif<br>4) menggunakan interogatif<br>5) menggunakan kalimat tidak langsung<br>6) menggunakan tuturan berpasangan<br><br>Kaidah kebahasaan teks negosiasi ditunjukkan oleh nomor....",
-      "opsi": [
-        "1-2-3-4",
-        "1-2-4-5",
-        "1-3-4-5",
-        "1-3-4-6",
-        "1-4-5-6"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Berikut yang merupakan contoh negosiasi adalah .....",
-      "opsi": [
-        "seminar",
-        "debat",
-        "pidato",
-        "lobi antarpartai",
-        "ceramah"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Kalimat yang mengandung pronomina dalam teks negosiasi adalah...",
-      "opsi": [
-        "\"permisi Pak. Saya mau mengambil barang pesanan yang tadi pagi\"",
-        "\"Pak beli 5 bungkus kerupuknya\"",
-        "Bu jadinya kapan pergi ke Bali?",
-        "Hari Senin sangat membahagiakan.",
-        "Ayo antar ke toko buku nanti jajan seblak pulangnya."
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Bacalah teks berikut!<br><br><blockquote>\"Siap, Bu. Terima kasih atas izin yang Ibu berikan. Kami akan persiapkan dengan matang. Kalau begitu saya pamit dulu, Bu. Selamat Siang\" <i>Lalita berdiri dan menyalami Bu Siska</i>.</blockquote><br>Teks tersebut menunjukkan bagian teks negosiasi yaitu......",
-      "opsi": [
-        "pengajuan",
-        "penutup",
-        "orientasi",
-        "penawaran",
-        "persetujan"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Teks negosiasi berikut yang termasuk pada bagian persetujuan adalah....",
-      "opsi": [
-        "Anak: \"Uang saya tidak cukup bagaimana kalau Rp. 48.000,00 saja?\"<br>Penjaga: \"Oh itu terlalu murah, bagaimana kalau Rp. 55.000,00?\"",
-        "Anak: \"Tapi uang saya hanya Rp.50.000,00 saja?\"<br>Penjaga: \"Duh sayang sekali yah, hmm yaudah saya berikan saja buku ini seharga Rp.50.000,00 saja\"",
-        "Anak: \"Baiklah, saya beli ya Pak bukunya.\"<br>Penjaga: \"Iya ini bukunya..\"",
-        "Anak: \"Ini uangnya pas yah pak, terima kasih sudah berkenan membantu saya\"<br>Penjaga: \"Iya sama-sama dik yang rajin ya belajarnya\"",
-        "Anak: \"Baik pak, Mari... selamat siang\"<br>Penjaga: \"Selamat siang\""
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Kalimat yang bermakna persuasif dalam teks negosiasi adalah...",
-      "opsi": [
-        "Adit dan Afwan pergi ke Ciparay untuk membeli Ramen AA",
-        "Mari Kak, Di toko kami sedang banyak diskon loh kak. Yuk tanya-tanya dulu..",
-        "Nurani yuk kita ke rumah Novita!",
-        "Mari kita berjalan bersama!",
-        "Naylah kapan pergi ke Cianjur?"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Andi ingin meminjam aula desa untuk latihan teater. Pak Kades awalnya keberatan karena takut aula rusak. Andi kemudian menjamin kebersihan dan akan bertanggung jawab jika ada kerusakan. Akhirnya Pak Kades mengizinkan.<br><br>Inti dari proses negosiasi di atas adalah...",
-      "opsi": [
-        "memaksakan kehendak satu pihak",
-        "menghindari komunikasi langsung",
-        "menjatuhkan wibawa pak kades",
-        "mencapai kesepakatan bersama",
-        "mencari kesalahan pihak lawan"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Seorang karyawan meminta kenaikan gaji kepada manajernya dengan alasan prestasi kerja yang meningkat. Namun, manajer menyebut kondisi keuangan perusahaan sedang sulit. Manajer menawarkan bonus sebagai ganti kenaikan gaji pokok. Karyawan setuju.<br><br>Dalam teks tersebut, yang bertindak sebagai pihak kedua adalah...",
-      "opsi": [
-        "perusahaan",
-        "manajer",
-        "pelanggan",
-        "pemilik saham",
-        "karyawan"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Rina ingin membeli kerudung. Penjual menawarkan harga Rp50.000,00. Rina menawar Rp35.000,00. Penjual tidak memberikan karena modalnya tidak masuk. Rina kemudian menaikkan tawaran menjadi Rp40.000,00 dan penjual melepaskannya.<br><br>Alasan yang diajukan penjual untuk menolak tawaran pertama Rina adalah...",
-      "opsi": [
-        "harga tawaran di bawah harga modal",
-        "rina bukan pelanggan tetap",
-        "barang sedang langka",
-        "warna kerudung sedang tren",
-        "kualitas barang sangat premium"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Catatan perjalanan hidup seseorang yang ditulis oleh orang lain disebut....",
-      "opsi": [
-        "biografi",
-        "autobiografi",
-        "catatan harian",
-        "daftar Pustaka",
-        "pengalaman pribadi"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Berikut yang <i>bukan</i> merupakan karakteristik teks biografi adalah......",
-      "opsi": [
-        "berisi opini penulis mengenai tokoh yang diceritakan",
-        "tokoh yang dikisahkan merupakan tokoh terkenal",
-        "berisi peristiwa penting tokoh yang diceritakan",
-        "mengandung pesan moral tertentu",
-        "disajikan dalam bentuk narasi"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Struktur teks biografi yang tepat adalah.....",
-      "opsi": [
-        "pendahuluan, isi, dan penutup",
-        "orientasi, reorientasi, dan koda",
-        "reorientasi, peristiwa penting, dan koda",
-        "orientasi, peristiwa penting, dan reorientasi",
-        "pendahuluan, peristiwa penting, dan simpulan"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Berikut yang <i>bukan</i> kaidah kebahasaan teks biografi adalah......",
-      "opsi": [
-        "menggunakan kata sifat",
-        "menggunakan kata kerja aksi",
-        "menggunakan kata kerja pasif",
-        "menggunakan kata ganti jamak",
-        "menggunakan konjungsi urutan waktu"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Pahami penggalan teks biografi berikut untuk menjawab soal nomor 20-22!<br><br><blockquote>Dedi Mulyadi (lahir 11 April 1971) dikenal dengan sapaan Kang Dedi atau diinisialkan dengan akronim KDM (Bapak Aing) adalah seorang politikus berkebangsaan Indonesia, yang saat ini menjabat sebagai Gubernur Jawa Barat untuk periode 2025-2030. Sebelumnya, Dedi menjabat sebagai Bupati Purwakarta selama dua periode berturut-turut dari 2008 sampai 2018.<br><br>Beliau menempuh masa SD hingga SMA di kabupaten kelahirannya, Subang. Mulai dari SD Subakti (1984), SMP Kalijati (1987), dan SMA Negeri 1 Purwadadi (1990). Selanjutnya pendidikan tingginya diselesaikan di Sekolah Tinggi Hukum Purnawarman Purwakarta dengan meraih gelar Sarjana Hukum (1999). Selama berkuliah Beliau juga pernah menjadi aktivis dan menjadi ketua Himpunan Mahasiswa Islam cabang Purwakarta. Pada tahun 2019, ia melanjutkan pendidikan ke jenjang magister, mengambil program Magister Manajemen, dan lulus dengan meraih gelar pada tahun 2021 di Universitas Widyatama, Bandung.</blockquote><br>Berdasarkan strukturnya teks biografi di atas termasuk ke dalam bagian?...",
-      "opsi": [
-        "orientasi",
-        "reorientasi",
-        "kejadian penting",
-        "penutup",
-        "isi"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Pronomina yang digunakan dalam penggalan teks biografi di atas adalah.....",
-      "opsi": [
-        "kamu",
-        "dia",
-        "ia",
-        "mereka",
-        "beliau"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Berapa jumlah konjungsi temporal yang terdapat dalam penggalan teks biografi di atas adalah...",
-      "opsi": [
-        "1",
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Pahami penggalan teks biografi berikut untuk menjawab soal nomor 23-25!<br><br><blockquote>Beckham Putra Nugraha lahir pada tanggal 29 Oktober 2001, di Bandung, Jawa Barat, Indonesia. Ia merupakan anak ketiga dari pasangan Budi Nugraha dan Yuyun Zawariyah. Dia memiliki kakak laki-laki yang juga seorang pemain sepak bola, Gian Zola. Ia didaftarkan ke sekolah sepak bola POR UNI Bandung pada usia 8 tahun.<br><br>Nama depan Beckham diberikan oleh ayahnya sebagai penghormatan kepada legenda sepak bola Inggris David Beckham. Ayahnya terinspirasi setelah menonton gol David Beckham pada menit ke-87 dari garis tengah lapangan untuk Manchester United melawan Wimbledon selama pertandingan pembukaan musim Liga Utama Inggris 1996-1997.</blockquote><br>Kata kerja pasif yang terdapat pada teks biografi di atas adalah.....",
-      "opsi": [
-        "pertandingan-penghormatan",
-        "memiliki-merupakan",
-        "didaftarkan-terinspirasi",
-        "melawan-menonton",
-        "anak-kakak"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Kata aksi yang terdapat pada teks biografi di atas adalah....",
-      "opsi": [
-        "memiliki-merupakan",
-        "lapangan-bola",
-        "diberikan-didaftarkan",
-        "melawan-menonton",
-        "gol-bola"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Pernyataan yang tidak sesuai dengan teks di atas adalah....",
-      "opsi": [
-        "Ia didaftarkan ke sekolah sepak bola POR UNI Bandung pada usia 8 tahun",
-        "Ayahnya terinspirasi setelah menonton gol David Beckham",
-        "Dia memiliki kakak laki-laki yang juga seorang pemain sepak bola, Gian Zola",
-        "Beckham Putra Nugraha lahir pada tanggal 29 Oktober 2011",
-        "Ia merupakan anak ketiga"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Jenis puisi yang berisi suatu tuntunan atau ajaran hidup disebut....",
-      "opsi": [
-        "epigram",
-        "satire",
-        "balada",
-        "ode",
-        "himne"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Berikut yang bukan merupakan karakteristik puisi adalah....",
-      "opsi": [
-        "bersifat imajinatif",
-        "terdiri atas larik dan bait",
-        "menggunakan gaya bahasa (majas)",
-        "menggunakan bahasa yang singkat dan padat",
-        "menggunakan pilihan kata yang bermakna denotative"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Bacalah penggalan puisi berikut untuk menjawab soal nomor 28 -- 30!<br><br><b>Padamu Jua</b><br><i>Karya: Amir Hamzah</i><br><br>Habis kikis<br>Segala cintaku hilang terbang<br>Pulang kembali aku padamu<br>Seperti dahulu<br><br>Kaulah kandil kemerlap<br>Pelita jendela di malam gelap<br>Melambai pulang perlahan<br>Sabar, setia, selalu<br><br>...............<br><br>Kata \"pelita\" dalam penggalan puisi tersebut bermakna.",
-      "opsi": [
-        "Lampu",
-        "penunjuk arah",
-        "sinar rembulan",
-        "cahaya matahari",
-        "jalan yang terang"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Suasana yang tergambar dalam puisi tersebut adalah......",
-      "opsi": [
-        "sedih",
-        "bahagia",
-        "pasrah",
-        "gembira",
-        "syahdu"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Berikut yang bukan merupakan unsur fisik puisi adalah....",
-      "opsi": [
-        "diksi",
-        "tema",
-        "tipografi",
-        "pengimajian",
-        "gaya bahasa"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Berdasarkan bentuknya puisi dibagi menjadi.....",
-      "opsi": [
-        "1",
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Puisi yang berisi kesedihan disebut....",
-      "opsi": [
-        "ode",
-        "balada",
-        "himne",
-        "epigram",
-        "elegi"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Berikut karakteristik puisi menurut Widarmanto, kecuali...",
-      "opsi": [
-        "asosiatif",
-        "metaforis",
-        "ekspresif",
-        "emotif",
-        "persuasif"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Unsur batin puisi terdiri dari.... Bagian.",
+      "pertanyaan": "Perhatikan paragraf berikut!<br><br>(1) Belalang sembah merupakan serangga pemangsa yang terampil dalam memburu mangsanya.<br>(2) Ukuran tubuhnya bervariasi antara 2 hingga 15 cm tergantung spesiesnya.<br>(3) Warnanya yang hijau atau cokelat memberikan kamuflase yang sangat efektif di antara dedaunan.<br>(4) Menurut saya, belalang sembah adalah serangga paling menakutkan bagi hama tanaman.<br>(5) Serangga ini memiliki dua mata majemuk yang memungkinkan penglihatan dengan sudut pandang yang luas.<br><br>Kalimat yang menyebabkan teks di atas gugur sebagai teks laporan hasil observasi adalah kalimat nomor...",
       "opsi": [
         "1",
         "2",
@@ -375,32 +12,383 @@
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Bentuk penulisan puisi disebut....",
+      "pertanyaan": "Bacalah dua kutipan berikut!<br><br><blockquote>Teks A: Lidah buaya (Aloe vera) adalah spesies tumbuhan dengan daun berdagings tebal dari genus Aloe. Tumbuhan ini bersifat menahun, berasal dari Jazirah Arab, dan tanaman liarnya telah menyebar ke kawasan beriklim tropis.<br><br>Teks B: Aku menanam lidah buaya di pekarangan rumah minggu lalu. Daunnya yang hijau segar sangat indah dipandang mata setiap pagi saat aku menyiramnya.</blockquote><br>Perbedaan mendasar dari kedua teks di atas berdasarkan kriteria teks LHO adalah...",
       "opsi": [
-        "versifikasi",
-        "citraan",
-        "tipografi",
-        "majas",
-        "metrum"
+        "Teks A memuat kalimat rekaan, sedangkan Teks B memuat hasil laboratorium.",
+        "Teks A menggunakan sudut pandang orang pertama, sedangkan Teks B sudut pandang orang ketiga.",
+        "Teks A menyajikan fakta ilmiah objektif, sedangkan Teks B menyajikan pengalaman personal subjektif.",
+        "Teks A ditulis dengan gaya Bahasa sastra, sedangkan Teks B menggunakan gaya Bahasa ilmiah.",
+        "Teks A tidak memiliki struktur, sedangkan Teks B memiliki struktur yang lengkap."
       ],
       "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Bacalah teks berikut!<br><br><blockquote>Kapur baru atau kamper adalah zat padat berupa lilin berwarna putih atau transparan dengan aroma yang khas dan kuat. Zat ini merupakan senyawa terpenoid yang ditemukan dalam kayu pohon kapur (Dryobalanops aromatica). Kamper juga dapat dibuat secara sintetis dari minyak terpentin.</blockquote><br>Berdasarkan struktur teks LHO, paragraf tersebut dikategorikan sebagai...",
+      "opsi": [
+        "penutup / simpulan",
+        "deskripsi bagian",
+        "deskripsi manfaat",
+        "rekomendasi penulis",
+        "pernyataan umum"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Perhatikan teks berikut!<br><br><blockquote>Sungai Citarum yang melintasi wilayah Ciparay mengalami pendangkalan akibat akumulasi sampah domestik dan sedimentasi lumpur. Kondisi ini memicu luapan air saat curah hujan tinggi.</blockquote><br>Makna kata 'akumulasi' dalam konteks laporan hasil observasi di atas adalah...",
+      "opsi": [
+        "penguraian bahan-bahan organik",
+        "pengumpulan atau penumpukan yang bertambah secara bertahap",
+        "penyebaran secara merata",
+        "pembersihan secara berkala",
+        "pergerakan arus air yang deras"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Berikut adalah petikan laporan LHO:<br><br>(1) Sepeda motor listrik menggunakan baterai sebagai sumber energi utama.<br>(2) Baterai ini menyuplai arus listrik ke motor penggerak untuk diubah menjadi energi mekanik.<br>(3) Penggunaan motor listrik sangat ramah lingkungan karena tidak menghasilkan emisi gas buang.<br>(4) Komponen utama baterai umumnya berbasis lithium-ion.<br><br>Kalimat yang berisi deskripsi manfaat dari objek yang diobservasi ditunjukkan oleh nomor...",
+      "opsi": [
+        "(3)",
+        "(1) dan (4)",
+        "(2)",
+        "(4)",
+        "(1)"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Seorang penulis merumuskan judul LHO:<br><br><i>'Laporan Hasil Pengamatan Tentang Masalah Sampah Plastik Yang Sangat Menumpuk Sekali Di Area Sekolah.'</i><br><br>Revisi judul di atas agar menjadi efektif, lugas, dan bernuansa ilmiah adalah...",
+      "opsi": [
+        "Laporan Observasi Sampah Plastik di Lingkungan Sekolah",
+        "Observasi Masalah Penumpukan Sampah-Sampah Plastik Sekolah",
+        "Laporan Observasi Mengenai Akumulasi Sampah Plastik Sekali",
+        "Pengamatan Sampah Plastik Yang Sangat Menumpuk Di Sekolah",
+        "Laporan Pengamatan Terhadap Keberadaan Sampah Plastik Yang Banyak"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Bacalah teks berikut!<br><br><blockquote>'Lalat limbah (Psychodidae) sering ditemukan di area basah seperti saluran pembuangan air. Serangga ini memiliki tubuh berukuran kecil dan tertutup bulu halus sehingga menyerupai nyamuk mini. Lalat ini memakan bahan organik membusuk dan pembentuk lapisan lendir di dalam pipa.'</blockquote><br>Fungsi utama paragraf di atas dalam sebuah laporan LHO adalah...",
+      "opsi": [
+        "memberikan opini subjektif peneliti mengenai kebersihan saluran air.",
+        "menjelaskan ciri fisik dan kebiasaan hidup objek observasi secara objektif.",
+        "membuktikan bahwa lalat limbah adalah penyebab utama penyakit menular.",
+        "menyajikan tahapan eksperimen daur hidup lalat limbah.",
+        "mengajak pembaca untuk membasmi lalat limbah hingga tuntas."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Siswa SMK Jurusan Akuntansi mengamati proses transaksi kasir di minimarket dan mencatat:<br><br><i>'Kasir memasukkan kode barang -> Komputer memproses harga -> Struk tercetak -> Pembeli membayar.'</i><br><br>Jika informasi pengamatan di atas diubah menjadi paragraf deskripsi bagian teks LHO yang runtut, bentuk paragraf yang paling tepat adalah...",
+      "opsi": [
+        "Kasir mengetik kode lalu harga muncul. Nanti struk keluar dan uang diserahkan oleh pembeli yang mengantre.",
+        "Proses transaksi diawali dengan pemindaian kode barang oleh kasir. Sistem komputer kemudian memproses data harga secara otomatis. Selanjutnya, sistem mencetak struk belanja sebelum pembeli melakukan pembayaran sesuai dengan nominal yang tertera.",
+        "Struk dicetak untuk pembeli membayar, komputer memproses harganya setelah kasir memasukkan kodenya di awal.",
+        "Pembeli membayar barang setelah struk keluar dari mesin printer yang diproses oleh komputer kasir saat mengetik kode barang.",
+        "Mengapa kasir memasukkan kode? Karena komputer harus memproses harga agar struk tercetak lalu pembeli membayar."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Manakah di antara kalimat berikut yang tergolong ke dalam kalimat definitif?",
+      "opsi": [
+        "Mesin 4-tak adalah mesin pembakaran dalam yang menyelesaikan empat langkah piston dalam satu siklus kerja.",
+        "Mesin 4-tak sangat efisien dan banyak digunakan pada kendaraan modern saat ini.",
+        "Perawatan mesin 4-tak dilakukan dengan mengganti oli secara berkala.",
+        "Di dalam mesin 4-tak terdapat komponen seperti katup isap dan katup buang.",
+        "Jika mesin 4-tak rusak, suara mesin akan terdengar kasar."
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Perhatikan teks LHO berikut!<br><br><blockquote>'Hutan mangrove memiliki fungsi ekologis dan ekonomis. Fungsi ekologisnya antara lain sebagai penahan abrasi pantai dan tempat berkembang biak biota laut. Sementara itu, fungsi ekonomisnya meliputi penyedia kayu dan sarana ekowisata.'</blockquote><br>Jika bagian teks tersebut diubah ke dalam bentuk diagram pohon, maka cabang utama di bawah 'Hutan Mangrove' adalah...",
+      "opsi": [
+        "penahan abrasi dan sarana ekowisata",
+        "biota laut dan penyedia kayu",
+        "fungsi ekologis dan fungsi ekonomis",
+        "pantai dan laut",
+        "abrasi dan ekowisata"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dalam penulisan LHO, peneliti dilarang memasukkan 'prasangka' atau 'keberpihakan'.<br><br>Manakah dari frasa berikut yang menandakan adanya prasangka subjektif?",
+      "opsi": [
+        "Reaksi kimia menghasilkan gelembung gas dan kenaikan suhu sebesar 3°C.",
+        "Berdasarkan pengukuran dengan jangka sorong, diameter poros adalah 12,5 mm.",
+        "Populasi eceng gondok menutupi sekitar 60% permukaan kolam observasi.",
+        "Daun mengalami klorosis yang ditandai dengan perubahan warna menjadi kekuningan.",
+        "Sayangnya, bentuk daun tanaman ini tampak buruk dan tidak menarik sama sekali."
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Bacalah paragraf rumpang berikut!<br><br><blockquote>Tumbuhan kantong semar (Nepenthes) merupakan tanaman karnivora. Tanaman ini [...] serangga dengan memanfaatkan kantong yang berisi cairan pencerna. Mangsa yang masuk akan tergelincir [...] dinding dalam kantong yang licin.</blockquote><br>Kata yang tepat untuk mengisi bagian rumpang tersebut adalah...",
+      "opsi": [
+        "memerangkap, menyusuri",
+        "memerangkap, melintasi",
+        "menjebak, melapisi",
+        "ditangkap, melalui",
+        "menjebak, melintasi"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Manakah di antara opsi berikut yang merupakan kalimat deskripsi bagian yang paling detail dan terukur?",
+      "opsi": [
+        "Sayap depan kupu-kupu berukuran panjang 4-5 cm dengan corak garis hitam melintang sejajar.",
+        "Kupu-kupu mempunyai dua pasang sayap untuk terbang tinggi di udara.",
+        "Sayap kupu-kupu ini sangat indah dan warnanya beragam.",
+        "Sayapnya bisa rusak jika disentuh dengan tangan secara kasar.",
+        "Kupu-kupu terbang menghinggapi bunga dengan sayapnya yang lebar."
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Bacalah kalimat berikut!<br><br><i>'Mesin las listrik memanfaatkan energi listrik untuk menghasilkan panas yang [...] logam baja hingga menyatu.'</i><br><br>Kata yang tepat untuk mengisi titik-titik tersebut adalah...",
+      "opsi": [
+        "melelehkan",
+        "melebarkan",
+        "melunakkan",
+        "membakar",
+        "menghancurkan"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Perhatikan fungsi-fungsi berikut!<br><br>(1) Sebagai sumber informasi terpercaya berbasis fakta.<br>(2) Sebagai sarana membujuk masyarakat membeli suatu produk.<br>(3) Sebagai dokumen pertanggungjawaban atas suatu tugas pengamatan.<br>(4) Sebagai media menyalurkan imajinasi dan cerita fiksi ilmiah.<br>(5) Sebagai dasar penyusunan kebijakan atau pemecahan masalah.<br><br>Fungsi utama dari teks laporan hasil observasi ditunjukkan oleh nomor...",
+      "opsi": [
+        "(1), (2), dan (3)",
+        "(2), (4), dan (5)",
+        "(3), (4), dan (5)",
+        "(1), (3), dan (5)",
+        "(1), (4), dan (5)"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Seorang penulis merumuskan bagian penutup LHO sebagai berikut:<br><br><i>'Demikianlah laporan ini dibuat. Semoga laporan tentang limbah sekolah ini ada gunanya bagi kita semua dan mohon maaf bila ada kata yang salah.'</i><br><br>Mengapa bagian penutup tersebut dianggap tidak sesuai dengan kaidah Teks LHO dan bagaimana perbaikannya?",
+      "opsi": [
+        "tidak sesuai karena kurang panjang; seharusnya ditambahkan ucapan terima kasih kepada kepala sekolah.",
+        "sudah sesuai karena mengandung rasa rendah hati dari seorang peneliti.",
+        "tidak sesuai karena tidak memuat daftar harga limbah yang diobservasi.",
+        "tidak sesuai karena menggunakan bahasa pidato lisan; seharusnya diganti dengan simpulan umum hasil observasi atau deskripsi manfaat objek secara faktual.",
+        "sudah sesuai asalkan kata 'guna' diganti dengan kata 'manfaat'."
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Bagian teks laporan hasil observasi yang berisi uraian hal-hal yang dilaporkan secara terperinci disebut….",
+      "opsi": [
+        "deskripsi manfaat",
+        "deskripsi penjelasan",
+        "deskripsi bagian",
+        "pernyataan umum",
+        "simpulan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Berikut yang bukan merupakan kalimat fakta adalah...",
+      "opsi": [
+        "Sungai Serayu dianggap sebagai sumber kehidupan masyarakat.",
+        "Sungai Serayu adalah salah satu sungai di Jawa Tengah, Indonesia.",
+        "Sungai Serayu menjadikan lahan-lahan sekitarnya subur.",
+        "Ada beberapa festival yang diadakan di Sungai Serayu, seperti Festival Serayu di Banyumas.",
+        "Sungai Serayu juga menghasilkan pasir dan batu di sepanjang aliran sungai sehingga mengundang ketertarikan banyak penambang pasir."
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Berikut ini adalah hal-hal yang tidak boleh dimuat dalam teks laporan hasil observasi, kecuali...",
+      "opsi": [
+        "informasi yang bersifat fakta dan dapat dipertanggungjawabkan",
+        "rancangan solusi yang belum diuji coba",
+        "kritik terhadap objek yang diamati",
+        "pendapat atau opini pribadi penulis",
+        "hanya berdasarkan sudut pandang pribadi"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Dalam struktur teks laporan hasil observasi, bagian 'Pernyataan Umum' berfungsi untuk...",
+      "opsi": [
+        "memberikan detail spesifik tentang objek yang diobservasi.",
+        "mengenalkan objek yang akan diamati secara garis besar.",
+        "menyajikan data berupa angka dan statistik.",
+        "merangkum seluruh hasil pengamatan.",
+        "menyajikan simpulan dari teks LHO."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Berikut yang merupakan karakteristik teks laporan hasil observasi adalah…",
+      "opsi": [
+        "menggunakan bahasa bermakna kias",
+        "disusun berdasarkan imajinasi penulis",
+        "bersifat objektif dan spesifik",
+        "sebagian besar berisi opini",
+        "bersifat subjektif"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Di bawah ini yang bukan bagian struktur teks laporan hasil observasi adalah…",
+      "opsi": [
+        "pernyataan umum",
+        "deskripsi bagian",
+        "deskripsi manfaat",
+        "deskripsi hasil",
+        "simpulan"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Teks yang berisi informasi atau penjabaran umum mengenai suatu objek yang didapatkan berdasarkan penelitian atau pengamatan merupakan pengertian dari teks…",
+      "opsi": [
+        "teks deskripsi",
+        "teks narasi",
+        "teks eksposisi",
+        "teks laporan hasil observasi",
+        "teks laporan pertanggung jawaban"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Bacalah teks berikut!<br><br><blockquote>Macan tutul adalah salah satu hewan <b>karnivora</b> yang mirip kucing raksasa. Macan tutul terbagi menjadi lima, yaitu macan tutul jawa, macan tutul afrika, macan tutul arab, macan tutul amur dan macan tutul persia.</blockquote><br>Arti istilah teknis yang tercetak tebal dalam teks tersebut adalah..",
+      "opsi": [
+        "hewan pemakan segala",
+        "hewan pemakan daging",
+        "hewan pemakan rumput",
+        "hewan pemakan biji-bijian",
+        "hewan pemakan tumbuhan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Teks disebut juga......",
+      "opsi": [
+        "huruf",
+        "aksara",
+        "alfabet",
+        "tulisan",
+        "kata"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Huruf terbagi menjadi.....",
+      "opsi": [
+        "konsonan",
+        "vokal",
+        "vokal dan angka",
+        "vokal dan konsonan",
+        "konsonan dan tanda baca"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Polisi kehutanan Indonesia adalah profesi yang bertugas melindungi dan mengamankan hutan, serta mengawasi peredaran hasil hutan.<br><br>Berapakah jumlah seluruh huruf vokal pada teks di atas...",
+      "opsi": [
+        "37",
+        "57",
+        "47",
+        "50",
+        "38"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Polisi hutan bukan bagian dari Kepolisian Negara Republik Indonesia, melainkan berada di bawah naungan Kementerian Lingkungan Hidup dan Kehutanan atau instansi daerah dan BUMN (perhutani).<br><br>Berapakah jumlah seluruh huruf konsonan pada teks di atas...",
+      "opsi": [
+        "89",
+        "52",
+        "67",
+        "78",
+        "45"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Kumpulan dari beberapa kalimat disebut dengan.....",
+      "opsi": [
+        "huruf",
+        "kalimat",
+        "paragraf",
+        "tulisan",
+        "aksara"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Pernyataan umum dalam struktur LHO disebut juga...",
+      "opsi": [
+        "klarifikasi",
+        "klasivikasi",
+        "klasifikasi",
+        "klaritas",
+        "klasemen"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perhatikan kalimat-kalimat berikut!<br><br>1) Kucing bakau memiliki selaput di antara jarinya untuk membantu berenang.<br>2) Taman sekolah ini tampak sangat asri dan menenangkan hati siapa saja.<br>3) Kadar oksigen terlarut dalam kolam pengolahan limbah diukur menggunakan DO meter.<br>4) Saya menduga limbah oli ini sengaja dibuang oleh pihak yang tidak bertanggung jawab.<br><br>Kalimat yang tergolong ke dalam kalimat deskripsi faktual laporan hasil observasi ditunjukkan oleh angka...",
+      "opsi": [
+        "1 dan 2",
+        "1 dan 3",
+        "3 dan 4",
+        "4 dan 2",
+        "2 dan 1"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Seorang peserta didik mengamati komponen transmisi matik dan menuliskan kata-kata berikut:<br><br>(1) Otomatis, (2) Hidrolik, (3) Gesekan, (4) Analisa, (5) Kwalitas<br><br>Kata yang penulisan ejaannya tidak baku menurut KBBI VI/EYD terbaru adalah...",
+      "opsi": [
+        "4 dan 5",
+        "1 dan 2",
+        "1 dan 5",
+        "3 dan 4",
+        "2 dan 3"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Bacalah teks berikut!<br><br>(1) Router MikroTik yang terpasang pada laboratorium komputer SMK Itikurih Hibarna Ciparay merupakan perangkat keras jaringan yang berfungsi mengarahkan lalu lintas data antarjaringan.<br>(2) Perangkat ini dilengkapi sistem operasi RouterOS yang mendukung fitur routing, firewall, dan bandwidth management.<br>(3) Penggunaan MikroTik sangat bagus dan merupakan router terbaik di dunia karena dapat membuat koneksi internet di sekolah menjadi sangat cepat tanpa kendala.<br>(4) Hasil pengamatan menunjukkan bahwa suhu operasional perangkat berada pada kisaran 35°C–40°C dengan penggunaan CPU rata-rata 15% pada beban kerja normal.<br><br>Kalimat yang melanggar prinsip keobjektifan Teks LHO pada teks di atas ditunjukkan oleh nomor...",
+      "opsi": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(1) dan (4)"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Bacalah teks berikut!<br><br>(1) Mesin penghitung uang (money counter) pada Bank Mini Laboratorium AKL SMK Itikurih Hibarna Ciparay memiliki dimensi panjang 30 cm, lebar 24 cm, dan tinggi 18 cm.<br>(2) Perangkat ini dilengkapi sensor sinar ultraviolet (UV) dan magnetik (MG) untuk mendeteksi keaslian fisik uang kertas rupiah.<br>(3) Dalam pengujian kecepatan, mesin ini mampu menghitung 1.000 lembar uang kertas per menit dengan tingkat akurasi 99,9%.<br>(4) Mesin ini merupakan peralatan paling canggih yang membuat pekerjaan staf akuntansi terasa sangat menyenangkan.<br><br>Pernyataan yang tepat mengenai kaidah kebahasaan kalimat (1) dan (2) pada teks di atas adalah...",
+      "opsi": [
+        "Kalimat (1) merupakan kalimat definisi, sedangkan kalimat (2) adalah kalimat deskripsi.",
+        "Kalimat (1) merupakan kalimat deskripsi fisik (ukuran), sedangkan kalimat (2) adalah kalimat deskripsi fungsi fitur.",
+        "Kedua kalimat tersebut tergolong sebagai kalimat definisi.",
+        "Kalimat (1) merupakan opini pengamat, sedangkan kalimat (2) adalah kalimat komparasi.",
+        "Kedua kalimat tersebut tergolong sebagai klaim subjektif."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Bacalah teks berikut!<br><br>(1) Lapangan olahraga SMK Itikurih Hibarna Ciparay berukuran 30 × 15 meter dengan permukaan semen yang dilapisi cat khusus lapang.<br>(2) Lapangan ini memiliki garis pembatas berwarna putih tebal yang membagi area permainan basket dan voli.<br>(3) Pada sisi utara dan selatan lapangan, terdapat tiang besi portabel yang difungsikan untuk memasang jaring atau ring.<br>(4) Karena lapangannya sangat bagus dan indah, seluruh siswa pasti merasa sangat bangga ketika berolahraga di sini.<br><br>Kalimat (4) pada teks di atas tidak layak dimasukkan ke dalam Teks LHO karena...",
+      "opsi": [
+        "Tidak menyantumkan jadwal pelajaran penjas.",
+        "Mengandung ungkapan perasaan dan klaim emosional subjektif (\"sangat bagus\", \"sangat bangga\").",
+        "Menggunakan istilah olahraga yang membingungkan.",
+        "Berada di bagian akhir paragraf.",
+        "Menggunakan perkenalan di awal kalimat."
+      ],
+      "jawaban": "B"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Jelaskan perbedaan puisi lama, puisi baru dan puisi kontemporer!"
-    },
-    {
-      "pertanyaan": "Apa perbedaan unsur intrinsik dan unsur ekstrinsik dalam puisi?"
-    },
-    {
-      "pertanyaan": "Apa perbedaan biografi dan autobiografi?"
-    },
-    {
-      "pertanyaan": "Tuliskan 1 kalimat yang di dalamnya mengandung pronomina, kata kerja material dan konjungsi urutan waktu!"
-    },
-    {
-      "pertanyaan": "Tuliskan:<br>a. 1 kalimat deklaratif<br>b. 1 kalimat persuasif<br>c. 1 kalimat interogatif"
+      "pertanyaan": "Perhatikan teks berikut!<br><br><img src='soal/img/X/bahasa-indonesia/Picture1.jpg' width='350'><br><br><blockquote>Kura-kura merupakan hewan bersisik dan berkaki empat yang termasuk golongan reptil. Hewan ini memiliki ciri khusus dan mudah dikenali karena memiliki \"rumah\" atau batok (bony shell) yang keras dan kaku di bagian atas tubuhnya.<br><br>Dalam bahasa Indonesia, kita mengenal tiga kelompok hewan yang termasuk bangsa ini, yaitu penyu (sea turtles), labi-labi atau bulus (freshwater turtles), dan kura-kura (tortoises). Sementara dalam bahasa Inggris, bangsa kura-kura dibedakan menjadi kura-kura darat (land tortoises) dan kura-kura air tawar (freshwater tortoises atau terrapins).<br><br>Kura-kura hidup di berbagai tempat, mulai dari daerah gurun, padang rumput, hutan, rawa, sungai, hingga laut. Sebagian jenisnya hidup sepenuhnya akuatik, baik di air tawar maupun di lautan. Kura-kura ada yang bersifat pemakan tumbuhan (herbivora), pemakan daging (karnivora), atau campuran (omnivora). Kura-kura tidak memiliki gigi. Akan tetapi, pengerasan tulang di moncong kura-kura sanggup memotong apa saja yang menjadi makanannya.<br><br>Ukuran tubuh kura-kura bermacam-macam, ada yang kecil dan ada yang besar. Biasanya, hal tersebut dapat dilihat dari panjang karapasnya. Jenis kura-kura terbesar adalah penyu belimbing yang panjang karapasnya dapat mencapai 3 meter. Labi-labi terbesar adalah labi-labi moncong babi dengan panjang karapas sekitar 0,7 meter. Sementara itu, jenis kura-kura yang terkecil adalah kura-kura mini dari Afrika Selatan dengan panjang karapas tidak melebihi 8 sentimeter.<br><br>Kura-kura berkembang biak dengan cara bertelur (ovipar). Sekali bertelur, kura-kura darat bisa mengeluarkan beberapa telur. Beberapa jenis penyu bahkan bisa bertelur hingga lebih dari seratus butir. Biasanya, telur-telur tersebut diletakkan pada lubang pasir di tepi sungai atau laut untuk kemudian ditimbun dan dibiarkan menetas dengan bantuan panas matahari. Telur penyu akan menetas kurang lebih setelah dua bulan (50-70 hari) tersimpan di pasir.<br><br>Jenis kelamin anak kura-kura yang akan menetas salah satunya ditentukan oleh suhu pasir tempat telur-telur itu tersimpan. Pada kebanyakan jenis kura-kura, suhu di atas rata-rata kebiasaan akan menghasilkan hewan betina. Sebaliknya, suhu di bawah rata-rata cenderung menghasilkan hewan jantan.<br><br>Kura-kura memiliki sifat yang tenang dan santai, sehingga dapat memberikan rasa damai dan menenangkan untuk diamati, menjadikannya hewan peliharaan ideal bagi yang mencari ketenangan.</blockquote><br><br>1. Analisislah struktur teks laporan hasil observasi di atas!<br>2. Tuliskan kata teknis berdasarkan teks laporan hasil observasi di atas!<br>3. Tuliskan kata definitif yang terdapat pada teks laporan hasil observasi di atas!<br>4. Tuliskan kalimat fakta yang terdapat pada teks laporan hasil observasi di atas!<br>5. Lengkapi sesuai urutan nomor penulisan teks/tulisan yang tepat!<br><br><img src='soal/img/X/bahasa-indonesia/Picture2.jpg' width='300'>"
     }
   ]
 }
