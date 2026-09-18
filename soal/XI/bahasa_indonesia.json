@@ -1,73 +1,282 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Jenis proposal yang penyusunannya bertujuan mendapatkan persetujuan untuk melakukan sebuah observasi disebut.....",
+      "pertanyaan": "Perhatikan paragraf berikut untuk menjawab soal nomor 1-2!<br><br><blockquote>(1) Ketahanan pangan Indonesia di tengah ancaman krisis iklim global tidak boleh lagi bergantung secara mutlak pada komoditas beras. (2) Kebijakan diversifikasi pangan lokal berbasis sagu, sorgum, dan umbi-umbian harus diakselerasi secara konkret melalui pembenahan rantai pasok dari hulu ke hilir. (3) Data Kementerian Pertanian mencatat bahwa konsumsi beras per kapita masyarakat Indonesia masih berada pada angka 94 kg per tahun, jauh di atas rata-rata dunia. (4) Padahal, daerah seperti Maluku dan Papua memiliki potensi sagu luar biasa yang secara ekologis jauh lebih tahan terhadap erosi iklim ekstrem dibanding padi. (5) Oleh karena itu, edukasi pola konsumsi dan subsidi bagi petani komoditas non-beras harus menjadi program prioritas nasional secara berkesinambungan.</blockquote><br>Gagasan utama dari paragraf argumentasi di atas adalah...",
       "opsi": [
-        "bisnis",
-        "proyek",
-        "sponsor",
-        "kegiatan",
-        "penelitian"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Pernyataan yang berisi permasalahan yang akan dibahas dalam sebuah proposal penelitian dituangkan dalam bagian.....",
-      "opsi": [
-        "pendahuluan",
-        "halam judul",
-        "daftar pustaka",
-        "tinjauan pustaka",
-        "metode penelitian"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Berikut yang <i>bukan</i> tujuan penyusunan proposal adalah....",
-      "opsi": [
-        "mendapat dukungan dari pihak yang berkepentingan",
-        "mendapat persetujuan dari pihak yang berkepentingan",
-        "menginformasikan suatu hal terkait permasalahan tertentu",
-        "memperoleh dana dari sponsor yang diajukan dalam proposal",
-        "memberi gambaran secara detail program yang akan dilaksanakan"
+        "Ketergantungan masyarakat indonesia yang sangat tinggi terhadap konsumsi beras per kapita.",
+        "Pentingnya penambahan subsidi dari pemerintah khusus untuk petani padi di pulau jawa.",
+        "Diversifikasi pangan lokal non-beras sebagai langkah strategis menjaga ketahanan pangan nasional.",
+        "Keunggulan tanaman sagu di wilayah papua dan maluku dibanding tanaman pangan lainnya.",
+        "Data kementerian pertanian tentang perbedaan konsumsi beras indonesia dengan negara luar."
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Bacalah teks berikut untuk menjawab soal nomor 4 dan 5!<br><br><blockquote>Kini, teknologi informasi yang berkembang pesat mendorong terjadinya perubahan perspektif sosial-budaya pada generasi muda. Perkembangan teknologi menjadi momentum lahirnya era globalisasi yang mampu menghilangkan batas-batas sosial-budaya. Dampaknya, beragam budaya asing akan lebih mudah masuk ke Indonesia. Hal ini tentu menjadi permasalahan yang serius bagi bangsa Indonesia karena dapat memicu degradasi budaya yang mengancam identitas dan jati diri bangsa Indonesia.</blockquote><br>Dalam teks tersebut dijelaskan bahwa perkembangan teknologi mempunyai dampak negatif, yaitu...",
+      "pertanyaan": "Kalimat yang berfungsi sebagai fakta dalam paragraf tersebut ditunjukkan oleh nomor...",
       "opsi": [
-        "meningkatnya kenakalan remaja",
-        "memicu degradasi budaya Indonesia",
-        "maraknya klaim budaya asli Indonesia",
-        "merebaknya investor asing masuk ke Indonesia",
-        "melemahnya kualitas bangsa Indonesia di mata negara lain"
+        "(1) dan (2)",
+        "(2) dan (5)",
+        "(3) dan (4)",
+        "(1) dan (4)",
+        "(4) dan (5)"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perhatikan teks berikut!<br><br><blockquote><b>Teks A</b><br><br>Pembangunan pelabuhan dan tol laut di wilayah kepulauan terluar harus dipercepat guna menekan biaya logistik harian. Tanpa konektivitas laut yang cepat dan murah, ketimpangan harga kebutuhan pokok antardaerah akan terus memicu kemiskinan di wilayah perbatasan.<br><br><b>Teks B</b><br><br>Pembangunan pelabuhan skala besar di kawasan pesisir pulau-pulau kecil berisiko merusak ekosistem terumbu karang dan mengganggu ruang tangkap tradisional. Kerusakan lingkungan jangka panjang ini justru akan mematikan sumber pencaharian utama masyarakat nelayan lokal.</blockquote><br>Perbedaan sudut pandang (perspektif) utama antara Teks A dan Teks B di atas adalah...",
+      "opsi": [
+        "Teks A menolak investasi asing, sedangkan Teks B mendukung privatisasi pelabuhan.",
+        "Teks A berfokus pada efisiensi ekonomi-logistik, sedangkan Teks B menyoroti dampak ekologis dan sosial.",
+        "Teks A berfokus pada kelestarian alam, sedangkan Teks B menekankan pentingnya perdagangan internasional.",
+        "Teks A mengkritik kebijakan pemerintah pusat, sedangkan Teks B memuji kinerja pemerintah daerah.",
+        "Teks A membahas masyarakat perkotaan, sedangkan Teks B membahas masyarakat pedalaman."
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Dalam proposal penelitian, teks tersebut merupakan bagian...",
+      "pertanyaan": "Perhatikan teks berikut untuk menjawab soal nomor 4-5!<br><br><blockquote>Penerapan kantong plastik berbayar di ritel modern dinilai kurang efektif menekan volume sampah plastik secara masif. Nominal harga Rp200,00 hingga Rp500,00 per lembar tidak memberikan efek jera (<i>deterrent effect</i>) bagi masyarakat kelas menengah-atas. Skema ini terkesan melepaskan tanggung jawab produsen manufaktur dan membebankan masalah lingkungan semata kepada perilaku konsumen akhir. Pemerintah seharusnya tidak ragu memberlakukan pelarangan total plastik sekali pakai disertai sanksi finansial berat bagi industri yang tidak meredesain kemasan ramah lingkungan.</blockquote><br>Kritik utama penulis terhadap kebijakan kantong plastik berbayar dalam teks di atas adalah...",
       "opsi": [
-        "latar belakang penelitian",
-        "rumusan masalah",
-        "tujuan penelitian",
-        "simpulan",
-        "saran"
+        "Kebijakan tersebut merugikan pengusaha ritel kecil karena tidak mendapat subsidi pemerintah.",
+        "Harga kantong plastik dianggap terlalu mahal bagi masyarakat berpenghasilan rendah.",
+        "Kebijakan tidak memberikan efek jera dan tidak adil karena mengabaikan tanggung jawab produsen.",
+        "Ritel modern dituduh mengambil keuntungan pribadi dari penjualan kantong plastik.",
+        "Sosialisasi kebijakan oleh pemerintah kepada masyarakat dianggap terlalu mendadak."
       ],
-      "jawaban": "A"
+      "jawaban": "C"
     },
     {
-      "pertanyaan": "Bacalah teks berikut untuk menjawab soal nomor 6 dan 7!<br><br><b>Judul Proposal</b>: Peringatan Bulan Bahasa Tahun 2025<br><br>(1) Seminar Pemartabatan Bahasa Indonesia untuk peserta didik.<br>(2) Lomba pidato bertema \"Aku Bangga Berbahasa Indonesia\".<br>(3) Lomba cipta 1.000 puisi untuk peserta didik.<br>(4) Lomba memasak masakan tradisional untuk peserta didik.<br>(5) Pentas karya sastra peserta didik.<br><br>Teks tersebut merupakan jenis proposal......",
+      "pertanyaan": "Kalimat yang merupakan bagian simpulan dalam teks tersebut adalah...",
       "opsi": [
-        "bisnis",
-        "kegiatan",
-        "proyek",
-        "penelitian",
-        "sponsor"
+        "Penerapan kantong plastik berbayar di ritel modern dinilai kurang efektif menekan sampah.",
+        "Nominal harga Rp200,00 per lembar tidak memberikan efek jera bagi konsumen.",
+        "Skema ini terkesan membebankan masalah lingkungan semata kepada konsumen akhir.",
+        "Pemerintah seharusnya melarang total plastik sekali pakai dan memberi sanksi berat pada industri.",
+        "Konsumen disarankan membawa kantong kain pribadi setiap kali berbelanja di minimarket."
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Perhatikan teks berikut untuk menjawab soal nomor 6-7!<br><br><blockquote>Laju urbanisasi tak terkendali di kawasan metropolitan tidak lagi mencerminkan pertumbuhan ekonomi yang inklusif, melainkan sinyal ancaman sosial-ekologis. Konversi masif lahan resapan air menjadi kawasan permukiman beton telah memang kas daya serap tanah. Dampaknya, banjir tahunan di kota besar bukan lagi sekadar fenomena cuaca murni, melainkan bencana buatan manusia (<i>anthropogenic disaster</i>). Apabila pemerintah daerah terus mengabaikan ambang batas minimal Ruang Terbuka Hijau (RTH) sebesar 30%, kota-kota besar sedang berjalan menuju titik kehancuran daya dukung lingkungannya sendiri.</blockquote><br>Penggunaan istilah teknis <i>anthropogenic disaster</i> pada teks di atas memiliki arti...",
+      "opsi": [
+        "Bencana alam yang terjadi di daerah terisolasi.",
+        "Fenomena alam murni akibat pergerakan kerak bumi.",
+        "Kerusakan ekologis yang disebabkan oleh tindakan dan aktivitas manusia.",
+        "Bencana yang memicu kerugian finansial pada sektor swasta.",
+        "Perubahan iklim yang tidak dapat diukur oleh sains."
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Simpulan yang logis dan selaras dengan isi teks argumentasi di atas adalah...",
+      "opsi": [
+        "Seluruh bangunan beton di kawasan kota besar harus dibongkar secara mendadak.",
+        "Penegakan aturan RTH minimal 30% dan pengendalian alih fungsi lahan sangat mendesak demi menjaga daya dukung kota.",
+        "Penduduk perdesaan dilarang berpindah pekerjaan ke sektor industri di kota.",
+        "Pengelolaan banjir sebaiknya diserahkan sepenuhnya kepada kesadaran warga kota.",
+        "Pembangunan kawasan metropolitan tidak perlu mempertimbangkan faktor tata ruang."
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Jenis kegiatan yang <b>tidak sesuai</b> dengan judul proposal tersebut adalah",
+      "pertanyaan": "Perhatikan teks berikut untuk menjawab soal nomor 8-9!<br><br><blockquote>Fenomena <i>brain drain</i> atau migrasinya talenta terbaik dan ilmuwan Indonesia ke luar negeri tidak bisa disikapi hanya dengan menghakimi rasa nasionalisme mereka. Minimnya fasilitas laboratorium, birokrasi penelitian yang rumit, serta ketimpangan penghargaan finansial menjadi alasan rasional di balik kepindahan tersebut. Menyalahkan keputusan para peneliti tanpa membenahi ekosistem riset nasional adalah tindakan yang ahistoris dan tidak solutif. Jika Indonesia ingin menjadi negara berbasis pengetahuan (<i>knowledge-based economy</i>), perbaikan infrastruktur riset dan jaminan kesejahteraan ilmuwan harus direalisasikan secara konkret.</blockquote><br>Permasalahan utama yang diangkat dalam paragraf di atas adalah...",
+      "opsi": [
+        "Rendahnya minat generasi muda untuk melanjutkan pendidikan ke jenjang perguruan tinggi.",
+        "Maraknya kasus penyelewengan dana penelitian oleh oknum ilmuwan di dalam negeri.",
+        "Fenomena migrasi ilmuwan Indonesia (brain drain) akibat belum memadainya ekosistem riset nasional.",
+        "Kegagalan ilmuwan Indonesia dalam mempublikasikan karya seni di tingkat internasional.",
+        "Penolakan ilmuwan luar negeri untuk bekerja sama dengan pemerintah Indonesia."
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Alasan yang menguatkan argumen penulis bahwa tuduhan \"kurang nasionalisme\" itu tidak adil adalah...",
+      "opsi": [
+        "Para ilmuwan luar negeri memiliki kualitas berpikir yang jauh melampaui peneliti lokal.",
+        "Kepindahan ilmuwan didorong oleh faktor objektif seperti minimnya fasilitas, rumitnya birokrasi, dan kecilnya penghargaan.",
+        "Pemerintah sudah memberikan gaji yang memadai namun peneliti tetap memilih pergi.",
+        "Nasionalisme seseorang hanya dapat diukur dari besarnya pajak yang dibayarkan ke negara.",
+        "Seluruh ilmuwan di dunia memang diwajibkan untuk berpindah-pindah negara setiap tahun."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perhatikan teks berikut untuk menjawab soal nomor 10-11!<br><br><blockquote>(1) Pembelajaran Jarak Jauh (PJJ) yang mengandalkan platform digital diuji efektivitasnya selama masa pandemi. (2) Hasil evaluasi menunjukkan adanya <i>learning loss</i> yang signifikan pada siswa dari latar belakang sosio-ekonomi bawah akibat keterbatasan akses gawai dan internet. (3) Kondisi ini memperlebar jurang ketimpangan kualitas pendidikan antara wilayah perkotaan dan perdesaan. (4) Oleh karena itu, digitalisasi sekolah tidak boleh sekadar berfokus pada pengadaan perangkat fisik, melainkan juga pemerataan infrastruktur jaringan dan pelatihan pedagogi digital bagi guru di daerah 3T (Tertinggal, Terdepan, Terluar).</blockquote><br>Unsur fakta yang menjadi dasar penarikan tesis/kesimpulan dalam teks tersebut terdapat pada kalimat...",
+      "opsi": [
+        "(1) dan (4)",
+        "(2) dan (3)",
+        "(1) dan (3)",
+        "(3) dan (4)",
+        "(2) dan (4)"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Berdasarkan teks di atas, rekomendasi yang tepat bagi pembuat kebijakan pendidikan adalah...",
+      "opsi": [
+        "Menghentikan total program digitalisasi dan kembali ke metode belajar konvensional.",
+        "Memberikan bantuan gawai gratis secara merata hanya kepada siswa di wilayah perkotaan.",
+        "Mengintegrasikan pembangunan infrastruktur jaringan dengan peningkatan kapasitas guru di daerah 3T.",
+        "Mendorong seluruh sekolah untuk menerapkan sistem PJJ penuh tanpa tatap muka.",
+        "Mewajibkan guru membeli perangkat digital mandiri agar siap mengajar online."
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perhatikan teks berikut untuk menjawab soal nomor 12-14!<br><br><blockquote>Literasi finansial di kalangan generasi muda Indonesia masih berada pada tingkat yang mengkhawatirkan. Maraknya kasus jeratan pinjaman online (pinjol) ilegal dan investasi bodong yang menyasar mahasiswa dan pekerja muda menjadi bukti nyata. Rendahnya pemahaman mengenai Manajemen risiko, pemajemukan bunga (<i>compound interest</i>), dan pemilahan antara kebutuhan dan keinginan membuat mereka rentan terjebak dalam gaya hidup konsumtif berorientasi kemewahan semu (FOMO). Kurikulum pendidikan nasional sudah sepatutnya mengintegrasikan literasi keuangan praktis sejak jenjang pendidikan menengah.</blockquote><br>Permasalahan utama atau isu yang dibahas dalam paragraf di atas adalah...",
+      "opsi": [
+        "Tingginya angka pengangguran di kalangan lulusan perguruan tinggi.",
+        "Rendahnya literasi finansial generasi muda yang berujung pada kerentanan ekonomi.",
+        "Keberhasilan pemerintah dalam menutup ribuan aplikasi pinjaman online ilegal.",
+        "Keunggulan penerapan kurikulum baru di jenjang sekolah menengah atas.",
+        "Perubahan pola hidup masyarakat modern dari hemat menjadi konsumtif."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Alasan yang melatarbelakangi perlunya integrasi literasi keuangan dalam kurikulum sekolah adalah...",
+      "opsi": [
+        "Agar siswa dapat meminjam uang secara legal melalui aplikasi yang resmi.",
+        "Untuk mencegah generasi muda terjebak fenomena FOMO, pinjol ilegal, dan investasi bodong.",
+        "Supaya generasi muda bisa langsung menjadi pengusaha sukses setelah lulus sekolah.",
+        "Mengurangi beban finansial orang tua dalam membiayai uang sekolah anak-anaknya.",
+        "Membantu bank-bank nasional mendapatkan lebih banyak nasabah dari kalangan muda."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Gagasan pendukung yang menguatkan argumen penulis dalam teks tersebut adalah...",
+      "opsi": [
+        "Mahasiswa dan pekerja muda cenderung memiliki pendapatan yang sangat tinggi.",
+        "Fenomena FOMO membuat generasi muda pandai mengatur skala prioritas keuangan.",
+        "Kurangnya pemahaman konsep manajemen risiko membuat mereka tergiur investasi bodong.",
+        "Pinjaman online ilegal memberikan bantuan modal usaha tanpa syarat bagi pemuda.",
+        "Sekolah saat ini telah sempurna dalam mengajarkan cara berinvestasi di pasar saham."
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perhatikan teks berikut untuk menjawab soal nomor 15-16!<br><br><blockquote>Penerapan pajak karbon (<i>carbon tax</i>) bagi industri emisi tinggi merupakan instrumen pasar yang paling rasional untuk menekan polusi udara. Dengan memberi harga pada setiap ton emisi karbon yang dihasilkan, perusahaan terdorong untuk beralih ke teknologi yang lebih ramah lingkungan demi efisiensi biaya. Meskipun ada kekhawatiran bahwa pajak ini akan dibebankan kepada konsumen akhir dalam bentuk kenaikan harga barang, skema redistribusi pajak untuk subsidi energi hijau dapat menetralkan dampak inflasi tersebut.</blockquote><br>Keunggulan pajak karbon menurut teks di atas adalah...",
+      "opsi": [
+        "Mampu menghapuskan seluruh emisi gas rumah kaca dalam waktu singkat.",
+        "Mendorong industri bertransisi ke teknologi ramah lingkungan melalui insentif finansial.",
+        "Menjamin harga produk industri tetap murah bagi konsumen berpenghasilan rendah.",
+        "Menghilangkan kebutuhan negara akan sumber energi baru terbarukan.",
+        "Menjadi sumber pendapatan utama negara untuk membangun fasilitas umum."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Sanggahan yang disiapkan penulis untuk menjawab kekhawatiran penolak pajak karbon adalah...",
+      "opsi": [
+        "Pajak karbon hanya diterapkan pada perusahaan asing yang beroperasi di Indonesia.",
+        "Kenaikan harga barang akibat pajak tidak akan memengaruhi daya beli masyarakat.",
+        "Skema redistribusi hasil pajak untuk subsidi energi hijau akan menetralkan dampak inflasi.",
+        "Konsumen dapat memilih untuk tidak membeli produk yang dihasilkan industri bermoda karbon.",
+        "Pemerintah akan menanggung seluruh biaya operasional pabrik yang terkena dampak."
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perhatikan teks berikut untuk menjawab soal nomor 17-19!<br><br><blockquote><b>Pandangan I:</b><br><br>Penggunaan moda transportasi pribadi berbasis listrik (EV) harus disubsidi besar-besaran oleh negara untuk mempercepat transisi energi bersih dan mengurangi emisi gas rumah kaca di perkotaan.<br><br><b>Pandangan II:</b><br><br>Anggaran subsidi lebih efisien jika dialokasikan penuh untuk perbaikan dan perluasan armada transportasi publik masal (seperti MRT dan LRT). Pengalihan ke EV pribadi tidak menyelesaikan masalah kemacetan lalu lintas.</blockquote><br>Isu utama yang dipertentangkan oleh kedua pandangan di atas adalah….",
+      "opsi": [
+        "Kelayakan penggunaan energi fosil pada kendaraan umum di kota besar.",
+        "Alokasi efisiensi anggaran subsidi pemerintah antara EV pribadi vs transportasi publik.",
+        "Kegagalan sistem MRT dan LRT dalam mengangkut penumpang skala besar.",
+        "Penghentian produksi kendaraan bermotor berbasis energi fosil di Indonesia.",
+        "Penyebab utama kemacetan lalu lintas yang terjadi di kawasan metropolitan."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Kelemahan mendasar dari Pandangan I jika ditinjau dari sudut pandang manajemen perkotaan adalah.....",
+      "opsi": [
+        "Mobil listrik tidak memiliki emisi gas buang sama sekali saat dikendarai.",
+        "Kendaraan listrik pribadi tetap memakan ruang jalan sehingga tidak menyelesaikan kemacetan.",
+        "Harga kendaraan listrik masih sangat terjangkau bagi seluruh lapisan masyarakat.",
+        "Energi listrik di Indonesia sepenuhnya sudah menggunakan sumber energi terbarukan.",
+        "Pembelian kendaraan pribadi listrik mengurangi pendapatan dari sektor pajak jalan."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Pernyataan kompromi (jalan tengah) yang paling tepat untuk memadukan kedua pandangan tersebut adalah.....",
+      "opsi": [
+        "Menghapuskan seluruh bentuk subsidi transportasi baik pribadi maupun publik.",
+        "Memfokuskan subsidi pada elektrifikasi armada transportasi publik masal terlebih dahulu.",
+        "Memberikan bantuan tunai langsung kepada masyarakat untuk membeli bahan bakar.",
+        "Melarang penjualan mobil listrik pribadi dan membiarkan kendaraan fosil tetap beroperasi.",
+        "Membangun jalan tol baru khusus untuk pengguna kendaraan pribadi berbasis listrik."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perhatikan teks berikut!<br><br><blockquote>(1) Pengembangan kecerdasan buatan dalam ranah seni kreatif memicu perdebatan mengenai hak cipta dan keaslian (<i>authenticity</i>). (2) Model AI dilatih menggunakan miliaran karya seni manusia tanpa izin atau kompensasi finansial bagi para seniman aslinya. (3) Karya ciptaan AI dapat dihasilkan dalam hitungan detik, mengancam mata pencaharian pekerja kreatif profesional. (4) Namun, sebagian pihak menganggap AI hanyalah alat bantu baru seperti halnya kamera penemuannya tidak mematikan seni lukis. (5) Oleh karena itu, perlindungan hukum atas hak kekayaan intelektual seniman harus diperbarui menyesuaikan perkembangan teknologi digital.</blockquote><br>Kalimat yang menyatakan fakta pendukung kekhawatiran para seniman adalah kalimat nomor...",
+      "opsi": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perhatikan teks berikut untuk menjawab soal nomor 21-22!<br><br><blockquote>Kebijakan impor beras menjelang panen raya kerap merugikan petani lokal karena menyebabkan harga gabah kering di tingkat petani anjlok drastis. Pemerintah berdalih bahwa impor dilakukan untuk menjaga stok cadangan beras nasional dan mengendalikan inflasi harga pangan di tingkat konsumen. Akan tetapi, keputusan impor yang tidak akurat dalam hal waktu dan jumlah mencerminkan lemahnya integrasi data pangan antarlemmbaga. Untuk melindungi kesejahteraan petani sekaligus keterjangkauan harga bagi konsumen, validasi data produksi harian berbasis satelit harus dijadikan dasar tunggal pengambilan keputusan.</blockquote><br>Pertentangan kepentingan yang tergambar dalam teks tersebut terjadi antara.....",
+      "opsi": [
+        "Pemerintah pusat dan pemerintah daerah dalam pembagian hasil pajak pertanian.",
+        "Perusahaan pengimpor beras dan distributor pasar modern di kota besar.",
+        "Perlindungan harga di tingkat petani lokal vs stabilitas harga bagi konsumen.",
+        "Petani tanaman pangan dan pengusaha industri pengolahan bahan bangunan.",
+        "Keakuratan data satelit dan data empiris lapangan milik Kementerian Pertanian."
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Solusi inovatif yang ditawarkan penulis untuk menyelesaikan masalah data pangan adalah.....",
+      "opsi": [
+        "Menghentikan total kegiatan impor beras dalam kondisi apa pun.",
+        "Menggunakan validasi data produksi pangan berbasis teknologi satelit sebagai dasar tunggal.",
+        "Membiarkan harga beras ditentukan sepenuhnya oleh mekanisme pasar bebas.",
+        "Menyerahkan urusan impor beras kepada asosiasi petani lokal.",
+        "Memaksa konsumen untuk mengurangi konsumsi beras saat harga melambung tinggi."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perhatikan teks berikut untuk menjawab soal nomor 23-25!<br><br><blockquote>Pemberlakuan sistem pembelajaran berbasis proyek (<i>Project-Based Learning</i>) di tingkat SMA dirancang untuk mengasah keterampilan berpikir kritis dan kolaborasi siswa. Kendati demikian, banyak sekolah yang terjebak pada formalitas administrasi dan luaran produk fisik semata, tanpa mengevaluasi pemahaman konsep mendasar siswa. Siswa sering kali hanya sibuk membuat kerajinan atau media presentasi yang indah tanpa mampu menjelaskan relevansi ilmiah di baliknya. Tanpa perbaikan instrumen asesmen yang berfokus pada proses penalaran, pembelajaran berbasis proyek akan kehilangan esensi pedagogisnya.</blockquote><br>Gagasan evaluatif yang ingin disampaikan penulis mengenai <i>Project-Based Learning</i> (PBL) adalah.....",
+      "opsi": [
+        "PBL adalah metode terbaik yang tidak memiliki kelemahan dalam proses pembelajarannya.",
+        "Pelaksanaan PBL saat ini sering terjebak formalitas fisik dan mengabaikan kedalaman penalaran konsep.",
+        "Siswa SMA belum memiliki kapasitas yang cukup untuk mengerjakan tugas berbasis proyek.",
+        "Pembuatan media presentasi yang indah merupakan indikator utama keberhasilan PBL.",
+        "Sekolah sebaiknya menghapuskan PBL dan kembali ke metode ceramah konvensional."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Faktor utama yang menyebabkan hilangnya esensi pedagogis PBL menurut teks adalah.....",
+      "opsi": [
+        "Kurangnya anggaran sekolah untuk membeli bahan-bahan pembuatan produk fisik.",
+        "Ketidakmampuan siswa dalam membuat slide presentasi yang menarik secara visual.",
+        "Kelemahan instrumen asesmen yang hanya berfokus pada hasil akhir/produk, bukan proses berpikir.",
+        "Terlalu banyaknya jumlah siswa di dalam satu kelas sehingga sulit dikontrol.",
+        "Penolakan dari orang tua murid terhadap tugas kelompok di luar jam sekolah."
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Makna kata pedagogis dalam teks di atas berkaitan erat dengan.....",
+      "opsi": [
+        "Keuntungan finansial dari penjualan produk hasil karya siswa.",
+        "Prinsip, metode, dan tujuan ilmu pendidikan atau pengajaran.",
+        "Keindahan aspek estetika dari barang kerajinan tangan.",
+        "Aturan hukum dan regulasi resmi dalam pengelolaan sekolah.",
+        "Kecepatan siswa dalam menyelesaikan tugas administrasi kelas."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perhatikan teks berikut untuk menjawab soal nomor 26-27!<br><br><blockquote>(1) Fenomena <i>brain drain</i> atau migrasinya tenaga ahli dan ilmuwan Indonesia ke luar negeri semakin meningkat dalam dekade terakhir. (2) Minimnya apresiasi finansial, terbatasnya fasilitas riset, serta birokrasi penelitian yang rumit di dalam negeri menjadi alasan utama kepindahan mereka. (3) Indonesia kehilangan potensi inovasi besar yang seharusnya dapat menggerakkan industri berbasis pengetahuan (<i>knowledge-based economy</i>). (4) Menyalahkan rasa nasionalisme para peneliti ini adalah sikap yang tidak adil dan tidak solutif. (5) Pemerintah harus membenahi ekosistem riset nasional dan memberikan insentif yang kompetitif jika ingin menarik kembali talenta terbaik bangsa.</blockquote><br>Pernyataan yang merupakan kritik terhadap pandangan umum terdapat pada kalimat.....",
       "opsi": [
         "(1)",
         "(2)",
@@ -78,329 +287,108 @@
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Bacalah teks berikut untuk menjawab soal nomor 8 dan 9!<br><br><blockquote>Ikan bandeng merupakan sumber protein hewani yang tinggi. Satu porsi ikan bandeng mengandung asupan vitamin B sebanyak 116%, niacin sebanyak 12,44%, vitamin B6 sebanyak 24%, dan asam pantotenat sebanyak 15%. Selain itu, bandeng juga mengandung asam folat serta vitamin A, C, D, E, dan K. Oleh karena itu, Food and Nutrition Board of the Institute of Medicine merekomendasikan anak-anak dan orang dewasa untuk sering mengonsumsi bandeng.<br><br>Ikan bandeng dapat diolah dengan berbagai jenis sayuran, salah satunya wortel. Wortel merupakan jenis sayuran yang kaya akan vitamin A yang membantu menjaga kesehatan mata. Namun, masih banyak orang yang tidak mengonsumsi wortel. Oleh karena itu, melalui pengolahan wortel dengan ikan bandeng menjadi makanan yang kaya akan cita rasa dan nutrisi, diharapkan masyarakat akan tergerak untuk mengonsumsi jenis panganan ini. Selain itu, jenis makanan ini juga dapat dijadikan ide wirausaha di bidang kuliner.</blockquote><br>Kutipan teks tersebut termasuk dalam jenis proposal....",
+      "pertanyaan": "Langkah strategis yang ditawarkan penulis pada bagian akhir paragraf adalah.....",
       "opsi": [
-        "bisnis",
-        "proyek",
-        "sponsor",
-        "kegiatan",
-        "penelitian"
+        "Mencabut kewarganegaraan para peneliti yang bekerja di luar negeri.",
+        "Memaksa seluruh lulusan luar negeri untuk kembali bekerja di instansi pemerintah.",
+        "Membenahi ekosistem riset serta menyediakan insentif dan fasilitas yang kompetitif.",
+        "Mengurangi anggaran riset nasional dan mengalihkannya ke sektor infrastruktur.",
+        "Melarang peneliti Indonesia untuk mempublikasikan karyanya di jurnal internasional."
       ],
-      "jawaban": "A"
+      "jawaban": "C"
     },
     {
-      "pertanyaan": "Tujuan proposal yang tepat berdasarkan latar belakang teks tersebut adalah...",
+      "pertanyaan": "Perhatikan teks berikut untuk menjawab soal nomor 28-30!<br><br><blockquote>Keberadaan pasar tradisional kerap dituding sebagai penyebab kemacetan dan kekumuhan kota. Akibatnya, posisi mereka semakin terpinggirkan oleh maraknya pembangunan ritel modern dan supermarket. Padahal, pasar tradisional memainkan peran vital sebagai jaring pengaman sosial-ekonomi bagi petani kecil dan pedagang mikro yang tidak memiliki akses ke rantai pasok modern. Modernisasi pasar tradisional tidak harus dilakukan dengan cara mengganti bangunan fisik menjadi mal, melainkan melalui revitalisasi sanitasi, tata kelola yang profesional, dan digitalisasi sistem pembayaran tanpa menghilangkan karakter kerakyatan yang dimilikinya.</blockquote><br>Keunggulan utama pasar tradisional yang ditegaskan oleh penulis adalah.....",
       "opsi": [
-        "Menumbuhkan minat anak agar gemar makan ikan.",
-        "Mengenalkan kandungan vitamin dalam ikan bandeng dan wortel.",
-        "Menjelaskan cara yang tepat memasak ikan bandeng dan wortel.",
-        "Menciptakan produk kuliner yang mempunyai kandungan gizi tinggi bagi masyarakat.",
-        "Menuangkan ide dan gagasan dalam bentuk makanan kekinian yang banyak diminati anak-anak."
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Bacalah teks berikut untuk menjawab soal nomor 10 dan 11!<br><br><blockquote>Tujuan pelaksanaan kegiatan ini adalah sebagai berikut.<br>1. Memperkenalkan produk kreatif peserta didik kepada masyarakat.<br>2. Meningkatkan rasa percaya diri peserta didik untuk berwirausaha dengan berinteraksi langsung dengan pelanggan.<br>3. Menjalin kerja sama yang baik antara SMK dan masyarakat sekitar.</blockquote><br>Kutipan teks tersebut tepat diajukan pada proposal kegiatan....",
-      "opsi": [
-        "pentas seni",
-        "lomba pemasaran",
-        "latihan dasar kepemimpinan",
-        "kerja sama Praktik Kerja Lapangan",
-        "pameran produk kreatif peserta didik"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Sasaran kegiatan dalam proposal tersebut adalah...",
-      "opsi": [
-        "guru",
-        "masyarakat",
-        "kepala sekolah",
-        "komite sekolah",
-        "peserta didik SMK"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Ciri kebahasaan proposal yang menggunakan kata-kata bermakna lugas dan tidak ambigu disebut...",
-      "opsi": [
-        "subjektif",
-        "persuasif",
-        "konotatif",
-        "metaforis",
-        "denotatif"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Dalam proposal penelitian, bagian yang berisi teori-teori yang relevan dengan topik yang diangkat adalah...",
-      "opsi": [
-        "landasan teori",
-        "analisis data",
-        "batasan masalah",
-        "metodologi penelitian",
-        "hipotesis"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Jenis proposal yang digunakan dalam dunia kerja untuk menawarkan kerja sama antarperusahaan disebut...",
-      "opsi": [
-        "proposal proyek",
-        "proposal kegiatan",
-        "proposal skripsi",
-        "proposal bisnis",
-        "proposal penelitian"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Manakah yang merupakan penggunaan kata kerja tindakan dalam proposal?",
-      "opsi": [
-        "adalah",
-        "melaksanakan",
-        "sebaiknya",
-        "mungkin",
-        "merupakan"
+        "Harganya selalu lebih mahal dibanding harga di supermarket modern.",
+        "Berfungsi sebagai jaring pengaman sosial-ekonomi bagi pedagang mikro dan petani kecil.",
+        "Memiliki arsitektur bangunan yang jauh lebih megah dibanding ritel modern.",
+        "Menjadi satu-satunya tempat penyumbang pendapatan terbesar bagi pemerintah kota.",
+        "Seluruh produknya telah teruji steril dan bebas dari bahan kimia bahaya."
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Salah satu syarat proposal yang baik adalah bersifat sistematis, artinya...",
+      "pertanyaan": "Gagasan solutif yang ditawarkan penulis untuk memodernisasi pasar tradisional adalah.....",
       "opsi": [
-        "disusun menurut urutan tertentu yang teratur",
-        "harus menggunakan kertas yang mahal",
-        "bahasa yang digunakan harus sangat puitis",
-        "isinya harus sangat panjang dan tebal",
-        "harus memiliki banyak gambar di dalamnya"
+        "Mengubah seluruh gedung pasar tradisional menjadi pusat perbelanjaan (mal) modern.",
+        "Mengusir pedagang kecil dan menggantinya dengan gerai-gerai merek internasional.",
+        "Revitalisasi sanitasi, manajemen profesional, dan digitalisasi tanpa mematikan unsur kerakyatan.",
+        "Membiarkan kondisi fisik pasar tetap kumuh demi mempertahankan kesan tradisional.",
+        "Memindahkan lokasi pasar tradisional ke kawasan yang sangat jauh dari pusat pemukiman."
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Kesimpulan universal yang paling representatif untuk keseluruhan isi teks di atas adalah.....",
+      "opsi": [
+        "Pasar tradisional harus ditutup karena tidak mampu bersaing dengan ritel modern di era digital.",
+        "Eksistensi pasar tradisional perlu dipertahankan dan ditingkatkan kualitasnya melalui revitalisasi bijak karena nilai sosial-ekonominya yang strategis.",
+        "Pembangunan supermarket modern merupakan ancaman utama yang harus dilarang oleh undang-undang.",
+        "Pedagang pasar tradisional sebaiknya dialihkan menjadi pegawai tetap di ritel modern.",
+        "Kemacetan kota dapat diatasi secara instan dengan menghapuskan pasar tradisional."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perhatikan teks berikut untuk menjawab soal nomor 31-35!<br><br><blockquote><b>Menjaga Ketahanan Pangan Keluarga</b><br><br>Dalam upaya menjaga ketahanan pangan keluarga. Pemerintah indonesia mengambil langkah konkret agar setiap warga, khususnya keluarga prasejahtera, dapat mengakses makanan bergizi. Salah satu program unggulan Presiden terpilih. Prabowo Subianto adalah Makan Bergizi Gratis yang menyasar 82.9 juta anak dari keluarga kurang mampu. Program ini bertujuan menekan angka malnutrisi, meningkatkan prestasi akademik, serta mempersiapkan generasi sehat dan kompetitif. Pemerintah juga membentuk Badan Gizi Nasional untuk menjamin program ini diterapkan dengan tepat di seluruh sekolah di Indonesia.<br><br>Namun, keberhasilan program ini juga sangat bergantung pada ketersediaan pangan. Salah satu upaya untuk mengatasi masalah tersebut adalah mewujudkan pertanian perkotaan melalui Program Pekarangan Pangan Lestari (P2L), P2L mendorong pemanfaatan ruang sempit di perkotaan, seperti atap rumah dan pekarangan, dengan teknologi pertanian seperti hidroponik dan vertikultur. Selain mencukupi kebutuhan pangan rumah tangga. pendekatan ini juga mampu mengurangi emisi karbon dan ketergantungan pada rantai distribusi panjang.<br><br>Di berbagai kota, pelaksanaan P2L menunjukkan hasil yang menggembirakan. Di Jakarta, lahan kosong dimanfaatkan untuk menanam sayur, padi, dan kacang-kacangan. Di Surabaya, rumah tangga berpenghasilan rendah mendapat pelatihan dan bantuan teknis untuk memaksimalkan lahan terbatas. Di Yogyakarta. \"Kampung Sayur yang digagas kelompok tani wanita, sukses memberdayakan lahan terbatas sebagai sumber pangan produktif.<br><br>Untuk memperluas manfaat P2L, diperlukan diversifikasi tanaman, termasuk tanaman yang bernilai obat dan ekonomi. Di Sumatra Selatan, misalnya, masyarakat menanam jahe, kunyit, dan sambiloto untuk menjaga kesehatan keluarga, serta kopi, kelapa, dan pinang untuk menambah penghasilan. Pendekatan berbasis kearifan lokal ini memperkuat ketahanan pangan sekaligus mendukung kesehatan dan ekonomi keluarga. Oleh karena itu, dibutuhkan sosialisasi yang masif kepada masyarakat serta dukungan nyata dari pemerintah, baik dalam bentuk kebijakan, pelatihan, maupun pendanaan.</blockquote><br>Gagasan utama pada bagian pendahuluan adalah.....",
+      "opsi": [
+        "Badan Gizi Nasional dibentuk untuk mengelola pertanian keluarga.",
+        "Pemerintah mendorong urbanisasi sebagai solusi ketahanan pangan keluarga.",
+        "Pemerintah berupaya menjaga ketahanan pangan keluarga melalui program MBG.",
+        "Program P2L merupakan strategi utama untuk menjaga ketahanan pangan di kota.",
+        "Program MBG diluncurkan untuk meningkatkan prestasi akademik anak-anak Indonesia."
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Paragraf yang didominasi penanda berupa fakta adalah..",
+      "opsi": [
+        "paragraf pertama",
+        "paragraf kedua",
+        "paragraf ketiga",
+        "paragraf keempat",
+        "paragraf pertama dan kedua"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Fungsi utama dari bagian 'Anggaran Biaya' dalam sebuah proposal adalah...",
+      "pertanyaan": "Hal yang dibahas pada bagian simpulan adalah...",
       "opsi": [
-        "memperkenalkan panitia kepada donator",
-        "menentukan waktu pelaksanaan",
-        "menjelaskan cara kerja penelitian",
-        "menceritakan sejarah organisasi",
-        "memberikan rincian kebutuhan dana secara transparan"
+        "Program P2L berhasil meningkatkan pendapatan keluarga dan mengubah wajah kota menjadi lebih hijau.",
+        "Tanaman obat, seperti jahe dan kunyit, merupakan alternatif pangan sehat bagi masyarakat di daerah.",
+        "Pemerintah telah membentuk Badan Gizi Nasional untuk menjalankan program makan bergizi gratis bagi anak-anak.",
+        "Ketahanan pangan keluarga dapat diperkuat melalui kolaborasi antara program pemerintah dan partisipasi masyarakat dalam P2L.",
+        "Pertanian perkotaan, seperti hidroponik dan vertikultur, dapat diterapkan di kota besar untuk mengatasi lahan sempit."
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Alasan kalimat yang dicetak tebal merupakan opini adalah....",
+      "opsi": [
+        "memiliki data akurat",
+        "dinyatakan secara lugas",
+        "mengandung fakta objektif",
+        "mengandung informasi subjektif",
+        "dapat dibuktikan kebenarannya"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Saran yang disampaikan penulis dalam teks tersebut adalah.",
+      "opsi": [
+        "Pemerintah perlu menambah jumlah lahan pertanian di desa dan kota besar.",
+        "Sekolah-sekolah di Indonesia wajib membangun kebun hidroponik di halaman sekolah.",
+        "Anak-anak di Indonesia harus dibiasakan makan dalam jumlah banyak agar tidak kekurangan gizi.",
+        "Masyarakat disarankan membeli sayur langsung dari petani untuk mendukung ketahanan pangan.",
+        "Pemerintah sebaiknya memperkuat dukungan terhadap P2L melalui sosialisasi dan bantuan sarana produksi."
       ],
       "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Bagian yang berisi rincian waktu, tempat, dan urutan acara dalam proposal kegiatan disebut...",
-      "opsi": [
-        "estimasi waktu",
-        "matriks kegiatan",
-        "jadwal pelaksanaan",
-        "pendahuluan",
-        "latar belakang"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Berikut yang bukan jenis karya ilmiah adalah.....",
-      "opsi": [
-        "esai",
-        "disertasi",
-        "artikel",
-        "makalah",
-        "skripsi"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Berikut yang bukan karakteristik karya ilmiah adalah....",
-      "opsi": [
-        "menyajikan fakta subjektif berdasarkan pemikiran penulis",
-        "data yang disampaikan faktual dan dapat dipertanggungjawabkan",
-        "disusun menggunakan bahasa baku dan banyak menggunakan istilah keilmuan",
-        "menyajikan pengetahuan berupa gagasan tentang suatu permasalahan dan cara pemecahannya",
-        "menyajikan pengetahuan yang didasarkan pada data (kajian empiris) atau teori-teori yang telah diakui kebenarannya"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Cermati unsur-unsur berikut.<br><br>(1) Latar belakang masalah<br>(2) Rumusan masalah<br>(3) Tujuan penelitian<br>(4) Manfaat penelitian<br><br>Unsur-unsur karya ilmiah tersebut terdapat pada bagian.....",
-      "opsi": [
-        "metode penelitian",
-        "daftar Pustaka",
-        "pendahuluan",
-        "penutup",
-        "isi"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Bacalah teks berikut dengan saksama!<br><br><blockquote>Hasil penelitian yang dilakukan oleh beberapa peneliti menunjukkan pembuatan mi substitusi tepung mocaf diketahui memiliki sifat organoleptik yang tidak berbeda jauh dengan mi berbahan tepung terigu. Jika dibandingkan dengan tepung terigu, tepung mocaf memiliki kandungan serat lebih tinggi 12%. Namun, kandungan protein dalam tepung mocaf lebih rendah 0,83% dibandingkan dengan tepung terigu. Oleh karena itu, diperlukan usaha untuk meningkatkan kandungan protein dalam produk mi substitusi tepung mocaf.</blockquote><br>Kata substitusi pada teks tersebut bermakna.......",
-      "opsi": [
-        "peleburan",
-        "pelengkap",
-        "perubahan",
-        "penggantian",
-        "pengembangan"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Bacalah teks berikut dengan saksama!<br><br><blockquote>Air dan uap panas yang keluar ke permukaan dapat dimanfaatkan sebagai tenaga pembangkit listrik. Agar panas bumi dapat dikonversi menjadi energi listrik, diperlukan pembangkit (power plants). Reservoir panas bumi biasanya diklasifikasikan ke dalam dua kategori, yaitu kategori low temperature dan high temperature. Kategori yang dapat digunakan untuk sumber pembangkit tenaga listrik adalah low temperature. Hal ini karena pembangkit listrik dari panas bumi dapat beroperasi pada suhu yang relatif rendah, yaitu antara 50 °C sampai 250 °C.</blockquote><br>Pertanyaan yang jawabannya terdapat dalam teks tersebut adalah...",
-      "opsi": [
-        "Kapan air dan uap panas keluar ke permukaan bumi?",
-        "Apa yang menyebabkan uap panas keluar dari permukaan bumi?",
-        "Apa manfaat air dan uap panas yang keluar dari permukaan bumi?",
-        "Bagaimana proses terjadinya pengeluaran uap panas dari dalam perut bumi?",
-        "Mengapa panas bumi tidak dapat dimanfaatkan sebagai sumber pembangkit tenaga listrik?"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Bacalah teks berikut dengan saksama!<br><br><blockquote>Permasalahan lingkungan di Kecamatan Pagedangan yang dominan saat ini adalah peningkatan populasi yang menyebabkan kepadatan penduduk dan masalah sanitasi kota. Masalah sanitasi menyebabkan kualitas air di Kecamatan Pagedangan mengalami penurunan, baik air tanah maupun air permukaan. Hal ini disebabkan oleh beberapa faktor, di antaranya erosi tanah selama pembangunan konstruksi bangunan, rumah-rumah klaster, mal, limbah industri, dan luapan air kotor.</blockquote><br>Gagasan utama teks tersebut adalah.......",
-      "opsi": [
-        "Permasalahan lingkungan di Kecamatan Pagedangan.",
-        "Tingkat kepadatan penduduk di Kecamatan Pagedangan.",
-        "Permasalahan populasi dan sanitasi di Kecamatan Pagedangan.",
-        "Faktor penyebab penurunan kualitas air di Kecamatan Pagedangan.",
-        "Dampak pembangunan rumah-rumah klaster dan mal terhadap kualitas air tanah di Kecamatan Pagedangan."
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Bacalah teks berikut dengan cermat.<br><br>Tema: Pengaruh media sosial terhadap minat belajar peserta didik.<br><br>Rumusan masalah yang paling tepat berdasarkan tema tersebut adalah...",
-      "opsi": [
-        "Apa saja jenis media sosial yang sering digunakan peserta didik?",
-        "Mengapa peserta didik harus menggunakan media sosial saat belajar?",
-        "Kapan peserta didik mulai menggunakan media sosial ketika berada di rumah?",
-        "Bagaimana pengaruh media sosial terhadap minat belajar peserta didik?",
-        "Apakah minat belajar peserta didik mengganggu penggunaan media sosial?"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Bacalah teks berikut dengan saksama!<br><br><blockquote>Bimbingan karir tidak hanya memberikan respon kepada masalah-masalah yang muncul, tetapi juga membantu memperoleh pengetahuan, sikap, dan ketrampilan yang diperlukan dalam pekerjaan. Bimbingan karir difokuskan pada perencanaan kehidupan seseorang dengan mempertimbangkan keadaan dirinya dan lingkungannya.</blockquote><br>Kata yang penulisannya tidak baku adalah....",
-      "opsi": [
-        "karir, respon, ketrampilan",
-        "respon, ketrampilan, mempertimbangkan",
-        "karir, ketrampilan, memperoleh",
-        "ketrampilan, memperoleh, mempertimbangkan",
-        "karir, respon, memperoleh"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Bacalah teks berikut dengan saksama!<br><br><blockquote>Pemerintah sudah berupaya meminimalisasi kejahatan penyebaran hoaks. Salah satunya dengan mengeluarkan undang-undang tentang hukuman bagi para penyebar hoaks. Ancamannya pun tidak main-main. Para pelaku dapat dijerat Pasal 28 ayat (1) Undang-Undang Informasi dan Transaksi Elektronika. Mereka dapat dipidana maksimal enam tahun dan denda satu miliar. [....]</blockquote><br>Kalimat simpulan yang tepat untuk melengkapi teks rumpang tersebut adalah..",
-      "opsi": [
-        "Oleh karena itu, masyarakat diharapkan lebih berhati-hati saat menyebarkan informasi, apalagi yang belum terbukti kebenarannya.",
-        "Bahkan secara tidak langsung, mereka telah menyebarkan ujaran kebencian.",
-        "Untuk itu, kita tidak diperkenankan untuk menyebar informasi apa pun",
-        "Namun, masyarakat belum sepenuhnya memahami bahaya hoaks.",
-        "Jadi, hoaks sangat berbahaya bagi masyarakat Indonesia."
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Perhatikan judul-judul berikut.<br><br>(1) Peran Generasi Muda dalam Pemartabatan Bahasa Indonesia<br>(2) Menggali Potensi Diri Untuk Meningkatkan Kepercayaan Diri<br>(3) Pengaruh Hoaks bagi Kehidupan Berbangsa dan Bernegara<br>(4) Efektivitas Media Film Dalam Meningkatkan Prestasi Siswa Di Sekolah<br>(5) Penggunaan Media TikTok Sebagai Upaya untuk Meningkatkan Minat Belajar Peserta Didik<br><br>Penulisan judul yang tepat ditandai nomor.......",
-      "opsi": [
-        "(1) dan (2)",
-        "(1) dan (3)",
-        "(2) dan (4)",
-        "(2) dan (5)",
-        "(3) dan (5)"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Bacalah kalimat berikut dengan cermat!<br><br>Para peserta didik lulusan SMK diharapkan dapat mampu bersaing di dalam dunia kerja.<br><br>Perbaikan kalimat tidak efektif dari teks di atas adalah....",
-      "opsi": [
-        "Para peserta didik lulusan SMK diharapkan dapat bersaing di dunia kerja",
-        "Lulusan peserta didik SMK dapat mampu bersaing di dalam dunia kerja.",
-        "Peserta didik lulusan SMK diharapkan dapat dan mampu bersaing.",
-        "Lulusan SMK diharapkan mampu bersaing dalam dunia kerja.",
-        "Peserta didik SMK diharapkan dapat mampu berkerja."
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Karya ilmiah harus menggunakan bahasa yang bersifat denotatif. Makna denotatif berarti....",
-      "opsi": [
-        "Makna yang mengandung kiasan atau fiktif",
-        "Makna yang disesuaikan dengan perasaan penulis",
-        "Makna yang lugas, objektif, dan sesuai dengan kamus",
-        "Makna yang memiliki ganda atau ambigu",
-        "Makna yang bersifat subjektif dan emosional"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Di dalam karya ilmiah bidang Teknik Komputer dan Jaringan (TKJ), kata baku yang tepat untuk merujuk pada proses penyelarasan waktu antarkomputer adalah....",
-      "opsi": [
-        "sinkronisasi",
-        "singkronisasi",
-        "synchronisasi",
-        "sinkronisir",
-        "kategori sinkron"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Kalimat berikut yang menggunakan ragam bahasa ilmiah yang tepat dan efektif adalah...",
-      "opsi": [
-        "Mungkin ada baiknya jika kita mencoba meneliti sistem kelistrikan motor matic ini besok-besok.",
-        "Para siswa-siswa semua diharapkan agar supaya rajin membersihkan ruang praktik teknik pemesinan.",
-        "Menurut saya, penanganan sampah di sekolah kita kayaknya masih kurang maksimal deh.",
-        "Penulis merasa sangat sedih melihat banyak komputer di lab yang rusak dan tidak terawatt",
-        "Berdasarkan hasil uji laboratorium, kadar protein dalam tempe gembus mengalami penurunan sebesar 0,5%."
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Perhatikan kalimat-kalimat berikut:<br><br>(1) Mengapa kadar gula darah bisa naik setelah mengonsumsi nasi putih hangat?<br>(2) Untuk mengetahui proses kenaikan kadar gula darah akibat konsumsi nasi putih hangat.<br>(3) Pengaruh konsumsi nasi putih hangat terhadap kecepatan kenaikan kadar gula darah.<br><br>Secara berurutan, ketiga poin di atas merupakan...",
-      "opsi": [
-        "Rumusan Masalah - Judul - Tujuan",
-        "Judul - Tujuan - Rumusan Masalah",
-        "Rumusan Masalah - Tujuan - Judul",
-        "Tujuan - Rumusan Masalah - Judul",
-        "Hipotesa - rumusan masalah - tujuan"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Kata serapan yang baku di bawah ini yang tepat digunakan dalam penulisan teks karya ilmiah adalah...",
-      "opsi": [
-        "Anallisa, methoda, effektif",
-        "Analisis, metode, efektif",
-        "Analisa, metoda, efektip",
-        "Analize, methode, effectif",
-        "Analisis, metoda, epektip"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Perhatikan kutipan teks berikut!<br><br>'Siswa SMK disarankan untuk membiasakan diri membaca jurnal berkala. [...] mereka dapat memperbarui pengetahuan teknik yang berkembang sangat cepat di industri.'<br><br>Kata paling tepat untuk mengisi bagian rumpang di atas agar menjadi kalimat ilmiah yang padu adalah...",
-      "opsi": [
-        "seandainya",
-        "oleh karena itu",
-        "akan tetapi",
-        "kecuali",
-        "bahkan"
-      ],
-      "jawaban": "B"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Apa perbedaan makalah dengan artikel?"
-    },
-    {
-      "pertanyaan": "Sebutkan karakteristik teks karya ilmiah!"
-    },
-    {
-      "pertanyaan": "Lengkapi bagian struktur karya ilmiah yang hilang di bawah ini dengan tepat!<br><img src='soal/img/XI/indo/Picture1.jpg' width='300'><br><br>a) .........<br>b) .........<br>c) ........."
-    },
-    {
-      "pertanyaan": "Sebutkan jenis proposal berdasarkan tujuan!"
-    },
-    {
-      "pertanyaan": "Tuliskan struktur proposal kegiatan!"
+      "pertanyaan": "Pahami teks berikut untuk menjawab soal (nomor 1-3)!<br><br><blockquote><b>Menjaga Saluran Irigasi Air demi Ketahanan Pangan</b><br><br>Pangan adalah kebutuhan dasar manusia yang diatur dalam UU No. 18 Tahun 2012 tentang Pangan dan PP No. 17 Tahun 2015 tentang Ketahanan Pangan dan Gizi. Ketahanan pangan mencakup ketersediaan, keterjangkauan, dan pemanfaatan pangan. Ketersediaan pangan, yang mengandalkan produksi domestik, impor, dan cadangan, sangat bergantung pada keberlanjutan sektor pertanian. Oleh karena itu, infrastruktur irigasi memegang peran sentral dalam menjaga stabilitas produksi pangan, khususnya padi.<br><br>Kabupaten Karawang dan Purwakarta merupakan sentra produksi beras di Jawa Barat dengan surplus gabah kering panen (GKP) yang signifikan. Karawang menghasilkan 1.32 juta ton GKP per tahun dengan surplus 923.288 ton, sedangkan Purwakarta mencatat produksi 1,47 juta ton GKP dalam lima tahun terakhir dan surplus 453.874 ton. Meskipun angka produksinya tinggi, wilayah ini tetap rentan mengalami gangguan irigasi, terutama saat musim kemarau, yang berpengaruh terhadap distribusi air untuk persawahan.<br><br>Contohnya saluran air di Karawang yang meliputi saluran primer sepanjang 78.97 km sekunder sepanjang 451,41 km, dan tersier sepanjang 1,525,44 km, mengalami pendangkalan sehingga membutuhkan perbaikan. Di Purwakarta, saluran sekunder sepanjang 38,258 km dan tersier 91,675 km menghadapi kondisi serupa. Akibatnya, air dari Waduk Jatiluhur tidak sampai ke lahan pertanian yang jauh.<br><br>Gangguan distribusi air ini juga diperparah adanya bangunan liar dan sampah di atas saluran irigasi yang sering kali menyebabkan aliran air tersumbat dan efisiensi saluran menurun. Jika tidak segera dilakukan penanganan, seperti normalisasi saluran irigasi, dampak jangka panjangnya dapat mengancam ketahanan pangan nasional dan mengurangi motivasi petani untuk terus menanam.<br><br>Normalisasi saluran irigasi dari hulu ke hilir merupakan solusi yang harus segera dilaksanakan. Langkah ini mencakup pengerukan, perbaikan infrastruktur, dan pembongkaran bangunan liar. Pemerintah juga harus menjamin kelancaran distribusi air, terutama di wilayah lumbung pangan, seperti Kecamatan Batujaya dan Cibuaya. Dengan perbaikan infrastruktur irigasi, distribusi air akan lebih efisien, produktivitas petani meningkat, dan ketahanan pangan Indonesia tetap terjaga di tengah tantangan iklim dan pertambahan penduduk.</blockquote><br>1) Uraikan struktur teks argumentasi di atas dengan menuliskan nomor paragrafnya!<br>2) Tuliskan tiga fakta yang terdapat dalam teks argumentasi di atas!<br>3) Tuliskan tiga opini yang terdapat dalam teks argumentasi di atas!<br>4) Tuliskan tiga kalimat denotatif!<br>5) Tuliskan tiga kalimat konotatif!"
     }
   ]
 }
