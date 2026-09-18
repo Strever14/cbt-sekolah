@@ -1,406 +1,406 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Teori yang menyatakan bahwa agama Hindu dibawa ke Indonesia oleh para pendeta India adalah teori ....",
+      "pertanyaan": "Kata sejarah dalam bahasa Arab berasal dari kata syajaratun yang berarti ....",
       "opsi": [
-        "Waisya",
-        "Brahmana",
-        "Ksatria",
-        "Arus Balik",
-        "Sudra"
+        "waktu",
+        "peristiwa",
+        "pohon",
+        "kehidupan",
+        "cerita"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Sejarah dapat dipahami sebagai ilmu karena sejarah ....",
+      "opsi": [
+        "hanya berisi cerita masa lalu",
+        "didasarkan pada khayalan penulis",
+        "menggunakan metode dan langkah penelitian tertentu",
+        "selalu menceritakan tokoh terkenal",
+        "hanya mempelajari kehidupan manusia purba"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Unsur utama dalam sejarah yang berperan sebagai pelaku sekaligus objek peristiwa adalah ....",
+      "opsi": [
+        "ruang",
+        "waktu",
+        "budaya",
+        "lingkungan",
+        "manusia"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Proklamasi Kemerdekaan Indonesia dilaksanakan pada 17 Agustus 1945 di Jakarta. Pernyataan tersebut menunjukkan adanya unsur sejarah berupa ....",
+      "opsi": [
+        "manusia dan budaya",
+        "ruang dan waktu",
+        "ekonomi dan politik",
+        "perubahan dan kesinambungan",
+        "sebab dan akibat"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Menurut teori Ksatria, penyebaran agama Hindu ke Indonesia dilakukan oleh ....",
+      "pertanyaan": "Konsep waktu sangat penting dalam sejarah karena ....",
       "opsi": [
-        "Pedagang",
-        "Pendeta",
-        "Raja Indonesia",
-        "Kaum bangsawan dan prajurit India",
-        "Ulama"
+        "semua peristiwa sejarah terjadi secara bersamaan",
+        "sejarah hanya mempelajari masa depan",
+        "peristiwa sejarah berlangsung dalam rentang waktu tertentu",
+        "waktu tidak memengaruhi kehidupan manusia",
+        "setiap peristiwa selalu terjadi satu kali"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Cara berpikir sejarah yang menekankan proses perkembangan suatu peristiwa dari waktu ke waktu disebut ....",
+      "opsi": [
+        "sinkronis",
+        "diakronis",
+        "geografis",
+        "ekonomis",
+        "sosiologis"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Ciri utama berpikir diakronis adalah ....",
+      "opsi": [
+        "meluas dalam ruang dan terbatas dalam waktu",
+        "mengabaikan urutan waktu",
+        "memanjang dalam waktu",
+        "hanya membahas kondisi sosial",
+        "hanya membandingkan dua wilayah"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Cara berpikir sinkronis dalam sejarah lebih menekankan pada ....",
+      "opsi": [
+        "perkembangan peristiwa dari masa ke masa",
+        "urutan waktu suatu peristiwa",
+        "kajian suatu peristiwa pada satu kurun waktu secara mendalam",
+        "ramalan terhadap masa depan",
+        "hubungan antargenerasi"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Urutan: (1) Jepang menyerah kepada Sekutu, (2) Rengasdengklok, (3) penyusunan teks proklamasi, (4) Proklamasi Kemerdekaan. Urutan tersebut menunjukkan cara berpikir ....",
+      "opsi": [
+        "sinkronis",
+        "diakronis",
+        "spekulatif",
+        "geografis",
+        "tematis"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perubahan dalam sejarah berarti ....",
+      "opsi": [
+        "keadaan masyarakat selalu tetap",
+        "terjadi pergeseran keadaan dari kondisi sebelumnya menuju kondisi berikutnya",
+        "semua peristiwa terjadi berulang",
+        "tidak adanya perkembangan dalam masyarakat",
+        "hilangnya seluruh kebudayaan lama"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Contoh konsep kesinambungan dalam sejarah adalah ....",
+      "opsi": [
+        "perubahan sistem pemerintahan setelah kemerdekaan",
+        "penggunaan teknologi digital dalam pembelajaran",
+        "pergantian presiden setiap periode",
+        "tradisi gotong royong yang tetap dilakukan meskipun zaman berubah",
+        "perubahan alat transportasi"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Teori Waisya menyatakan bahwa agama Hindu-Buddha masuk ke Indonesia melalui ....",
+      "pertanyaan": "Peristiwa sejarah dapat disebut memiliki hubungan sebab-akibat apabila ....",
       "opsi": [
-        "Pendeta",
-        "Seniman",
-        "Pedagang",
-        "Raja",
-        "Petani"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Tokoh pencetus teori Arus Balik adalah ....",
-      "opsi": [
-        "N.J. Krom",
-        "Van Leur",
-        "F.D.K. Bosch",
-        "Coedes",
-        "Kern"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Kelebihan Teori Brahmana adalah ....",
-      "opsi": [
-        "Didukung bukti prasasti berbahasa Sanskerta",
-        "Didukung bukti perdagangan",
-        "Didukung bukti peperangan",
-        "Didukung bukti pelayaran",
-        "Didukung bukti migrasi"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Kelemahan teori Ksatria adalah ....",
-      "opsi": [
-        "Tidak ada bukti adanya penaklukan India di Nusantara",
-        "Tidak ada pedagang India",
-        "Tidak ada kerajaan Hindu",
-        "Tidak ada prasasti",
-        "Tidak ada hubungan dagang"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Kerajaan Hindu tertua di Indonesia adalah ....",
-      "opsi": [
-        "Tarumanegara",
-        "Sriwijaya",
-        "Kutai",
-        "Kediri",
-        "Singasari"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Kerajaan Kutai terletak di ....",
-      "opsi": [
-        "Jawa Barat",
-        "Kalimantan Timur",
-        "Sumatra Selatan",
-        "Jawa Tengah",
-        "Bali"
+        "satu peristiwa tidak berhubungan dengan peristiwa lainnya",
+        "suatu peristiwa menjadi faktor yang memengaruhi terjadinya peristiwa lain",
+        "semua peristiwa terjadi secara kebetulan",
+        "peristiwa hanya dilihat dari waktunya",
+        "sejarah hanya membahas akibat tanpa sebab"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Raja terbesar Kerajaan Kutai adalah ....",
+      "pertanyaan": "Contoh hubungan sebab-akibat dalam sejarah adalah ....",
       "opsi": [
-        "Kudungga",
-        "Purnawarman",
-        "Mulawarman",
-        "Hayam Wuruk",
-        "Airlangga"
+        "Proklamasi terjadi pada 17 Agustus 1945",
+        "Indonesia berada di kawasan Asia Tenggara",
+        "Soekarno dan Hatta merupakan tokoh proklamasi",
+        "Jakarta menjadi tempat pembacaan proklamasi",
+        "pendudukan Jepang menimbulkan berbagai penderitaan rakyat sehingga memperkuat semangat perjuangan"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Sejarah memiliki fungsi edukatif. Artinya sejarah dapat ....",
+      "opsi": [
+        "memberikan hiburan semata",
+        "menjadi sarana memperoleh keuntungan",
+        "memberikan pelajaran dari pengalaman masa lalu",
+        "menggantikan ilmu pengetahuan lain",
+        "digunakan untuk meramalkan semua kejadian"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Peninggalan utama Kerajaan Kutai adalah ....",
+      "pertanyaan": "Fungsi inspiratif sejarah ditunjukkan oleh ....",
       "opsi": [
-        "Candi",
-        "Yupa",
-        "Arca",
-        "Kitab",
-        "Masjid"
+        "mempelajari kesalahan masa lalu",
+        "mengambil semangat perjuangan tokoh masa lalu untuk diterapkan dalam kehidupan",
+        "menghafalkan tanggal-tanggal penting",
+        "mengetahui nama-nama kerajaan",
+        "membaca sumber sejarah"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Kerajaan Tarumanegara berkembang di wilayah ....",
+      "pertanyaan": "Salah satu manfaat mempelajari sejarah bagi kehidupan sehari-hari adalah ....",
       "opsi": [
-        "Jawa Barat",
-        "Jawa Timur",
-        "Sumatra",
-        "Kalimantan",
-        "Sulawesi"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Raja terkenal Kerajaan Tarumanegara adalah ....",
-      "opsi": [
-        "Kudungga",
-        "Mulawarman",
-        "Purnawarman",
-        "Kertanegara",
-        "Balaputradewa"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Prasasti yang menunjukkan kebesaran Purnawarman adalah ....",
-      "opsi": [
-        "Kedukan Bukit",
-        "Talang Tuo",
-        "Tugu",
-        "Kota Kapur",
-        "Karang Brahi"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Kerajaan Sriwijaya berpusat di ....",
-      "opsi": [
-        "Palembang",
-        "Banten",
-        "Demak",
-        "Kutai",
-        "Bogor"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Sriwijaya dikenal sebagai kerajaan ....",
-      "opsi": [
-        "Agraris",
-        "Maritim",
-        "Pedalaman",
-        "Teokrasi",
-        "Federal"
+        "membuat seseorang selalu hidup di masa lalu",
+        "membantu mengambil pelajaran dari pengalaman masa lalu",
+        "menghilangkan kebutuhan terhadap ilmu lain",
+        "memastikan masa depan secara tepat",
+        "menghindari semua perubahan"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Faktor utama kejayaan Sriwijaya adalah ....",
+      "pertanyaan": "Sumber sejarah yang berasal langsung dari pelaku atau saksi suatu peristiwa disebut ....",
       "opsi": [
-        "Pertanian",
-        "Pertambangan",
-        "Penguasaan jalur perdagangan laut",
-        "Industri",
-        "Perikanan"
+        "sumber sekunder",
+        "sumber tersier",
+        "sumber primer",
+        "sumber pelengkap",
+        "sumber tambahan"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Persamaan Kutai, Tarumanegara, dan Sriwijaya adalah ....",
+      "pertanyaan": "Berikut yang termasuk sumber sejarah tertulis adalah ....",
       "opsi": [
-        "Kerajaan Islam",
-        "Kerajaan Hindu-Buddha",
-        "Kerajaan maritim semua",
-        "Berpusat di Jawa",
-        "Dipimpin Sultan"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Teori Gujarat dikemukakan oleh ....",
-      "opsi": [
-        "Snouck Hurgronje",
-        "Hamka",
-        "Buya Hamka",
-        "T.W. Arnold",
-        "Bosch"
+        "prasasti",
+        "tradisi lisan",
+        "wawancara",
+        "kesenian rakyat",
+        "cerita turun-temurun"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Teori Gujarat menyatakan Islam masuk ke Indonesia pada abad ....",
+      "pertanyaan": "Sebuah foto asli yang diambil ketika suatu peristiwa berlangsung dapat digunakan sebagai ....",
       "opsi": [
-        "7 M",
-        "8 M",
-        "9 M",
-        "13 M",
-        "15 M"
+        "sumber sejarah primer",
+        "sumber sejarah sekunder",
+        "sumber sejarah tersier",
+        "sumber sejarah fiktif",
+        "sumber sejarah tambahan"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Seorang siswa mewawancarai seorang veteran yang mengalami langsung peristiwa perjuangan mempertahankan kemerdekaan. Hasil wawancara tersebut merupakan ....",
+      "opsi": [
+        "sumber primer",
+        "sumber sekunder",
+        "sumber tersier",
+        "sumber fiksi",
+        "sumber interpretasi"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Buku sejarah yang ditulis oleh seorang sejarawan berdasarkan berbagai sumber sejarah termasuk ....",
+      "opsi": [
+        "sumber primer",
+        "sumber sekunder",
+        "sumber benda",
+        "sumber lisan primer",
+        "sumber artefak"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Tahap penelitian sejarah yang berupa pencarian dan pengumpulan sumber disebut ....",
+      "opsi": [
+        "interpretasi",
+        "historiografi",
+        "verifikasi",
+        "heuristik",
+        "periodisasi"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Teori Persia didukung oleh adanya tradisi ....",
+      "pertanyaan": "Setelah sumber sejarah dikumpulkan, peneliti perlu menguji keaslian dan kredibilitas sumber. Tahap tersebut disebut ....",
       "opsi": [
-        "Sekaten",
-        "Grebeg",
-        "Tabot/Tabuik",
-        "Wayang",
-        "Slametan"
+        "heuristik",
+        "interpretasi",
+        "verifikasi",
+        "historiografi",
+        "kronologi"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Teori Arab menyatakan Islam masuk ke Indonesia langsung dari ....",
+      "pertanyaan": "Kritik eksternal dalam penelitian sejarah digunakan untuk ....",
       "opsi": [
-        "Gujarat",
-        "Persia",
-        "Mekah",
-        "Cina",
-        "Turki"
+        "mengetahui makna isi sumber",
+        "menguji keaslian fisik sumber",
+        "menulis hasil penelitian",
+        "menyusun kesimpulan",
+        "menentukan tema penelitian"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Kritik internal bertujuan untuk ....",
+      "opsi": [
+        "menguji bahan kertas sumber",
+        "mengetahui usia benda",
+        "menguji kredibilitas atau kebenaran isi sumber",
+        "menemukan sumber baru",
+        "menentukan tempat penelitian"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Saluran Islamisasi yang paling awal berkembang adalah ....",
+      "pertanyaan": "Setelah sumber dinyatakan valid, sejarawan menghubungkan fakta-fakta yang diperoleh untuk memperoleh makna tertentu. Tahap ini disebut ....",
       "opsi": [
-        "Politik",
-        "Perdagangan",
-        "Pendidikan",
-        "Tasawuf",
-        "Kesenian"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Perkawinan antara pedagang Muslim dan penduduk lokal mempercepat ....",
-      "opsi": [
-        "Kolonialisme",
-        "Urbanisasi",
-        "Islamisasi",
-        "Industrialisasi",
-        "Migrasi"
+        "heuristik",
+        "verifikasi",
+        "interpretasi",
+        "historiografi",
+        "observasi"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Tasawuf mudah diterima masyarakat Indonesia karena ....",
+      "pertanyaan": "Tahap terakhir dalam penelitian sejarah berupa penulisan hasil penelitian disebut ....",
       "opsi": [
-        "Bersifat kaku",
-        "Mirip tradisi mistik lokal",
-        "Bersifat militer",
-        "Mengutamakan perdagangan",
-        "Berbasis kerajaan"
+        "heuristik",
+        "verifikasi",
+        "interpretasi",
+        "historiografi",
+        "kritik sumber"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Urutan tahapan penelitian sejarah yang tepat adalah ....",
+      "opsi": [
+        "interpretasi -- heuristik -- historiografi -- verifikasi",
+        "heuristik -- verifikasi -- interpretasi -- historiografi",
+        "verifikasi -- historiografi -- heuristik -- interpretasi",
+        "historiografi -- interpretasi -- verifikasi -- heuristik",
+        "heuristik -- interpretasi -- verifikasi -- historiografi"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Lembaga pendidikan Islam tradisional adalah ....",
+      "pertanyaan": "Seorang siswa menemukan dua sumber yang memberikan informasi berbeda mengenai suatu peristiwa. Sikap yang paling tepat adalah ....",
       "opsi": [
-        "Sekolah rakyat",
-        "Pesantren",
-        "Sanggar",
-        "Balai desa",
-        "Padepokan"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Sunan Kalijaga menyebarkan Islam melalui ....",
-      "opsi": [
-        "Perdagangan",
-        "Wayang",
-        "Politik",
-        "Militer",
-        "Pendidikan Barat"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Saluran politik terjadi ketika ....",
-      "opsi": [
-        "Raja memeluk Islam lalu rakyat mengikutinya",
-        "Pedagang berdagang",
-        "Ulama mengajar",
-        "Seniman berkarya",
-        "Petani bertani"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Kerajaan Islam pertama di Indonesia adalah ....",
-      "opsi": [
-        "Aceh",
-        "Demak",
-        "Samudra Pasai",
-        "Banten",
-        "Mataram"
+        "memilih sumber yang paling sesuai dengan pendapat pribadi",
+        "mengabaikan kedua sumber",
+        "melakukan kritik dan membandingkan kedua sumber",
+        "memilih sumber yang paling baru tanpa pemeriksaan",
+        "langsung menulis salah satu informasi"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Pendiri Kerajaan Demak adalah ....",
+      "pertanyaan": "Seorang peneliti sejarah menemukan surat yang diklaim ditulis pada tahun 1945. Untuk memastikan surat tersebut benar-benar berasal dari masa tersebut, peneliti harus melakukan ....",
       "opsi": [
-        "Sultan Agung",
-        "Sultan Hasanuddin",
-        "Raden Patah",
-        "Fatahillah",
-        "Sunan Giri"
+        "kritik eksternal",
+        "interpretasi",
+        "historiografi",
+        "periodisasi",
+        "generalisasi"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Seorang siswa ingin mengetahui sejarah berdirinya sekolahnya. Ia mencari dokumen pendirian sekolah, mewawancarai kepala sekolah terdahulu, dan mengumpulkan foto-foto lama. Kegiatan tersebut merupakan tahap ....",
+      "opsi": [
+        "interpretasi",
+        "historiografi",
+        "heuristik",
+        "verifikasi",
+        "eksplanasi"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Raja terbesar Kerajaan Aceh adalah ....",
+      "pertanyaan": "Pembagian sejarah ke dalam beberapa babak atau periode berdasarkan karakteristik tertentu disebut ....",
       "opsi": [
-        "Sultan Iskandar Muda",
-        "Sultan Ageng Tirtayasa",
-        "Sultan Hasanuddin",
-        "Sultan Trenggana",
-        "Sultan Baabullah"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Raja terkenal Kerajaan Mataram Islam adalah ....",
-      "opsi": [
-        "Raden Patah",
-        "Sultan Agung",
-        "Hasanuddin",
-        "Iskandar Muda",
-        "Fatahillah"
+        "kronologi",
+        "periodisasi",
+        "sinkronisasi",
+        "interpretasi",
+        "verifikasi"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Bentuk akulturasi Islam pada arsitektur tampak pada ....",
+      "pertanyaan": "Kronologi diperlukan dalam mempelajari sejarah agar ....",
       "opsi": [
-        "Menara Kudus",
-        "Gedung DPR",
-        "Monas",
-        "Istana Bogor",
-        "Benteng Rotterdam"
+        "peristiwa disusun berdasarkan urutan waktu",
+        "semua peristiwa dianggap sama",
+        "sejarah menjadi lebih singkat",
+        "fakta dapat diubah sesuai kebutuhan",
+        "peristiwa masa lalu dapat diprediksi secara pasti"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Contoh akulturasi Islam dalam sastra adalah ....",
+      "pertanyaan": "Perubahan teknologi komunikasi dari surat, telepon, SMS, hingga aplikasi pesan daring menunjukkan bahwa kehidupan manusia mengalami perubahan. Namun, tujuan komunikasi untuk menyampaikan informasi kepada orang lain tetap ada. Konsep sejarah yang paling tepat adalah ....",
       "opsi": [
-        "Hikayat",
-        "Novel",
-        "Cerpen",
-        "Drama modern",
-        "Komik"
+        "sinkronis dan kronologis",
+        "sebab dan akibat",
+        "pengulangan dan konflik",
+        "ruang dan waktu",
+        "perubahan dan kesinambungan"
       ],
-      "jawaban": "A"
+      "jawaban": "E"
     },
     {
-      "pertanyaan": "Kaligrafi merupakan perpaduan budaya Islam dengan ....",
+      "pertanyaan": "Seorang siswa menyimpulkan bahwa suatu peristiwa sejarah terjadi hanya karena satu faktor. Setelah penelitian, ternyata terdapat faktor politik, ekonomi, sosial, dan budaya yang saling berhubungan. Hal ini menunjukkan bahwa memahami sejarah diperlukan ....",
       "opsi": [
-        "Seni tulis",
-        "Seni pahat",
-        "Seni tari",
-        "Musik",
-        "Teater"
+        "pemikiran yang sederhana",
+        "hafalan fakta sebanyak mungkin",
+        "analisis terhadap berbagai faktor yang saling berkaitan",
+        "penggunaan satu sumber saja",
+        "pengabaian terhadap konteks peristiwa"
       ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Perubahan gelar raja menjadi sultan menunjukkan akulturasi pada bidang ....",
-      "opsi": [
-        "Ekonomi",
-        "Pemerintahan",
-        "Pertanian",
-        "Pendidikan",
-        "Teknologi"
-      ],
-      "jawaban": "B"
+      "jawaban": "C"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Kerajaan Samudra Pasai berada di pulau Sumatra, tepatnya di Aceh. Mengapa kerajaan samudra pasai disebut sebagai serambi mekah?"
+      "pertanyaan": "Jelaskan pengertian sejarah sebagai peristiwa, kisah, ilmu, dan seni!"
     },
     {
-      "pertanyaan": "Letak Kerajaan Banten dekat dengan pelabuhan sehingga kehidupan ekonominya berrtumpu pada bidang perdagangan, mengapa demikian?"
+      "pertanyaan": "Jelaskan perbedaan cara berpikir diakronis dan sinkronis dalam sejarah serta berikan masing-masing satu contoh!"
     },
     {
-      "pertanyaan": "Apa yang dimaksud dengan akulturasi kebudayaan islam?"
+      "pertanyaan": "Jelaskan empat tahapan utama dalam penelitian sejarah mulai dari heuristik sampai historiografi!"
     },
     {
-      "pertanyaan": "Jelaskan bagaimana bentuk akulturasi kebudayaan islam dalam berbagai bidang?"
+      "pertanyaan": "Mengapa seorang sejarawan harus melakukan kritik sumber sebelum menggunakan suatu sumber sejarah? Jelaskan perbedaan kritik eksternal dan kritik internal!"
     },
     {
-      "pertanyaan": "Dilingkungan sekolah terdapat berbagai bentuk budaya local yang mulai ditinggalkan generasi muda, rancanglah sebuah program sekolah yang bertujuan melestarikan hasil akulturasi budaya nusantara dan islam agar tetap dikenal oleh peserta didik!"
+      "pertanyaan": "Peristiwa Proklamasi Kemerdekaan Indonesia tidak dapat dipahami hanya dengan melihat peristiwa tanggal 17 Agustus 1945. Untuk memahaminya secara utuh, perlu dikaji berbagai peristiwa sebelumnya, seperti kekalahan Jepang, perbedaan pendapat golongan muda dan golongan tua, Rengasdengklok, hingga penyusunan teks proklamasi. Jelaskan mengapa pemahaman kronologis dan hubungan sebab-akibat penting dalam mempelajari sejarah!"
     }
   ]
 }
