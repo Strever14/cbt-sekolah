@@ -1,406 +1,406 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Pengaruh penggunaan teknologi informasi dalam kehidupan masyarakat disebut ...",
+      "pertanyaan": "Berpikir komputasional adalah cara berpikir untuk menyelesaikan masalah dengan ...",
       "opsi": [
-        "Sistem operasi",
-        "Dampak sosial informatika",
-        "Perangkat keras",
-        "Basis data",
-        "Jaringan computer"
+        "Menghafalkan semua rumus pemrograman",
+        "Menggunakan logika, sistematis, dan terstruktur",
+        "Mengandalkan perangkat keras komputer saja",
+        "Menyalin solusi orang lain",
+        "Menggunakan bahasa asing"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Berikut yang termasuk dampak positif informatika adalah ...",
+      "pertanyaan": "Empat pilar utama dalam berpikir komputasional adalah ...",
       "opsi": [
-        "Penyebaran hoaks",
-        "Cyberbullying",
-        "Mempermudah komunikasi",
-        "Kecanduan game",
-        "Penipuan online"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Contoh media sosial adalah ...",
-      "opsi": [
-        "Microsoft Word",
-        "Instagram",
-        "Paint",
-        "Excel",
-        "Notepad"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Berikut yang merupakan dampak negatif penggunaan internet adalah ...",
-      "opsi": [
-        "Mempercepat pencarian informasi",
-        "Mempermudah belajar online",
-        "Mempermudah komunikasi",
-        "Cyberbullying",
-        "Menambah wawasan"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Berita palsu yang tersebar di internet disebut ...",
-      "opsi": [
-        "Fakta",
-        "Data",
-        "Hoaks",
-        "Grafik",
-        "Statistik"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Perkembangan media sosial memungkinkan informasi menyebar dengan sangat cepat. Dampak negatif yang paling mungkin terjadi jika pengguna tidak melakukan verifikasi informasi adalah ....",
-      "opsi": [
-        "meningkatnya penyebaran hoaks di Masyarakat",
-        "bertambahnya kapasitas penyimpanan data",
-        "meningkatnya kecepatan internet",
-        "berkembangnya perangkat keras computer",
-        "bertambahnya jumlah aplikasi digital"
+        "Dekomposisi, pengenalan pola, abstraksi, dan algoritma",
+        "Input, proses, output, dan storage",
+        "Hardware, software, brainware, dan network",
+        "Sorting, searching, stacking, dan queuing",
+        "Variabel, konstanta, operator, dan ekspresi"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Banyak perusahaan menggunakan sistem otomatis berbasis kecerdasan buatan (AI). Dampak sosial yang perlu diwaspadai dari penerapan teknologi tersebut adalah ....",
+      "pertanyaan": "Memecah masalah besar menjadi bagian-bagian kecil yang lebih mudah diselesaikan disebut ...",
       "opsi": [
-        "meningkatnya kebutuhan listrik rumah tangga",
-        "berkurangnya beberapa jenis pekerjaan yang dapat digantikan mesin",
-        "bertambahnya ukuran layar komputer",
-        "meningkatnya jumlah kabel jaringan",
-        "menurunnya kapasitas penyimpanan cloud"
+        "Abstraksi",
+        "Dekomposisi",
+        "Pengenalan pola",
+        "Algoritma",
+        "Enkapsulasi"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Salah satu upaya menjaga privasi data pribadi di era digital adalah ....",
+      "pertanyaan": "Mengabaikan detail yang tidak perlu dan fokus pada informasi penting disebut ...",
       "opsi": [
-        "membagikan kata sandi kepada teman dekat",
-        "menggunakan jaringan Wi-Fi publik untuk semua transaksi penting",
-        "mengaktifkan autentikasi dua faktor pada akun digital",
-        "mengunggah data identitas ke media sosial",
-        "menggunakan satu kata sandi untuk semua akun"
+        "Dekomposisi",
+        "Pengenalan pola",
+        "Abstraksi",
+        "Algoritma",
+        "Iterasi"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Fenomena kesenjangan digital (digital divide) dapat menyebabkan ....",
+      "pertanyaan": "Mengurutkan data dari nilai terkecil ke terbesar disebut pengurutan ...",
       "opsi": [
-        "semua orang memperoleh akses teknologi yang sama",
-        "meningkatnya keamanan seluruh data pengguna",
-        "berkurangnya kebutuhan akan internet",
-        "perbedaan kesempatan memperoleh informasi dan pendidikan berbasis teknologi",
-        "hilangnya seluruh perangkat konvensional"
+        "Descending",
+        "Ascending",
+        "Random",
+        "Stacking",
+        "Queuing"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Algoritma sorting yang bekerja dengan cara membandingkan dua elemen bersebelahan dan menukarnya jika urutannya salah, lalu mengulang proses hingga seluruh data terurut disebut ...",
+      "opsi": [
+        "Insertion Sort",
+        "Selection Sort",
+        "Bubble Sort",
+        "Merge Sort",
+        "Quick Sort"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Algoritma sorting yang bekerja dengan cara menyisipkan setiap elemen ke posisi yang tepat pada bagian data yang sudah terurut disebut ...",
+      "opsi": [
+        "Insertion Sort",
+        "Selection Sort",
+        "Bubble Sort",
+        "Merge Sort",
+        "Quick Sort"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Algoritma sorting yang bekerja dengan cara mencari nilai terkecil dari data yang belum terurut, lalu menukarnya dengan elemen pada posisi paling awal disebut ...",
+      "opsi": [
+        "Insertion Sort",
+        "Selection Sort",
+        "Bubble Sort",
+        "Merge Sort",
+        "Quick Sort"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Algoritma sorting yang menggunakan pendekatan divide and conquer dengan cara membagi data menjadi dua bagian, mengurutkan masing-masing, lalu menggabungkannya kembali disebut ...",
+      "opsi": [
+        "Insertion Sort",
+        "Selection Sort",
+        "Bubble Sort",
+        "Merge Sort",
+        "Quick Sort"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Seorang pengguna internet membuat dan menyebarkan konten yang menghina kelompok tertentu sehingga memicu konflik sosial. Tindakan tersebut menunjukkan bahwa penggunaan informatika dapat berdampak ....",
+      "pertanyaan": "Algoritma sorting yang memilih sebuah elemen sebagai pivot, lalu mempartisi data menjadi dua bagian (lebih kecil dan lebih besar dari pivot) disebut ...",
       "opsi": [
-        "meningkatkan kualitas Pendidikan",
-        "mempercepat pertukaran data ilmiah",
-        "memperluas peluang kerja digital",
-        "meningkatkan efisiensi komunikasi organisasi",
-        "menimbulkan masalah etika dan kerukunan sosial"
+        "Insertion Sort",
+        "Selection Sort",
+        "Bubble Sort",
+        "Merge Sort",
+        "Quick Sort"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Belajar menggunakan internet dengan baik disebut ...",
+      "pertanyaan": "Struktur data yang menerapkan prinsip LIFO (Last In First Out) adalah ...",
       "opsi": [
-        "Literasi digital",
-        "Analisis data",
-        "Pemrograman",
-        "Editing video",
-        "Browsing"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Berikut yang termasuk etika dalam penggunaan internet adalah ...",
-      "opsi": [
-        "Menyebarkan virus",
-        "Menghormati privasi orang lain",
-        "Membobol akun",
-        "Menghina teman",
-        "Menyebar hoaks"
+        "Queue",
+        "Stack",
+        "Array",
+        "Linked List",
+        "Tree"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Dampak positif teknologi dalam pendidikan adalah ...",
+      "pertanyaan": "Operasi untuk menambahkan elemen ke dalam stack disebut ...",
       "opsi": [
-        "Sulit mencari informasi",
-        "Pembelajaran lebih mudah",
-        "Cyberbullying meningkat",
-        "Penipuan online",
-        "Penyebaran virus computer"
+        "Pop",
+        "Push",
+        "Enqueue",
+        "Dequeue",
+        "Peek"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Data pribadi yang harus dijaga kerahasiaannya adalah ...",
+      "pertanyaan": "Operasi untuk mengambil dan menghapus elemen dari stack disebut ...",
       "opsi": [
-        "Nama sekolah",
-        "Jadwal Pelajaran",
-        "Password akun",
-        "Nama kota",
-        "Nama Pelajaran"
+        "Push",
+        "Pop",
+        "Enqueue",
+        "Dequeue",
+        "Insert"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Struktur data yang menerapkan prinsip FIFO (First In First Out) adalah ...",
+      "opsi": [
+        "Stack",
+        "Queue",
+        "Array",
+        "Graph",
+        "Tree"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Operasi untuk menambahkan elemen ke dalam queue disebut ...",
+      "opsi": [
+        "Push",
+        "Pop",
+        "Enqueue",
+        "Dequeue",
+        "Peek"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Kecanduan bermain game online dapat menyebabkan ...",
+      "pertanyaan": "Operasi untuk mengambil dan menghapus elemen dari queue disebut ...",
       "opsi": [
-        "Prestasi belajar meningkat",
-        "Waktu belajar berkurang",
-        "Tubuh lebih sehat",
-        "Komunikasi lebih baik",
-        "Konsentrasi meningkat"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Mengunggah foto atau video ke internet disebut ...",
-      "opsi": [
-        "Download",
-        "Upload",
-        "Printing",
-        "Copy",
-        "Delete"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Salah satu manfaat internet adalah ...",
-      "opsi": [
-        "Menyulitkan komunikasi",
-        "Membatasi informasi",
-        "Mengurangi pengetahuan",
-        "Memperlambat pekerjaan",
-        "Memudahkan mencari informasi"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Cyberbullying adalah ...",
-      "opsi": [
-        "Belajar daring",
-        "ngedit video",
-        "Membuat program",
-        "Perundungan melalui media digital",
-        "Menonton video"
+        "Push",
+        "Pop",
+        "Enqueue",
+        "Dequeue",
+        "Insert"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Berikut yang merupakan contoh penggunaan teknologi secara bijak adalah ...",
+      "pertanyaan": "Contoh penerapan queue dalam kehidupan sehari-hari adalah ...",
       "opsi": [
-        "Menyebarkan hoaks",
-        "Bermain game sepanjang hari",
-        "Menggunakan internet untuk belajar",
-        "Membuka akun orang lain",
-        "Menghina teman di media sosial"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Tujuan menjaga etika digital adalah ...",
-      "opsi": [
-        "Agar internet lambat",
-        "Agar penggunaan teknologi aman dan nyaman",
-        "Agar data cepat hilang",
-        "Agar akun mudah diretas",
-        "Agar informasi sulit diperoleh"
+        "Tumpukan piring",
+        "Antrian pembelian tiket",
+        "Undo pada aplikasi",
+        "Back button browser",
+        "Tumpukan buku"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Microsoft Word digunakan untuk ...",
+      "pertanyaan": "Contoh penerapan stack dalam kehidupan sehari-hari adalah ...",
       "opsi": [
-        "Mengolah angka",
-        "Mengedit video",
-        "Mengolah kata",
-        "Membuat game",
-        "Membuat music"
+        "Antrian bank",
+        "Antrian kasir",
+        "Fitur Undo pada aplikasi pengolah kata",
+        "Antrian tol",
+        "Antrian rumah sakit"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Microsoft Excel digunakan untuk ...",
+      "pertanyaan": "Integrasi aplikasi perkantoran berarti ...",
       "opsi": [
-        "Mengolah gambar",
-        "Mengolah angka dan data",
-        "Membuat animasi",
-        "Mengedit video",
-        "Membuat jaringan"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Ikon untuk menyimpan file pada Microsoft Word adalah ...",
-      "opsi": [
-        "Save",
-        "Copy",
-        "Paste",
-        "Undo",
-        "Print"
+        "Menggabungkan beberapa aplikasi perkantoran agar saling terhubung dan dapat bertukar data",
+        "Menghapus aplikasi perkantoran",
+        "Menginstal ulang sistem operasi",
+        "Membuat aplikasi baru dari nol",
+        "Menjual aplikasi perkantoran"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Perintah untuk menyalin teks disebut ...",
+      "pertanyaan": "Berikut ini yang termasuk aplikasi perkantoran adalah ...",
       "opsi": [
-        "Paste",
-        "Save",
-        "Copy",
-        "Delete",
-        "Print"
+        "Microsoft Word, Excel, dan PowerPoint",
+        "Photoshop, CorelDraw, dan Illustrator",
+        "Visual Studio, Eclipse, dan NetBeans",
+        "WinRAR, 7-Zip, dan WinZip",
+        "VLC, Media Player, dan Spotify"
       ],
-      "jawaban": "C"
+      "jawaban": "A"
     },
     {
-      "pertanyaan": "Shortcut untuk menempelkan hasil copy adalah ...",
+      "pertanyaan": "Fitur Mail Merge pada Microsoft Word digunakan untuk ...",
       "opsi": [
-        "Ctrl + C",
-        "Ctrl + X",
-        "Ctrl + V",
-        "Ctrl + S",
-        "Ctrl + P"
+        "Menggabungkan dokumen utama dengan sumber data untuk membuat surat massal",
+        "Menghitung nilai rata-rata",
+        "Membuat presentasi",
+        "Mengedit foto",
+        "Membuat animasi"
       ],
-      "jawaban": "C"
+      "jawaban": "A"
     },
     {
-      "pertanyaan": "Bagian paling atas pada jendela Microsoft Word disebut ...",
+      "pertanyaan": "Integrasi antara Microsoft Excel dan Microsoft Word dapat dilakukan dengan cara ...",
       "opsi": [
-        "Ribbon",
-        "Title Bar",
-        "Status Bar",
-        "Toolbar",
-        "Menu Bar"
+        "Copy-Paste atau OLE (Object Linking and Embedding)",
+        "Menghapus file Excel",
+        "Mengubah format file menjadi JPG",
+        "Menginstal ulang Windows",
+        "Mematikan komputer"
       ],
-      "jawaban": "B"
+      "jawaban": "A"
     },
     {
-      "pertanyaan": "Fungsi Ctrl + S pada Microsoft Word adalah ...",
+      "pertanyaan": "Berikut ini yang bukan merupakan manfaat integrasi aplikasi perkantoran adalah ...",
       "opsi": [
-        "Membuka file",
-        "Menyalin teks",
-        "Mencetak dokumen",
-        "Menyimpan file",
-        "Menutup dokumen"
+        "Meningkatkan efisiensi kerja",
+        "Mengurangi kesalahan input data",
+        "Mempercepat proses pembuatan laporan",
+        "Membuat pekerjaan menjadi lebih lambat",
+        "Memudahkan berbagi data antar aplikasi"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Untuk mencetak dokumen digunakan perintah ...",
+      "pertanyaan": "Perhatikan data berikut: 5, 3, 8, 1, 9. Jika diurutkan secara ascending menggunakan Bubble Sort, hasil akhirnya adalah ...",
       "opsi": [
-        "Save",
-        "Paste",
-        "Print",
-        "Undo",
-        "Replace"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Pada Microsoft Excel, pertemuan antara baris dan kolom disebut ...",
-      "opsi": [
-        "Cell",
-        "Sheet",
-        "Workbook",
-        "Range",
-        "Menu"
+        "1, 3, 5, 8, 9",
+        "9, 8, 5, 3, 1",
+        "5, 3, 8, 1, 9",
+        "1, 5, 3, 8, 9",
+        "9, 1, 8, 3, 5"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Rumus pada Microsoft Excel selalu diawali dengan tanda ...",
+      "pertanyaan": "Perhatikan data berikut: 7, 2, 9, 4, 6. Jika diurutkan secara ascending menggunakan Selection Sort, hasil akhirnya adalah ...",
       "opsi": [
-        "+",
-        "-",
-        "=",
-        "/",
-        "*"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Rumus untuk menjumlahkan data pada Excel adalah ...",
-      "opsi": [
-        "=AVERAGE",
-        "=SUM",
-        "=MAX",
-        "=MIN",
-        "=COUNT"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Program Microsoft Excel termasuk aplikasi ...",
-      "opsi": [
-        "Pengolah kata",
-        "Pengolah gambar",
-        "Pengolah angka",
-        "Browser internet",
-        "Pemutar video"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Shortcut untuk mencetak dokumen adalah ...",
-      "opsi": [
-        "Ctrl + P",
-        "Ctrl + C",
-        "Ctrl + V",
-        "Ctrl + S",
-        "Ctrl + Z"
+        "2, 4, 6, 7, 9",
+        "9, 7, 6, 4, 2",
+        "7, 2, 9, 4, 6",
+        "2, 7, 4, 9, 6",
+        "6, 4, 9, 2, 7"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Fungsi dari Bold pada Microsoft Word adalah ...",
+      "pertanyaan": "Perhatikan data berikut: 4, 1, 3, 2. Jika diurutkan secara ascending menggunakan Insertion Sort, urutan langkah yang benar adalah ...",
       "opsi": [
-        "Memiringkan tulisan",
-        "Menggarisbawahi tulisan",
-        "Menghapus tulisan",
-        "Menebalkan tulisan",
-        "Mewarnai tulisan"
+        "1, 4, 3, 2 → 1, 3, 4, 2 → 1, 2, 3, 4",
+        "4, 1, 3, 2 → 4, 3, 1, 2 → 4, 3, 2, 1",
+        "1, 2, 3, 4 → 4, 3, 2, 1",
+        "4, 3, 2, 1 → 1, 2, 3, 4",
+        "1, 4, 2, 3 → 1, 2, 4, 3 → 1, 2, 3, 4"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Algoritma sorting yang paling efisien untuk data berukuran besar adalah ...",
+      "opsi": [
+        "Bubble Sort",
+        "Insertion Sort",
+        "Selection Sort",
+        "Merge Sort dan Quick Sort",
+        "Semua sama efisien"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Ikon huruf \"U\" pada Microsoft Word berfungsi untuk ...",
+      "pertanyaan": "Kompleksitas waktu rata-rata algoritma Quick Sort adalah ...",
       "opsi": [
-        "Menebalkan teks",
-        "Memiringkan teks",
-        "Menghapus teks",
-        "Menyalin teks",
-        "Menggarisbawahi teks"
+        "O(n)",
+        "O(n log n)",
+        "O(n^2)",
+        "O(log n)",
+        "O(1)"
       ],
-      "jawaban": "E"
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Kompleksitas waktu terburuk algoritma Bubble Sort adalah ...",
+      "opsi": [
+        "O(n)",
+        "O(n log n)",
+        "O(n^2)",
+        "O(log n)",
+        "O(1)"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dalam konteks berpikir komputasional, membuat langkah-langkah penyelesaian masalah secara runtut dan logis disebut ...",
+      "opsi": [
+        "Dekomposisi",
+        "Abstraksi",
+        "Pengenalan pola",
+        "Algoritma",
+        "Evaluasi"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Perhatikan pernyataan berikut!<br><br><blockquote>\"Sebuah tumpukan piring di dapur. Piring yang terakhir diletakkan akan menjadi piring yang pertama diambil.\"</blockquote><br>Pernyataan tersebut merupakan contoh dari struktur data ...",
+      "opsi": [
+        "Queue",
+        "Stack",
+        "Array",
+        "Tree",
+        "Graph"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perhatikan pernyataan berikut!<br><br><blockquote>\"Di loket pembayaran, orang yang datang pertama akan dilayani terlebih dahulu.\"</blockquote><br>Pernyataan tersebut merupakan contoh dari struktur data ...",
+      "opsi": [
+        "Stack",
+        "Queue",
+        "Array",
+        "Tree",
+        "Graph"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perintah untuk menggabungkan data dari Microsoft Excel ke Microsoft Word dengan tetap terhubung ke sumber data disebut ...",
+      "opsi": [
+        "Copy-Paste biasa",
+        "Object Linking and Embedding (OLE)",
+        "Screenshot",
+        "Export to PDF",
+        "Print Screen"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Berikut ini yang merupakan contoh integrasi antara aplikasi pengolah kata dan aplikasi presentasi adalah ...",
+      "opsi": [
+        "Menyisipkan tabel dari Word ke PowerPoint",
+        "Mengedit foto di Photoshop",
+        "Menghitung nilai di Excel",
+        "Mengirim email",
+        "Mencetak dokumen"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Manfaat utama dari integrasi aplikasi perkantoran dalam dunia kerja adalah ...",
+      "opsi": [
+        "Meningkatkan efisiensi dan produktivitas kerja",
+        "Membuat pekerjaan menjadi lebih rumit",
+        "Menambah biaya operasional",
+        "Mengurangi jumlah karyawan",
+        "Memperlambat proses kerja"
+      ],
+      "jawaban": "A"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Sebutkan dua fungsi Microsoft Excel!"
+      "pertanyaan": "Jelaskan apa yang dimaksud dengan berpikir komputasional dan sebutkan empat pilarnya!"
     },
     {
-      "pertanyaan": "Apa yang dimaksud dengan dampak sosial informatika?"
+      "pertanyaan": "Jelaskan perbedaan antara algoritma Bubble Sort, Selection Sort, dan Insertion Sort!"
     },
     {
-      "pertanyaan": "Sebutkan dua dampak positif dan dua dampak negatif penggunaan media sosial!"
+      "pertanyaan": "Jelaskan cara kerja algoritma Merge Sort dan Quick Sort, serta sebutkan kelebihan masing-masing!"
     },
     {
-      "pertanyaan": "Apa perbedaan Microsoft Word dan Microsoft Excel?"
+      "pertanyaan": "Jelaskan perbedaan antara Stack dan Queue beserta contoh penerapannya dalam kehidupan sehari-hari!"
     },
     {
-      "pertanyaan": "Apa fungsi rumus SUM pada Microsoft Excel dan menu Print pada Microsoft Word?"
+      "pertanyaan": "Jelaskan apa yang dimaksud dengan integrasi aplikasi perkantoran dan berikan tiga contoh penerapannya!"
     }
   ]
 }
