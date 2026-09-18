@@ -1,406 +1,406 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Seni rupa adalah cabang seni yang mengekspresikan gagasan dan perasaan melalui media yang dapat...",
+      "pertanyaan": "Apa yang dimaksud dengan seni?",
       "opsi": [
-        "Didengar",
-        "Dilihat dan diraba",
-        "Dirasakan secara batin saja",
-        "Dinyanyikan",
-        "Diraba"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Unsur seni rupa yang menjadi dasar terbentuknya semua visual adalah...",
-      "opsi": [
-        "Bidang",
-        "Warna",
-        "Titik",
-        "Ruang",
-        "Tekstur"
+        "Proses belajar bahasa asing",
+        "Kegiatan fisik melibatkan olahraga",
+        "Pembuatan dan penciptaan karya yang mengungkapkan ide melalui media tertentu",
+        "Aktivitas sehari-hari masyarakat",
+        "Pembuatan bahan pangan"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Gabungan beberapa titik yang memanjang akan membentuk...",
+      "pertanyaan": "Dari manakah kita dapat belajar seni?",
       "opsi": [
-        "Warna",
-        "Garis",
-        "Tekstur",
-        "Ruang",
-        "Komposisi"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Perbedaan antara panjang dan lebar yang memiliki batas disebut...",
-      "opsi": [
-        "Ruang",
-        "Garis",
-        "Volume",
-        "Bidang",
-        "Irama"
+        "Dari saat kita lahir ke dunia",
+        "Dari dalam kandungan",
+        "Dari hati ke hati",
+        "Dari kebiasaan sehari-hari",
+        "Dari sahabat dan keluarga"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Kesan gelap-terang dalam karya dua dimensi disebut...",
+      "pertanyaan": "Seni dapat menimbulkan ketenangan dan ketentraman hidup, apabila...",
       "opsi": [
-        "Perspektif",
-        "Komposisi",
-        "Gradasi",
-        "Gelap terang (value)",
-        "Harmoni"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Prinsip seni rupa yang menekankan keseimbangan visual disebut...",
-      "opsi": [
-        "Kontras",
-        "Proporsi",
-        "Balance",
-        "Irama",
-        "Dominasi"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Warna merah, kuning, dan biru disebut warna...",
-      "opsi": [
-        "Sekunder",
-        "Tersinder",
-        "Netral",
-        "Primer",
-        "Analog"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Warna hasil pencampuran dua warna primer disebut warna...",
-      "opsi": [
-        "Primer",
-        "Sekunder",
-        "Tersier",
-        "Komplementer",
-        "Netral"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Karya seni rupa dua dimensi memiliki ukuran...",
-      "opsi": [
-        "Panjang, lebar, dan tinggi",
-        "Tinggi dan volume",
-        "Panjang dan lebar",
-        "Volume dan massa",
-        "Berat dan ruang"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Contoh karya seni rupa dua dimensi adalah...",
-      "opsi": [
-        "Patung",
-        "Relief",
-        "Lukisan",
-        "Keramik",
-        "Instalasi"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Teknik menggambar dengan mengandalkan garis luar objek tanpa detail disebut teknik...",
-      "opsi": [
-        "Blok",
-        "Dusel",
-        "Arsir",
-        "Outline",
-        "Pointilis"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Teknik menggambar menggunakan titik-titik disebut...",
-      "opsi": [
-        "Arsir",
-        "Blok",
-        "Pointilis",
-        "Dusel",
-        "Linear"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Prinsip seni rupa yang menunjukan pengulangan unsur secara teratur disebut...",
-      "opsi": [
-        "Irama",
-        "Kontras",
-        "Kesatuan",
-        "Proporsi",
-        "Harmoni"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Susunan unsur-unsur seni rupa dalam suatu karya disebut...",
-      "opsi": [
-        "Komposisi",
-        "Perspektif",
-        "Sketsa",
-        "Teknik",
-        "Ekspresi"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Perbandingan ukuran antara bagian satu dengan yang lain disebut...",
-      "opsi": [
-        "Irama",
-        "Proporsi",
-        "Kontras",
-        "Dominasi",
-        "Ritme"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Unsur seni rupa yang berkaitan dengan kesan permukaan kasar atau halus adalah...",
-      "opsi": [
-        "Bidang",
-        "Warna",
-        "Tekstur",
-        "Ruang",
-        "Gelap terang"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Warna yang berseberangan dalam lingkaran warna disebut warna...",
-      "opsi": [
-        "Analog",
-        "Primer",
-        "Sekunder",
-        "Komplementer",
-        "Netral"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Ilusi kedalaman pada karya dua dimensi dapat diciptakan melalui Teknik...",
-      "opsi": [
-        "Kolase",
-        "Perspektif",
-        "Cetak",
-        "Aquarel",
-        "Blok"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Salah satu fungsi seni rupa dalam kehidupan sehari-hari Adalah...",
-      "opsi": [
-        "Hiburan saja",
-        "Ekspresi dan fungsi pakai",
-        "Pendidikan saja",
-        "Upacara saja",
-        "Estetika saja"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Gambar rancangan awal sebelum membuat karya disebut...",
-      "opsi": [
-        "Ilustrasi",
-        "Sketsa",
-        "Mozaik",
-        "Poster",
-        "Karikatur"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Harmoni dalam karya seni rupa berarti...",
-      "opsi": [
-        "Adanya perbedaan mencolok",
-        "Susunan yang bertentangan",
-        "Keselarasan antar unsur",
-        "Pengulangan berlebihan",
-        "Dominasi satu warna"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Contoh karya seni rupa dua dimensi yang memiliki fungsi komunikasi visual adalah...",
-      "opsi": [
-        "Patung",
-        "Lukisna abstrak",
-        "Poster",
-        "Kerajinan kayu",
-        "Relief batu"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Teknik arsir digunakan untuk menampilkan...",
-      "opsi": [
-        "Warna cerah",
-        "Gelap terang",
-        "Tekstur kasar saja",
-        "Bentuk geometris saja",
-        "Warna primer"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Unsur ruang dalam karya dua dimensi bersifat...",
-      "opsi": [
-        "Nyata",
-        "Fisik",
-        "Tiga dimensi",
-        "Semu (ilusi)",
-        "Berwujud"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Poster adalah karya seni rupa yang berfungsi untuk...",
-      "opsi": [
-        "Menghibur pembaca semata",
-        "Menyampaikan informasi atau ajakan kepada Masyarakat",
-        "Menghias ruangan tanpa makna",
-        "Menuliskan cerita pendek",
-        "Menampilkan karya sastra"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Ciri utama poster yang baik adalah...",
-      "opsi": [
-        "Tulisannya panjang dan rinci",
-        "Sulit dipahami pembaca",
-        "Menarik perhatian dan mudah dipahami",
-        "Menggunakan banyak paragraph",
-        "Berisi gambar tanpa tulisan"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Poster yang digunakan untuk mempromosikan suatu produk disebut poster...",
-      "opsi": [
-        "Pendidikan",
-        "Layanan Masyarakat",
-        "Kegiatan",
-        "Niaga",
-        "Budaya"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Salah satu fungsi poster adalah...",
-      "opsi": [
-        "Menyebarkan Informasi",
-        "Menyimpan Data",
-        "Menuliskan Laporan Penelitian",
-        "Mengarsipkan Dokumen",
-        "Menyusun Karya Ilmiah"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Kalimat dalam poster sebaiknya bersifat...",
-      "opsi": [
-        "Panjang dan bertele-tele",
-        "Singkat, padat, dan jelas",
-        "Rumit dan ilmiah",
-        "Sulit dipahami",
-        "Menggunakan bahasa asing"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Unsur yang paling menonjol dalam sebuah poster adalah...",
-      "opsi": [
-        "Daftar Pustaka",
-        "Catatan kaki",
-        "Gambar dan warna",
-        "Nomor halaman",
-        "Lampiran"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Seni lukis merupakan cabang seni...",
-      "opsi": [
-        "Musik",
-        "Tari",
-        "Teater",
-        "Sastra",
-        "Rupa"
+        "Didengarkan dengan waktu lama",
+        "Dirasakan dengan sepenuh hati",
+        "Diciptakan dengan totalitas",
+        "Digunakan dengan sebaik-baiknya",
+        "Diapresiasi dengan baik, kemudian menghargai atas karya seni yang dihasilkan"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Media yang paling umum digunakan dalam seni lukis adalah...",
+      "pertanyaan": "Seni berasal dari bahasa (Sanskerta) yang berarti...",
       "opsi": [
-        "Kanvas dan cat",
-        "Tanah liat",
-        "Batu pahat",
-        "Kain batik",
-        "Logam"
+        "Perundungan dan perkelahian",
+        "Permainan",
+        "Perdagangan",
+        "Pembangkitan dan pemujaan",
+        "Pemujaan, persembahan dan pelayanan"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Dibawah ini merupakan dasar-dasar seni yaitu...",
+      "opsi": [
+        "Indah, besar, kontekstual",
+        "Kreatif, individual, ekspresif",
+        "Individual, kelompok",
+        "Sempit dan ekspresif",
+        "Luas, inovatif, statis"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Aliran seni lukis yang menggambarkan objek sesuai keadaan sebenarnya disebut...",
+      "pertanyaan": "Dari bahasa manakah kata \"budaya\" berasal?",
       "opsi": [
-        "Abstrak",
-        "Kubisme",
-        "Realisme",
-        "Surealisme",
-        "Futurisme"
+        "Bahasa latin",
+        "Bahasa yunani",
+        "Bahasa sanskerta",
+        "Bahasa arab",
+        "Bahasa kalbu"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Tokoh pelukis Indonesia yang terkenal dengan lukisan ekspresifnya adalah...",
+      "pertanyaan": "Budaya berasal dari kata buddayah yang merupakan bentuk jamak dari buddhi yang berarti budi atau akal yang mana berarti...",
       "opsi": [
-        "Raden Saleh",
-        "Affandi",
-        "Basoeki Abdullah",
-        "Hendra gunawan",
-        "S. Sudjojono"
+        "Segala hal yang berkaitan dengan budi dan akal",
+        "Segala hal yang berkaitan dengan seni",
+        "Segala hal yang berkaitan dengan kemampuan",
+        "Segala hal yang berkaitan dengan masyarakat",
+        "Segala hal yang berkaitan dengan kepribadian"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Apa unsur yang membentuk kebudayaan dalam masyarakat?",
+      "opsi": [
+        "Teknologi",
+        "Pendidikan formal",
+        "Nilai, norma dan kebiasaan",
+        "Struktur pemerintah",
+        "Perilaku tidak terpuji"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "7 unsur kebudayaan meliputi apa saja?",
+      "opsi": [
+        "Bahasa",
+        "Teknologi",
+        "Mata pencaharian",
+        "Tidak ada yang benar",
+        "Semua benar"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Istilah musik berasal dari bahasa...",
+      "opsi": [
+        "Italia",
+        "Yunani",
+        "Prancis",
+        "Amerika Serikat",
+        "Inggris"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Aliran seni lukis yang lebih mengutamakan ungkapan perasaan pelukis disebut...",
+      "pertanyaan": "Manakah yang merupakan alat musik gesek?",
       "opsi": [
-        "Naturalisme",
-        "Realisme",
-        "Ekspresionisme",
-        "Romantisme",
-        "Klasikisme"
+        "Gitar",
+        "Piano",
+        "Biola",
+        "Drum",
+        "Flute"
       ],
       "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Manakah yang termasuk ke dalam alat musik tiup?",
+      "opsi": [
+        "Gitar",
+        "Terompet",
+        "Biola",
+        "Drum",
+        "Piano"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Manakah yang merupakan alat musik perkusi?",
+      "opsi": [
+        "Gitar",
+        "Trombone",
+        "Drum",
+        "Biola",
+        "Flute"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Manakah yang merupakan alat musik tepuk?",
+      "opsi": [
+        "Kendang",
+        "Saron",
+        "Flute",
+        "Suling",
+        "Terompet"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Manakah yang merupakan alat musik pukul?",
+      "opsi": [
+        "Gitar",
+        "Gong",
+        "Kendang",
+        "Meja",
+        "Biola"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Apakah yang dimaksud dengan dinamika dalam musik?",
+      "opsi": [
+        "Kecepatan lagu",
+        "Volume suara yang dimainkan",
+        "Jenis alat musik yang digunakan",
+        "Ritme dalam lagu",
+        "Gaya vokal penyanyi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Apa yang dimaksud dengan interval dalam musik?",
+      "opsi": [
+        "Jarak antara dua ketukan",
+        "Jarak antara nada satu dengan nada lainnya",
+        "Jarak antara dua instrumen",
+        "Perbedaan antara dua tempo",
+        "Jarak antara dua notasi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Apa itu tangga nada pentatonik?",
+      "opsi": [
+        "Tangga nada yang terdiri 7 nada",
+        "Tangga nada yang terdiri 8 nada",
+        "Tangga nada yang terdiri 5 nada",
+        "Tangga nada yang terdiri 3 nada",
+        "Tangga nada yang memiliki interval setengah"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Apa itu tangga nada diatonik?",
+      "opsi": [
+        "Tangga nada yang terdiri 7 nada",
+        "Tangga nada yang terdiri 8 nada",
+        "Tangga nada yang terdiri 5 nada",
+        "Tangga nada yang terdiri 3 nada",
+        "Tangga nada yang memiliki interval setengah"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Apa yang dimaksud dengan melodi?",
+      "opsi": [
+        "Pola ketukan dalam musik",
+        "Urutan nada yang membentuk suatu lagu",
+        "Pengulangan ritme",
+        "Bagian paling keras dari sebuah lagu",
+        "Irama lagu"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Manakah yang merupakan jenis vokal tertinggi pada pria?",
+      "opsi": [
+        "Baritone",
+        "Tenor",
+        "Bass",
+        "Soprano",
+        "Alto"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Manakah yang merupakan jenis vokal tertinggi pada wanita?",
+      "opsi": [
+        "Baritone",
+        "Tenor",
+        "Bass",
+        "Soprano",
+        "Alto"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Manakah yang merupakan jenis vokal terendah pada pria?",
+      "opsi": [
+        "Baritone",
+        "Tenor",
+        "Bass",
+        "Soprano",
+        "Alto"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Manakah yang merupakan jenis vokal terendah pada wanita?",
+      "opsi": [
+        "Baritone",
+        "Tenor",
+        "Bass",
+        "Soprano",
+        "Alto"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Apa yang dimaksud dengan \"staccato\"?",
+      "opsi": [
+        "Memainkan nada dengan sambung atau lancar",
+        "Memainkan nada secara terputus-putus",
+        "Memainkan nada dengan penekanan",
+        "Memainkan dengan kecepatan tinggi",
+        "Memainkan dengan volume keras"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Apa yang dimaksud dengan alat musik chordophone?",
+      "opsi": [
+        "Alat musik yang menghasilkan suara melalui getaran udara",
+        "Alat musik yang menghasilkan suara berasal dari rangkaian senar atau dawai",
+        "Alat musik yang menghasilkan suara dengan cara ditiup",
+        "Alat musik yang menghasilkan suara dengan melalui tabuhan",
+        "Alat musik yang menghasilkan suara berasal dari alat musik itu sendiri"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Manakah yang termasuk ke dalam kategori aerophone?",
+      "opsi": [
+        "Gitar",
+        "Biola",
+        "Flute",
+        "Drum",
+        "Piano"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Alat musik membranophone menghasilkan suara melalui...",
+      "opsi": [
+        "Getaran senar",
+        "Getaran selaput tipis",
+        "Getaran logam",
+        "Getaran udara",
+        "Vibrasi kayu yang dipukul"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Alat musik membranophone yang berperan sebagai pengiring gamelan pada musik tradisional Jawa, Bali, Sunda dan Banten adalah...",
+      "opsi": [
+        "Gendang",
+        "Kecrek",
+        "Bonang",
+        "Rebana",
+        "Seruling"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Jenis alat musik yang sumber suaranya berasal dari rangkaian elektronika yang ada di alat musiknya itu sendiri adalah...",
+      "opsi": [
+        "Aerophone",
+        "Idiophone",
+        "Membranophone",
+        "Electrophone",
+        "Chordophone"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Perhatikan pernyataan berikut!<br><br><blockquote>Sebuah alat musik memiliki beberapa senar yang dipasang pada bagian tubuh alat musik. Ketika senar dipetik, getarannya diteruskan ke bagian tubuh alat sehingga menghasilkan bunyi yang lebih kuat.</blockquote><br>Berdasarkan proses tersebut, alasan yang <b>paling tepat</b> alat musik tersebut dikategorikan sebagai chordophone adalah...",
+      "opsi": [
+        "Dimainkan dengan cara dipetik",
+        "Memiliki tubuh alat yang berfungsi sebagai resonator",
+        "Menghasilkan bunyi melalui getaran senar sebagai sumber bunyi utama",
+        "Memiliki beberapa senar dengan ukuran yang berbeda",
+        "Menghasilkan bunyi yang dapat digunakan untuk memainkan melodi"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Seorang siswa mengatakan:<br><br><blockquote>\"<i>Gitar termasuk chordophone karena biasanya digunakan untuk memainkan akor</i>.\"</blockquote><br>Pernyataan tersebut kurang tepat karena...",
+      "opsi": [
+        "Gitar hanya dapat digunakan untuk memainkan melodi",
+        "Chordophone tidak berkaitan dengan cara penggunaan alat musik",
+        "Gitar sebenarnya termasuk alat musik idiophone",
+        "Pengelompokan chordophone ditentukan berdasarkan fungsi harmoninya",
+        "Pengelompokan chordophone ditentukan berdasarkan sumber bunyi, yaitu getaran senar"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Perhatikan kelompok alat musik berikut!<br><br><blockquote><b>Kelompok I:</b> gitar, kacapi, biola<br><b>Kelompok II:</b> suling, recorder, terompet<br><b>Kelompok III:</b> kendang, tifa, bedug<br><b>Kelompok IV:</b> angklung, gong, kolintang</blockquote><br>Jika dikelompokkan berdasarkan <b>sumber bunyinya</b>, urutan klasifikasi yang benar adalah...",
+      "opsi": [
+        "Aerophone -- Chordophone -- Membranophone -- Idiophone",
+        "Chordophone -- Aerophone -- Membranophone -- Idiophone",
+        "Chordophone -- Membranophone -- Aerophone -- Idiophone",
+        "Idiophone -- Aerophone -- Chordophone -- Membranophone",
+        "Membranophone -- Chordophone -- Idiophone -- Aerophone"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Pada gitar, ketika seorang pemain menekan senar pada fret yang berbeda, panjang bagian senar yang dapat bergetar menjadi berbeda. Perubahan tersebut terutama menyebabkan...",
+      "opsi": [
+        "Perubahan warna bunyi atau timbre gitar",
+        "Perubahan volume suara gitar secara otomatis",
+        "Perubahan frekuensi sehingga menghasilkan tinggi nada yang berbeda",
+        "Perubahan sumber bunyi dari senar menjadi badan gitar",
+        "Perubahan klasifikasi gitar dari chordophone menjadi idiophone"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perhatikan karakteristik empat alat musik berikut!<br><br><blockquote>- Menghasilkan bunyi dari getaran senar.<br>- Menghasilkan bunyi dari getaran udara di dalam alat.<br>- Menghasilkan bunyi dari getaran selaput atau membran.<br>- Menghasilkan bunyi dari getaran badan alat musik itu sendiri.</blockquote><br>Urutan klasifikasi yang tepat berdasarkan karakteristik tersebut adalah...",
+      "opsi": [
+        "Chordophone -- Aerophone -- Membranophone -- Idiophone",
+        "Aerophone -- Chordophone -- Idiophone -- Membranophone",
+        "Membranophone -- Idiophone -- Chordophone -- Aerophone",
+        "Idiophone -- Membranophone -- Aerophone -- Chordophone",
+        "Chordophone -- Membranophone -- Aerophone -- Idiophone"
+      ],
+      "jawaban": "A"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Jelaskan perbedaan antara poster niaga, poster pendidikan, dan poster layanan masyarakat disertai masing-masing satu contoh!"
+      "pertanyaan": "Jelaskan pengertian alat musik chordophone dan sebutkan dua contoh alat musik yang termasuk dalam kategori ini!"
     },
     {
-      "pertanyaan": "Sebutkan dan jelaskan lima ciri poster yang baik!"
+      "pertanyaan": "Jelaskan perbedaan antara alat musik aerophone dan idiophone, serta berikan masing-masing satu contoh alat musiknya!"
     },
     {
-      "pertanyaan": "Jelaskan perbedaan aliran Naturalisme, Realisme, dan Ekspresionisme dalam seni lukis!"
+      "pertanyaan": "Mengapa seni musik dapat dikatakan berbeda dengan cabang seni lainnya?"
     },
     {
-      "pertanyaan": "Menurut pendapatmu, apakah semua karya seni rupa dua dimensi harus memenuhi seluruh prinsip seni rupa (keseimbangan, harmoni, irama, dominasi, proporsi, kesatuan)? Jelaskan jawabanmu dengan argument yang logis!"
+      "pertanyaan": "Jelaskan manfaat kita saat mempelajari dan memahami seni musik!"
     },
     {
-      "pertanyaan": "Mengapa pemilihan warna dan gambar sangat penting dalam pembuatan poster? Jelaskan!"
+      "pertanyaan": "Apa peran alat musik \"perkusi\" dalam pertunjukan orkestra?"
     }
   ]
 }
