@@ -1,406 +1,417 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Istilah tatakrama asalna tina kecap tata & krama, <u>tata</u> hartina . . .",
+      "pertanyaan": "Proses mindahkeun hiji basa kana basa sejenna, disebut proses . . .",
       "opsi": [
-        "Tatacara gaul anu alus jeung papada jalma",
-        "Falsafah moral",
-        "Someah",
-        "Sopan, santun, kalakuan alus",
-        "Aturan, adat, atawa kaedah"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Istilah tatakrama asalna tina kecap tata & krama, <u>krama</u> hartina . . .",
-      "opsi": [
-        "Tatacara gaul anu alus jeung papada jalma",
-        "Falsafah moral",
-        "Someah",
-        "Sopan, santun, kalakuan alus",
-        "Aturan, adat, atawa kaedah"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Istilah etiket asalna tina basa Perancis <i>ethiquette,</i> anu hartina . . .",
-      "opsi": [
-        "Tatacara gaul anu alus jeung papada jalma",
-        "Falsafah moral",
-        "Someah",
-        "Sopan, santun, kalakuan alus",
-        "Aturan, adat, atawa kaedah"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Nu teu kaasup pungsi tatakrama, nyaeta . . .",
-      "opsi": [
-        "Pribadi",
-        "Kultural",
-        "Intuitif",
-        "Instrumental",
-        "Sosial"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Pikeun nuduhkeun silih ajenan antarpribadi dina hirup kumbuh masarakat, mangrupa pungsi tatakrama . . .",
-      "opsi": [
-        "Pribadi",
-        "Kultural",
-        "Intuitif",
-        "Instrumental",
-        "Edukasional"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Tatakrama basa sok disebut oge . . .",
-      "opsi": [
-        "Tatakrama gaul",
-        "Cara dahar jeung nginum",
-        "Formal",
-        "Ngalunjak",
-        "Undak usuk basa"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Tatakrama paripolah contona . . .",
-      "opsi": [
-        "Tatakrama gaul",
-        "Cara dahar jeung nginum",
-        "Formal",
-        "Ngalunjak",
-        "Undak usuk basa"
+        "Transliterasi",
+        "Tarjamahan",
+        "Alih wangun",
+        "Alih aksara",
+        "Transkripsi"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Patali hubungan diri pribadi jeung papada manusa dina hirup ngamasarakat, disebut . . .",
+      "pertanyaan": "Fungsi tarjamahan nyaeta . . .",
       "opsi": [
-        "Tatakrama gaul",
-        "Cara dahar jeung nginum",
-        "Formal",
-        "Ngalunjak",
-        "Undak usuk basa"
+        "Pikeun ngabengharan basa",
+        "Pikeun ngarbah eusi bacaan",
+        "Pikeun ngarobah makna basa",
+        "Pikeun ngabeungharan karya sastra",
+        "Pikeun nambahan kosa kata"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Cara sangkan urang ahli dina narjamahkeun kana basa Sunda nyaeta . . .",
+      "opsi": [
+        "kudu loba nulis tulisan basa Sunda",
+        "kudu loba nyieun karya sastra",
+        "kudu loba nyarita make basa Sunda",
+        "kudu loba maca bacaan basa Sunda",
+        "kudu loba maca bacaan basa Indonesia"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "\"Tebih keneh, Bu? Ceuk Diran, ngareret ka Bu Eni.\"<br><br>Tarjamahan bahasa Indonesia nu pantes tina kalimah di luhur nyaeta . . .",
+      "opsi": [
+        "\"Apakah masih jauh Bu? Kata Diran, sambil melihat Bu Eni.\"",
+        "\"Masih jauh, Bu? Tanya Diran, sambil menoleh ke Bu Eni.\"",
+        "\"Masih jauh ya? Tanya Diran, sambil melotot ke Bu Eni.\"",
+        "\"Udah deket ya Bu? Kata Diran, sambil melihat ke Bu Eni.\"",
+        "\"Bagaimana Bu, masih jauh? Tanya Diran ke Bu Eni.\""
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Ngasakan kadaharan ku cara ngasupkeun kana jero lebu panas, biasana sampeu, hui boled disebut . . .",
+      "opsi": [
+        "Mais",
+        "Meuleum",
+        "Mubuy",
+        "Nyangray",
+        "Nyeupan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Ngasakan kadaharan ku cara diseupan, samemehna dibungkus heula ku daun cau, disebut . . .",
+      "opsi": [
+        "Mais",
+        "Meuleum",
+        "Nyangray",
+        "Manggang",
+        "Ngaliwet"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Carita atawa dongeng anu ngandung unsur sajarah lokal disebutna . . .",
+      "pertanyaan": "Tarjamahan kecap \"<b><i>tumorojog</i></b>\" nyaeta . . .",
       "opsi": [
-        "Mitos",
-        "Legenda",
+        "Datang membawa oleh-oleh",
+        "Datang bersama-sama",
+        "Tidak jadi datang",
+        "Datang tanpa memberi tahu",
+        "Kembali tanpa hasil apa-apa"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "\"Dia sedang bermain di halaman rumah\".<br><br>Kalimah di luhur lamun diterjemahkeun kana basa Sunda nu merenah, nyaeta . . .",
+      "opsi": [
+        "Manehna keur ulin di halaman imah.",
+        "Barudak eta keur ulin di buruan imah.",
+        "Manehna ulin di buruan imah.",
+        "Manehna arulin di hareupeun imah.",
+        "Manehna keur ulin di buruan imah."
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Kecap \"<b><i>nyangkaruk</i></b>\" sarua hartina jeung . . .",
+      "opsi": [
+        "Nyesa",
+        "Cicing",
+        "Namper",
+        "Nambleug",
+        "Namru"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Kecap \"<b><i>gedengeun</i></b>\" sarua harti jeung . . .",
+      "opsi": [
+        "Luhureun",
+        "Handapeun",
+        "Gigireun",
+        "Hareupeun",
+        "Tukangeun"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Kalimah basa Indonesia \"Saya sangat bangga menjadi anak Indonesia\"<br><br>Lamun ditarjamahkeun ku tatakrama basa sunda lemes anu merenah nyaeta . . .",
+      "opsi": [
+        "Abdi kacida reueusna jadi budak Indonesia.",
+        "Urang bungah pisan jadi urang Indonesia.",
+        "Aing bangga jadi warga Indonesia.",
+        "Sim kuring kacida reueusna janten putra Indonesia.",
+        "Pribados bangga pisan janten budak Indonesia."
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Kecap \"Wilueung Sumping\" lamun ditarjamahkeun kana basa Indonesia, nyaeta . . .",
+      "opsi": [
+        "Selamat tinggal",
+        "Selamat pagi",
+        "Selamat sampai tujuan",
+        "Selamat siang",
+        "Selamat datang"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Nalika urang narjamahkeun teks tina basa Indonesia kana basa Sunda, urang kudu merhatikeun undak-usuk basa. Kalimah 'Saya mau makan dulu' lamun ditarjamahkeun kana basa Sunda lemes pikeun dirisorangan nyaeta . . .",
+      "opsi": [
+        "Abdi hoyong neda hela.",
+        "Simkuring hoyong emam hela.",
+        "Abdi bade tuang hela.",
+        "Pribados bade emam hela.",
+        "Kuring hayang dahar hela."
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Babasan/paribasa Indonesia 'Seperti air di daun talas' lamun ditarjamahkeun ku pendekatan kultural kana babasan Sunda hartina sarua jeung . . .",
+      "opsi": [
+        "Kawas cikaracak ninggang batu.",
+        "Kawas minyak jeung cai.",
+        "Kawas bogo gugunturan.",
+        "Kawas cai dina daun taleus.",
+        "Kawas ucing jeung anying."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Kecap-kecap basa Sunda anu hese ditarjamahkeun kana basa Indonesia, nyaeta kecap . . .",
+      "opsi": [
+        "Pangantet",
+        "Panganter",
+        "Panyambung",
+        "Sulur",
+        "Parentah"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Carita rekaan anu ngandung unsur pamohalan disebut . . .",
+      "opsi": [
+        "Carpon",
+        "Novel",
+        "Dongeng",
+        "Esey",
+        "Biografi"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Sasahiji carita dongeng teh <u>anonim</u>, maksudna nyaeta . . .",
+      "opsi": [
+        "Sumebarna sacara lisan",
+        "Sumebarna sacara tinulis",
+        "Kanyahoan anu ngarangna",
+        "Teu kanyahoan saha anu ngarangna",
+        "Ngabogaan amanat"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Dongeng anu asalna ti Kabupaten Garut nyaeta . . .",
+      "opsi": [
+        "Sasakala Kalapa Genep",
+        "Sasakala Situ Bagendit",
+        "Sasakala Leuwi Ronggeng",
+        "Sasakala Citu Cileunca",
+        "Sasakala Gunung Tangkuban Parahu"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Dongeng anu eusina nyaritakeun kahirupan jalma biasa disebut dongeng . . .",
+      "opsi": [
+        "Fabel",
+        "Mite",
+        "Sasakala",
         "Babad",
-        "Sage",
         "Parabel"
       ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Ieu dihandap <i>anu henteu</i> kaasup kana dongeng babad, nyaeta . . .",
-      "opsi": [
-        "Babad Cijulang",
-        "Babad Galuh",
-        "Babad Sumedang",
-        "Babad Banten",
-        "Babad Cikundul"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Tokoh Siliwangi dina sajarah Sunda kaasup tokoh anu ngadeugkeun . . .",
-      "opsi": [
-        "Karajaan Sunda",
-        "Karajaan Galuh",
-        "Karajaan Pajajaran",
-        "Karajaan Kawali",
-        "Karajaan Salakanagara"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Di handap ieu ka asup struktur carita Babad, <i>iwal</i> . . .",
-      "opsi": [
-        "Tema",
-        "Amanat",
-        "Palaku",
-        "Galur",
-        "Irama"
-      ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Inti pikiran atawa puseur implengan pangarang disebut . . .",
+      "pertanyaan": "Dongeng anu eusina patalina jeung sajarah disebut . . .",
       "opsi": [
-        "Tema",
-        "Amanat",
-        "Palaku",
-        "Galur",
-        "Irama"
+        "Sage",
+        "Parabel",
+        "Sasakala",
+        "Fabel",
+        "Mite"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Dongeng anu ngandung unsur-unsur sajarah, mangrupa harti Babad numutkeun . . .",
+      "pertanyaan": "Anu kaasup kana conto dongeng fabel nyaeta . . .",
       "opsi": [
-        "Basa jawa",
-        "Rusyana",
-        "KUBS",
-        "Kamus Basa Sunda Danadibrata",
-        "Ricklefs"
+        "Sasakala Talagawarna",
+        "Dongeng Kean Santang",
+        "Si Kabayan Ngala Tutut",
+        "Sakadang Kuya jeung Sakadang Monyet",
+        "Sasakala Gunung Tangkuban Parahu"
       ],
-      "jawaban": "C"
+      "jawaban": "D"
     },
     {
-      "pertanyaan": "Dongeng anu nyaritakeun kahirupan jalma dimasarakatna jeung dina sajarahna, mangrupa harti Babad numutkeun . . .",
+      "pertanyaan": "Anu kaasup kana conto dongeng sage nyaeta . . .",
       "opsi": [
-        "Basa jawa",
-        "Rusyana",
-        "KUBS",
-        "Kamus Basa Sunda Danadibrata",
-        "Ricklefs"
+        "Sasakala Talagawarna",
+        "Prabu Siliwangi",
+        "Si Kabayan Ngala Tutut",
+        "Sakadang Kuya jeung Sakadang Monyet",
+        "Nyi Roro kidul"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Naha babad diabuskeun kana golongan carita dongeng, kusabab . . .",
+      "pertanyaan": "Anu kaasup kana conto dongeng mite nyaeta . . .",
       "opsi": [
-        "Sumebrna sacara lisan",
+        "Sasakala Talagawarna",
+        "Prabu Siliwangi",
+        "Si Kabayan Ngala Tutut",
+        "Sakadang Kuya jeung Sakadang Monyet",
+        "Nyi Roro kidul"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Anu henteu kaasup unsur intrinsik dongeng nyaeta . . .",
+      "opsi": [
+        "Tema",
+        "Palaku",
+        "Galur",
+        "Latar",
+        "Sudut pandang"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Runtuyan kajadian anu silih sinambung disebut . . .",
+      "opsi": [
+        "Tema",
+        "Palaku",
+        "Galur",
+        "Latar",
+        "Sudut pandang"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Waktu jeung tempat anu lumangsung dina carita dongeng nyaeta . . .",
+      "opsi": [
+        "Tema",
+        "Palaku",
+        "Galur",
+        "Latar",
+        "Sudut pandang"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Nu kaasup kana ciri-ciri dongeng nyaeta . . .",
+      "opsi": [
+        "Kapanggih saha nu ngarangna",
+        "Kajadian nyata",
+        "Sumebar sacara tinulis",
         "Anonim",
-        "Ngabobodo nu cengeng",
-        "Aya unsur pamohalan",
-        "Bisa dibuktikeun"
+        "Sumebarna sacara lisan"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Jalan carita anu aya dina babad disebut . . .",
+      "pertanyaan": "Baca teks berikut!<br><br><blockquote><b>Si Kabayan Meuleum Lauk</b><br><br>Ku Bapana Si Kabayan dititah masantren di hiji lembur nu rada mencil. Masih keneh tradisional pasanternna teh. Sarena di kobong ngampar samak jeung sababaraha urang baturna. Daharna sangu liwet. Ngaliwetna reremenna mah sorangan-sorangan, tapi sakapeung mah babarengan. Mun ngaliwetna dihijikeun sangu liwetna ditamplokeun kana cecempeh nu diamparan daun cau, terus didalahar babarengan.<br><br>Deungeun sanguna saaya-aya. Mun tas balik mah teu hese, da sok dibekelan ku kolotna, sarundeng, kere, lauk, jeung sajabana. Mun teu boga deungeun sangu Si Kabayan sok nyair di solokan leutik nu teu jauh ti kobongna, sakalin bari neangan suluh keur ngaliwet. Mun nyair, sakapeung teu beubeunangan, sakapeung mah menang berenyit, lele, hurang, jeung lauk sejenna nu kaparengan palid ti balong.<br><br>Hiji mangsa, waktu isuk-isuk nyair di solokan, Si Kabayan meunang anak lauk emas sagede indung leungneun dua siki. Atuh atoheun pisan. Laukna diteundeun buni pisan, bisi dihakan ucing. Si Kabayan nyaliwet, sanggeus asak teu terus meuleum lauk.<br><br>\"Moal waka di beuleum bisi babaturan menta, engke uing moal kabagean,\" ceuk hatena. Atuh baturna dalahar, Si Kabayan mah kalah ka kekedengan.<br><br>\"Can hayang dahar, teu ngareunah awak,\" pokna waktu ditanya ku babaturanna. Rengse dalahar, babaturanana kalaluar ti kobong rek arulin, Si Kabayan hudang terus muru hawu. Ngan seuneuna geus pareum, geus euweuh ruhayan, malah hareupeun hawuna diheesan ucing. Ku Si Kabayan ucingna digebah, tuluy mirun seuneu. Sanggeus suluhna ruhay, anak lauk emas dibeuleum. Bari ngadagoan beuleum lauk asak, Si Kabayan ngala cengek ti pipir kobong, direndos make uyah dina coet.<br><br>Geus kitu, ngeduk liwet tina kastrol, diwadahan kana piring seng. Si Kabayan muru hawu, leungeun katuhuna nanggeuy piring seng, leungeun kencana nyekel coet. Barang diteang, seuneuna geus pareum kawantu suluhna ngan saeutik, malah geus ampir jadi lebu. Atuh beuleum laukna teh kurumuy, hideung jeung pinuh lebu, geus teu mangrupa lauk. Ku si Kabayan dikorehan. Kacida pisan heraneunana, sabab beuleum laukna teh aya tilu.<br><br>\"Timana hiji deui? Tadi mah meuleumna ngan dua. Babaturan pohoeun kitu? Ah, milik mah timana wae,\" ceuk Si Kabayan dina hatena.<br><br>Si Kabayan nyait beuleum anak lauk emas hiji, diasaan, enya lauk, lauk nu hiji beak, Si Kabayan nyait deui lauk nu hiji deui. Diasaan heula, bener lauk. Si Kabayan nuluykeun deui daharna sangu liwetna, mani ngalimed. Kusabab lapar keneh, Si Kabayan nyiuk deui sangu, terus nyait beuleum lauk nu katilu. Waktu diasaan, Si Kabayan nyengir, kusabab rasana haseum jeung bau. \"Ucing bangkawarah,\" pokna gegelendeng, leos ka cai, kekemuna leuwih ti sapuluh kali.</blockquote><br>Dongeng di luhur kaasup kana dongeng . . .",
       "opsi": [
-        "Tema",
-        "Amanat",
-        "Palaku",
-        "Galur",
-        "Irama"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Nurutkeun susunan basana, babad kaasup kana wangun . . .",
-      "opsi": [
-        "Lancaran (prosa) jeung wawacan",
-        "Lancaran",
-        "Wawacan",
-        "Puisi",
-        "Abstrak"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Waktu jeung tempat lumangsungna carita anu aya dina babad disebut . . .",
-      "opsi": [
-        "Tema",
-        "Amanat",
-        "Palaku",
-        "Galur",
-        "Latar"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Aksara swara (vokal mandiri) dina aksara sunda umlahna aya . . .",
-      "opsi": [
-        "5",
-        "6",
-        "7",
-        "8",
-        "9"
+        "Sasakala",
+        "Fabel",
+        "Parabel",
+        "Mite",
+        "Pamuk"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Ieu di handap wangun aksara Sunda anu mirip, <i>iwal</i> . . .",
+      "pertanyaan": "Baca teks berikut!<br><br><blockquote><b>Situ Bagendit</b><br><br>Baheula aya hiji Randa beunghar nu ketelah Nyi Endit anu kacida kumedna, ari beungharna mah tetela. Beh kebonna beh sawahna, imahna ge panggedena di salembur eta. Basa usum panen, Nyi Endit nyieun sedekah ngondang lebe jeung sawatara tatangga nu ngariung nepi ka aya ratusan, tapi sadia tumpengna teu sabaraha, nepi ngan sakoteap geus beres bari tingkaretakkeneh.<br><br>Keur kitu aya lalaki bongkok nu nyamperkeun kawawa ku lapar, ari kitu Nyi Endit bet nyarekan pajarkeun teh teu aya kaera, tungtungna aki-aki dititah nyingkah. Aki-aki indit jumarigjeug bari ngomong, \"Ngomongna kitu teh ka saksian ku sakur anu aya didinya.<br><br>Sarengsena dalahar, rug reg ngarandeng ting garero : \"Ca'ah! Caah!\" henteu kanyahoan timana datangna cai, ngan leb bae pakarangan Nyi Endit ka keueum, imahna kakeueum laput, sawahna nu upluk-aplak geus geus aya dasar cai. Lembur sakuriling bungking geus robah ngarupa jadi Situ, anu nepi ayeuna katelah Situ Bagendit.</blockquote><br>Jejer tina carita di luhur, nyaeta . . .",
       "opsi": [
-        "/a/ jeung /ya/",
-        "/ba/ jeung /nya/",
-        "/ka/ jeung /sa/",
-        "/wa/ jeung /ha/",
-        "/pa/ jeung /fa/"
+        "Jelema pedit pisan",
+        "Jelema benghar",
+        "Janda ngora anu pedit",
+        "Balukar tina kikir nyaeta karuksakan",
+        "Jelema benghar nu kumed"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Dina carita dongeng \"Si kabayan nyair lauk\". Tempat nyair laukna Si Kabayan nyaeta . . .",
+      "opsi": [
+        "Balong",
+        "Kolam",
+        "Dano",
+        "Solokan",
+        "Sagara"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Bedana dongeng jeung novel nyaeta . . .",
+      "opsi": [
+        "Carita nu aya dina dongeng mah biasana logis, sedengkeun dina novel mah pamohalan",
+        "Carita dongeng mah biasana wawadulan, sedengkeun dina novel mah nyata",
+        "Carita dina dongeng mah asli, sedengkeun dina novel mah wawadulan",
+        "Carita dina dongeng mah akurat, sedengkeun novel mah teu akurat",
+        "Carita dina dongeng mah biasana pamohalan, sedengkeun dina novel mah logis"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Di handap ieu kaasup struktur kalimah parentah, <i>iwal . . .</i>",
+      "opsi": [
+        "Kalimah Tanya",
+        "Kalimah panyarek",
+        "Kalimah pangurung",
+        "Kalimah pangajak",
+        "Kalimah panggeuri"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "\"Hayu urang balik geus burit!\"<br><br>Kalimah di luhur kaasup kana . . .",
+      "opsi": [
+        "Kalimah Panitah",
+        "Kalimah Panyaram",
+        "Kalimah Pangajak",
+        "Kalimah Parentah",
+        "Kalimah Pamenta"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "\"Budi, tutupkeun eta panto pageur!\"<br><br>Kalimah di luhur kaasup kana . . .",
+      "opsi": [
+        "Kalimah Panitah",
+        "Kalimah Panyaram",
+        "Kalimah Pangajak",
+        "Kalimah Parentah",
+        "Kalimah Pamenta"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "\"Mugia wae kapalay saderek tineukanan\"!<br><br>Kalimah di luhur kaasup kana kalimah . . .",
+      "opsi": [
+        "Panitah",
+        "Panghareupan",
+        "Pangjurung",
+        "Panggeuri",
+        "Pangajak"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Rarangken anu gunana pikeun ngaleungitkeun sora vokal /a/ dina aksara ngelagena disebut . . .",
+      "pertanyaan": "\"Ulah ulin di jalan bisi katabrak\"!<br><br>Kalimah di luhur kaasup kana kalimah . . .",
       "opsi": [
-        "Pamaeh",
-        "Panyuku",
-        "Panyakra",
-        "Panghulu",
-        "Pamepet"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Aksara sunda anu aksarana mirip jeung angka tujuh, nyaeta . . .",
-      "opsi": [
-        "Ka",
-        "Nga",
-        "Ca",
-        "Da",
-        "Nya"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Rarangken anu fungsina ngarobah sora vokal /a/ jadi /i/ jeung tempatna di luhureun aksara dasar disebutna . . .",
-      "opsi": [
-        "Panghulu",
-        "Pamepet",
-        "Paneuleung",
-        "Panglayar",
-        "Panyuku"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Rarangken anu ditulisna bisa dihijikeun jeung aksara swara nyaeta . . .",
-      "opsi": [
-        "Panyuku",
-        "Pamaeh",
-        "panyakra",
-        "Panghulu",
-        "Pangwisad"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Hubungan jelema ka jelema lianna, anu sakulawarga, dulur, atawa baraya anu masih dulur keneh, disebutna . . .",
-      "opsi": [
-        "Duduluran",
-        "Batur",
-        "Pancakaki",
-        "Rerehan",
-        "Deungeun-deungeun"
+        "Panitah",
+        "Pangjurung",
+        "Panyarek",
+        "Panggeuri",
+        "Pangajak"
       ],
       "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Kolotna aki jeung nini urang disebutna . . .",
-      "opsi": [
-        "Bao",
-        "Buyut",
-        "Janggawareng",
-        "Udeg-udeg",
-        "Kait siwur"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Lamun ka anak lanceuk urang kudu nyebutna . . .",
-      "opsi": [
-        "Bibi",
-        "Uwa",
-        "Alo",
-        "Suan",
-        "Emang"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Salasahiji karya sastra Sunda anu direka dina wangun basa ugeran (puisi), tapi teu pati kauger ku patokan-patokan jumlah engang saban padalisan jeung jumlah padalisan dina saban pada disebutna . . .",
-      "opsi": [
-        "Pupuh",
-        "Sisindiran",
-        "Guguritan",
-        "Sajak",
-        "Wawangsalan"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Ieu di handap anu henteu kaasup kana adegan batin sajak, nyaeta . . .",
-      "opsi": [
-        "Jejer (tema)",
-        "Rasa",
-        "Nada",
-        "Amanat",
-        "Wirahma"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Kalimah di handap anu ngandung harti konotatif, nyaeta . . .",
-      "opsi": [
-        "Adang sok maju ka hareup!",
-        "Sok gera maju, ulah cicing wae di tukang.",
-        "Mobil anyar teh maju mani gancang.",
-        "Kunaon cenah motor the kadon maju mundur we terus.",
-        "Ari geus maju mah, manehna teh wani nincak sagala."
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "<blockquote><b>Lembur</b><br><br>Pucuk awi gugupay ti katebihan<br>Dapuranana gapura bras ka lembur<br>Tuh lemburna, nu aya runggunuk tangkal<br>Memeh sup, meuntas wahangan<br>Sawahna mah tutung lembur<br>Dibenteng ku gunung-gunung<br>Kebonna dina pasir<br>Mun engke geus nepi ka jerona<br>Urang tepungan pangeusi jero imutna<br>Ngawangkong urang jeung angina tingtingtrim<br><br>Di cutat dina Mangle Alit no 2209<br>Kintunan: Etty Nurhayati</blockquote><br>Naon tema sajak di luhur . . .",
-      "opsi": [
-        "Kaendahan Alam",
-        "Protes sosial",
-        "Kaagamaan",
-        "Cinta",
-        "Kapahlawanan"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Amanat nu nyangkaruk dina sajak \"Lembur\" nyaeta . . .",
-      "opsi": [
-        "kudu ngariksa kaendahan alam",
-        "kudu ngajaga atawa ngamumule kaendahan alam",
-        "kudu ngaruksak kaendahan alam",
-        "kudu darehdeh ka sasama",
-        "kudu silih pikanyaah"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Padeukeutna sora kecap boh di awal, di tengah, atawa ditungtung ungkara kalimah disebutna . . .",
-      "opsi": [
-        "Gaya bahasa",
-        "Kecap nyata",
-        "Purwakanti",
-        "Wirahma",
-        "Wirasa"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "\"Munding teh geus dicangcang dina tangkal.\"<br><br>Kecap <i>dicangcang</i> ngandung harti denotatif anu sarua hartina jeung . . .",
-      "opsi": [
-        "Diduitan",
-        "Ditawarkeun",
-        "Diparaban",
-        "Ditalian",
-        "Diantepkeun"
-      ],
-      "jawaban": "D"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Jelakeun naon bedana carita babad jeung carita sajarah?"
+      "pertanyaan": "Tarjamahkeun kalimah di handap ieu kana Basa Indonesia!<br><br>a. Matahari mulai tenggelam.<br>b. Ada pelangi di atas langit."
     },
     {
-      "pertanyaan": "Salin kana aksara Sunda kekecapan ieu di handap!<br><br>a. Ngaran sorangan<br>b. Itikurih Hibarna<br>c. Langit caang<br>d. panon poe moncorong"
+      "pertanyaan": "Kecap anu henteu bisa ditarjamahkeun kana Bahasa Indonesia disebut kecap?"
     },
     {
-      "pertanyaan": "Tulis rundayan pancakaki ka luhur!"
+      "pertanyaan": "Jelaskeun naon anu dimaksud dongeng?"
     },
     {
-      "pertanyaan": "Sebutkeun unsur lahir sajak sunda!"
+      "pertanyaan": "Sebutkeun jeung jelaskeun papasingan dongeng!"
     },
     {
-      "pertanyaan": "Pek ku hideup jieun conto sajak Sunda! (temana bebas)"
+      "pertanyaan": "Jieun ku hidep masing-masing 2 conto kalimah :<br><br>a. Panggeri<br>b. Pangwawadi<br>c. Panitah"
     }
   ]
 }
