@@ -1,226 +1,6 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Ibu Karlina seorang pengusaha konveksi. Setiap dua minggu sekali, Bu Karlina mengecek bahan-bahan yang diperlukan untuk kegiatan produksi. Minggu ini kebetulan bahan yang habis adalah kain. Pengeluaran untuk membeli kain termasuk ke dalam.....",
-      "opsi": [
-        "Biaya bahan langsung",
-        "Biaya tenaga kerja langsung",
-        "Biaya tenaga kerja tidak langsung",
-        "Biaya overhead pabrik",
-        "Biaya bahan baku"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Biaya overhead pabrik yang dikeluarkan oleh PT Dewi adalah sebagai berikut.<br><br>1) Premi asuransi mesin<br>2) Gaji manajer pabrik<br>3) Biaya bahan penolong<br>4) Biaya tenaga kerja tidak langsung<br>5) Premi asuransi pabrik<br><br>Biaya overhead tetap ditunjukkan oleh nomor....",
-      "opsi": [
-        "1), 2), dan 3)",
-        "2), 3), dan 4)",
-        "3), 4), dan 5)",
-        "1), 2), dan 5)",
-        "1), 4), dan 5)"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Biaya overhead yang besarnya berubah-ubah sesuai dengan jumlah barang yang diproduksi disebut........",
-      "opsi": [
-        "Biaya overhead tetap",
-        "Biaya overhead semi variabel",
-        "Biaya tenaga kerja",
-        "Biaya overhead variabel",
-        "Biaya bahan baku"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Kazami mendapatkan pesanan 100 jilbab. Untuk mengerjakan pesanan tersebut, Kazami membeli kain sebanyak 100 meter dengan harga Rp 20.000/ meter. Biaya untuk membayar penjahit Rp 7.500/jilbab. Banyaknya benang yang dibutuhkan 50 gulung dengan harga Rp 1.500/gulung. Manik-manik yang dibutuhkan untuk 100 jilbab sebanyak 1 Kg dengan harga Rp 85.000/Kg. Berdasarkan ilustrasi tersebut, biaya bahan baku yang dibutuhkan Kazami untuk mengerjakan 100 jilbab sebesar........",
-      "opsi": [
-        "Rp 650.000",
-        "Rp 725.000",
-        "Rp 750.000",
-        "Rp 1.400.000",
-        "Rp 2.000.000"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Biaya produksi yang berasal dari penjumlahan tiga komponen, seperti biaya bahan baku, biaya tenaga kerja langsung, dan biaya overhead pabrik disebut........",
-      "opsi": [
-        "Harga pokok produksi",
-        "Komponen biaya produksi",
-        "Biaya bahan baku",
-        "Biaya overhead pabrik",
-        "Biaya tenaga kerja"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Biaya dibedakan menjadi dua jenis. Ada biaya langsung dan biaya tidak langsung. Biaya langsung adalah biaya yang langsung dapat ditelusuri pada produk yang dihasilkan. Sedangkan biaya tidak langsung adalah biaya yang tidak dapat secara langsung ditelusuri pada produk yang dihasilkan. Berikut ini yang termasuk ke dalam biaya langsung adalah........",
-      "opsi": [
-        "Biaya bahan penolong",
-        "Biaya gaji karyawan",
-        "Biaya upah supervisor",
-        "Biaya bahan baku",
-        "Biaya pemeliharaan mesin"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Lem kayu dan paku pada industri mebel termasuk ke dalam biaya.....",
-      "opsi": [
-        "Biaya langsung",
-        "Biaya bahan baku",
-        "Biaya overhead variabel",
-        "Biaya overhead tetap",
-        "Biaya overhead semi variabel"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Arkan memiliki usaha pembuatan lampu hias dari pecahan kaca. Setiap bulan lampu hias buatan Arkan berhasil terjual sebanyak 60 unit dengan harga jual Rp 225.000 per unit. Setiap bulan Arkan mengeluarkan biaya sebagai berikut untuk memproduksi 60 unit lampu hias<br><br>1) Pembelian kaca dan lampu sebesar Rp 6.000.000<br>2) Pembelian lem kaca sebesar Rp 300.000<br>3) Pembayaran listrik sebesar Rp 450.000<br>4) Pengeluaran untuk penyusutan peralatan sebesar Rp 360.000<br>5) Biaya tenaga kerja langsung sebesar Rp 1.200.000<br>6) Biaya tenaga kerja tidak langsung sebesar Rp 750.000<br><br>Harga pokok produksi yang dikeluarkan Arkan setiap bulannya sebesar........",
-      "opsi": [
-        "Rp 6.750.000",
-        "Rp 7.110.000",
-        "Rp 8.310.000",
-        "Rp 9.060.000",
-        "Rp 9.600.000"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Arkan memiliki usaha pembuatan lampu hias dari pecahan kaca. Setiap bulan lampu hias buatan Arkan berhasil terjual sebanyak 60 unit dengan harga jual Rp 225.000 per unit. Setiap bulan Arkan mengeluarkan biaya sebagai berikut untuk memproduksi 60 unit lampu hias<br><br>1) Pembelian kaca dan lampu sebesar Rp 6.000.000<br>2) Pembelian lem kaca sebesar Rp 300.000<br>3) Pembayaran listrik sebesar Rp 450.000<br>4) Pengeluaran untuk penyusutan peralatan sebesar Rp 360.000<br>5) Biaya tenaga kerja langsung sebesar Rp 1.200.000<br>6) Biaya tenaga kerja tidak langsung sebesar Rp 750.000<br><br>Laba yang didapatkan Arkan dari setiap penjualan lampu hiasnya sebesar.......",
-      "opsi": [
-        "Rp 74.000",
-        "Rp 79.000",
-        "Rp 82.500",
-        "Rp 84.000",
-        "Rp 91.000"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "PT Photo Shape membeli barang dagang secara kredit dari PT Kamera Jaya sebesar Rp12.000.000 dengan syarat 2/10, n/30. Transaksi tersebut dicatat dalam jurnal ....",
-      "opsi": [
-        "Pembelian Rp12.000.000; Utang Dagang Rp12.000.000",
-        "Persediaan Barang Dagang Rp12.000.000; Utang Dagang Rp12.000.000",
-        "Pembelian Rp12.000.000; Kas Rp12.000.000",
-        "Utang Dagang Rp12.000.000; Pembelian Rp12.000.000",
-        "Beban Pembelian Rp12.000.000; Utang Dagang Rp12.000.000"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Diketahui data PT Photo Shape bulan Agustus:<br><br>- Pembelian kredit Rp40.000.000<br>- Retur pembelian Rp3.000.000<br>- Pembayaran utang Rp25.000.000<br>- Saldo awal utang Rp15.000.000<br><br>Saldo akhir Utang Dagang adalah ....",
-      "opsi": [
-        "Rp 22.000.000",
-        "Rp 25.000.000",
-        "Rp 27.000.000",
-        "Rp 30.000.000",
-        "Rp 33.000.000"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Saldo utang PT Kamera Jaya sebesar Rp15.000.000. Selanjutnya PT Photo Shape membeli barang secara kredit Rp8.000.000 dan membayar utang Rp10.000.000.<br><br>Saldo utang akhir kepada PT Kamera Jaya adalah ....",
-      "opsi": [
-        "Rp3.000.000",
-        "Rp5.000.000",
-        "Rp8.000.000",
-        "Rp13.000.000",
-        "Rp33.000.000"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Perhatikan tabel berikut!<br><br><blockquote><table border='1' cellpadding='5' cellspacing='0' style='border-collapse: collapse;'><tr><th>Kreditur</th><th>Utang</th></tr><tr><td>PT Kamera Jaya</td><td>Rp10.000.000</td></tr><tr><td>PT Lensa Abadi</td><td>Rp7.500.000</td></tr><tr><td>PT Digital Foto</td><td>Rp12.500.000</td></tr></table></blockquote><br>Total utang berdasarkan buku pembantu adalah ....",
-      "opsi": [
-        "Rp20.000.000",
-        "Rp25.000.000",
-        "Rp30.000.000",
-        "Rp32.500.000",
-        "Rp35.000.000"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Pada 7 Agustus 2026 PT Photo Shape membayar utang kepada PT Kamera Jaya sebesar Rp11.760.000. Nilai utang awal Rp12.000.000 dan perusahaan memperoleh potongan 2%. Jurnal yang tepat adalah ....",
-      "opsi": [
-        "Utang Dagang Rp11.760.000; Kas Rp11.760.000",
-        "Utang Dagang Rp12.000.000; Kas Rp11.760.000; Potongan Pembelian Rp240.000",
-        "Kas Rp12.000.000; Utang Dagang Rp11.760.000",
-        "Utang Dagang Rp12.000.000; Kas Rp12.000.000",
-        "Pembelian Rp240.000; Kas Rp11.760.000"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Transaksi penjualan barang dagang secara tunai sebesar Rp7.500.000 pada perusahaan dagang paling tepat dicatat dalam ....",
-      "opsi": [
-        "Jurnal Pembelian",
-        "Jurnal Penjualan",
-        "Jurnal Penerimaan Kas",
-        "Jurnal Pengeluaran Kas",
-        "Jurnal Umum"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Akun Piutang Dagang memiliki saldo awal Rp20.000.000. Selama periode berjalan terjadi penjualan kredit Rp35.000.000 dan penerimaan pelunasan piutang Rp28.000.000.<br><br>Saldo akhir Piutang Dagang adalah ....",
-      "opsi": [
-        "Rp7.000.000",
-        "Rp20.000.000",
-        "Rp27.000.000",
-        "Rp35.000.000",
-        "Rp83.000.000"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Perhatikan transaksi berikut:<br><br><blockquote><table border='1' cellpadding='5' cellspacing='0' style='border-collapse: collapse;'><tr><th>Tanggal</th><th>Transaksi</th></tr><tr><td>8 Agustus</td><td>Membeli barang dagang kredit Rp8.000.000</td></tr><tr><td>10 Agustus</td><td>Menjual barang dagang kredit Rp13.000.000</td></tr><tr><td>12 Agustus</td><td>Membayar beban listrik Rp750.000</td></tr><tr><td>15 Agustus</td><td>Menerima pelunasan piutang Rp6.000.000</td></tr></table></blockquote><br>Transaksi yang dicatat dalam jurnal pembelian adalah ....",
-      "opsi": [
-        "8 Agustus",
-        "10 Agustus",
-        "12 Agustus",
-        "15 Agustus",
-        "10 dan 15 Agustus"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Pajak yang dikenakan kepada orang pribadi atau badan atas penghasilan yang diterima atau diperoleh dalam satu tahun pajak merupakan pengertian dari .....",
-      "opsi": [
-        "Pajak Pertambahan Nilai",
-        "Pajak Bumi dan Bangunan",
-        "Pajak Langsung",
-        "Pajak Penghasilan",
-        "Pajak Barang Mewah"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Berikut ini merupakan subjek pajak penghasilan adalah .....",
-      "opsi": [
-        "Subjek Pajak Orang Pribadi Dalam Negeri",
-        "Subjek Pajak Orang Pribadi Dalam dan Luar Negeri",
-        "Subjek Pajak Badan",
-        "Subjek Pajak Orang Pribadi Luar Negeri",
-        "Subjek Pajak Orang Pribadi Dalam Negeri, Luar Negeri dan Pajak Badan"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Yang dimaksud dengan Subjek Pajak Orang Pribadi Dalam Negeri adalah .....",
-      "opsi": [
-        "Orang pribadi yang bertempat tinggal di Indonesia, orang pribadi yang berada di Indonesia lebih dari 183 (seratus delapan puluh tiga) hari dalam jangka waktu 12 (dua belas) bulan, atau orang pribadi yang dalam suatu tahun pajak berada di Indonesia dan mempunyai niat untuk bertempat tinggal di Indonesia;",
-        "Tidak bertempat tinggal di Indonesia, berada di Indonesia tidak lebih dari 183 hari dalam jangka waktu 12 bulan",
-        "Penghasilan yang diterima atau diperoleh dari sumber penghasilan di Indonesia",
-        "Berdasarkan penghasilan bruto dengan tarif sepadaan (Tarif PPh Pasal 26 atau sesuai Tax Treaty)",
-        "Tidak wajib menyampaikan SPT PPh, karena kewajiban pajaknya dipenuhi melalui pemotongan pajak yang bersifat final (PPh Pasal 26)"
-      ],
-      "jawaban": "A"
-    },
-    {
       "pertanyaan": "Dito merupakan wajib pajak orang pribadi yang berstatus K/3. Besarnya PTKP yang dikenakan atas penghitungan pajak penghasilan Dito adalah .....",
       "opsi": [
         "Rp 32.400.000,-",
@@ -230,17 +10,6 @@
         "Rp 72.000.000,-"
       ],
       "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Danisa merupakan wajib pajak orang pribadi yang berstatus TK/2. Kategori Danisa yang tepat sebagai wajib pajak dalam skema penghitungan PPh Pasal 21 berdasarkan PP No.58 Tahun 2023 adalah .....",
-      "opsi": [
-        "Kategori A",
-        "Kategori B",
-        "Kategori C",
-        "Kategori D",
-        "Kategori E"
-      ],
-      "jawaban": "B"
     },
     {
       "pertanyaan": "Penghitungan pajak penghasilan orang pribadi selama satu tahun menggunakan tarif progresif berdasarkan UU No.7 tahun 2021. Besarnya pajak terutang jika penghasilan kena pajak wajib pajak sebesar Rp 45.550.000,- adalah .....",
@@ -254,13 +23,24 @@
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Ibra bekerja pada PT. X dengan memperoleh gaji sebulan sebesar Rp 6.500.000,-. Diketahui besarnya penghasilan kena pajak wajib pajak sebesar Rp 7.800.000,-, berapakah jumlah pajak yang terutangnya Ibra ....",
+      "pertanyaan": "Ibra bekerja pada PT. X dengan memperoleh gaji sebulan sebesar Rp 6.500.000,-. Diketahui besarnya penghasilan kena pajak wajib pajak sebesar Rp 7.800.000,- berapakah jumlah pajak yang terutangnya Ibra ....",
       "opsi": [
         "Rp 300.000,00",
         "Rp 350.000,00",
         "Rp 390.000,00",
         "Rp 400.000,00",
         "Rp 450.000,00"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Jika WP berstatus menikah, PTKP bertambah sebesar…",
+      "opsi": [
+        "Rp 5.000.000",
+        "Rp 10.000.000",
+        "Rp 4.500.000",
+        "Rp 3.500.000",
+        "Rp 6.000.000"
       ],
       "jawaban": "C"
     },
@@ -276,51 +56,216 @@
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Sebuah sistem akuntansi dimana komputer sebagai teknologi untuk menjalankan aplikasi yang digunakan dalam mengolah transaksi akuntansi dan sekaligus untuk menghasilkan laporan keuangan dalam sebuah perusahaan merupakan pengertian dari..",
+      "pertanyaan": "Pengelolaan keuangan desa dilakukan dalam 5 tahapan, sebutkanlah tahapan-tahapan pengelolaan keuangan desa tersebut ....",
       "opsi": [
-        "Komputer akuntansi",
-        "Manajemen Akuntansi",
-        "Akuntability",
-        "Akurat",
-        "Accounting"
+        "Perencanaan, Pelaksanaan, Penatausahaan, Pelaporan, dan Pertanggungjawaban",
+        "Perencanaan, Pelaksanaan, Pertanggungjawaban, Penatausahaan, dan Pelaporan",
+        "Penatausahaan, Perencanaan, Pelaksanaan, Pelaporan, dan Pertanggungjawaban",
+        "Perencanaan, Pelaksanaan, Pelaporan, Penatausahaan, dan Pertanggungjawaban",
+        "Perencanaan, Pelaksanaan, Pertanggungjawaban, Pelaporan, dan Penatausahaan"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Untuk membuat data awal perusahaan dalam program MYOB Accounting yang pertama diinput dalam database MYOB adalah ....",
+      "pertanyaan": "Terdapat tiga asas dalam pengelolaan keuangan desa, yaitu asas transparan, akuntabel dan partisipatif. Yang dimaksud dengan asas akuntabel adalah …..",
       "opsi": [
-        "Saldo awal neraca",
-        "Informasi akuntansi (bulan dan tahun)",
-        "Penyimpan file",
-        "Input akun-akun yang dibutuhkan",
-        "Data informasi perusahaan"
+        "Informasi keuangan desa harus disajikan secara terbuka dan jujur kepada masyarakat",
+        "Menjamin bahwa tiap-tiap kegiatan yang dilakukan oleh pemerintah desa dapat dipertanggungjawabkan kepada seluruh lapisan masyarakat secara terbuka",
+        "Setiap warga desa mempunyai hak terlibat dalam setiap pengambilan keputusan pada setiap kegiatan",
+        "Setiap warga desa berhak untuk diikutsertakan dalam setiap kegiatan",
+        "Setiap warga desa mempunyai hak terlibat dalam setiap perencanaan pada setiap kegiatan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Laporan kekayaan milik desa terdiri atas tiga akun, yaitu ....",
+      "opsi": [
+        "Aset, Pendapatan, dan Belanja Desa",
+        "Aset, Kewajiban, dan Pendapatan",
+        "Aset, Kewajiban dan Ekuitas",
+        "Aset, Pendapatan dan Transfer",
+        "Aset, Transfer dan Pendapatan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dana desa, alokasi dana desa dan bagi hasil pajak daerah kabupaten/kota termasuk kedalam kelompok akun …..",
+      "opsi": [
+        "Aset",
+        "Pendapatan",
+        "Belanja Desa",
+        "Transfer",
+        "Ekuitas"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Transfer, belanja desa, pembiayaan termasuk ke dalam akun ....",
+      "opsi": [
+        "Pendapatan",
+        "Aset",
+        "Laporan kekayaan milik desa",
+        "Laporan kewajiban desa",
+        "Laporan realisasi anggaran"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Langkah mengimpor daftar akun perusahaan dagang pada aplikasi komputer akuntansi MYOB adalah..",
+      "pertanyaan": "Salah satu komponen utama dalam laporan harga pokok produksi adalah …",
       "opsi": [
-        "List -- account -- import data -- export data",
-        "File -- export data -- accounts -- account information",
-        "File -- import data -- accounts -- account information",
-        "Edit -- import data -- accounts -- account information",
-        "Edit -- export data -- accounts -- account information"
+        "Persediaan bahan baku awal",
+        "Biaya telepon kantor",
+        "Biaya promosi",
+        "Biaya sewa kantor pusat",
+        "Pendapatan bunga"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Rumus perhitungan pemakaian bahan baku adalah …",
+      "opsi": [
+        "Persediaan awal + persediaan akhir",
+        "Pembelian bahan + persediaan awal – persediaan akhir",
+        "Pembelian bahan – persediaan awal",
+        "Biaya tenaga kerja + overhead",
+        "Total produksi – persediaan barang jadi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Dalam laporan HPP, biaya tenaga kerja langsung dicatat sebagai …",
+      "opsi": [
+        "Biaya pemasaran",
+        "Biaya administrasi",
+        "Biaya produksi",
+        "Biaya non-operasional",
+        "Beban umum"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Penyesuaian <i>linked account</i> untuk <i>Historical Balancing</i> dan <i>Undeposited Funds</i>, adalah proses <i>linked account</i> untuk .....",
+      "pertanyaan": "Biaya Overhead Pabrik (BOP) dalam HPP termasuk …",
       "opsi": [
-        "<i>Sales</i>",
-        "<i>Payroll</i>",
-        "<i>Account and Banking Account</i>",
-        "<i>Purchase</i>",
-        "<i>Liability</i>"
+        "Bahan baku langsung",
+        "Tenaga kerja langsung",
+        "Bahan tidak langsung, penyusutan, listrik",
+        "Penjualan produk",
+        "Biaya promosi"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Ketika ada transaksi pembayaran kepada kantor kas Negara berupa Utang PPN sebesar Rp.700.000,- (kode BJB-01). Jika menggunakan MYOB, maka langkah awal untuk mencatat transaksi tersebut yaitu melalui jendela ...",
+      "pertanyaan": "Harga pokok produksi dapat dihitung dengan rumus …",
+      "opsi": [
+        "Bahan baku + tenaga kerja langsung",
+        "Bahan baku + BOP",
+        "Biaya produksi + persediaan barang dalam proses awal – persediaan barang dalam proses akhir",
+        "Tenaga kerja + biaya administrasi",
+        "Biaya penjualan + biaya bahan baku"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perhatikan gambar berikut ini!<br><br><img src='soal/img/XII/kk-akl/Picture1.png' width='500'><br><br>Jika menggunakan MYOB, maka jurnal yang tepat untuk transaksi di atas adalah …..",
+      "opsi": [
+        "Petty Cash (D) Bank Mandiri Loan (K) Interest Expense (K)",
+        "Petty Cash (D) Expense Payable (K)",
+        "Expense Payable (D) Cash In Bank (K)",
+        "Cash In Bank (D) Expense Payable (K)",
+        "Expense Payable (D) Petty Cash (K)"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Perhatikan gambar berikut ini!<br><br><img src='soal/img/XII/kk-akl/Picture2.png' width='500'><br><br>Jika menggunakan MYOB, maka langkah awal untuk mencatat transaksi tersebut yaitu melalui jendela ....",
+      "opsi": [
+        "Banking -> Spend Money",
+        "Account -> Record Journal Entry",
+        "Purchases -> Pay Bills",
+        "Purchases -> Enter Purchase",
+        "Sales -> Enter Sales"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Laporan neraca menunjukkan...",
+      "opsi": [
+        "Pendapatan selama satu periode",
+        "Kewajiban dan aset perusahaan",
+        "Laba bersih",
+        "Stok akhir",
+        "Data pelanggan"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perhatikan gambar berikut ini!<br><br><img src='soal/img/XII/kk-akl/Picture3.png' width='500'><br><br>Jika menggunakan MYOB, maka langkah awal untuk mencatat transaksi tersebut yaitu melalui jendela ....",
+      "opsi": [
+        "Banking -> Spend Money",
+        "Purchases -> Pay Bills",
+        "Sales -> Enter Sales",
+        "Account -> Record Journal Entry",
+        "Sales -> Receive Payment"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Pada tanggal 15 Juli 2021, Toko Samar membayar iklan kepada Harian Suara Merdeka untuk Bulan Juli Rp 420.000,00. Pengaruh transaksi terhadap akun adalah....",
+      "opsi": [
+        "Kas bertambah dicatat di sisi debit (D) Rp 420.000,00",
+        "Beban iklan bertambah dicatat di sisi kredit (D) Rp 420.000,00",
+        "Kas bertambah dicatat di sisi kredit (K) Rp 420.000,00",
+        "Kas berkurang dicatat di sisi kredit (K) Rp 420.000,00",
+        "Beban iklan berkurang dicatat di sisi kredit (K) Rp 420.000,00"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Pembelian barang dagangan yang dibeli dengan syarat pembayaran 2/10, n/30 dicatat dalam jurnal….",
+      "opsi": [
+        "Jurnal Penjualan",
+        "Jurnal Pembelian",
+        "Jurnal Penerimaan Kas",
+        "Jurnal Pengeluaran Kas",
+        "Jurnal Umum"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Pada tanggal 31 Desember 2022 masih harus dibayar Beban Listrik Rp 1.500.000,00, air Rp 400.000,00 dan telepon sebesar Rp 2.600.000,00. Jumlah Beban terutangnya adalah….",
+      "opsi": [
+        "Rp 1.500.000,00",
+        "Rp 1.900.000,00",
+        "Rp 2.600.000,00",
+        "Rp 3.000.000,00",
+        "Rp 4.500.000,00"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Transaksi pembelian barang dagang dicatat dalam menu…",
+      "opsi": [
+        "Sales",
+        "Bank",
+        "Inventory",
+        "Purchase",
+        "Report"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Laporan yang menunjukkan laba atau rugi adalah…",
+      "opsi": [
+        "Neraca",
+        "Laporan perubahan modal",
+        "Laporan laba rugi",
+        "Laporan arus kas",
+        "Buku besar"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Ketika ada transaksi pembayaran kepada kantor kas Negara berupa Utang PPN sebesar Rp 700.000,- (kode BJB-01). Jika menggunakan MYOB, maka langkah awal untuk mencatat transaksi tersebut yaitu melalui jendela ...",
       "opsi": [
         "Banking -> Spend Money",
         "Sales -> Receive Payment",
@@ -331,76 +276,120 @@
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Transaksi yang menyatakan pembayaran beban listrik dan beban gaji disebut dengan .....",
+      "pertanyaan": "CV Merpati meminjamkan uang di Bank Dana sebagai tambahan dana untuk memperluas usahanya dengan jangka waktu 5 tahun. Setelah menerima pinjaman tersebut, CV Merpati menerbitkan surat perjanjian bahwa akan melakukan pembayaran pada Bank Dana sesuai dengan tanggal waktu jatuh tempo. Surat perjanjian yang dibuat CV Merpati disebut……",
       "opsi": [
-        "Penerimaan kas",
-        "Pengeluaran kas",
-        "Penyusutan kas",
-        "Penjualan",
-        "Pembelian"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Perhatikan gambar berikut!<br><br><img src='soal/img/XII/kk-akl/Picture1.png' width='450'><br><br>Jika menggunakan MYOB, maka jurnal yang tepat untuk transaksi di atas adalah .....",
-      "opsi": [
-        "Petty Cash (D) <br> Expense Payable (K)",
-        "Expense Payable (D) <br> Cash In Bank (K)",
-        "Cash In Bank (D) <br> Expense Payable (K)",
-        "Accrued Expense (D) <br> Petty Cash (K)",
-        "Telephone & Electricity Expense (D) <br> Petty Cash (K)"
+        "Obligasi",
+        "Saham",
+        "Hipotik",
+        "Wesel bayar",
+        "Trustee"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Dalam program MYOB, untuk mengetahui laporan arus kas dengan cara...",
+      "pertanyaan": "Wesel bayar dapat dibayar secara angsuran. Pencatatan pembayaran angsuran wesel bayar yang tepat adalah……",
       "opsi": [
-        "Reports -- Accounts pilih dan klik. Profit & loss (Accrual)",
-        "Reports -- Accounts pilih dan klik. General Journal",
-        "Report - Banking -- Statement of cash flow",
-        "Reports -- Accounts pilih dan klik. Standar balance sheet",
-        "Report - Sales -- Customer Ledger"
+        "Mendebit wesel bayar serta mengkredit beban bunga dan kas",
+        "Mendebit wesel bayar serta mengkredit utang wesel dan kas",
+        "Mendebit kas serta mengkredit beban bunga dan wesel bayar",
+        "Mendebit wesel bayar dan bunga wesel serta mengkredit kas",
+        "Mendebit kas dan beban bunga serta mengkredit wesel bayar"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "PT Kusuma menerbitkan wesel tanpa bunga senilai Rp 200.000.000 dengan jangka waktu 4 tahun. Suku bunga implisit yang sama dengan total kas yang dibayarkan untuk nilai sekarang dari arus kas masa depan sebesar 12%. Jurnal yang tepat untuk mencatat penerbitan wesel bayar PT Kusuma adalah……..",
+      "opsi": [
+        "Kas (D) Rp 200.000.000, Wesel bayar (K) Rp 200.000.000",
+        "Kas (D) Rp 127.100.000, Wesel bayar (K) Rp 127.100.000",
+        "Wesel bayar (D) Rp 127.100.000, Kas (K) Rp 127.100.000",
+        "Kas (D) Rp 200.000.000, Diskonto atas wesel bayar (K) Rp 72.900.000, wesel bayar (K) Rp 127.100.000",
+        "Kas (D) Rp 72.900.000, Diskonto atas wesel bayar (K) Rp 127.100.000, wesel bayar (K) Rp 200.000.000"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Surat berharga yang diterbitkan perusahaan yang berisi janji kepada pemegangnya untuk melakukan pembayaran pada saat jatuh tempo dan disertai dengan pembayaran bunga disebut……..",
+      "opsi": [
+        "Wesel bayar",
+        "Hipotik",
+        "Saham",
+        "Obligasi",
+        "Trustee"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Ada dua jenis wesel bayar jangka panjang yaitu…..",
+      "opsi": [
+        "Wesel bayar jangka pendek yang diterbitkan pada nilai nominalnya dan wesel bayar jangka panjang yang diterbitkan tidak pada nilai nominalnya",
+        "Tanpa bunga dan dengan bunga",
+        "Wesel bayar jangka panjang yang diterbitkan pada nilai nominalnya dan wesel bayar jangka panjang yang diterbitkan tidak pada nilai nominalnya",
+        "Penjualan obligasi dengan diskonto dan dengan premi",
+        "Wesel bayar jangka pendek yang diterbitkan pada nilai nominalnya dan wesel bayar jangka pendek yang diterbitkan tidak pada nilai nominalnya"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Perhatikan gambar berikut!<br><br><img src='soal/img/XII/kk-akl/Picture2.png' width='520'><br><br>Jika menggunakan MYOB, maka langkah awal untuk mencatat transaksi tersebut yaitu melalui jendela ....",
+      "pertanyaan": "Biaya yang dikeluarkan perusahaan untuk mendapatkan bahan utama dalam proses produksi disebut…..",
       "opsi": [
-        "Banking -> Spend Money",
-        "Account -> Record Journal Entry",
-        "Purchases -> Pay Bills",
-        "Purchases -> Enter Purchase",
-        "Sales -> Enter Sales"
+        "Biaya tenaga kerja",
+        "Biaya bahan baku",
+        "Biaya overhead pabrik",
+        "Biaya overhead semi variabel",
+        "Biaya pabrik"
       ],
-      "jawaban": "E"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Perhatikan gambar berikut!<br><br><img src='soal/img/XII/kk-akl/Picture3.png' width='520'><br><br>Jika menggunakan MYOB, maka langkah awal untuk mencatat transaksi tersebut yaitu melalui jendela ....",
+      "pertanyaan": "Seluruh biaya, selain biaya bahan baku dan tenaga kerja langsung dikeluarkan untuk mendukung kegiatan produksi disebut…..",
       "opsi": [
-        "Banking -> Spend Money",
-        "Purchases -> Pay Bills",
-        "Sales -> Enter Sales",
-        "Account -> Record Journal Entry",
-        "Sales -> Receive Payment"
+        "Biaya tenaga kerja",
+        "Biaya bahan baku",
+        "Biaya overhead pabrik",
+        "Biaya bahan penolong",
+        "Biaya bahan pembantu"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Biaya pemeliharaan mesin merupakan contoh dari…..",
+      "opsi": [
+        "Biaya bahan baku",
+        "Biaya tenaga kerja",
+        "Biaya overhead semi variabel",
+        "Biaya overhead tetap",
+        "Biaya overhead variabel"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Pengeluaran perusahaan untuk membayar upah pekerja yang terjun langsung dalam kegiatan produksi adalah…..",
+      "opsi": [
+        "Biaya tenaga kerja tidak langsung",
+        "Biaya tenaga kerja langsung",
+        "Biaya bahan baku",
+        "Biaya overhead pabrik",
+        "Biaya produksi"
       ],
       "jawaban": "B"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Perhatikan gambar berikut!<br><br><img src='soal/img/XII/kk-akl/Picture4.png' width='520'><br><br>Jika menggunakan MYOB, maka langkah awal untuk mencatat transaksi tersebut yaitu melalui jendela ...."
+      "pertanyaan": "Sebuah perusahaan jasa mencatat transaksi keuangan menggunakan MYOB Accounting. Pada bulan Januari 2025, perusahaan menerima pembayaran piutang dari pelanggan Rp12.000.000 melalui transfer bank. Bagaimana langkah-langkah pencatatan transaksi tersebut dalam MYOB?"
     },
     {
-      "pertanyaan": "Andi merupakan wajib pajak orang pribadi yang berstatus K/3. Besarnya PTKP yang dikenakan atas penghitungan pajak penghasilan Andi adalah ....."
+      "pertanyaan": "Ahmad Zakaria bekerja pada perusahaan PT. Zamrud Abadi, pada bulan Juni Ahmad memperoleh gaji sebesar Rp 9.500.000,00 dan membayar iuran pensiun sebesar Rp 150.000,00. Ahmad Zakaria sudah menikah tetapi belum mempunyai anak. Ahmad termasuk kategori A dengan persentasi 1,75%. Berapakah PPh Pasal 21 terutang Ahmad bulan Juni?"
     },
     {
-      "pertanyaan": "Ibra bekerja pada PT. X dengan memperoleh gaji sebulan sebesar Rp 7.500.000,-. Diketahui besarnya penghasilan kena pajak wajib pajak sebesar Rp 17.800.000,-, berapakah jumlah pajak yang terutangnya Ibra ...."
+      "pertanyaan": "Berdasarkan data di bawah ini buatlah jurnalnya!<br><br><b>A. DAFTAR PELANGGAN DAN SALDO PIUTANG DAGANG per 30 November 2023</b><br><br><img src='soal/img/XII/kk-akl/Picture4.png' width='500'><br><br><img src='soal/img/XII/kk-akl/Picture5.png' width='500'>"
     },
     {
-      "pertanyaan": "Cermati data keuangan PT Kencana berikut ini.<br><br>PT. Mannaf adalah perusahaan garmen yang cukup besar. Data keuangan PT. Mannaf untuk periode yang berakhir pada 31 Desember 2022 adalah sebagai berikut.<br><br>Persediaan bahan baku (awal) Rp 50.000.000,00<br>Persediaan bahan baku (akhir) Rp 70.000.000,00<br>Pembelian bahan baku Rp 310.000.000,00<br>Persediaan bahan penolong (awal) Rp 12.000.000,00<br>Biaya bahan penolong Rp 100.000.000,00<br>Persediaan bahan penolong (akhir) Rp 20.000.000,00<br>Tenaga kerja langsung Rp 360.000.000,00<br>Tenaga kerja tidak langsung Rp 95.000.000,00<br>Depresiasi penyusutan mesin pabrik Rp 65.000.000,00<br>Gaji supervisor pabrik Rp 36.000.000,00<br>Biaya perawatan mesin pabrik Rp 35.000.000,00<br>Persediaan barang dalam proses (awal) Rp 100.000.000,00<br>Persediaan barang dalam proses (akhir) Rp 60.000.000,00<br><br>Berdasarkan perhitunganmu susunlah laporan harga pokok produksinya!"
+      "pertanyaan": "PT. Maju Jaya adalah sebuah perusahaan yang kegiatannya memproduksi sepatu lari. Biaya yang dikeluarkan oleh PT. Maju Jaya untuk memproduksi sepatu lari untuk periode yang berakhir ada 31 Desember 2022 adalah sebagai berikut.<br><br><blockquote>Bahan baku (awal) Rp 25.000.000<br>Bahan baku (akhir) Rp 22.000.000<br>Pembelian bahan baku Rp 200.000.000<br>Bahan tidak langsung Rp 23.000.000<br>Barang dalam proses (awal) Rp 90.000.000<br>Barang dalam proses (akhir) Rp 55.000.000</blockquote>"
     },
     {
-      "pertanyaan": "PT Photo Shape mempunyai utang kepada tiga pemasok:<br><br><blockquote><table border='1' cellpadding='5' cellspacing='0' style='border-collapse: collapse;'><tr><th>Pemasok</th><th>Saldo Awal</th></tr><tr><td>PT Kamera Jaya</td><td>Rp15.000.000</td></tr><tr><td>PT Lensa Abadi</td><td>Rp10.000.000</td></tr><tr><td>PT Digital Foto</td><td>Rp20.000.000</td></tr></table></blockquote><br>Transaksi bulan Agustus:<br><br>- Membeli dari PT Kamera Jaya Rp12.000.000.<br>- Membayar utang kepada PT Kamera Jaya Rp10.000.000.<br>- Membeli dari PT Lensa Abadi Rp8.000.000.<br>- Membayar utang kepada PT Lensa Abadi Rp5.000.000.<br>- Membeli dari PT Digital Foto Rp15.000.000.<br>- Membayar utang kepada PT Digital Foto Rp18.000.000.<br><br><b>Diminta:</b><br>a. Buatlah buku pembantu utang untuk setiap pemasok!<br>b. Hitung saldo akhir masing-masing pemasok."
+      "pertanyaan": "Pada tanggal 15 Mei 2015, PT Mundur Jaya menerbitkan wesel bayar untuk meminjamkan uang di Bank ABC sebesar Rp 360.000.000. Wesel diterbitkan dengan nilai nominal Rp 360.000.000, bunga 10%, dan jangka waktu 3 tahun. Pembayarannya diangsur setiap tanggal 31 Desember. Berdasarkan uraian tersebut, lakukan beberapa hal berikut. Buat tabel angsuran wesel bayar!"
     }
   ]
 }
