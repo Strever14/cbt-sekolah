@@ -1,334 +1,356 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Peluang usaha adalah kesempatan yang dapat dimanfaatkan seseorang untuk...",
+      "pertanyaan": "Perencanaan produksi adalah kegiatan yang bertujuan untuk ....",
       "opsi": [
-        "Menghindari persaingan",
-        "Mendapatkan keuntungan melalui suatu usaha",
-        "Mengurangi jumlah konsumen",
-        "Menghindari risiko usaha",
-        "Menambah pengeluaran"
+        "Menentukan harga jual produk",
+        "Mengatur proses produksi agar berjalan sesuai kebutuhan dan target",
+        "Meningkatkan jumlah karyawan tanpa perhitungan",
+        "Mengurangi kegiatan pemasaran",
+        "Menentukan lokasi toko"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Salah satu sumber peluang usaha yang berasal dari lingkungan sekitar adalah...",
+      "pertanyaan": "Salah satu ruang lingkup perencanaan produksi yang berkaitan dengan jumlah barang yang harus dibuat adalah ....",
       "opsi": [
-        "Kebutuhan masyarakat",
-        "Larangan pemerintah",
-        "Persaingan yang ketat",
-        "Kenaikan biaya produksi",
-        "Penurunan daya beli"
+        "Perencanaan kapasitas produksi",
+        "Perencanaan promosi",
+        "Perencanaan distribusi",
+        "Perencanaan keuangan pribadi",
+        "Perencanaan pelayanan konsumen"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Tujuan utama menganalisis peluang usaha adalah...",
+      "pertanyaan": "Dalam perencanaan produksi, penentuan bahan baku diperlukan agar ....",
       "opsi": [
-        "Menambah jumlah pesaing",
-        "Mengetahui kemungkinan usaha dapat berkembang",
-        "Mengurangi kualitas produk",
-        "Menghindari konsumen",
-        "Memperbesar biaya operasional"
+        "Produk memiliki harga jual yang tinggi",
+        "Proses produksi dapat berjalan tanpa kekurangan bahan",
+        "Jumlah karyawan bertambah",
+        "Promosi produk lebih menarik",
+        "Produk lebih mudah didistribusikan"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Berikut yang merupakan ciri peluang usaha yang baik adalah...",
+      "pertanyaan": "Berikut yang termasuk kegiatan dalam ruang lingkup perencanaan produksi adalah ....",
       "opsi": [
-        "Tidak memiliki konsumen",
-        "Membutuhkan modal sangat besar",
-        "Mampu memberikan keuntungan",
-        "Tidak memiliki nilai jual",
-        "Sulit dikembangkan"
+        "Menentukan kebutuhan bahan baku dan tenaga kerja",
+        "Membuat iklan produk",
+        "Menentukan desain logo perusahaan",
+        "Mengatur kegiatan rekreasi karyawan",
+        "Menentukan strategi pelayanan pelanggan"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Tujuan utama perencanaan produksi adalah ....",
+      "opsi": [
+        "Menghasilkan produk sebanyak-banyaknya tanpa memperhatikan kebutuhan",
+        "Menghindari seluruh kegiatan pengawasan",
+        "Memastikan produksi berlangsung efektif dan sesuai permintaan",
+        "Mengurangi kualitas produk",
+        "Menghilangkan penggunaan bahan baku"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Kebutuhan masyarakat yang belum terpenuhi dapat menjadi...",
+      "pertanyaan": "Menetapkan jenis produksi berarti menentukan ....",
       "opsi": [
-        "Hambatan usaha",
-        "Peluang usaha",
-        "Kerugian usaha",
-        "Beban produksi",
-        "Ancaman usaha"
+        "Jumlah tenaga kerja yang dibutuhkan",
+        "Besarnya keuntungan perusahaan",
+        "Harga bahan baku",
+        "Lokasi pemasaran produk",
+        "Jenis produk yang akan dibuat oleh perusahaan"
       ],
-      "jawaban": "B"
+      "jawaban": "E"
     },
     {
-      "pertanyaan": "Sebelum memulai usaha, seorang wirausahawan sebaiknya melakukan...",
+      "pertanyaan": "Hal utama yang perlu diperhatikan dalam menentukan jumlah produksi adalah ....",
       "opsi": [
-        "Analisis peluang usaha",
-        "Pengurangan kualitas",
-        "Penutupan usaha",
-        "Pemutusan hubungan kerja",
-        "Pengurangan konsumen"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "SWOT merupakan metode analisis yang digunakan untuk mengetahui...",
-      "opsi": [
-        "Harga bahan baku saja",
-        "Kekuatan, kelemahan, peluang, dan ancaman usaha",
-        "Jumlah karyawan saja",
-        "Besarnya pajak usaha",
-        "Jumlah produk yang terjual"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Dalam analisis SWOT, <i>Strength</i> berarti...",
-      "opsi": [
-        "Ancaman",
-        "Peluang",
-        "Kelemahan",
-        "Kekuatan",
-        "Persaingan"
+        "Warna kemasan produk",
+        "Selera pemilik perusahaan",
+        "Jumlah pesaing saja",
+        "Permintaan pasar",
+        "Ukuran gedung perusahaan"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Dalam analisis SWOT, <i>Weakness</i> berarti...",
+      "pertanyaan": "Jika permintaan konsumen terhadap suatu produk meningkat, maka perusahaan sebaiknya ....",
       "opsi": [
-        "Kekuatan",
-        "Kelemahan",
-        "Peluang",
-        "Ancaman",
-        "Keuntungan"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Faktor eksternal dalam analisis SWOT yang dapat dimanfaatkan untuk mengembangkan usaha disebut...",
-      "opsi": [
-        "Strength",
-        "Weakness",
-        "Opportunity",
-        "Threat",
-        "Production"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Contoh peluang usaha di bidang makanan adalah...",
-      "opsi": [
-        "Menjual makanan sesuai tren dan kebutuhan konsumen",
-        "Menjual produk tanpa memperhatikan kebersihan",
-        "Menjual barang yang tidak dibutuhkan",
-        "Mengabaikan selera konsumen",
-        "Mengurangi kualitas bahan"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Salah satu cara menemukan peluang usaha adalah dengan mengamati...",
-      "opsi": [
-        "Kebutuhan dan masalah yang dihadapi masyarakat",
-        "Jumlah pesaing saja",
-        "Keuntungan orang lain saja",
-        "Harga produk tanpa konsumen",
-        "Jumlah karyawan perusahaan lain"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Seorang siswa melihat banyak teman di sekolah membutuhkan makanan sehat dengan harga terjangkau. Hal tersebut dapat dijadikan peluang usaha dengan cara...",
-      "opsi": [
-        "Menjual makanan sehat dengan harga sesuai kemampuan siswa",
-        "Menjual makanan dengan harga sangat mahal",
-        "Tidak melakukan riset konsumen",
-        "Mengurangi kebersihan makanan",
-        "Menjual produk yang tidak diminati"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Berikut yang termasuk faktor internal dalam menentukan peluang usaha adalah...",
-      "opsi": [
-        "Kemampuan dan keterampilan pengusaha",
-        "Kondisi ekonomi negara",
-        "Kebijakan pemerintah",
-        "Perubahan tren masyarakat",
-        "Tingkat persaingan pasar"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Salah satu faktor eksternal yang memengaruhi peluang usaha adalah...",
-      "opsi": [
-        "Keterampilan pemilik usaha",
-        "Modal pribadi",
-        "Kondisi pasar",
-        "Motivasi pengusaha",
-        "Kemampuan produksi pribadi"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Riset pasar dilakukan dengan tujuan untuk...",
-      "opsi": [
-        "Mengetahui kebutuhan dan keinginan konsumen",
-        "Menghindari konsumen",
-        "Mengurangi jumlah produk",
-        "Menambah biaya tanpa tujuan",
-        "Meniru semua produk pesaing"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Produk yang memiliki keunikan dibandingkan produk pesaing akan memiliki...",
-      "opsi": [
-        "Daya tarik lebih tinggi bagi konsumen",
-        "Nilai jual yang selalu rendah",
-        "Risiko pasti lebih besar",
-        "Konsumen yang lebih sedikit",
-        "Kualitas yang pasti buruk"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Inovasi dalam usaha berarti...",
-      "opsi": [
-        "Meniru produk pesaing sepenuhnya",
-        "Menciptakan pembaruan atau pengembangan produk",
+        "Mengurangi jumlah produksi",
+        "Menghentikan produksi",
+        "Menambah jumlah produksi sesuai kemampuan",
         "Mengurangi kualitas produk",
-        "Menghentikan kegiatan produksi",
-        "Menghindari perubahan"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Seorang wirausahawan melihat tren minuman kekinian dan kemudian membuat produk dengan varian rasa yang berbeda. Tindakan tersebut merupakan contoh...",
-      "opsi": [
-        "Inovasi produk",
-        "Pemborosan modal",
-        "Ancaman usaha",
-        "Kegagalan produksi",
-        "Pengurangan pasar"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Risiko usaha adalah...",
-      "opsi": [
-        "Kepastian memperoleh keuntungan",
-        "Kemungkinan terjadinya kerugian atau kegagalan dalam usaha",
-        "Jumlah modal yang dimiliki",
-        "Banyaknya konsumen",
-        "Harga jual produk"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Salah satu cara mengurangi risiko dalam menjalankan usaha adalah...",
-      "opsi": [
-        "Melakukan perencanaan dan analisis pasar",
-        "Mengabaikan kebutuhan konsumen",
-        "Menggunakan modal tanpa perhitungan",
-        "Tidak melakukan promosi",
-        "Menjual produk tanpa pengujian"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Peluang usaha yang baik seharusnya memiliki nilai ekonomis, artinya...",
-      "opsi": [
-        "Tidak dapat menghasilkan pendapatan",
-        "Tidak memiliki manfaat",
-        "Berpotensi menghasilkan keuntungan",
-        "Tidak membutuhkan konsumen",
-        "Tidak dapat dikembangkan"
+        "Mengganti semua tenaga kerja"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Jika banyak masyarakat membutuhkan jasa laundry karena kesibukan bekerja, kondisi tersebut merupakan peluang usaha yang muncul dari...",
+      "pertanyaan": "Sebuah perusahaan memperkirakan permintaan produk A sebanyak 500 unit per bulan. Kapasitas produksinya adalah 600 unit per bulan. Jumlah produksi yang paling sesuai dengan perkiraan permintaan adalah ....",
       "opsi": [
-        "Kebutuhan masyarakat",
-        "Kelemahan produk",
-        "Ancaman pesaing",
-        "Kenaikan modal",
-        "Penurunan kualitas"
+        "100 unit",
+        "300 unit",
+        "400 unit",
+        "500 unit",
+        "700 unit"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Dalam menetapkan jenis dan jumlah produksi, perusahaan perlu mempertimbangkan kemampuan mesin dan tenaga kerja. Hal tersebut bertujuan untuk ....",
+      "opsi": [
+        "Menghindari produksi yang melebihi kapasitas",
+        "Mengurangi jumlah pelanggan",
+        "Meningkatkan biaya produksi",
+        "Menghentikan kegiatan pemasaran",
+        "Mengurangi variasi produk tanpa alasan"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Dalam menentukan peluang usaha, seorang wirausahawan harus mempertimbangkan modal, keterampilan, pasar, dan...",
+      "pertanyaan": "Apa arti dari \"prototype\" (prototipe) secara sederhana dalam pembuatan produk?",
       "opsi": [
-        "Risiko usaha",
-        "Jumlah teman",
-        "Hobi orang lain",
-        "Jumlah pesaing saja",
-        "Keinginan tanpa perencanaan"
+        "Barang tiruan atau model awal dari sebuah produk sebelum dibuat secara massal.",
+        "Hasil akhir produk yang sudah rusak dan gagal dipasarkan.",
+        "Brosur atau kertas promosi untuk menarik minat pembeli.",
+        "Kotak atau kardus pembungkus suatu barang dagangan.",
+        "Catatan keuangan dari perusahaan pembuat produk."
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Sikap yang paling tepat bagi seorang wirausahawan ketika menemukan peluang usaha adalah...",
+      "pertanyaan": "Sebelum membuat tas dengan bahan kulit asli yang mahal, seorang perajin biasanya membuat contoh tiruannya menggunakan kertas karton atau kain sisa terlebih dahulu. Contoh tiruan awal ini dinamakan...",
       "opsi": [
-        "Takut mengambil keputusan",
-        "Menunggu orang lain memulai terlebih dahulu",
-        "Menganalisis peluang dan berani mengambil keputusan dengan perhitungan",
-        "Mengabaikan peluang tersebut",
-        "Menjalankan usaha tanpa perencanaan"
+        "Produk akhir",
+        "Merek dagang",
+        "Iklan produk",
+        "Bahan baku",
+        "Prototipe"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Apa alasan utama mengapa kita perlu membuat prototipe sebelum menjual produk ke pasaran?",
+      "opsi": [
+        "Agar produk bisa langsung laku jutaan unit dalam sehari.",
+        "Supaya kita bisa melihat dan memperbaiki kesalahan desain sejak awal sebelum keluar banyak biaya.",
+        "Agar produk terlihat mahal dan mewah di mata toko-toko.",
+        "Supaya tidak perlu membayar pajak usaha.",
+        "Agar barang tidak bisa ditiru oleh saingan bisnis."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Contoh prototipe yang sangat sederhana dan murah untuk dibuat pada tahap awal ide (misalnya hanya berupa coretan di atas kertas atau sketsa kasar) disebut...",
+      "opsi": [
+        "Prototipe kelas berat",
+        "Prototipe mewah",
+        "Prototipe tingkat tinggi (High-Fidelity)",
+        "Prototipe tingkat rendah (Low-Fidelity)",
+        "Prototipe digital otomatis"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Setelah sebuah prototipe selesai dibuat, apa hal pertama yang biasanya dilakukan oleh pembuatnya kepada calon pembeli atau pengguna?",
+      "opsi": [
+        "Meminta mereka untuk membeli semua barangnya dengan harga mahal",
+        "Menguji coba produk tersebut dan meminta pendapat atau masukannya.",
+        "Menyembunyikan prototipe tersebut agar tidak dilihat orang lain",
+        "Membuang prototipe ke tempat sampah.",
+        "Menuntut pengguna jika mereka tidak menyukai warnanya."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Tahapan awal yang paling penting sebelum sebuah perusahaan memutuskan untuk mulai memproduksi suatu produk baru adalah...",
+      "opsi": [
+        "Langsung mencetak kemasan dalam jumlah ribuan",
+        "Menentukan diskon harga produk secara permanen.",
+        "Menutup semua pabrik pesaing di sekitar lokasi usaha.",
+        "Membeli mesin pabrik paling mahal tanpa perencanaan.",
+        "Melakukan riset pasar untuk mengetahui kebutuhan dan keinginan konsumen."
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Metode pembuatan produk di mana barang diproduksi secara besar-besaran, menggunakan mesin otomatis, dan menghasilkan standar produk yang sama persis dalam jumlah banyak disebut...",
+      "opsi": [
+        "Produksi kerajinan tangan (handicraft)",
+        "Produksi berdasarkan pesanan khusus (custom order)",
+        "Produksi massal (mass production)",
+        "Produksi musiman (seasonal production)",
+        "Produksi skala kecil rumahan"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Perencanaan usaha adalah proses yang dilakukan untuk...",
+      "pertanyaan": "Setelah tahap desain dan pembuatan prototipe selesai, langkah berikutnya dalam proses persiapan pembuatan produk sebelum masuk ke lini produksi massal adalah...",
       "opsi": [
-        "Menghabiskan modal usaha",
-        "Menentukan langkah-langkah yang akan dilakukan dalam menjalankan usaha",
-        "Menghindari kegiatan produksi",
+        "Langsung membagikan produk secara gratis selamanya.",
+        "Melakukan uji coba produksi skala kecil (pilot production) untuk melihat kelancaran mesin dan efisiensi kerja.",
+        "Mengganti seluruh konsep produk dari awal.",
+        "Memecat semua tim perancang produk.",
+        "Menjual hak cipta merek kepada pihak luar tanpa syarat."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Apa tugas utama dari bagian Pengendalian Mutu (Quality Control / QC) dalam sebuah proses pembuatan produk?",
+      "opsi": [
+        "Menghitung jumlah gaji karyawan setiap hari.",
+        "Mengirimkan surat penagihan utang kepada pembeli.",
+        "Menentukan warna cat dinding ruang kantor administrasi.",
+        "Memastikan tidak ada produk cacat atau rusak yang lolos ke tangan konsumen",
+        "Membuat desain iklan promosi di media sosial."
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Kegiatan mengubah bahan mentah atau bahan baku melalui proses tertentu menjadi barang jadi yang siap pakai dan memiliki nilai tambah disebut sebagai...",
+      "opsi": [
+        "Konsumsi",
+        "Distribusi",
+        "Produksi",
+        "Promosi",
+        "Investasi"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Biaya yang secara langsung habis terpakai dalam proses pembuatan suatu produk dan dapat ditelusuri jejaknya dengan mudah pada produk jadi (misalnya kayu pada pembuatan meja atau kain pada pembuatan baju) disebut sebagai...",
+      "opsi": [
+        "Biaya Tidak Langsung (Indirect Cost)",
+        "Biaya Langsung (Direct Cost)",
+        "Biaya Overhead Pabrik",
+        "Biaya Penyusutan Gedung",
+        "Biaya Administrasi Kantor"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Apa yang dimaksud dengan Biaya Overhead Pabrik dalam komponen analisis biaya suatu produk?",
+      "opsi": [
+        "Biaya pembelian bahan baku utama yang paling mahal.",
+        "Upah harian yang dibayarkan langsung kepada buruh pembuat produk.",
+        "Biaya produksi di luar bahan baku langsung dan tenaga kerja langsung, seperti biaya listrik pabrik, bahan penolong, dan pemeliharaan mesin.",
+        "Keuntungan bersih yang diterima pemilik setelah produk laku terjual.",
+        "Biaya yang dikeluarkan khusus untuk membuat desain kemasan produk."
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Dalam menghitung Harga Pokok Produksi (HPP) per unit suatu barang, unsur-unsur utama yang wajib dijumlahkan meliputi...",
+      "opsi": [
+        "Biaya bahan baku langsung, biaya tenaga kerja langsung, dan biaya overhead pabrik.",
+        "Biaya promosi, biaya iklan digital, dan komisi sales.",
+        "Harga jual produk, diskon toko, dan pajak pertambahan nilai.",
+        "Biaya sewa tempat tinggal pemilik usaha dan biaya liburan karyawan.",
+        "Biaya pengiriman barang dari pabrik ke gudang konsumen akhir."
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Metode penetapan harga jual produk dengan cara menambahkan persentase keuntungan (margin) tertentu di atas total biaya produksi per unit disebut dengan istilah...",
+      "opsi": [
+        "Break-Even Pricing",
+        "Cost-Plus Pricing",
+        "Value-Based Pricing",
+        "Penetration Pricing",
+        "Loss Leader Pricing"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Apa tujuan utama dari melakukan analisis biaya produk secara rutin bagi sebuah perusahaan?",
+      "opsi": [
+        "Memastikan perusahaan dapat mendeteksi pemborosan, menekan biaya operasional yang tidak efisien, dan meningkatkan keuntungan.",
+        "Menaikkan harga jual produk secara drastis tanpa alasan yang jelas.",
+        "Menghilangkan kebutuhan untuk melakukan riset pasar dan inovasi.",
+        "Memastikan seluruh karyawan pabrik bekerja lembur setiap hari.",
+        "Menghindari kewajiban perusahaan untuk membayar pajak tahunan."
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Dalam pengelolaan usaha, seorang wirausahawan harus mampu mengarahkan, memotivasi, dan membimbing para karyawannya agar bekerja secara produktif untuk mencapai tujuan perusahaan. Fungsi manajemen ini disebut sebagai...",
+      "opsi": [
+        "Planning",
+        "Organizing",
+        "Actuating (Pengarahan / Pelaksanaan)",
+        "Controlling",
+        "Forecasting"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Analisis SWOT sering digunakan pengusaha dalam mengelola strategi bisnis. Unsur Strength (Kekuatan) dan Weakness (Kelemahan) dalam analisis tersebut biasanya berasal dari faktor...",
+      "opsi": [
+        "Lingkungan eksternal perusahaan (luar kendali perusahaan).",
+        "Kebijakan pemerintah pusat dan pajak daerah.",
+        "Kondisi ekonomi global dan tingkat inflasi dunia.",
+        "Perilaku dan kebiasaan belanja kompetitor utama.",
+        "Faktor internal perusahaan (hal-hal yang berada di dalam kendali dan kemampuan perusahaan)."
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Mengapa pemisahan antara keuangan pribadi pemilik usaha dan keuangan bisnis sangat penting dalam pengelolaan usaha yang baik?",
+      "opsi": [
+        "Agar pemilik usaha bisa memakai uang toko kapan saja tanpa batas untuk belanja pribadi.",
+        "Supaya laporan keuangan perusahaan menjadi transparan, akurat, dan kesehatan finansial bisnis dapat terpantau dengan jelas.",
+        "Agar perusahaan tidak perlu membayar pajak penghasilan sama sekali.",
+        "Supaya jumlah karyawan di toko otomatis bertambah banyak.",
+        "Agar harga barang dagangan bisa dinaikkan setinggi-tingginya."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Dalam pengelolaan sumber daya manusia di sebuah usaha kecil, langkah awal yang tepat untuk mendapatkan tenaga kerja yang kompeten adalah...",
+      "opsi": [
+        "Merekrut kerabat dekat secara paksa tanpa melihat keahlian mereka.",
+        "Membiarkan posisi lowong tanpa ada pekerja selama bertahun-tahun.",
+        "Merekrut semua pelamar kerja tanpa melalui wawancara.",
+        "Menyerahkan seluruh urusan toko kepada pembeli pertama.",
+        "Melakukan proses rekrutmen dan seleksi berdasarkan kebutuhan posisi serta kriteria keahlian yang jelas."
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Apa arti penting dari evaluasi berkala (misalnya evaluasi bulanan atau tahunan) dalam pengelolaan suatu usaha?",
+      "opsi": [
+        "Untuk mencari alasan guna memecat seluruh karyawan di akhir bulan.",
+        "Mengetahui pencapaian target, mengidentifikasi kendala yang terjadi, dan merumuskan langkah perbaikan untuk masa depan usaha.",
+        "Menghabiskan waktu kerja efektif agar tidak perlu melayani pembeli.",
+        "Membuang seluruh catatan penjualan masa lalu agar lemari lebih longgar.",
+        "Memastikan usaha berjalan tanpa perlu perencanaan sama sekali."
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Peluang usaha adalah kesempatan yang dapat dimanfaatkan seseorang untuk...",
+      "opsi": [
+        "Mendapatkan keuntungan melalui suatu usaha",
         "Mengurangi jumlah konsumen",
-        "Menghentikan kegiatan pemasaran"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Tujuan utama dibuatnya perencanaan usaha adalah...",
-      "opsi": [
-        "Agar usaha berjalan tanpa tujuan",
-        "Agar kegiatan usaha lebih terarah dan memiliki tujuan yang jelas",
-        "Agar modal cepat habis",
-        "Agar tidak memiliki pesaing",
-        "Agar produk tidak berkembang"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Salah satu hal yang harus ditentukan sebelum memulai usaha adalah...",
-      "opsi": [
-        "Jenis usaha yang akan dijalankan",
-        "Jumlah pesaing yang harus dikalahkan",
-        "Cara menghindari konsumen",
-        "Jumlah kerugian yang diinginkan",
-        "Waktu untuk menghentikan usaha"
+        "Menghindari risiko usaha",
+        "Menghindari persaingan",
+        "Menambah pengeluaran"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Analisis pasar dalam perencanaan usaha bertujuan untuk mengetahui...",
+      "pertanyaan": "Salah satu sumber peluang usaha yang berasal dari lingkungan sekitar adalah...",
       "opsi": [
-        "Kebutuhan dan keinginan konsumen",
-        "Jumlah uang pribadi pengusaha",
-        "Jumlah barang di gudang pesaing",
-        "Keuntungan semua perusahaan",
-        "Jumlah karyawan pemerintah"
+        "Larangan pemerintah",
+        "Persaingan yang ketat",
+        "Kenaikan biaya produksi",
+        "Penurunan daya beli",
+        "Kebutuhan masyarakat"
       ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Dalam perencanaan usaha, target pasar adalah...",
-      "opsi": [
-        "Tempat menyimpan produk",
-        "Kelompok konsumen yang menjadi sasaran penjualan produk",
-        "Orang yang menjadi pesaing usaha",
-        "Pemilik modal usaha",
-        "Karyawan bagian produksi"
-      ],
-      "jawaban": "B"
+      "jawaban": "E"
     },
     {
       "pertanyaan": "Salah satu komponen penting dalam perencanaan usaha adalah perencanaan pemasaran. Perencanaan tersebut berkaitan dengan...",
@@ -362,45 +384,23 @@
         "Keuangan"
       ],
       "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Salah satu manfaat membuat perencanaan usaha adalah...",
-      "opsi": [
-        "Meningkatkan kemungkinan usaha berjalan sesuai tujuan",
-        "Membuat usaha tidak memiliki arah",
-        "Menambah risiko tanpa perhitungan",
-        "Mengurangi kualitas produk",
-        "Menghilangkan kebutuhan konsumen"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Perencanaan usaha yang baik harus dibuat berdasarkan kondisi yang...",
-      "opsi": [
-        "Tidak sesuai kenyataan",
-        "Hanya berdasarkan keinginan",
-        "Realistis dan dapat dilaksanakan",
-        "Tidak memiliki tujuan",
-        "Tidak memperhitungkan risiko"
-      ],
-      "jawaban": "C"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Apa yang dimaksud dengan peluang usaha? Jelaskan dan berikan satu contohnya!"
+      "pertanyaan": "Kelompok siswa ingin membuat usaha makanan berupa keripik pisang dengan berbagai varian rasa. Lakukan analisis SWOT terhadap usaha tersebut dan jelaskan hasilnya!<br><br>- Strengths (Kekuatan):<br>- Weaknesses (Kelemahan):<br>- Opportunities (Peluang):<br>- Threats (Ancaman):"
     },
     {
-      "pertanyaan": "Sebutkan 3 cara untuk menemukan peluang usaha!"
+      "pertanyaan": "Apa yang dimaksud dengan peluang usaha? Jelaskan dan berikan satu contohnya....?"
     },
     {
-      "pertanyaan": "Mengapa seorang wirausahawan harus melihat kebutuhan konsumen sebelum memulai usaha?"
+      "pertanyaan": "Sebutkan 4 hal yang perlu diperhatikan dalam membuat perencanaan usaha....?"
     },
     {
-      "pertanyaan": "Apa yang dimaksud dengan perencanaan usaha?"
+      "pertanyaan": "Sebutkan unsur-unsur biaya produksi, menurut objek pengeluarannya...?"
     },
     {
-      "pertanyaan": "Sebutkan 4 hal yang perlu diperhatikan dalam membuat perencanaan usaha!"
+      "pertanyaan": "Usaha service computer, memiliki data....<br><br><blockquote>- Harga service per unit Rp 150.000<br>- Biaya suku cadang Rp 60.000<br>- Biaya tenaga kerja langsung Rp 30.000<br>- Sewa tempat Rp 4.500.000<br>- Gaji staff tetap per bulan Rp 1.500.000</blockquote><br>Hitunglah:<br><br>a. Total biaya tetap<br>b. Biaya Variabel per unit<br>c. BEP unit & BEP rupiah"
     }
   ]
 }
