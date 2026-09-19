@@ -1,406 +1,406 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Bagaimana sintaks Right....",
-      "opsi": [
-        "Jumlah karakter, data teks",
-        "Jumlah, karakter awal, data teks",
-        "Data teks, jumlah karakter",
-        "Data teks, jumlah",
-        "Jumlah"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Sebuah sekolah menetapkan siswa dinyatakan <b>Lulus Seleksi</b> apabila:<br><br>Nilai Matematika ≥ 80<br>Nilai Bahasa Inggris ≥ 75<br><br>Data siswa berada pada sel B2 (Matematika) dan C2 (Bahasa Inggris).<br><br>Rumus yang tepat untuk menentukan status kelulusan adalah ....",
-      "opsi": [
-        "=IF(OR(B2>=80,C2>=75),\"Lulus\", \"Tidak\")",
-        "=IF(AND(B2>=80,C2>=75),\"Lulus\", \"Tidak\")",
-        "=IF(B2>=80,\"Lulus\",\"Tidak\")",
-        "=AND(B2>=80,C2>=75,\"Lulus\")",
-        "=IF(AND(B2>=80),\"Lulus\",\"Tidak\")"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Jika data menunjukkan 123-KIMIA, apabila menggunakan rumus =MID menjadi......",
-      "opsi": [
-        "123",
-        "1",
-        "MIA",
-        "3-K",
-        "2"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Fungsi yang digunakan untuk menghitung jumlah sel yang berisi data angka dan huruf, sedangkan sel kosong tidak akan terhitung sintaks yang digunakan adalah.....",
-      "opsi": [
-        "Count (value, (value 2)...)",
-        "Counta (range data)",
-        "Countif (rane, kriteria)",
-        "Countblank (range)",
-        "STDEV (range)"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Apa fungsi TEKS....",
-      "opsi": [
-        "Untuk mengubah data menjadi numerik",
-        "Untuk mengambil karakter dari kanan",
-        "Untuk merubah data angka menjadi huruf",
-        "Untuk menyimpulkan seluruh huruf",
-        "Untuk mengambil karakter dari kiri"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Fungsi count digunakan untuk....",
-      "opsi": [
-        "menghitung banyaknya angka",
-        "menghitung saldo awal",
-        "mengetahui peningkatan atau penurunan kas",
-        "Menghitung jumlah sel kosong",
-        "Menghitung jumlah saldo"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Fungsi dari sintaks \"LOWER\" adalah.....",
-      "opsi": [
-        "Untuk menambahkan seluruh huruf menjadi huruf kecil",
-        "Untuk memanpilkan huruf besar diawal teks",
-        "Untuk menampilkan seluruh huruf menjadi huruf besar",
-        "Untuk merubah data angka menjadi text (huruf)",
-        "Untuk merubah data teks menjadi numeric atau angka"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Pie Chart atau grafik lingkaran digunakan untuk apa.....",
-      "opsi": [
-        "Menunjukkan presentase",
-        "Menunjukkan proporsi",
-        "Komposisi biaya",
-        "Menunjukkan data",
-        "Semua benar"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Apa fungsi SUM IF (1 kriteria)",
-      "opsi": [
-        "Digunakan untuk menjumlahkan sel",
-        "Digunakan untuk menjumlahkan data berdasarkan 1 kriteria tertentu",
-        "Digunakan untuk menghitung dari data beberapa range",
-        "Digunakan untuk menghitung jumlah angka",
-        "Digunakan untuk menghitung jumlah data"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Sintaks fungsi LEFT adalah.....",
-      "opsi": [
-        "=(data teks, jumlah, karakter) untuk mengambil karakter dari kiri/awal",
-        "=(data teks, jumlah, karakter) untuk mengambil karakter dari kanan/belakang",
-        "=(data teks, karakter awal, jumlah) untuk mengambil dari kiri ke tengah",
-        "=(data teks, karakter awal, jumlah) untuk menampilkan seluruh menjadi huruf kecil",
-        "=(data teks, karakter awal, jumlah) huruf besar di awal teks)"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Rumus IF, AND, OR adalah fungsi logika dasar di excel untuk membuat ...",
-      "opsi": [
-        "Keputusan otomatis berdasarkan syarat tertentu",
-        "Untuk menghasilkan TRUE",
-        "Untuk menghasilkan nilai",
-        "Untuk melihat nilai",
-        "Untuk merapihkan sel"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Fungsi PROFER adalah.....",
-      "opsi": [
-        "Untuk menampilkan seluruh huruf menjadi kecil",
-        "Untuk mengubah data text",
-        "Untuk menampilkan huruf besar di awal text",
-        "Untuk mengubah angka",
-        "Untuk menampilkan data"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Chart yang digunakan untuk membandingkan nilai antar periode/bulan adalah....",
-      "opsi": [
-        "Bar chart",
-        "Column chart",
-        "Pie chart",
-        "Triangle chart",
-        "Combo chart"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Fungsi COUNTBLANK adalah.....",
-      "opsi": [
-        "Menghitung dara dari beberapa range lebih dari 1",
-        "Menghitung jumlah sel-sel tidak bernilai",
-        "Menghitung hasil semua range",
-        "Menghitung banyaknya data angka dalam suatu range",
-        "Menghitung data dengan nama siswa"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Rumus untuk menghitung jumlah data dengan kriteria tertentu adalah....",
+      "pertanyaan": "Fungsi yang digunakan untuk membuat jurnal umum adalah .....",
       "opsi": [
         "SUM",
         "AVERAGE",
-        "COUNTIF",
-        "MAX",
-        "MIN"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Fungsi OR akan menghasilkan TRUE jika.....",
-      "opsi": [
-        "Semua kondisi salah",
-        "Semua kondisi benar",
-        "Salah satu kondisi benar",
-        "Tidak ada data",
-        "Sel kosong"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Fitur excel yang digunakan untuk mengunci baris atau kolom agar tetap terlihat saat di scroll adalah...",
-      "opsi": [
-        "Merge and center",
-        "Freeze panes",
-        "Wrap text",
-        "Sort",
-        "filter"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Fungsi MID digunakan untuk mengambil sebagian karakter teks, yaitu yang terletak di bagian....",
-      "opsi": [
-        "Awal teks",
-        "Akhir teks",
-        "Tengah teks",
-        "Seluruh teks",
-        "Awal dan akhir teks sekaligus"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "VLOOKUP biasanya dipakai untuk.....",
-      "opsi": [
-        "Mengurutkan data",
-        "Mencari data pada tabel secara vertikal berdasarkan kunci tertentu",
-        "Menggabungkan sel",
-        "Membuat grafik",
-        "Menghapus data duplikat"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Rumus yang digunakan untuk mengambil 3 karakter terakhir adalah.....",
-      "opsi": [
-        "=LEFT(A1,3",
-        "=MID(A1,3,2)",
-        "=RIGHT(A1,3)",
-        "=LOWER(A1)",
-        "=UPPER(A1)"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Bagian excel yang berbentuk kotak-kotak kecil tempat kita menginput data tersebut disebut......",
-      "opsi": [
-        "Worksheet",
-        "Cell",
-        "Sheet lab",
-        "Column heading",
-        "Formula bar"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "String adalah...",
-      "opsi": [
-        "karakter",
-        "angka",
-        "data",
-        "jumlah",
-        "kumpulan karakter, angka, kombinasi huruf, dan angka"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Jenis grafik yang paling tepat digunakan untuk menunjukkan presentase atau proporsi serta komposisi biaya adalah......",
-      "opsi": [
-        "Bar chart",
-        "Line chart",
-        "Combo chart",
-        "Pie chart",
-        "Radar chart"
+        "MIN",
+        "VLOOKUP",
+        "HLOOKUP"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Fungsi logika yang hasilnya BENAR hanya jika SEMUA syarat terpenuhi adalah......",
+      "pertanyaan": "Fasilitas yang digunakan untuk memasukkan semua transaksi ke dalam jurnal umum adalah data .....",
       "opsi": [
-        "OR",
-        "IF",
-        "AND",
-        "COUNTIF",
-        "SUMIF"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Sebuah perusahaan memberikan bonus kepada karyawan yang memenuhi <b>salah satu</b> syarat berikut:<br><br>Masa kerja ≥ 10 tahun, atau<br>Penjualan ≥ Rp100.000.000<br><br>Jika masa kerja berada di sel B2 dan penjualan di sel C2, maka rumus yang tepat adalah ....",
-      "opsi": [
-        "=IF(AND(B2>=10,C2>=100000000), \"Bonus\",\"Tidak\")",
-        "=IF(OR(B2>=10,C2>=100000000), \"Bonus\",\"Tidak\")",
-        "=OR(B2>=10,C2>=100000000, \"Bonus\")",
-        "=IF(B2>=10,\"Bonus\",\"Tidak\")",
-        "=IF(C2>=100000000,\"Bonus\",\"Tidak\")"
+        "Filter",
+        "Form",
+        "Advance",
+        "Short",
+        "Validation"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Rumus yang menghasilkan TRUE jika salah satu atau lebih kondisi yang diuji terpenuhi yaitu menggunakan rumus.....",
+      "pertanyaan": "Tombol yang digunakan untuk menambah record baru adalah .....",
       "opsi": [
-        "IF",
+        "Next",
+        "New",
+        "Delete",
+        "Restore",
+        "Criteria"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Fungsi yang digunakan untuk memunculkan nama akun di Buku Besar adalah .....",
+      "opsi": [
+        "SUM",
+        "AVERAGE",
+        "MIN",
+        "VLOOKUP",
+        "HLOOKUP"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Bentuk penulisan yang benar dari rumus fungsi SUMIF adalah...",
+      "opsi": [
+        "=SUMIF (Range;Sum;Criteria)",
+        "=SUMIF (range;criteria;sum_range)",
+        "=SUMIF (criteria;range;sum_range)",
+        "=SUMIF (range;criteria;sum_range;false)",
+        "=SUMIF (criteria;range;sum_range;false)"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Fungsi yang digunakan untuk mengisi data transaksi di Buku Besar adalah data .....",
+      "opsi": [
+        "Filter",
+        "Form",
+        "Advance",
+        "Short",
+        "Validation"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Rumus yang dituliskan dengan tanda $ di depan baris atau kolom adalah fungsi dari rumus...",
+      "opsi": [
+        "Semiabsolut",
+        "Absolut",
+        "Logika",
+        "Statistik",
+        "Accounting"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Fungsi yang digunakan untuk menjumlahkan data bersifat numerik yang memenuhi kriteria tertentu adalah .....",
+      "opsi": [
+        "SUM",
+        "AVERAGE",
         "MAX",
         "MIN",
-        "AND",
-        "OR"
+        "SUMIF"
       ],
       "jawaban": "E"
     },
     {
-      "pertanyaan": "Jika Anda ingin mengambil 3 karakter dari sebelah kiri pada kata \"Indonesia\" rumus/ fungsi yang tepat adalah.....",
+      "pertanyaan": "Fungsi untuk menghitung atau menentukan nilai suatu pernyataan benar atau salah adalah .....",
       "opsi": [
-        "=LEFT(\"Indonesia\";3)",
-        "=UPPER(\"Indonesia\")",
-        "=TEXT(\"Indonesia\")",
-        "=VALUE(\"Indonesia\";3)",
-        "=RIGHT(\"Indonesia\";3)"
+        "Absolut",
+        "Semiabsolut",
+        "Logika",
+        "Statistik",
+        "Accounting"
       ],
-      "jawaban": "A"
+      "jawaban": "C"
     },
     {
-      "pertanyaan": "Untuk menjumlahkan data berdasarkan beberapa kriteria sekaligus merupakan pengertian dari fungsi......",
+      "pertanyaan": "Fungsi yang digunakan untuk membaca data dari tabel secara vertikal adalah .....",
       "opsi": [
         "SUMIF",
-        "SUMIFS",
-        "IFSUM",
+        "VLOOKUP",
+        "HLOOKUP",
+        "OR",
+        "IF"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Cara penulisan rumus pada spreadsheet yang benar adalah .....",
+      "opsi": [
+        "=SUM(A1A5)",
+        "=SUM(A1/A5)",
+        "=SUM(A1-A5)",
+        "=SUM(A1&A5)",
+        "=SUM(A1:A5)"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Perintah untuk menambah sheet adalah .....",
+      "opsi": [
+        "Klik ganda pada sheet 3",
+        "Klik ganda pada sheet 3 – Delete",
+        "Blok sheet 3 yang akan disalin – Copy",
+        "Klik ganda pada sheet 3 – Insert Worksheet",
+        "Blok sheet 3 – Insert Worksheet"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Fungsi yang digunakan untuk mengisi data transaksi di buku besar adalah .....",
+      "opsi": [
+        "Filter",
+        "Form",
+        "Advance",
+        "Short",
+        "Validate"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Rumus yang digunakan untuk memasukkan data pada neraca lajur kolom Penyesuaian Debet adalah .....",
+      "opsi": [
+        "=SUM(penyesuaian;no.akun neraca lajur;kolom debet penyesuaian)",
+        "=IF(penyesuaian;no.akun neraca lajur;kolom debet penyesuaian)",
+        "=SUMIF(penyesuaian;no.akun neraca lajur; kolom debet penyesuaian)",
+        "=Average(penyesuaian;no.akun neraca lajur; kolom debet penyesuaian)",
+        "=MIN(penyesuaian;no.akun neraca lajur; kolom debet penyesuaian)"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Bentuk penulisan fungsi IF yang benar adalah .....",
+      "opsi": [
+        "=IF(if_Value_True,if_Value_False)",
+        "=IF(Logical_Test, if_Value_True,if_Value_False)",
+        "=IF(Logical_Test, if_Value_False,if_Value_True)",
+        "=IF(Logical_Test, if_Value_False)",
+        "=IF(Logical_Test, if_Value_True)"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Langkah yang tepat untuk mencari nilai tertinggi menggunakan kotak dialog insert function adalah .....",
+      "opsi": [
+        "Insert Function – Category – Math & Ring – Sum – Ok",
+        "Group Toolbar Editing - Sum - Sorot A1 s/d A5 – Enter",
+        "Insert Function – Category – Max – Blok sel A1 s/d A5 – Enter",
+        "Group Toolbar Editing - Autosum – Max - Sorot A1 s/d A5 – Enter",
+        "Insert Function – Category – Math & Ring – Max – Ok – Blok sel A1 s/d A5 – Ok"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Fungsi yang digunakan untuk menjumlahkan data pada beberapa sel, merupakan pengertian dari .....",
+      "opsi": [
+        "SUMIF",
+        "SUM",
+        "IF",
         "MAX",
         "MIN"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Ada berapa jenis grafik di excel........",
+      "pertanyaan": "Cara penulisan rumus pada spreadsheet yang benar adalah .....",
       "opsi": [
-        "3",
-        "7",
-        "4",
-        "6",
-        "5"
+        "=SUM(A1A5)",
+        "=SUM(A1/A5)",
+        "=SUM(A1-A5)",
+        "=SUM(A1&A5)",
+        "=SUM(A1:A5)"
       ],
-      "jawaban": "B"
+      "jawaban": "E"
     },
     {
-      "pertanyaan": "Fungsi VALUE adalah......",
+      "pertanyaan": "Jika sebuah sel yang diformat ternyata muncul \"####\", artinya.....",
       "opsi": [
-        "Untuk menampilkan seluruh huruf menjadi huruf kecil",
-        "Untuk menampilkan huruf besar diawal",
-        "Untuk merubah data teks menjadi numerik atau angka",
-        "Untuk merubah data angka menjadi text",
-        "Untuk menampilkan seluruh huruf menjadi huruf besar"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Menu atau tab yang digunakan untuk menyisipkan grafik baru di Microsoft word adalah......",
-      "opsi": [
-        "Home",
-        "Layout",
-        "reference",
-        "Insert",
-        "Design"
+        "Sel terlalu besar",
+        "Rumus tidak lengkap",
+        "Sel harus dihapus",
+        "Sel kurang lebar",
+        "Sel kena virus"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Seorang siswa ingin menampilkan persentase jumlah siswa berdasarkan jurusan AKL, MPLB, dan TJKT. Jenis grafik yang paling sesuai adalah ....",
+      "pertanyaan": "Suatu daerah pada worksheet yang berbentuk segi empat dan merupakan kumpulan beberapa sel disebut ...",
       "opsi": [
-        "Line Chart",
-        "Pie Chart",
-        "Area Chart",
-        "Scatter Chart",
-        "Stock Chart"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Pada rumus =(COUNTIF(A1:A10;\"LULUS\"), bagian A1:A10 berfungsi sebagai......",
-      "opsi": [
-        "Rentang sel (range) yang akan diperiksa",
-        "Kriteria yang dicari",
-        "Nilai acuan untuk menjumlahkan",
-        "Hasil dari rumus",
-        "Rumus"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Perhatikan data berikut!<br><br><table border='1' cellpadding='5' cellspacing='0'><tr><th>Bulan</th><th>Penjualan</th></tr><tr><td>Januari</td><td>120</td></tr><tr><td>Februari</td><td>150</td></tr><tr><td>Maret</td><td>180</td></tr><tr><td>April</td><td>160</td></tr></table><br>Jika data tersebut dibuat dalam bentuk grafik garis (Line Chart), maka dapat disimpulkan bahwa ....",
-      "opsi": [
-        "Penjualan selalu menurun setiap bulan",
-        "Penjualan tertinggi terjadi pada Februari",
-        "Penjualan mengalami kenaikan hingga Maret kemudian menurun pada April",
-        "Penjualan tertinggi terjadi pada Januari",
-        "Penjualan stabil setiap bulan"
+        "Sheet",
+        "Column",
+        "Range",
+        "Pointer",
+        "Gridline"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Jika golongan 1 atau golongan 2 dapat bonus 7000 golongan 3 bonusnya 12000, maka rumus yang tepat adalah......",
+      "pertanyaan": "Berikut ini merupakan alamat sel yaitu .....",
       "opsi": [
-        "=IF(AND(B2;A;C2=\"7000\");\"7000\"; \"12000\")",
-        "=IF(OR(B2=2;B2=2);\"17000\";\"12000\")",
-        "=IF(OR(B2=2;B2=1);\"12000\";\"7000\")",
-        "Semua salah",
-        "=IF(OR(B2=1;B2=2);\"7000\";\"12000\")"
+        "84",
+        "3F",
+        "B5",
+        "BB",
+        "FO"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Untuk menambahkan atau menyisipkan cell menggunakan fungsi .....",
+      "opsi": [
+        "Insert",
+        "Delete",
+        "Format",
+        "Sort & filter",
+        "Find & select"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Penggunaan pada rumus =SUM(number1;[number2];..... untuk mencari.....",
+      "opsi": [
+        "Nilai terbesar/nilai maximal pada tabel",
+        "Nilai minimal pada tabel",
+        "Jumlah nilai keseluruhan",
+        "Nilai rata-rata pada nilai tabel",
+        "Nilai rapot"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Untuk merubah format angka dari 1000 menjadi Rp 1.000 menggunakan format .....",
+      "opsi": [
+        "General",
+        "Number",
+        "Time",
+        "Date",
+        "Accounting"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Sebaliknya untuk merubah format dari Rp 1.000 menjadi 1000 menggunakan format .....",
+      "opsi": [
+        "Number",
+        "Currency",
+        "General",
+        "Accounting",
+        "Date"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Berikut merupakan fungsi dari program spreadsheet, kecuali .....",
+      "opsi": [
+        "Membuat rumus fungsi",
+        "Melakukan perhitungan",
+        "Mengolah angka",
+        "Membuat tabel",
+        "Mengedit video"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Langkah yang tepat untuk menyimpan file baru pada Microsoft Excel adalah .....",
+      "opsi": [
+        "Office button – save – beri nama file – ok",
+        "Office button – save – beri nama file – save",
+        "Office button – save – ok",
+        "Office button – save – tentukan lokasi penyimpanan beri nama file – save",
+        "Office button – save as – tentukan lokasi penyimpanan beri nama file – save"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Untuk menghapus cell menggunakan fungsi .....",
+      "opsi": [
+        "Insert",
+        "Delete",
+        "Format",
+        "Sort & filter",
+        "Find & select"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perintah untuk menambah sheet adalah .....",
+      "opsi": [
+        "Klik ganda pada Sheet3",
+        "Klik kanan pada Sheet3 – insert worksheet",
+        "Klik kanan pada sheet3 – delete worksheet",
+        "Blok Sheet3 yang akan disalin – copy",
+        "Blok Sheet3 – insert worksheet"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perintah untuk memformat angka dengan menggunakan aturan akuntansi adalah .....",
+      "opsi": [
+        "Number",
+        "General",
+        "Currency",
+        "Accounting",
+        "Percent"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Yang bukan termasuk bagian dari lembar kerja Microsoft Excel adalah .....",
+      "opsi": [
+        "Query",
+        "Kolom",
+        "Baris",
+        "Cell",
+        "Range"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Untuk membuat formula atau rumus, maka pada awal data harus ditulis tanda ....",
+      "opsi": [
+        "*",
+        "@",
+        "+",
+        "-",
+        "="
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Tombol yang berisi perintah New, Open, Save, Save as, Print disebut .....",
+      "opsi": [
+        "Title Bar",
+        "Office Button",
+        "Group",
+        "Acces",
+        "Formula Bar"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Program pengolahan angka/spreadsheet berisikan perhitungan tertentu yang digunakan untuk menganalisis data berupa .....",
+      "opsi": [
+        "Milis, data statistik, dan grafik",
+        "Grafik, presentasi, dan surat",
+        "Data statistik, perhitungan akuntansi, dan pembuatan time schedule",
+        "Time schedule, penyebaran undangan, dan milis",
+        "Email, surat, dan penjualan"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Langkah yang tepat untuk membuat data baru dalam Microsoft Excel adalah .....",
+      "opsi": [
+        "Office Button – Blank Workbook – Ok",
+        "Office Button – New – Creat",
+        "Office Button – New – Blank Workbook – Creat",
+        "File – New – Ok",
+        "File – New – Blank Workbook – Creat"
       ],
       "jawaban": "E"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Jelaskan perbedaan fungsi RIGHT dan LEFT!"
+      "pertanyaan": "Tuliskan bentuk penulisan untuk fungsi SUM ...."
     },
     {
-      "pertanyaan": "Diketahui, Penerima beasiswa harus memenuhi dua syarat:<br><br>- Nilai rata-rata minimal 85.<br>- Kehadiran minimal 90%.<br><br>Nilai rata-rata terdapat pada sel <b>B2</b> dan kehadiran pada sel <b>C2</b>.<br><br>Buatlah rumus Excel menggunakan fungsi AND untuk menentukan apakah siswa berhak menerima beasiswa!"
+      "pertanyaan": "Perhatikan gambar di bawah ini!<br><br><img src='soal/img/XI/mp-akl/Picture1.png' width='500'><br><br>Isilah kolom di atas dengan rumus yang sesuai .....<br><br>a. Lookup_value :<br>b. Table_array :<br>c. Col_index_num :<br>d. Range_lookup :"
     },
     {
-      "pertanyaan": "Jelaskan perbedaan fungsi COUNT, COUNTA, dan COUNTBLANK!"
+      "pertanyaan": "Langkah-langkah untuk mengisi data akun pada buku besar adalah?"
     },
     {
-      "pertanyaan": "Jelaskan perbedaan rumus IF, AND, OR!"
+      "pertanyaan": "Jelaskan fungsi dari rumus VLOOKUP!"
     },
     {
-      "pertanyaan": "Diketahui, Sebuah perusahaan memberikan bonus kepada karyawan yang memenuhi salah satu syarat berikut:<br><br>- Masa kerja minimal 10 tahun, atau<br>- Total penjualan minimal Rp100.000.000.<br><br>Masa kerja terdapat pada sel <b>B2</b> dan total penjualan pada sel <b>C2</b>.<br><br>Buatlah rumus Excel menggunakan fungsi OR untuk menentukan apakah karyawan memperoleh bonus!"
+      "pertanyaan": "Sebutkan 3 jenis format data (number format) yang sering digunakan dalam menyusun laporan keuangan di spreadsheet!"
     }
   ]
 }
