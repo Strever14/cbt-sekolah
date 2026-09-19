@@ -1,139 +1,40 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Tentukan determinan dari matriks C = $\\begin{pmatrix} 3 & 2 \\\\ 0 & 3 \\end{pmatrix}$ adalah ...",
+      "pertanyaan": "Nilai dari $8^{\\frac{2}{3}} + 25^{\\frac{3}{2}} - \\left( \\frac{1}{81} \\right)^{-\\frac{3}{4}}$ adalah ...",
       "opsi": [
-        "0",
-        "2",
-        "6",
-        "7",
-        "9"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Tentukan determinan dari matriks D = $\\begin{pmatrix} -2 & 2 & 0 \\\\ 1 & 0 & 1 \\\\ 5 & -1 & 1 \\end{pmatrix}$ adalah ...",
-      "opsi": [
-        "6",
-        "7",
-        "8",
-        "9",
-        "10"
+        "102",
+        "103",
+        "104",
+        "105",
+        "106"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Tentukan rasio dari deret geometri 2 + 6 + 18 + 54 + ...",
+      "pertanyaan": "Bentuk sederhana dari $2\\sqrt{48} + \\sqrt{75} + 2\\sqrt{243} - 3\\sqrt{147}$ adalah...",
       "opsi": [
-        "2",
-        "3",
-        "4",
-        "5",
-        "6"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Tentukan suku ke-15 dari barisan geometri 3, 6, 12, 24, 48, ...",
-      "opsi": [
-        "49.152",
-        "49.153",
-        "49.154",
-        "49.155",
-        "49.156"
+        "$10\\sqrt{3}$",
+        "$12\\sqrt{3}$",
+        "$-10\\sqrt{3}$",
+        "$10\\sqrt{2}$",
+        "$-10\\sqrt{2}$"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Tentukan suku ke-100 dari barisan aritmatika 150, 140, 130, 120, ...",
+      "pertanyaan": "Bentuk sederhana dari pecahan $\\frac{2\\sqrt{3}}{2\\sqrt{6} + 3\\sqrt{2}}$ adalah ...",
       "opsi": [
-        "-800",
-        "-820",
-        "-830",
-        "-840",
-        "-890"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Hitunglah jumlah 6 suku pertama dari deret geometri 2 + 6 + 18 + ...",
-      "opsi": [
-        "727",
-        "728",
-        "729",
-        "730",
-        "732"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Diketahui suatu barisan geometri suku ke-6 adalah 96 dan suku ke-9 adalah 768. Tentukan suku ke-12.",
-      "opsi": [
-        "6143",
-        "6144",
-        "6145",
-        "6146",
-        "6147"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Suku ke-4 adalah 81, dan suku ke-6 adalah 729. Tentukan suku pertama dan rasionya dari barisan geometri?",
-      "opsi": [
-        "a = 2, r = 2",
-        "a = 3, r = 3",
-        "a = 4, r = 4",
-        "a = 5, r = 5",
-        "a = 6, r = 6"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Tentukan nilai sigma dari $\\sum_{n=6}^{10} (n^2 - 1)$ adalah ...",
-      "opsi": [
-        "324",
-        "325",
-        "326",
-        "327",
-        "328"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Tentukan nilai sigma dari $\\sum_{i=1}^{100} (2i + 5)$ adalah ...",
-      "opsi": [
-        "10600",
-        "10700",
-        "10800",
-        "10900",
-        "11000"
+        "$2\\sqrt{2} - \\sqrt{6}$",
+        "$2\\sqrt{2} - 6$",
+        "$2\\sqrt{2} + \\sqrt{6}$",
+        "$\\sqrt{2} - \\sqrt{6}$",
+        "$\\sqrt{2} + \\sqrt{6}$"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Perhatikan tabel berikut!<br><br><table border='1' cellpadding='5' cellspacing='0' style='border-collapse: collapse;'><tr><th>Nilai</th><th>Frekuensi (fi)</th></tr><tr><td>55-59</td><td>6</td></tr><tr><td>60-64</td><td>8</td></tr><tr><td>65-69</td><td>16</td></tr><tr><td>70-74</td><td>10</td></tr><tr><td>75-79</td><td>6</td></tr><tr><td>80-84</td><td>4</td></tr></table><br>Modus dari data dalam tabel diatas adalah ...",
-      "opsi": [
-        "66,36",
-        "68,36",
-        "67,36",
-        "69,36",
-        "70,36"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Perhatikan tabel berikut!<br><br><table border='1' cellpadding='5' cellspacing='0' style='border-collapse: collapse;'><tr><th>Nilai</th><th>Frekuensi (fi)</th></tr><tr><td>1-20</td><td>3</td></tr><tr><td>21-40</td><td>12</td></tr><tr><td>41-60</td><td>25</td></tr><tr><td>61-80</td><td>16</td></tr><tr><td>81-90</td><td>4</td></tr></table><br>Tentukan Batas Atas & Tepi Atas dari kolom ke-3 adalah ...",
-      "opsi": [
-        "40 & 40,5",
-        "41 & 41,5",
-        "60 & 60,5",
-        "60 & 61",
-        "61 & 80,5"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Tentukan median dari data 3,9,4,10,5,8,6,8,4 adalah ...",
+      "pertanyaan": "Nilai dari $2\\log 24 - 2\\log 15 + 2\\log 30 - 2\\log 6$ adalah ...",
       "opsi": [
         "3",
         "4",
@@ -141,205 +42,252 @@
         "6",
         "7"
       ],
-      "jawaban": "D"
+      "jawaban": "A"
     },
     {
-      "pertanyaan": "Tentukan modus dari data 8,9,12,14,5,12,9,3,10,9,5,3 adalah ...",
+      "pertanyaan": "Jika log 2 = p dan log 5 = q, tentukan nilai log 50 adalah ...",
       "opsi": [
-        "3",
-        "5",
-        "9",
-        "12",
-        "14"
+        "p + q",
+        "p + 2q",
+        "p - q",
+        "p - 2q",
+        "p + 3q"
       ],
-      "jawaban": "C"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Tentukan nilai Quartil ke-2 dari data 1,3,6,9,5,10,8 adalah ...",
+      "pertanyaan": "Tentukan Himpunan Penyelesaian dari pertidaksamaan $-2 - 3x < 2x - 22$ adalah ...",
       "opsi": [
-        "4",
-        "5",
-        "6",
-        "7",
+        "$HP: \\{x | x > 4\\}$",
+        "$HP: \\{x | x < 4\\}$",
+        "$HP: \\{x | x > -4\\}$",
+        "$HP: \\{x | x < -4\\}$",
+        "$HP: \\{x | x \\leq 4\\}$"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Akar-akar persamaan kuadrat $4x^{2} + 4x - 3 = 0$ adalah ...",
+      "opsi": [
+        "$x = \\frac{1}{2}$ atau $x = -\\frac{3}{2}$",
+        "$x = \\frac{1}{2}$ atau $x = \\frac{3}{2}$",
+        "$x = -\\frac{1}{2}$ atau $x = -\\frac{3}{2}$",
+        "$x = \\frac{1}{2}$ atau $x = -\\frac{2}{3}$",
+        "$x = -\\frac{1}{2}$ atau $x = -\\frac{2}{3}$"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Seorang pekerja bangunan membeli 2 kaleng cat dan 3 kuas seharga Rp 101.500,00. Esok harinya pekerjaan itu membeli 1 kaleng cat dan 2 kuas yang sama seharga Rp 53.500,00. Harga 1 kaleng cat dan 1 kuas adalah ...",
+      "opsi": [
+        "Rp 46.000,00",
+        "Rp 48.000,00",
+        "Rp 49.000,00",
+        "Rp 51.000,00",
+        "Rp 53.000,00"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Jika $x_{1}$ dan $x_{2}$ akar-akar dari persamaan $x^{2} + 2x - 3 = 0$, tentukanlah $x_{1} \\cdot x_{2}$ adalah ...",
+      "opsi": [
+        "-2",
+        "-3",
+        "-4",
+        "-5",
+        "-6"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Tentukan persamaan kuadrat yang akar-akarnya dari $x_{1} = -2$ dan $x_{2} = 5$",
+      "opsi": [
+        "$x^{2} - 3x - 10 = 0$",
+        "$x^{2} + 3x - 10 = 0$",
+        "$x^{2} - 3x + 10 = 0$",
+        "$x^{2} + 3x + 10 = 0$",
+        "$x^{2} - 2x + 10 = 0$"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Diketahui matriks $R = \\begin{pmatrix} 2 & 0 & -4 \\\\ -4 & 3 & 8 \\\\ 1 & -5 & 3 \\end{pmatrix}$. Tentukan elemen baris ke-2 dan kolom ke-3 adalah ...",
+      "opsi": [
+        "-4",
+        "-5",
+        "1",
+        "3",
         "8"
       ],
-      "jawaban": "C"
+      "jawaban": "E"
     },
     {
-      "pertanyaan": "Perhatikan tabel berikut!<br><br><table border='1' cellpadding='5' cellspacing='0' style='border-collapse: collapse;'><tr><th>Nilai</th><th>Frekuensi (fi)</th></tr><tr><td>30-34</td><td>8</td></tr><tr><td>35-39</td><td>10</td></tr><tr><td>40-44</td><td>13</td></tr><tr><td>45-49</td><td>17</td></tr><tr><td>50-54</td><td>14</td></tr><tr><td>55-59</td><td>11</td></tr><tr><td>60-64</td><td>7</td></tr><tr><td><strong>Jumlah</strong></td><td><strong>80</strong></td></tr></table><br>Tentukan Quartil ke-2 dari data kelompok tersebut adalah ...",
+      "pertanyaan": "Diketahui A = $\\begin{pmatrix} 3 & 1 \\\\ 3 & 4 \\end{pmatrix}$ dan B = $\\begin{pmatrix} 2 & 3 & -1 \\\\ -4 & 2 & 4 \\end{pmatrix}$. Hasil dari A x B adalah ...",
       "opsi": [
-        "47",
-        "47,12",
-        "47,14",
-        "47,15",
-        "48"
+        "$\\begin{pmatrix} 2 & 11 & 1 \\\\ -10 & 17 & 13 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 0 & -8 & 2 \\\\ -10 & 17 & 13 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 0 & 8 & 2 \\\\ 10 & 17 & 13 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 8 & -4 & -6 \\\\ 10 & 1 & 13 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 8 & 4 & -6 \\\\ 19 & 1 & 13 \\end{pmatrix}$"
       ],
-      "jawaban": "D"
+      "jawaban": "A"
     },
     {
-      "pertanyaan": "Tentukan Jangkauan Quartil dari data yang ada di No 16 adalah ...",
+      "pertanyaan": "Diketahui matriks A = $\\begin{pmatrix} -2 & 3 \\\\ 1 & 5 \\end{pmatrix}$, B = $\\begin{pmatrix} 4 & -2 \\\\ 3 & -1 \\end{pmatrix}$, dan C = $\\begin{pmatrix} 6 & 4 \\\\ 3 & -1 \\end{pmatrix}$. Matriks 3A + 2B - 2C = ...",
       "opsi": [
-        "13,50",
-        "13,51",
-        "13,52",
-        "13,53",
-        "13,54"
+        "$\\begin{pmatrix} -10 & -3 \\\\ 3 & 15 \\end{pmatrix}$",
+        "$\\begin{pmatrix} -10 & 3 \\\\ -3 & 15 \\end{pmatrix}$",
+        "$\\begin{pmatrix} -8 & -3 \\\\ -3 & 14 \\end{pmatrix}$",
+        "$\\begin{pmatrix} -8 & -3 \\\\ 3 & 15 \\end{pmatrix}$",
+        "$\\begin{pmatrix} -8 & 3 \\\\ 3 & 15 \\end{pmatrix}$"
       ],
-      "jawaban": "C"
+      "jawaban": "A"
     },
     {
-      "pertanyaan": "Tentukan Desil 4 dari data yang ada di No 16 adalah ...",
+      "pertanyaan": "Jika diketahui matriks A = $\\begin{pmatrix} 2 & -1 & 3 \\\\ -4 & 2 & 0 \\end{pmatrix}$ dan B = $\\begin{pmatrix} 1 & -1 \\\\ 3 & -2 \\\\ -1 & 2 \\end{pmatrix}$ maka matriks A.B adalah ...",
       "opsi": [
-        "44,78",
-        "44,79",
-        "45,78",
-        "45,79",
-        "46"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Perhatikan tabel berikut ini:<br><br><table border='1' cellpadding='5' cellspacing='0' style='border-collapse: collapse;'><tr><th>Nilai</th><th>Frekuensi (fi)</th></tr><tr><td>140-144</td><td>5</td></tr><tr><td>145-149</td><td>15</td></tr><tr><td>150-154</td><td>20</td></tr><tr><td>155-159</td><td>30</td></tr><tr><td>160-164</td><td>16</td></tr><tr><td>165-169</td><td>8</td></tr><tr><td>170-174</td><td>6</td></tr></table><br>Tentukan Persentil ke-30 adalah ...",
-      "opsi": [
-        "150",
-        "151",
-        "152",
-        "153",
-        "154"
+        "$\\begin{pmatrix} -2 & 2 \\\\ 6 & 0 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 1 & -1 \\\\ 3 & -2 \\\\ -1 & 2 \\end{pmatrix}$",
+        "$\\begin{pmatrix} -4 & 6 \\\\ 2 & 0 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 2 & 4 \\\\ -3 & -4 \\\\ -3 & 0 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 2 & -3 & -3 \\\\ 4 & -4 & 0 \\end{pmatrix}$"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Tentukan Jangkauan Persentil dari data No 19 diatas adalah ...",
+      "pertanyaan": "Determinan dari matriks $T = \\begin{pmatrix} -7 & 5 \\\\ 3 & -2 \\end{pmatrix}$ adalah ...",
       "opsi": [
-        "20,83",
-        "20,84",
-        "20,85",
-        "20,86",
-        "20,87"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Nilai kebenaran dari pernyataan dalam tabel berikut adalah ...<br><br><table border='1' cellpadding='5' cellspacing='0' style='border-collapse: collapse;'><tr><th>p</th><th>q</th><th>~p v q</th></tr><tr><td>B</td><td>B</td><td>....</td></tr><tr><td>B</td><td>S</td><td>....</td></tr><tr><td>S</td><td>B</td><td>....</td></tr><tr><td>S</td><td>S</td><td>....</td></tr></table>",
-      "opsi": [
-        "BSBB",
-        "BBSB",
-        "BSSB",
-        "SBSB",
-        "BBSS"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "p : 2 > 3<br>q : 2 adalah bilangan genap<br><br>Tentukan p → q adalah ...",
-      "opsi": [
-        "Jika 2 > 3 dan hanya jika 2 adalah bilangan genap",
-        "Jika 2 > 3 maka 2 adalah bilangan genap",
-        "Jika 2 > 3 dan 2 adalah bilangan genap",
-        "2 > 3 dan 2 adalah bilangan genap",
-        "2 > 3 atau 2 adalah bilangan genap"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "p : 5 < 1<br>q : $3^2 = 9$<br><br>Tentukan p ↔ q adalah ...",
-      "opsi": [
-        "5 < 1 jika dan hanya jika $3^2 = 9$",
-        "Jika 5 < 1 hanya jika $3^2 = 9$",
-        "5 < 1 maka $3^2 = 9$",
-        "5 < 1 dan $3^2 = 9$",
-        "5 < 1 atau $3^2 = 9$"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "p : Jakarta Ibukota Indonesia<br><br>Tentukan Negasi p nya?",
-      "opsi": [
-        "Jakarta adalah ibu kota indonesia",
-        "Jakarta merupakan ibu kota indonesia",
-        "Jakarta bukan ibu kota indonesia",
-        "Jakarta bukan indonesia",
-        "Tidak benar"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "p : Dua garis saling sejajar<br>q : Dua garis saling berpotongan<br><br>Tentukan p v q?",
-      "opsi": [
-        "Dua garis saling sejajar dan Dua garis saling berpotongan",
-        "Dua garis saling sejajar dan garis saling berpotongan",
-        "Dua garis saling sejajar atau dua garis berpotongan",
-        "Dua garis saling sejajar atau saling berpotongan",
-        "Semuanya bener"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Tentukanlah persamaan garis lurus yang melalui titik (3,-4) dan (-2,6) adalah ...",
-      "opsi": [
-        "y = -2x + 2",
-        "y = -3x + 2",
-        "y = -2x + 3",
-        "y = -3x + 3",
-        "y = 2x + 2"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Tentukan nilai x dari persamaan $\\frac{3x + 7}{5} = \\frac{1 + 4x}{6}$ adalah ...",
-      "opsi": [
-        "$18\\frac{1}{2}$",
-        "$18\\frac{1}{3}$",
-        "$18\\frac{1}{4}$",
-        "$18\\frac{1}{5}$",
-        "$18\\frac{1}{6}$"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Diketahui log 2 = p, log 3 = q dan log 5 = r, harga log 1500 jika dinyatakan dalam p, q, dan r adalah ...",
-      "opsi": [
-        "p + q + r",
-        "p + 2q + 3r",
-        "2p + q + r",
-        "2p + q + 3r",
-        "3p + q + 2r"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Harga 5 buku tulis dan 2 pensil di koperasi adalah Rp13.000,00. Harga 3 buku tulis dan 3 pensil adalah Rp10.500,00. Berapa harga sebuah buku tulis dan sebatang pensil?",
-      "opsi": [
-        "Buku tulis Rp2.000,00 & sebatang pensil Rp1.500,00",
-        "Buku tulis Rp1.500,00 & sebatang pensil Rp2.000,00",
-        "Buku tulis Rp2.000,00 & sebatang pensil Rp1.200,00",
-        "Buku tulis Rp2.000,00 & sebatang pensil Rp1.600,00",
-        "Semuanya betul"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "1, $\\frac{1}{5}$, $\\frac{1}{25}$, $\\frac{1}{125}$, $\\frac{1}{625}$ tentukan rasio dari barisan berikut ...",
-      "opsi": [
+        "-2",
+        "-1",
+        "0",
         "1",
-        "$\\frac{1}{5}$",
-        "$\\frac{1}{25}$",
-        "$-\\frac{1}{5}$",
-        "-1"
+        "2"
       ],
       "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Nilai $I_{1}$ dan $I_{2}$ pada persamaan matriks $\\begin{pmatrix} 2 & 1 \\\\ 1 & -3 \\end{pmatrix}\\begin{pmatrix} I_{1} \\\\ I_{2} \\end{pmatrix} = \\begin{pmatrix} 13 \\\\ -4 \\end{pmatrix}$ berturut-turut adalah ...",
+      "opsi": [
+        "3 dan 5",
+        "23 dan -2",
+        "5 dan 3",
+        "7 dan -1",
+        "9 dan 4"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Determinan dari matriks $\\begin{pmatrix} 2 & 6 & 1 \\\\ -4 & 8 & 3 \\\\ 7 & 3 & -5 \\end{pmatrix}$ adalah ...",
+      "opsi": [
+        "-160",
+        "-126",
+        "72",
+        "98",
+        "124"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Nilai a, b, c, dan d berturut-turut yang memenuhi persamaan $\\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix} + \\begin{pmatrix} 2 & 1 \\\\ -3 & -1 \\end{pmatrix} = \\begin{pmatrix} -3 & -6 \\\\ 1 & 2 \\end{pmatrix}$ adalah ...",
+      "opsi": [
+        "-5, -7, 4 dan 3",
+        "-5, 1, 3 dan 2",
+        "-1, -7, 2 dan 3",
+        "5, 3, 9, dan 15",
+        "-15, -9, 5 dan 3"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Diketahui A = $\\begin{pmatrix} 1 & -1 \\\\ 2 & 2 \\end{pmatrix}$ dan B = $\\begin{pmatrix} 1 & 1 \\\\ 4 & -2 \\end{pmatrix}$, maka $(A + B)^{2} = \\ldots$",
+      "opsi": [
+        "$\\begin{pmatrix} 2 & 3 \\\\ 0 & 2 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 4 & 0 \\\\ 12 & 0 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 2 & 0 \\\\ 0 & 2 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 4 & 3 \\\\ 12 & 8 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 0 & 4 \\\\ 0 & 12 \\end{pmatrix}$"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Tentukan invers dari matriks P = $\\begin{pmatrix} 7 & 2 \\\\ 3 & 1 \\end{pmatrix}$ adalah ...",
+      "opsi": [
+        "$\\begin{pmatrix} 1 & -2 \\\\ -3 & 7 \\end{pmatrix}$",
+        "$\\begin{pmatrix} -1 & 7 \\\\ 3 & -2 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 1 & 2 \\\\ 3 & 7 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 1 & -2 \\\\ 3 & 7 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 7 & 2 \\\\ -3 & -1 \\end{pmatrix}$"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Invers dari matriks A adalah $A^{-1}$ jika A = $\\begin{pmatrix} 2 & 3 \\\\ 5 & 7 \\end{pmatrix}$. Tentukan matriks $(A^{-1})^{T}$ adalah ...",
+      "opsi": [
+        "$\\begin{pmatrix} -7 & 5 \\\\ 3 & -2 \\end{pmatrix}$",
+        "$\\begin{pmatrix} -7 & -5 \\\\ 3 & -2 \\end{pmatrix}$",
+        "$\\begin{pmatrix} -7 & 5 \\\\ 3 & 2 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 7 & 5 \\\\ 3 & -2 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 7 & 5 \\\\ 3 & 2 \\end{pmatrix}$"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Jika $3Q - \\begin{pmatrix} 2 & 1 \\\\ -5 & 3 \\end{pmatrix} = \\begin{pmatrix} 4 & 11 \\\\ 14 & 6 \\end{pmatrix}$ maka Q adalah ...",
+      "opsi": [
+        "$\\begin{pmatrix} 2 & 4 \\\\ 3 & 3 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 4 & 2 \\\\ 3 & 3 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 6 & 12 \\\\ 9 & 9 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 16 & 8 \\\\ 3 & 3 \\end{pmatrix}$",
+        "$\\begin{pmatrix} -2 & 4 \\\\ -3 & 1 \\end{pmatrix}$"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Jika $\\begin{pmatrix} 0 & -2 \\\\ 4 & 8 \\end{pmatrix} - 2x = \\begin{pmatrix} 2 & -4 \\\\ -10 & 6 \\end{pmatrix}$ maka X adalah ...",
+      "opsi": [
+        "$\\begin{pmatrix} 1 & -1 \\\\ 1 & 7 \\end{pmatrix}$",
+        "$\\begin{pmatrix} -1 & 1 \\\\ 7 & 1 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 1 & 7 \\\\ -1 & 1 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 1 & -2 \\\\ 1 & 7 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 1 & 1 \\\\ 1 & -7 \\end{pmatrix}$"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Sistem persamaan $\\begin{cases} 4x - 5y = -2 \\\\ -3x + 4y = 4 \\end{cases}$ jika dibuat dalam bentuk matriks menjadi ....",
+      "opsi": [
+        "$\\begin{pmatrix} 4 & -5 \\\\ -3 & 4 \\end{pmatrix}\\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} -2 \\\\ 4 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 4 & -5 \\\\ -3 & -4 \\end{pmatrix}\\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} -2 \\\\ 4 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 4 & 5 \\\\ -3 & 4 \\end{pmatrix}\\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} -2 \\\\ 4 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 4 & -5 \\\\ -3 & 4 \\end{pmatrix}\\begin{pmatrix} -2 \\\\ -4 \\end{pmatrix} = \\begin{pmatrix} x \\\\ y \\end{pmatrix}$",
+        "$\\begin{pmatrix} -4 & -5 \\\\ -3 & 4 \\end{pmatrix}\\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} -2 \\\\ 4 \\end{pmatrix}$"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Diketahui matriks A = $\\begin{pmatrix} 2a & 5 \\\\ 7 & 8 \\end{pmatrix}$ dan B = $\\begin{pmatrix} 10 & 7 \\\\ 5 & \\frac{1}{2}b \\end{pmatrix}$. Jika A = $B^{t}$ maka nilai a - 2b = ...",
+      "opsi": [
+        "-8",
+        "-9",
+        "-20",
+        "-27",
+        "-29"
+      ],
+      "jawaban": "D"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "Buatlah kalimat pernyataan P V Q?"
+      "pertanyaan": "Tentukan himpunan penyelesaian dari pertidaksamaan $\\frac{2x - 3}{5} \\leq \\frac{12 + x}{2}$ adalah ..."
     },
     {
-      "pertanyaan": "(~p v ~q) v (~p v q)"
+      "pertanyaan": "Tentukan nilai SPLDV dari $\\begin{cases} 2x - y = -14 \\\\ 3x + 4y = 1 \\end{cases}$, dengan menggunakan cara invers adalah ..."
     },
     {
-      "pertanyaan": "Perhatikan tabel berikut ini<br><br><table border='1' cellpadding='5' cellspacing='0' style='border-collapse: collapse;'><tr><th>Nilai</th><th>Frekuensi (fi)</th></tr><tr><td>1-20</td><td>9</td></tr><tr><td>21-40</td><td>16</td></tr><tr><td>41-60</td><td>25</td></tr><tr><td>61-80</td><td>7</td></tr><tr><td>81-100</td><td>3</td></tr></table><br>Tentukan:<br>A. Desil ke-3<br>B. Persentil ke-45<br>C. Jangkauan persentil"
+      "pertanyaan": "Tentukan nilai x dari matriks $2x + \\begin{pmatrix} 0 & 4 & 3 \\\\ -2 & 0 & -5 \\\\ 8 & -2 & 4 \\end{pmatrix} = \\begin{pmatrix} -4 & -6 & 7 \\\\ 2 & -6 & 4 \\\\ 0 & 2 & -2 \\end{pmatrix}$"
+    },
+    {
+      "pertanyaan": "Diketahui A = $\\begin{pmatrix} 2 & -5 \\\\ -5 & 12 \\end{pmatrix}$ dan B = $\\begin{pmatrix} 1 & -2 \\\\ -1 & 1 \\end{pmatrix}$, tentukanlah:<br><br>A. $(A^{T} \\cdot B)^{-1}$<br>B. $(2B - 3A)^{T}$"
     }
   ]
 }
