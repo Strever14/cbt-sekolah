@@ -331,59 +331,59 @@
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Dongeng miboga fungsi sosial nyaéta...",
+      "pertanyaan": "Titénan ieu sempalan warta!<br><br><blockquote>\"Hujan gedé anu turun ti peuting nyababkeun sababaraha wewengkon di Kabupatén Bandung kakeueum. Numutkeun katerangan ti BPBD, cai mimiti naék kira-kira tabuh 03.00 WIB. Warga anu imahna aya di daérah rawan geus dievakuasi ka tempat anu leuwih aman.\"</blockquote><br>Dumasar kana sempalan di luhur, tujuan utama éta warta nyaéta...",
       "opsi": [
-        "Hiburan jeung pangajaran moral",
-        "Ngitung peran",
-        "Dagang",
-        "Propaganda politik",
-        "Uji coba ilmiah"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Upama tokoh boga dua sipat (hade jeung goréng), éta disebut...",
-      "opsi": [
-        "Tokoh datar",
-        "Tokoh statis",
-        "Tokoh kompleks",
-        "Tokoh tambahan",
-        "Tokoh figuran"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Dina dongeng *Ciung Wanara*, adu hayam ngalambangkeun...",
-      "opsi": [
-        "Hiburan biasa",
-        "Parebut kakawasaan",
-        "Kaulinan barudak",
-        "Upacara adat",
-        "Perdagangan"
+        "Ngajak masarakat sangkan henteu cicing di Kabupatén Bandung",
+        "Ngabéjaan ka masarakat ngeunaan kajadian caah jeung kaayaan warga",
+        "Ngajelaskeun kumaha cara nyieun tempat évakuasi",
+        "Ngabéjaan yén hujan gedé téh mangrupa kajadian anu biasa",
+        "Ngahibur pamaca ku carita ngeunaan musibah caah"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Salah sahiji unsur ekstrinsik dina dongeng nyaéta...",
+      "pertanyaan": "Dina nulis warta, basa anu digunakeun kudu lugas, écés, sarta dumasar kana fakta. Kalimah mana anu panghadéna pikeun dijadikeun kalimah warta?",
       "opsi": [
-        "Alur",
-        "Latar",
-        "Kaayaan sosial masyarakat",
-        "Tokoh",
-        "Amanat"
+        "\"Sigana acara éta téh kacida pisan raména nepi ka teu kabayang ku akal.\"",
+        "\"Acara éta kacida éndahna jeung pasti matak resep ka sakabéh jalma.\"",
+        "\"Acara dimimitian tabuh 08.00 WIB sarta diiluan ku 250 urang siswa.\"",
+        "\"Acara éta téh pangalusna dibandingkeun jeung acara-acara séjénna.\"",
+        "\"Tangtu waé sakabéh siswa ngarasa bungah pisan nalika acara lumangsung.\""
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Upama dongeng dianalisis tina ajén moralna, pendekatan anu dipaké nyaéta...",
+      "pertanyaan": "Dina hiji warta aya judul:<br><br><blockquote><b>\"Sakola di Kabupatén Bandung Ngalarapkeun Program Ngurangan Runtah Plastik\"</b></blockquote><br>Kalimah bubuka anu paling luyu jeung prinsip warta nyaéta...",
       "opsi": [
-        "Struktural",
-        "Mroral",
-        "Linguistik",
-        "Statistik",
-        "Grafis"
+        "\"Runtah plastik téh memang geus jadi masalah anu matak pikahariwangeun ku sakabéh jalma.\"",
+        "\"Program ieu téh kacida alusna sarta dipiharep bisa ngarobah kabiasaan siswa.\"",
+        "\"Sababaraha sakola di Kabupatén Bandung mimiti ngalarapkeun program ngurangan runtah plastik pikeun ngurangan pamakéan plastik sakali paké.\"",
+        "\"Urang sadaya kudu sadar yén plastik téh henteu hadé pikeun lingkungan.\"",
+        "\"Sakola-sakola éta tangtu bakal jadi conto pikeun sakabéh sakola séjénna.\""
       ],
-      "jawaban": "B"
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Titénan ieu sempalan warta!<br><br><blockquote>\"Dina raraga miéling Poé Basa Indung Internasional, SMK X ngayakeun kagiatan pasanggiri biantara jeung maca sajak basa Sunda. Kagiatan anu dilaksanakeun di aula sakola éta diiluan ku 60 siswa ti kelas X nepi ka kelas XII. Nurutkeun panitia, kagiatan kasebut miboga tujuan pikeun numuwuhkeun rasa reueus siswa kana basa jeung budaya Sunda.\"</blockquote><br>Lamun ditilik tina unsur 5W+1H, informasi anu pangjelasna ngeunaan unsur \"Why\" dina éta warta nyaéta...",
+      "opsi": [
+        "Kagiatan dilaksanakeun di aula sakola",
+        "Kagiatan diiluan ku 60 siswa",
+        "Kagiatan dilaksanakeun dina raraga miéling Poé Basa Indung Internasional",
+        "Kagiatan miboga tujuan pikeun numuwuhkeun rasa reueus siswa kana basa jeung budaya Sunda",
+        "Kagiatan mangrupa pasanggiri biantara jeung maca sajak basa Sunda"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Warta anu hadé kudu miboga unsur 5W+1H. Dina hiji warta disebutkeun yén \"Dinas Pendidikan Kabupatén Bandung ngayakeun pasanggiri maca sajak tingkat SMA di Gedong Budaya Sabilulungan, Saptu (14/9/2026).\" Unsur warta anu can kacumponan dina éta kalimah nyaéta...",
+      "opsi": [
+        "What jeung Who",
+        "When jeung Where",
+        "Why jeung How",
+        "Who jeung Why",
+        "Where jeung How"
+      ],
+      "jawaban": "C"
     }
   ],
   "essay": [
@@ -391,7 +391,7 @@
       "pertanyaan": "Warta kudu nyumponan unsur 5W+1H. Jelaskeun naha unsur-unsur éta penting dina hiji warta sarta naon pangaruhna lamun salah sahiji unsur teu dicantumkeun!"
     },
     {
-      "pertanyaan": "<b>Titénan warta di handap!</b><br><br><blockquote>\"Dina poé Senén, 2 Juni 2026, SMK Harapan Bangsa ngayakeun kagiatan donor darah di aula sakola. Kagiatan éta diiluan ku 150 siswa jeung guru. Numutkeun katerangan panitia, tujuan éta kagiatan pikeun ngabantu nyumponan kabutuhan stok darah PMI.\"</blockquote><br><b>Analisis unsur 5W+1H anu aya dina éta warta!</b>"
+      "pertanyaan": "Titénan warta di handap!<br><br><blockquote>\"Dina poé Senén, 2 Juni 2026, SMK Harapan Bangsa ngayakeun kagiatan donor darah di aula sakola. Kagiatan éta diiluan ku 150 siswa jeung guru. Numutkeun katerangan panitia, tujuan éta kagiatan pikeun ngabantu nyumponan kabutuhan stok darah PMI.\"</blockquote><br>Analisis unsur 5W+1H anu aya dina éta warta!"
     },
     {
       "pertanyaan": "Jelaskeun bédana antara fakta jeung opini dina warta. Teras jieun masing-masing dua conto kalimah fakta jeung dua conto kalimah opini!"
@@ -400,7 +400,7 @@
       "pertanyaan": "Wartawan dituntut pikeun objektif nalika nyusun warta. Kumaha cara ngajaga kaobjektifan dina nulis warta? Jelaskeun sahenteuna opat cara!"
     },
     {
-      "pertanyaan": "Jieun hiji conto lead (terasan) warta ngeunaan kagiatan sakola dina 3-4 kalimah!"
+      "pertanyaan": "Jieun hiji conto lead (terasan) warta ngeunaan kagiatan sakola dina 3--4 kalimah!"
     }
   ]
 }
