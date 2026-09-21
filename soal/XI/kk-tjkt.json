@@ -1,367 +1,455 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Sebagai konsultan TKJ, Anda diminta mengaudit topologi jaringan perusahaan klien yang kerap putus sambung. Dalam laporannya, Anda menemukan sebuah Workstation milik direktur dipasang IP statis 224.0.0.10 oleh teknisi lama. Menurut standarisasi IANA (Internet Assigned Numbers Authority), alasan spesifik mengapa konfigurasi tersebut menyebabkan kecacatan jaringan adalah?",
+      "pertanyaan": "Perbedaan paling fundamental antara protokol pengalamatan IPv4 dan IPv6 terletak pada panjang bit alamatnya. Berapakah jumlah bit yang digunakan oleh masing-masing protokol tersebut untuk mengidentifikasi perangkat di jaringan?",
       "opsi": [
-        "IP tersebut adalah IP APIPA yang dilarang dipasang manual karena fungsi aslinya sebagai sistem cadangan ketika DHCP gagal",
-        "IP tersebut termasuk IP Kelas A publik yang di-blacklist oleh ISP lokal sehingga rentan penyadapan",
-        "IP tersebut merupakan blok TEST-NET yang secara eksklusif dikhususkan untuk sampel modul dokumentasi / buku panduan",
-        "IP tersebut tergolong alamat Multicast (Kelas D) yang difungsikan untuk pengiriman ke grup/protokol routing, bukan untuk NIC pengguna tunggal (Unicast)",
-        "IP tersebut merupakan IP Cadangan Eksperimental (Kelas E) yang ditolak mentah-mentah oleh BIOS dan MAC perangkat keras"
+        "IPv4 menggunakan 16 bit, sedangkan IPv6 menggunakan 64 bit",
+        "IPv4 menggunakan 32 bit, sedangkan IPv6 menggunakan 64 bit",
+        "IPv4 menggunakan 32 bit, sedangkan IPv6 menggunakan 128 bit",
+        "IPv4 menggunakan 64 bit, sedangkan IPv6 menggunakan 128 bit",
+        "IPv4 menggunakan 128 bit, sedangkan IPv6 menggunakan 256 bit"
       ],
-      "jawaban": "D"
+      "jawaban": "C"
     },
     {
-      "pertanyaan": "IP Address dalam jaringan dibedakan menjadi dua jenis, yaitu Ipv4 dan Ipv6. Ipv6 mempunyai jumlah bit sebanyak ....",
+      "pertanyaan": "Mengingat IPv4 menggunakan 32 bit dan IPv6 menggunakan 128 bit, manakah pernyataan berikut yang BENAR mengenai implikasi teknis dari perbedaan jumlah bit tersebut terhadap format penulisan dan kapasitas alamatnya?",
       "opsi": [
-        "32 bit",
-        "48 bit",
-        "64 bit",
-        "128 bit",
-        "256 bit"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "IP Address dalam jaringan dibedakan menjadi dua jenis, yaitu IPv4 dan IPv6. IPv4 mempunyai jumlah bit sebanyak ....",
-      "opsi": [
-        "32 bit",
-        "48 bit",
-        "64 bit",
-        "128 bit",
-        "256 bit"
+        "IPv4 ditulis dalam format desimal bertitik (4 oktet) dengan kapasitas sekitar 4,3 miliar alamat, sedangkan IPv6 ditulis dalam format heksadesimal (8 kelompok) dengan kapasitas 2^128 alamat.",
+        "IPv4 ditulis dalam format heksadesimal, sedangkan IPv6 ditulis dalam format biner murni.",
+        "IPv4 dapat menampung hingga 2^128 alamat, sedangkan IPv6 hanya menampung 2^32 alamat.",
+        "IPv4 dibagi menjadi 8 segmen desimal, sedangkan IPv6 dibagi menjadi 4 segmen heksadesimal.",
+        "IPv4 dan IPv6 sama-sama menggunakan format heksadesimal, tetapi IPv6 memiliki jumlah kelompok bit yang lebih sedikit."
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Berdasarkan dokumen RFC 1918, manakah dari IP Address berikut yang tidak tepat jika digunakan jaringan lokal?",
+      "pertanyaan": "Suatu alamat IP komputer terdeteksi memiliki IP Address 172.16.10.1. Berdasarkan aturan pembagian kelas alamat IPv4 standar (Classful Addressing), alamat tersebut termasuk ke dalam kelas... beserta Default Subnet Mask-nya adalah...",
       "opsi": [
-        "172.30.10.1",
-        "172.18.20.5",
-        "192.168.10.1",
-        "10.254.34.2",
-        "192.169.20.3"
+        "Kelas A dengan Default Subnet Mask 255.0.0.0",
+        "Kelas B dengan Default Subnet Mask 255.255.0.0",
+        "Kelas C dengan Default Subnet Mask 255.255.255.0",
+        "Kelas D dengan Default Subnet Mask 255.255.255.255",
+        "Kelas B dengan Default Subnet Mask 255.255.255.0"
       ],
-      "jawaban": "E"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Manakah IP address dibawah ini yang merupakan Automatic Private IP Addressing (APIPA)?",
+      "pertanyaan": "Pada IPv4 Kelas C, alokasi bit dibagi menjadi 24 bit untuk Network ID (NetID) dan 8 bit untuk Host ID (HostID). Jika suatu jaringan Kelas C menggunakan Default Subnet Mask (255.255.255.0), berapakah jumlah maksimal alamat IP yang dapat dialokasikan untuk perangkat (usable host) dalam satu subnet tersebut?",
       "opsi": [
-        "127.0.5.1",
-        "169.254.0.0",
-        "169.254.0.1",
-        "224.0.0.1",
-        "192.168.10.1"
+        "256 host",
+        "255 host",
+        "254 host",
+        "128 host",
+        "512 host"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Partisi yang digunakan sebagai memori cadangan pada Linux disebut ...",
+      "pertanyaan": "Sebuah perusahaan menengah memiliki gedung kantor baru dan membutuhkan alokasi jaringan lokal (LAN) untuk 500 unit komputer agar berada dalam satu segmen jaringan tanpa menerapkan custom subnetting (menggunakan default classful). Kelas IPv4 manakah yang paling tepat dan efisien untuk memenuhi kebutuhan tersebut?",
       "opsi": [
-        "Root",
-        "Home",
-        "Boot",
-        "Swap",
-        "Var"
+        "Kelas A, karena alokasi HostID-nya paling kecil",
+        "Kelas B, karena mampu menampung hingga 65.534 host",
+        "Kelas C, karena kapasitasnya pas untuk 500 komputer",
+        "Kelas D, karena dirancang untuk jaringan berskala sedang",
+        "Kelas E, karena dikhususkan untuk jaringan komputer perusahaan besar"
       ],
-      "jawaban": "D"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Direktori root pada Linux ditandai dengan simbol ...",
+      "pertanyaan": "Pada kode penamaan router MikroTik RB952Ui-5ac2nD, arti dari tiga digit angka \"952\" secara berturut-turut menunjukkan spesifikasi...",
       "opsi": [
-        "/",
-        "\\\\",
-        "$",
-        "#",
-        "*"
+        "Seri 9, memiliki 5 port Ethernet, dan 2 interface Wireless built-in",
+        "Seri 9, memiliki 5 interface Wireless, dan 2 port Ethernet",
+        "Seri 9, kecepatan CPU 5 GHz, dan 2 antena eksternal",
+        "Seri 95, memiliki 2 port Gigabit Ethernet",
+        "Seri 9, kapasitas RAM 52 MB"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Perintah untuk memperbarui daftar repository paket pada Debian adalah ...",
+      "pertanyaan": "Pada nama produk MikroTik RB952Ui-5ac2nD, huruf \"U\" dan \"i\" pada suffix \"Ui\" menandakan adanya fitur tambahan yaitu...",
       "opsi": [
-        "apt-get remove",
-        "apt-get clean",
-        "apt-get update",
-        "apt-get upgrade",
-        "apt-get install"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "File konfigurasi IP statis pada Debian terdapat pada ...",
-      "opsi": [
-        "/etc/passwd",
-        "/home/user",
-        "/etc/network/interfaces",
-        "/var/log",
-        "/boot/grub"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Perintah untuk melihat alamat IP pada Linux adalah ...",
-      "opsi": [
-        "Ipconfig",
-        "Netstat",
-        "ifconfig / ip addr",
-        "traceroute",
-        "mkdir"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Penulisan konfigurasi IP statis yang benar adalah ...",
-      "opsi": [
-        "iface eth0 inet dhcp",
-        "auto eth0",
-        "address 192.168.1.10",
-        "hostname server",
-        "mount /dev"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Paket untuk mengaktifkan layanan SSH Server di Debian adalah ...",
-      "opsi": [
-        "Samba",
-        "apache2",
-        "openssh-server",
-        "vsftpd",
-        "bind9"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Port default SSH adalah ...",
-      "opsi": [
-        "21",
-        "22",
-        "23",
-        "80",
-        "443"
+        "\"U\" = Universal port, \"i\" = Integrated antenna",
+        "\"U\" = USB port, \"i\" = PoE-Output pada port Ethernet terakhir",
+        "\"U\" = Unmanaged switch, \"i\" = IPsec hardware acceleration",
+        "\"U\" = Ultra fast CPU, \"i\" = Indoor case",
+        "\"U\" = USB port, \"i\" = Isolated power supply"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Paket DHCP Server pada Debian adalah ...",
+      "pertanyaan": "Bagian kode \"5ac2nD\" pada RouterBoard RB952Ui-5ac2nD memberikan informasi mengenai spesifikasi wireless. Arti dari potongan kode \"5ac\" dan \"2n\" tersebut adalah...",
       "opsi": [
-        "dhcpd-server",
-        "isc-dhcp-server",
-        "dns-server",
-        "net-server",
-        "file-server"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Interface Mikrotik yang biasanya digunakan untuk koneksi ke ISP adalah...",
-      "opsi": [
-        "ether2",
-        "ether3",
-        "ether1",
-        "wlan1",
-        "bridge1"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Alamat IP 192.168.10.1/24 yang diberikan secara manual pada ether2 termasuk jenis konfigurasi...",
-      "opsi": [
-        "DHCP Server",
-        "DHCP Client",
-        "Static IP",
-        "NAT",
-        "DNS Dynamic"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Fungsi utama NAT dengan action masquerade pada Mikrotik adalah...",
-      "opsi": [
-        "Memblokir website",
-        "Mengubah IP lokal menjadi IP publik agar bisa akses internet",
-        "Membatasi bandwidth",
-        "Memberikan IP ke client",
-        "Mengaktifkan firewall"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Perintah untuk mengecek IP di Windows adalah...",
-      "opsi": [
-        "ping",
-        "traceroute",
-        "ipconfig",
-        "ifconfig",
-        "netstat"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Teknologi FTTH menggunakan media transmisi berupa...",
-      "opsi": [
-        "Kabel tembaga",
-        "Gelombang radio",
-        "Sinyal listrik langsung",
-        "Cahaya melalui fiber optik",
-        "Bluetooth"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Perangkat yang berfungsi mengubah sinyal listrik menjadi sinyal cahaya adalah...",
-      "opsi": [
-        "Router Access Point",
-        "Mikrotik",
-        "HTB B",
-        "HTB A",
-        "Switch"
-      ],
-      "jawaban": "D"
-    },
-    {
-      "pertanyaan": "Jika WiFi terhubung tetapi tidak bisa internet, kemungkinan penyebabnya adalah...",
-      "opsi": [
-        "DHCP aktif",
-        "NAT belum disetting",
-        "IP publik tersedia",
-        "Fiber bagus",
-        "DNS mati total"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Keunggulan utama FTTH dibandingkan kabel UTP biasa adalah...",
-      "opsi": [
-        "Lebih murah",
-        "Mudah disambung tanpa alat",
-        "Tidak terpengaruh interferensi listrik",
-        "Menggunakan listrik rendah",
-        "Tidak membutuhkan router"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Seorang teknisi mengonfigurasi router dengan SSID \"Lantai_2_Server\". Namun, saat staf IT mencoba menghubungkan perangkat secara manual, mereka mengetikkan \"lantai_2_server\". Apa yang akan terjadi pada proses koneksi tersebut?",
-      "opsi": [
-        "Koneksi berhasil karena sistem Windows/Android mengabaikan perbedaan huruf kapital.",
-        "Koneksi gagal karena SSID bersifat case-sensitive, sehingga perbedaan huruf dianggap identitas berbeda.",
-        "Koneksi berhasil, tetapi perangkat akan ditandai sebagai \"Tamu\" (Guest).",
-        "Router akan mengirimkan pesan \"Wrong SSID Name\" secara otomatis ke layar perangkat.",
-        "Perangkat akan terhubung ke jaringan cadangan terdekat secara otomatis."
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Dalam sebuah perlombaan cyber security, peserta diminta membuat SSID yang paling panjang namun tetap memenuhi standar teknis ASCII. Manakah dari pilihan berikut yang merupakan SSID paling panjang yang masih diizinkan?",
-      "opsi": [
-        "Jaringan_Nirkabel_ Terproteksi_Maksimal_Sekali (42 Karakter)",
-        "Wifi-Kantor-Pusat-Lantai-5-Ruang-Meeting-Utama (45 Karakter)",
-        "Admin_Router_Pusat_Data_ Gedung_Cyber_1_JKT (40 Karakter)",
-        "Pusat_Informasi_Digital_Akses_ Publik_L-1 (39 Karakter)",
-        "Hotspot_Area_Lt1_Gedung_ Serbaguna_A1 (32 Karakter)"
-      ],
-      "jawaban": "E"
-    },
-    {
-      "pertanyaan": "Bagaimana sebuah laptop yang baru dinyalakan bisa langsung mengetahui ada Wi-Fi di sekitarnya tanpa pengguna melakukan refresh manual?",
-      "opsi": [
-        "Laptop mengirimkan tegangan listrik melalui antena untuk memicu router.",
-        "Router Wireless memancarkan sinyal Beacon Frame yang berisi SSID secara terus-menerus.",
-        "Laptop menggunakan sensor suhu untuk mendeteksi panas dari perangkat router.",
-        "Router Wireless mendeteksi alamat MAC laptop dan langsung mengirimkan undangan koneksi.",
-        "Terjadi pertukaran data melalui kabel optik yang tertanam di dinding."
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Dalam skenario manakah penggunaan Broadcast SSID (Visible) paling tepat dan efisien untuk diterapkan?",
-      "opsi": [
-        "Jaringan rahasia milik intelijen negara.",
-        "Jaringan internal pusat data yang berisi informasi perbankan.",
-        "Jaringan Wi-Fi publik di bandara agar mudah ditemukan pelancong.",
-        "Jaringan antar server di dalam ruangan tertutup.",
-        "Jaringan pribadi yang hanya digunakan oleh satu orang pemilik rumah."
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "WPA2 diwajibkan untuk sertifikasi Wi-Fi sejak tahun 2006. Standar enkripsi apa yang digunakannya sehingga dianggap sangat aman hingga saat ini?",
-      "opsi": [
-        "WEP-24 dengan algoritma RC4.",
-        "TKIP dengan algoritma RC4.",
-        "AES (Advanced Encryption Standard).",
-        "MD5 Hashing dengan algoritma Blowfish.",
-        "RSA Encryption dengan panjang kunci 1024-bit."
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Manakah dari protokol berikut yang merupakan standar keamanan setelah WEP dan sudah dianggap tidak aman lagi?",
-      "opsi": [
-        "WPA",
-        "WPA2",
-        "AES",
-        "WEP",
-        "WEP-Enterprise"
+        "\"5ac\" = Mendukung frekuensi 5 GHz standar 802.11ac ; \"2n\" = Mendukung frekuensi 2.4 GHz standar 802.11n",
+        "\"5ac\" = Memiliki 5 antena type-c ; \"2n\" = Memiliki 2 slot nano-SIM",
+        "\"5ac\" = Daya pancar 5 Watt AC ; \"2n\" = 2 channel network",
+        "\"5ac\" = Frekuensi 5 GHz dan 2.4 GHz ; \"2n\" = 2 antena omni",
+        "\"5ac\" = 5 port access controller ; \"2n\" = 2 jaringan LAN"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Jika Anda membangun jaringan Wi-Fi untuk sebuah kafe kecil, standar mana yang paling praktis dan cukup aman untuk digunakan?",
+      "pertanyaan": "Huruf \"D\" di bagian paling akhir dari kode nama perangkat RB952Ui-5ac2nD memiliki arti teknis yaitu...",
       "opsi": [
-        "WPA2-Enterprise",
-        "Tanpa Enkripsi",
-        "WEP",
-        "WPA2-Personal",
-        "WPA-Enterprise"
+        "Desktop Case (desain casing untuk diletakkan di atas meja)",
+        "Dual Chain (mendukung teknologi 2x2 MIMO dengan 2 rantai antena)",
+        "Dual Power (memiliki dua sumber catu daya redundan)",
+        "Direct Current (hanya dapat menggunakan catu daya arus DC)",
+        "Dual Band (mendukung dua frekuensi sekaligus)"
       ],
-      "jawaban": "D"
+      "jawaban": "B"
     },
     {
-      "pertanyaan": "Seorang administrator jaringan ingin mengimplementasikan 'WPA2-Enterprise'. Komponen tambahan apa yang wajib dimiliki agar sistem ini dapat berjalan?",
+      "pertanyaan": "Fungsi utama dari layanan DHCP (Dynamic Host Configuration Protocol) dalam arsitektur jaringan komputer adalah...",
       "opsi": [
-        "Satu password tunggal yang diketahui seluruh staf",
-        "Kabel UTP kategori 6 diseluruh Gedung",
-        "Server autentikasi terpusat seperti RADIUS server",
-        "Router wireless dengan antenna 4 buah",
-        "Koneksi internet dengan kecepatan 500 Mbps"
+        "Mengonversi nama domain situs web menjadi alamat IP",
+        "Mengalokasikan alamat IP dan parameter jaringan lainnya secara otomatis dan dinamis ke perangkat client",
+        "Menghubungkan dua jaringan lokal yang memiliki segmen subnet berbeda",
+        "Membatasi dan membagi kapasitas kecepatan internet (bandwidth management)",
+        "Mengamankan jaringan dari serangan kueri DNS berbahaya"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Sistem operasi jaringan adalah sistem operasi yang dirancang untuk ....",
+      "opsi": [
+        "Mengolah dokumen saja",
+        "Mengelola jaringan dan sumber daya komputer dalam jaringan",
+        "Membuat desain grafis",
+        "Memutar video",
+        "Mengedit foto"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Salah satu contoh sistem operasi jaringan berbasis Linux adalah ....",
+      "opsi": [
+        "Windows 11",
+        "Microsoft Word",
+        "Debian",
+        "Photoshop",
+        "CorelDRAW"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Manakah pernyataan yang paling akurat mengenai perbandingan antara WPA-Personal dan WPA2-Personal?",
+      "pertanyaan": "Fungsi utama server dalam jaringan adalah ....",
       "opsi": [
-        "WPA2-Personal menggunakan algoritma AES, sedangkan WPA-Personal menggunakan RC4.",
-        "WPA2-Personal hanya bisa digunakan di komputer, bukan smartphone.",
-        "WPA-Personal lebih aman karena menggunakan TKIP.",
-        "WPA-Personal wajib digunakan jika ingin terhubung ke server RADIUS.",
-        "Keduanya menggunakan algoritma yang sama tetapi berbeda panjang passwordnya."
+        "Hanya digunakan untuk bermain game",
+        "Menyediakan layanan dan sumber daya kepada client",
+        "Menghapus seluruh data client",
+        "Mengganti perangkat jaringan",
+        "Mematikan komputer client"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Komputer yang meminta layanan kepada server disebut ....",
+      "opsi": [
+        "Router",
+        "Switch",
+        "Client",
+        "Hub",
+        "Access Point"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "File yang digunakan untuk melakukan instalasi Debian biasanya memiliki format ....",
+      "opsi": [
+        ".docx",
+        ".jpg",
+        ".iso",
+        ".mp4",
+        ".exe"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Jika Debian diinstall menggunakan VirtualBox, VirtualBox berfungsi sebagai ...",
+      "opsi": [
+        "Web server",
+        "Virtual machine manager",
+        "DNS Server",
+        "Database Server",
+        "Text editor"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "RAM pada Virtual Machine digunakan untuk ....",
+      "opsi": [
+        "Menyimpan file secara permanen",
+        "Menyediakan memori kerja bagi sistem operasi",
+        "Menghubungkan komputer ke internet",
+        "Mengatur DNS",
+        "Menentukan nama domain"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Pada menu instalasi Debian, pilihan Install digunakan untuk ....",
+      "opsi": [
+        "Memulai proses instalasi Debian berbasis teks",
+        "Menghapus VirtualBox",
+        "Membuka terminal Windows",
+        "Membuat jaringan Wi-Fi",
+        "Menginstal printer"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Sebuah kantor menggunakan pengaturan Hidden SSID demi alasan privasi. Apa langkah yang wajib dilakukan oleh karyawan baru agar bisa menghubungkan laptop mereka ke Wi-Fi kantor tersebut?",
+      "pertanyaan": "Saat instalasi Debian, pengaturan bahasa digunakan untuk ....",
       "opsi": [
-        "Menunggu di dekat router sampai nama jaringan muncul sendiri.",
-        "Menekan tombol reset pada router agar SSID berubah menjadi visible.",
-        "Memasukkan nama SSID secara manual pada menu \"Add Network\" di perangkat.",
-        "Mematikan fitur firewall pada laptop agar SSID yang tersembunyi bisa dideteksi.",
-        "Cukup memasukkan password saja tanpa perlu mengetahui nama jaringannya."
+        "Menentukan bahasa yang digunakan dalam proses instalasi",
+        "Menentukan ukuran hard disk",
+        "Membuat user baru",
+        "Menentukan alamat IP",
+        "Membuat database"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Pengaturan hostname pada Debian digunakan untuk ....",
+      "opsi": [
+        "Menentukan nama komputer dalam jaringan",
+        "Menentukan ukuran RAM",
+        "Mengatur resolusi monitor",
+        "Mengatur kapasitas hard disk",
+        "Menentukan password Wi-Fi"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Standar urutan warna T568B untuk pin nomor 1 sampai 3 secara berurutan adalah...",
+      "opsi": [
+        "Putih Hijau, Hijau, Putih Orange",
+        "Putih Orange, Orange, Putih Hijau",
+        "Putih Biru, Biru, Putih Hijau",
+        "Putih Cokelat, Cokelat, Putih Orange",
+        "Orange, Putih Orange, Hijau"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Jenis susunan kabel UTP yang memiliki standar urutan warna sama di kedua ujungnya (misal: T568B di kedua ujung) disebut kabel...",
+      "opsi": [
+        "Crossover",
+        "Rollover",
+        "Straight-Through",
+        "Coaxial",
+        "Fiber Optic"
       ],
       "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Pada standar pengkabelan T568A, warna kabel yang terhubung pada pin nomor 1 dan 2 adalah...",
+      "opsi": [
+        "Putih Orange dan Orange",
+        "Putih Biru dan Biru",
+        "Putih Cokelat dan Cokelat",
+        "Putih Hijau dan Hijau",
+        "Putih Hijau dan Orange"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Pada jaringan Ethernet Fast (100Mbps), pin nomor berapa saja yang berfungsi secara aktif untuk mentransmisikan (TX) dan menerima (RX) data?",
+      "opsi": [
+        "1, 2, 3, dan 6",
+        "1, 2, 4, dan 5",
+        "3, 4, 5, dan 6",
+        "4, 5, 7, dan 8",
+        "1, 3, 5, dan 7"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Kabel dengan susunan Crossover umumnya digunakan untuk menghubungkan perangkat yang sejenis, contohnya adalah...",
+      "opsi": [
+        "Router ke Switch",
+        "Computer ke Switch",
+        "Switch ke Switch",
+        "Computer ke Hub",
+        "Switch ke Access Point"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Pada kedua standar pengkabelan (T568A maupun T568B), posisi kabel yang warna dan nomor pin-nya tidak pernah berubah terletak pada pin nomor...",
+      "opsi": [
+        "1, 2 dan 3, 6",
+        "4, 5 dan 7, 8",
+        "1, 3 dan 2, 6",
+        "2, 4 dan 6, 8",
+        "3, 5 dan 7, 8"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Urutan warna lengkap untuk standar T568B dari pin 1 hingga pin 8 yang benar adalah...",
+      "opsi": [
+        "Putih Hijau, Hijau, Putih Orange, Biru, Putih Biru, Orange, Putih Cokelat, Cokelat",
+        "Putih Orange, Orange, Putih Hijau, Biru, Putih Biru, Hijau, Putih Cokelat, Cokelat",
+        "Putih Orange, Orange, Putih Hijau, Hijau, Putih Biru, Biru, Putih Cokelat, Cokelat",
+        "Putih Biru, Biru, Putih Orange, Orange, Putih Hijau, Hijau, Putih Cokelat, Cokelat",
+        "Putih Orange, Orange, Putih Biru, Biru, Putih Hijau, Hijau, Putih Cokelat, Cokelat"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Konektor standar yang dipasang pada ujung kabel UTP untuk dihubungkan ke Port LAN pada komputer atau switch adalah...",
+      "opsi": [
+        "RJ-11",
+        "BNC",
+        "RJ-45",
+        "SC Connector",
+        "USB Type-C"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Singkatan dari UTP dan karakteristik utamanya adalah...",
+      "opsi": [
+        "Universal Twisted Pair, memiliki pelindung aluminium foil",
+        "Unshielded Twisted Pair, tidak memiliki pelindung pembungkus foil dari interferensi luar",
+        "Unshielded Transfer Protocol, digunakan untuk transmisi data cepat",
+        "Uniform Twisted Pair, memiliki sekat di setiap pasang kabelnya",
+        "Underground Twisted Pair, ditanam di bawah tanah"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Jika Anda ingin membuat kabel Crossover, maka kombinasi standar urutan warna pada ujung A dan ujung B adalah...",
+      "opsi": [
+        "Ujung A T568A dan Ujung B T568A",
+        "Ujung A T568B dan Ujung B T568B",
+        "Ujung A Rollover dan Ujung B Straight",
+        "Ujung A T568A dan Ujung B T568B",
+        "Ujung A T568B dan Ujung B Rollover"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Antena jaringan yang mampu memancarkan sinyal hampir 180º adalah jenis antena ...",
+      "opsi": [
+        "Antena Omni",
+        "Antena Grid",
+        "Antena Sectoral",
+        "Antena Yagi",
+        "Antena Parabolic"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Siti sedang berada tepat di samping router Wi-Fi rumahnya dan ingin mengunduh file video berukuran besar. Router tersebut memancarkan dua jaringan Wi-Fi: \"Wi-Fi-Rumah-2.4G\" dan \"Wi-Fi-Rumah-5G\".<br><br>Pita frekuensi mana yang sebaiknya dipilih Siti untuk mendapatkan kecepatan unduh tertinggi saat berada dekat dengan router?",
+      "opsi": [
+        "Pita 2.4 GHz karena memiliki jangkauan pemancar paling luas.",
+        "Pita 5 GHz karena menyediakan bandwidth lebih lebar dan batas kecepatan lebih tinggi.",
+        "Pita 2.4 GHz karena lebih stabil dalam menembus halangan udara.",
+        "Kedua pita frekuensi selalu memberikan kecepatan transmisi data yang persis sama.",
+        "Semua jawaban salah"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Andi memiliki smart TV berstandar IEEE 802.11n yang hanya mendukung pita frekuensi 2.4 GHz (Single-band). Di rumahnya, Andi memasang router baru berstandar IEEE 802.11ac yang bekerja pada pita frekuensi 5 GHz saja.<br><br>Apa yang akan terjadi ketika Andi mencoba menghubungkan smart TV tersebut ke router Wi-Fi rumahnya?",
+      "opsi": [
+        "Smart TV dapat terhubung namun kecepatannya akan menyesuaikan standar 802.11ac.",
+        "Smart TV terhubung dengan lancar karena semua standar 802.11 kompatibel penuh.",
+        "Smart TV akan mengalami kerusakan antena penerima sinyal nirkabel secara permanen.",
+        "Smart TV tidak dapat menemukan dan terhubung ke nama jaringan Wi-Fi tersebut.",
+        "Semua jawaban salah"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Dua orang siswa, Doni dan Eko, ingin saling mengirim file langsung antar-laptop tanpa lewat internet (koneksi Ad-Hoc/Wi-Fi Direct). Laptop Doni dikonfigurasi menggunakan standar IEEE 802.11a pada pita 5 GHz, sedangkan laptop Eko dikonfigurasi menggunakan standar IEEE 802.11g pada pita 2.4 GHz. Mengapa sambungan langsung antar kedua laptop tersebut gagal terbentuk?",
+      "opsi": [
+        "Koneksi nirkabel langsung hanya bisa dilakukan jika jarak kedua laptop lebih dari 100 meter.",
+        "Kedua laptop menggunakan pita frekuensi radio yang berbeda yaitu 5 GHz dan 2.4 GHz.",
+        "Koneksi langsung mewajibkan salah satu laptop menggunakan kabel jaringan LAN.",
+        "Standar 802.11a dan 802.11g tidak mendukung fitur transfer file antar pengguna.",
+        "Semua jawaban salah"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Dewi baru saja membeli laptop gaming berstandar IEEE 802.11ax (Wi-Fi 6). Di rumahnya, ia terhubung ke router berstandar IEEE 802.11ax juga di pita 5 GHz.<br><br>Mengapa transmisi data antara laptop Dewi dan router rumahnya dapat berjalan sangat cepat dan efisien?",
+      "opsi": [
+        "Kedua perangkat menggunakan standar dan pita frekuensi yang sama yaitu 802.11ax pada 5 GHz.",
+        "Router 802.11ax dapat mengubah gelombang Wi-Fi menjadi sinyal satelit secara langsung.",
+        "Laptop Dewi secara otomatis mengambil seluruh daya listrik dari router melalui udara.",
+        "Standar 802.11ax tidak lagi memerlukan gelombang radio untuk mengirimkan data nirkabel.",
+        "Semua jawaban salah"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Kabel jaringan straight pada jaringan wireless infrastruktur digunakan untuk …",
+      "opsi": [
+        "Memperkuat sinyal frekuensi radio dari access point",
+        "Menghubungkan access point atau wireless router dengan perangkat jaringan lain seperti modem, switch, maupun router",
+        "Mengonversikan sinyal digital menjadi sinyal radio",
+        "Memberikan alamat IP kepada perangkat yang terhubung",
+        "Menghubungkan komputer secara nirkabel tanpa kabel"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Antena jaringan komputer yang ditunjukan oleh gambar di bawah ini adalah ....<br><br><img src='soal/img/XI/kk-tjkt/Picture1.jpg' width='250'>",
+      "opsi": [
+        "Antena Omni",
+        "Antena Grid",
+        "Antena Sectoral",
+        "Antena Yagi",
+        "Antena Parabolic"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Suatu jaringan komputer yang menghubungkan dua komputer atau lebih dengan menggunakan media transmisi data berupa gelombang elektromagnetik disebut jaringan ......",
+      "opsi": [
+        "berkabel",
+        "wired",
+        "client server",
+        "nirkabel",
+        "peer to peer"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Perhatikan gambar berikut ini!<br><br><img src='soal/img/XI/kk-tjkt/Picture2.png' width='250'><br><br>Perangkat pada gambar tersebut berperan sebagai....",
+      "opsi": [
+        "Penguat sinyal nirkabel pada area yang luas",
+        "Sentral koneksi yang mengkonversikan sinyal RF menjadi sinyal digital",
+        "Media penghubung access point dengan modem atau switch",
+        "Kartu jaringan yang dipasang pada komputer pengguna",
+        "Perangkat akses bagi pengguna berupa smartphone"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Apa fungsi utama dari Access Point dalam jaringan Wireless LAN?",
+      "opsi": [
+        "Mengubah sinyal digital menjadi sinyal frekuensi radio untuk dihubungkan ke perangkat nirkabel",
+        "Menyediakan antarmuka antara Mobile/Desktop PC dengan jaringan kabel",
+        "Menghubungkan Mobile PC secara langsung ke internet melalui sinyal radio",
+        "Mengkonversi sinyal radio menjadi sinyal optik untuk transmisi data",
+        "Menghubungkan perangkat PC dengan printer nirkabel"
+      ],
+      "jawaban": "A"
     }
   ],
   "essay": [
     {
-      "pertanyaan": "File konfigurasi DHCP Server berada di ..."
+      "pertanyaan": "Jelaskan masing-masing fungsi dari :<br><br>A. /<br>B. Swap"
     },
     {
-      "pertanyaan": "Jelaskan perbedaan antara DHCP Client dan DHCP Server pada Mikrotik serta fungsi masing-masing dalam jaringan!"
+      "pertanyaan": "Jelaskan fungsi dari perangkat PoE!"
     },
     {
-      "pertanyaan": "<blockquote>Sebuah kafe baru ingin memasang jaringan Wi-Fi untuk pelanggannya. Pemilik kafe memberikan nama jaringan \"FreeWifi_Kafe_Banteng\" agar pelanggan mudah menemukannya. Namun, ia merasa khawatir jika ada orang asing di luar kafe yang ikut menggunakan internetnya tanpa izin.<br><br>Berdasarkan kasus diatas, jelaskan:<br><br>Apa istilah teknis untuk nama jaringan \"FreeWifi_Kafe_Banteng\" dan Sebutkan satu cara yang paling umum digunakan agar hanya pelanggan kafe saja yang bisa masuk ke jaringan tersebut?</blockquote>"
+      "pertanyaan": "Jelaskan fungsi dari perangkat Router Wireless!"
     }
   ]
 }
