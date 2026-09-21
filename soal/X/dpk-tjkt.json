@@ -1,406 +1,445 @@
 {
   "pilihan_ganda": [
     {
-      "pertanyaan": "Perubahan paling signifikan dari komputer generasi kedua dibanding generasi pertama adalah ....",
+      "pertanyaan": "Perangkat Komputer Yang Dijadikan Media Atau Tempat Memasang Processor, Memory Dan Perangkat Keras Yang Lain Ialah ...",
       "opsi": [
-        "Penggunaan internet pertama kali",
-        "Penggunaan transistor menggantikan tabung vakum",
-        "Penggunaan SSD sebagai media penyimpanan",
-        "Penggunaan sistem operasi berbasis GUI",
-        "Penggunaan kecerdasan buatan"
+        "Casing",
+        "Harddisk",
+        "Power Supply",
+        "Prosessor",
+        "Motherboard"
       ],
-      "jawaban": "B"
+      "jawaban": "E"
     },
     {
-      "pertanyaan": "Seorang teknisi menemukan komputer lama yang menggunakan IC sebagai komponen utama pemrosesannya. Komputer tersebut kemungkinan termasuk generasi ....",
+      "pertanyaan": "Peralatan Yang Berfungsi Sebagai Pusat/Sentral Dalam Pengelolaan Data Pada Komputer Disebut....",
       "opsi": [
-        "Pertama",
-        "Kedua",
-        "Ketiga",
-        "Keempat",
-        "Kelima"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Sistem komputer terdiri atas tiga komponen utama. Jika salah satu komponen tidak tersedia, maka proses pengolahan data dapat terganggu. Komponen tersebut adalah ....",
-      "opsi": [
-        "Hardware, software, dan internet",
-        "Hardware, software, dan brainware",
-        "Hardware, CPU, dan RAM",
-        "Software, browser, dan brainware",
-        "Hardware, jaringan, dan brainware"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Seorang pengguna memiliki komputer dengan spesifikasi tinggi, tetapi tidak dapat menjalankan aplikasi apa pun karena sistem operasi belum terinstal. Kondisi tersebut menunjukkan bahwa ....",
-      "opsi": [
-        "Hardware lebih penting daripada software",
-        "Brainware tidak dibutuhkan",
-        "Software diperlukan agar hardware dapat digunakan secara optimal",
-        "RAM mengalami kerusakan",
-        "Motherboard tidak kompatibel"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Perhatikan urutan berikut:<br>1. Data dimasukkan<br>2. Data diproses<br>3. Informasi dihasilkan<br><br>Urutan tersebut menggambarkan konsep ....",
-      "opsi": [
-        "Jaringan komputer",
-        "Sistem operasi",
-        "Siklus pengolahan data",
-        "Virtualisasi",
-        "Topologi jaringan"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Perangkat yang berfungsi mengubah gerakan fisik pengguna menjadi data digital untuk diproses komputer adalah ....",
-      "opsi": [
+        "Keyboard",
+        "Harddisk",
         "Monitor",
-        "Printer",
-        "Scanner",
-        "Speaker",
-        "Proyektor"
+        "RAM",
+        "CPU"
       ],
-      "jawaban": "C"
+      "jawaban": "E"
     },
     {
-      "pertanyaan": "Jika pengguna ingin menyimpan data secara permanen meskipun komputer dimatikan, perangkat yang paling tepat digunakan adalah ....",
+      "pertanyaan": "Perangkat Keras Komputer Yang Berfungsi Untuk Menyimpan Data Adalah....",
       "opsi": [
-        "RAM",
-        "Cache Memory",
-        "Register",
-        "SSD",
-        "ROM Sementara"
+        "CD ROM",
+        "Processor",
+        "Input Device",
+        "Harddisk",
+        "RAM"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Komponen yang bertugas melakukan perhitungan aritmatika dan logika dalam komputer adalah ....",
+      "pertanyaan": "Contoh Perangkat-Perangkat Input Ialah ...",
       "opsi": [
-        "PSU",
-        "CPU",
-        "HDD",
-        "VGA",
-        "NIC"
+        "Monitor, Printer, Speaker",
+        "Card Vga, Card I/O, Sound Card",
+        "Analis, Programmer",
+        "Casing, Power Supply",
+        "Keyboard, Scanner, CD-ROM"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Jika Menjalankan Game Tapi Tampilannya Lambat, Hardware Yang Perlu Di-Upgrade Yaitu...",
+      "opsi": [
+        "Sound Card",
+        "Processor",
+        "VGA Card",
+        "Hard Disk",
+        "RAM"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Perhatikan gambar berikut!<br><br><img src='soal/img/X/dpk-tjkt/Picture1.jpg' width='250'><br><br>Gambar Berikut Termasuk Kategori...",
+      "opsi": [
+        "Media Penyimpanan",
+        "Alat Input",
+        "Alat Output",
+        "Alat Proses",
+        "Alat Media"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Kepanjangan RAM Adalah...",
+      "opsi": [
+        "Random Access Monitor",
+        "Read Access Monitor",
+        "Random Access Memory",
+        "Read Access Memory",
+        "Ramdom Accept Memory"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Port LAN Pada Motherboard Digunakan Untuk...",
+      "opsi": [
+        "Memasang VGA",
+        "Memasang Keyboard",
+        "Memasang Mouse",
+        "Memasang Kabel Jaringan",
+        "Memasang Printer"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Urutan Langkah Merakit Komputer Yang Benar Adalah....",
+      "opsi": [
+        "Pasang Motherboard, Keyboard, Mouse, Monitor, Kabel Power",
+        "Pasang Hard Disk, Disk Drive, CD ROM, Motherboard, Prosesor, RAM",
+        "Pasang Motherboard, RAM, Hard Disk, Prosesor, Disk Drive, CD ROM",
+        "Pasang Kabel Aksesoris, Motherboard, Prosesor, RAM, Hard Disk",
+        "Pasang Power Supply, Motherboard, Prosesor, RAM, Hard Disk, Disk Drive, CD ROM Dan Kabel Aksesoris"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Perhatikan gambar berikut!<br><br><img src='soal/img/X/dpk-tjkt/Picture2.jpg' width='300'><br><br>Untuk Langkah Memasang Random Access Memory Ditunjukkan Pada Bagian...",
+      "opsi": [
+        "Bagian 2",
+        "Bagian 5",
+        "Bagian 4",
+        "Bagian 1",
+        "Bagian 3"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Slot DIMM DDR3 pada motherboard digunakan untuk memasang ....",
+      "pertanyaan": "Perhatikan gambar berikut!<br><br><img src='soal/img/X/dpk-tjkt/Picture3.jpg' width='300'><br><br>Pada Bagian No 14 Adalah ...",
+      "opsi": [
+        "Port Power",
+        "Port SATA",
+        "Back Panel",
+        "Slot AGP",
+        "Port Paralel"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Fungsi Dari Power Supply Adalah...",
+      "opsi": [
+        "Penyimpan Data",
+        "Pengalir Listrik",
+        "Pendingin Komputer",
+        "Penghantar Panas",
+        "Penghambat Listrik"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Perhatikan gambar berikut!<br><br><img src='soal/img/X/dpk-tjkt/Picture4.jpg' width='300'><br><br>Pada Bagian No 15 Adalah ...",
+      "opsi": [
+        "Port Power",
+        "Port SATA",
+        "Back Panel",
+        "Port USB",
+        "Port Paralel"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Perkakasan Untuk Menghasilkan Elemen Audio Adalah...",
       "opsi": [
         "VGA Card",
-        "SSD NVMe",
-        "RAM",
-        "Processor",
-        "Sound Card"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Seorang siswa memasang kartu grafis tambahan pada motherboard. Slot yang paling tepat digunakan adalah ....",
-      "opsi": [
-        "PCIe x16",
-        "SATA",
-        "DIMM",
-        "M.2",
-        "ATX Power"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Kabel SATA Data memiliki fungsi utama untuk ....",
-      "opsi": [
-        "Menyalurkan listrik ke motherboard",
-        "Menghubungkan PSU ke VGA",
-        "Menghubungkan media penyimpanan dengan motherboard untuk transfer data",
-        "Menyalurkan listrik ke CPU",
-        "Menghubungkan monitor ke motherboard"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Jika kabel SATA Power tidak terhubung ke SSD, maka kemungkinan yang terjadi adalah ....",
-      "opsi": [
-        "SSD terdeteksi tetapi lambat",
-        "SSD tidak mendapatkan daya sehingga tidak terdeteksi",
-        "SSD tetap berfungsi normal",
-        "Motherboard mati total",
-        "BIOS rusak"
+        "Sound Card",
+        "Harddisk",
+        "LAN Card",
+        "Processor"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Pada pemasangan kabel Front Panel, konektor PWR SW berfungsi untuk ....",
+      "pertanyaan": "Perhatikan gambar berikut!<br><br><img src='soal/img/X/dpk-tjkt/Picture5.jpg' width='300'><br><br>Untuk Langkah Memasang Slot tambahan berupa LAN Card Ditunjukkan Pada Bagian...",
       "opsi": [
-        "Menyalakan dan mematikan komputer melalui tombol power casing",
-        "Menyalakan lampu HDD",
-        "Menghubungkan speaker internal",
-        "Mereset BIOS",
-        "Menghubungkan USB depan"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Setelah merakit komputer, kipas prosesor berputar dan lampu motherboard menyala, tetapi saat tombol power casing ditekan komputer tidak merespons. Kemungkinan terbesar adalah ....",
-      "opsi": [
-        "Kabel SATA Data rusak",
-        "RAM terlalu besar",
-        "Kabel PWR SW pada Front Panel salah pemasangan atau tidak terpasang",
-        "SSD tidak terdeteksi",
-        "Monitor mati"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Sebuah komputer dapat masuk BIOS, namun Layar Monitor tidak Menyala. Setelah diperiksa, kabel daya SSD terpasang dengan baik. Kemungkinan masalah yang paling logis adalah ....",
-      "opsi": [
-        "Kabel SATA Data tidak terpasang atau rusak",
-        "Tombol power rusak",
-        "RAM tidak kompatibel",
-        "Front panel salah pemasangan",
-        "Monitor bermasalah"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Sekumpulan aktivitas atau tugas terstruktur yang saling berkaitan dan dirancang untuk menghasilkan suatu produk atau layanan tertentu bagi konsumen untuk mendapatkan keuntungan atau laba disebut dengan...",
-      "opsi": [
-        "Struktur Organisasi",
-        "Proses Bisnis",
-        "Standar Operasional Prosedur (SOP)",
-        "Rantai Pasok (Supply Chain)",
-        "Manajemen Kualitas"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Tujuan utama dari otomatisasi dalam perancangan proses bisnis adalah...",
-      "opsi": [
-        "Memperumit alur kerja perusahaan",
-        "Mengurangi jumlah pegawai secara drastis",
-        "Meningkatkan efisiensi dan mengurangi kesalahan manusia (human error)",
-        "Menghilangkan peran manajemen puncak",
-        "Menambah biaya operasional harian"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Di bawah ini yang merupakan contoh proses bisnis berupa layanan jasa di bidang TJKT adalah...",
-      "opsi": [
-        "Produksi perangkat keras komputer massal",
-        "Pembuatan sistem operasi komputer",
-        "Jasa instalasi jaringan LAN dan CCTV",
-        "Penjualan suku cadang kendaraan bermotor",
-        "Perakitan telepon pintar (smartphone)"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Dalam proses bisnis di bidang TJKT, siklus yang dimulai dari pengumpulan kebutuhan klien, perancangan jaringan, hingga implementasi dan pemeliharaan disebut sebagai...",
-      "opsi": [
-        "Manajemen rantai pasok (Supply Chain)",
-        "Siklus hidup pengembangan sistem (System Development Life Cycle)",
-        "Manajemen sumber daya manusia",
-        "Analisis laba rugi perusahaan",
-        "Strategi pemasaran digital"
-      ],
-      "jawaban": "B"
-    },
-    {
-      "pertanyaan": "Berikut ini yang BUKAN merupakan contoh peluang usaha/bisnis di bidang TJKT adalah...",
-      "opsi": [
-        "Membuka jasa penyedia layanan internet (ISP) lokal",
-        "Membuka layanan servis komputer dan laptop",
-        "Menjadi seorang Network Administrator lepas (freelancer)",
-        "Membuka usaha toko bangunan dan material",
-        "Pembuatan dan penyewaan website atau aplikasi"
+        "Bagian 2",
+        "Bagian 5",
+        "Bagian 4",
+        "Bagian 1",
+        "Bagian 3"
       ],
       "jawaban": "D"
     },
     {
-      "pertanyaan": "Dalam komponen analisis pasar, metode analisis yang digunakan untuk mengetahui kekuatan, kelemahan, peluang, dan ancaman dari bisnis yang akan dijalankan adalah...",
+      "pertanyaan": "Perangkat perantara (intermediary device) yang bekerja pada Layer 2 (Data Link) dan menggunakan MAC Address Table untuk meneruskan paket data ke port tujuan secara spesifik adalah...",
       "opsi": [
-        "Analisis 5W+1H",
-        "Analisis STP (Segmentation, Targeting, Positioning)",
-        "Analisis SWOT",
-        "Analisis BEP (Break Even Point)",
-        "Analisis Marketing Mix"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Untuk mengetahui berapa lama modal yang diinvestasikan akan kembali saat bisnis mulai beroperasi, seorang perencana bisnis harus menghitung...",
-      "opsi": [
-        "Payback Period",
-        "Net Present Value (NPV)",
-        "ROI (Return on Investment)",
-        "BEP (Break Even Point)",
-        "IRR (Internal Rate of Return)"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Komponen perencanaan bisnis yang memuat daftar kebutuhan modal awal, biaya operasional bulanan, dan target laba perusahaan dikelompokkan dalam bagian...",
-      "opsi": [
-        "Rencana Produksi",
-        "Deskripsi Bisnis",
-        "Proyeksi Keuangan",
-        "Rencana Organisasi",
-        "Strategi Pemasaran"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Komponen perencanaan bisnis yang secara khusus menjelaskan tentang bagaimana produk atau jasa yang ditawarkan dapat sampai ke tangan konsumen dan strategi promosi yang digunakan adalah...",
-      "opsi": [
-        "Rencana Pemasaran",
-        "Rencana Manajemen",
-        "Rencana Operasional",
-        "Proyeksi Keuangan",
-        "Deskripsi Perusahaan"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Kepanjangan dari analisis SWOT adalah ...",
-      "opsi": [
-        "Strengths, Weaknesses, Opportunities, Threats",
-        "Strategies, Weaknesses, Options, Treatments",
-        "Strengths, Work, Operations, Techniques",
-        "Sales, Wealth, Opportunities, Time",
-        "Supplies, Wants, Outputs, Terms"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Dalam matriks analisis SWOT, faktor yang berasal dari dalam perusahaan atau organisasi adalah ...",
-      "opsi": [
-        "Opportunities dan Threats",
-        "Strengths dan Opportunities",
-        "Strengths dan Weaknesses",
-        "Weaknesses dan Threats",
-        "Opportunities dan Weaknesses"
-      ],
-      "jawaban": "C"
-    },
-    {
-      "pertanyaan": "Sebuah perusahaan makanan cepat saji memiliki rasa produk yang sangat khas dan digemari masyarakat. Dalam analisis SWOT, hal ini termasuk dalam kategori ...",
-      "opsi": [
-        "Strengths",
-        "Weaknesses",
-        "Opportunities",
-        "Threats",
-        "Steps"
-      ],
-      "jawaban": "A"
-    },
-    {
-      "pertanyaan": "Berikut ini yang merupakan contoh dari Opportunities (Peluang) dalam analisis SWOT adalah ...",
-      "opsi": [
-        "Memiliki karyawan yang sangat ahli dan terlatih",
-        "Adanya kebijakan pemerintah yang mendukung UMKM",
-        "Tingkat inflasi yang tinggi di suatu negara",
-        "Munculnya pesaing baru yang menjual produk sejenis",
-        "Lokasi usaha yang jauh dari pusat keramaian"
+        "Hub",
+        "Switch",
+        "Router",
+        "Repeater",
+        "Modem"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Mengapa analisis SWOT sangat penting dilakukan sebelum menyusun strategi pemasaran suatu produk?",
+      "pertanyaan": "Perangkat perantara yang berfungsi menghubungkan dua atau lebih jaringan dengan subnet IP yang berbeda dan menentukan jalur terbaik (routing) untuk pengiriman data adalah...",
       "opsi": [
-        "Untuk menghilangkan seluruh risiko kerugian secara mutlak",
-        "Untuk mengetahui posisi perusahaan di pasar dan menentukan langkah strategis yang tepat",
-        "Untuk memaksimalkan jumlah karyawan di perusahaan",
-        "Untuk menetapkan harga jual yang paling tinggi",
-        "Untuk membatasi inovasi produk"
+        "Access Point",
+        "Switch Unmanaged",
+        "Hub",
+        "Router",
+        "Network Interface Card (NIC)"
       ],
-      "jawaban": "B"
+      "jawaban": "D"
     },
     {
-      "pertanyaan": "Apa tujuan utama dari penyusunan sebuah proposal bisnis?",
+      "pertanyaan": "Media transmisi fisik yang memanfaatkan gelombang/pulsa cahaya untuk mentransmisikan data, kebal terhadap interferensi elektromagnetik (EMI), dan cocok untuk jarak jauh adalah...",
       "opsi": [
-        "Untuk memberikan laporan keuangan akhir tahun kepada pemerintah",
-        "Untuk menjabarkan rencana usaha kepada pihak pembaca (investor/mitra) agar memperoleh persetujuan atau pendanaan",
-        "Untuk mencatat daftar seluruh karyawan di dalam perusahaan",
-        "Untuk memberikan panduan teknis kepada konsumen cara menggunakan produk",
-        "Untuk mempublikasikan sejarah berdirinya perusahaan kepada masyarakat umum"
+        "Coaxial Cable",
+        "UTP Cat5e Cable",
+        "STP Cat6 Cable",
+        "Fiber Optic Cable",
+        "Twinaxial Cable"
       ],
-      "jawaban": "B"
+      "jawaban": "D"
     },
     {
-      "pertanyaan": "Dalam struktur proposal usaha, bagian yang menjelaskan visi, misi, serta latar belakang mengapa bisnis tersebut didirikan disebut...",
+      "pertanyaan": "Jenis klasifikasi area jaringan yang mencakup wilayah geografis seluas satu kota atau menghubungkan beberapa kampus berjarak 10 hingga 50 km dinamakan...",
       "opsi": [
-        "Analisis Pasar",
-        "Rencana Operasional",
-        "Pendahuluan",
-        "Manajemen Risiko",
-        "Lampiran"
+        "PAN (Personal Area Network)",
+        "LAN (Local Area Network)",
+        "MAN (Metropolitan Area Network)",
+        "WAN (Wide Area Network)",
+        "SAN (Storage Area Network)"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Jika sebuah proposal usaha membutuhkan total investasi awal sebesar Rp 80.000.000 dan 40% dari dana tersebut berasal dari modal sendiri, berapa jumlah dana yang perlu diajukan sebagai pinjaman ke bank?",
+      "pertanyaan": "Pada model OSI 7 Layer, proses enkapsulasi yang bertanggung jawab menambahkan IP Address Asal (Source IP) dan IP Address Tujuan (Destination IP) terjadi pada layer...",
       "opsi": [
-        "Rp 48.000.000",
-        "Rp 40.000.000",
-        "Rp 80.000.000",
-        "Rp 32.000.000",
-        "Rp 52.000.000"
+        "Application Layer",
+        "Transport Layer",
+        "Network Layer",
+        "Data Link Layer",
+        "Physical Layer"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Protokol pada Transport Layer yang bersifat connection-oriented, memberikan jaminan pengiriman data yang andal (reliable), dan melakukan pengurutan ulang paket adalah...",
+      "opsi": [
+        "UDP (User Datagram Protocol)",
+        "TCP (Transmission Control Protocol)",
+        "IP (Internet Protocol)",
+        "ICMP (Internet Control Message Protocol)",
+        "ARP (Address Resolution Protocol)"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Nama PDU (Protocol Data Unit) yang dihasilkan pada Layer 2 (Data Link) setelah menambahkan MAC Header dan Trailer FCS (Frame Check Sequence) adalah...",
+      "opsi": [
+        "Data",
+        "Segment",
+        "Packet",
+        "Frame",
+        "Bits"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Urutan alur enkapsulasi data dari pengirim (sender) secara top-down berdasarkan model OSI Layer yang benar adalah...",
+      "opsi": [
+        "Bits → Frame → Packet → Segment → Data",
+        "Data → Packet → Segment → Frame → Bits",
+        "Data → Segment → Packet → Frame → Bits",
+        "Frame → Packet → Segment → Data → Bits",
+        "Segment → Data → Packet → Frame → Bits"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Pada arsitektur TCP/IP 4 Layer, fungsi dari Application Layer, Presentation Layer, dan Session Layer pada model OSI disederhanakan dan digabung menjadi satu lapisan, yaitu...",
+      "opsi": [
+        "Application Layer",
+        "Transport Layer",
+        "Internet Layer",
+        "Network Access Layer",
+        "Physical Layer"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "Berikut ini adalah langkah-langkah yang harus dihindari dalam penulisan proposal bisnis, kecuali...",
+      "pertanyaan": "Ketika sebuah komputer di laboratorium sekolah tidak dapat terhubung ke internet karena terjadi bentrok IP Address (IP Conflict) dengan komputer lain, gangguan ini berada pada cakupan analisis layer...",
       "opsi": [
-        "Menggunakan struktur dokumen yang tidak jelas dan berantakan",
-        "Melakukan koreksi/pengecekan ulang tata bahasa sebelum dicetak",
-        "Terlalu melebih-lebihkan kemampuan diri sendiri secara berlebihan",
-        "Tidak mempersonalisasi proposal sesuai dengan profil investor",
-        "Manajemen risiko yang tidak memadai dalam bisnis"
+        "Layer 1 (Physical)",
+        "Layer 2 (Data Link)",
+        "Layer 3 (Network)",
+        "Layer 4 (Transport)",
+        "Layer 7 (Application)"
+      ],
+      "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Pada model 7 lapisan OSI (Open Systems Interconnection), lapisan yang bertanggung jawab untuk melakukan pemformatan data, kompresi, serta enkripsi/dekripsi pesan agar dapat dipahami oleh aplikasi penerima adalah...",
+      "opsi": [
+        "Layer 7 - Application",
+        "Layer 6 - Presentation",
+        "Layer 5 - Session",
+        "Layer 4 - Transport",
+        "Layer 3 - Network"
       ],
       "jawaban": "B"
     },
     {
-      "pertanyaan": "Apa komponen utama yang biasanya diuraikan di dalam bagian \"Strategi Pemasaran\" pada sebuah proposal bisnis?",
+      "pertanyaan": "Di dalam laboratorium komputer sekolah terdapat 20 unit PC yang terhubung satu sama lain. Ketika komputer A mengirimkan dokumen ke komputer B, perangkat penghubung mampu membaca tabel MAC Address dan hanya meneruskan data ke port tempat komputer B terhubung, tanpa mengirimkannya ke komputer lain. Perangkat menengah yang dimaksud adalah...",
       "opsi": [
-        "Jumlah mesin produksi dan lokasi pabrik",
-        "Struktur organisasi dan latar belakang pendiri",
-        "Cara bisnis menjangkau konsumen dan menetapkan harga",
-        "Anggaran biaya sewa tempat dan listrik",
-        "Riwayat pengeluaran kas perusahaan di masa lalu"
+        "Hub",
+        "Switch",
+        "Router",
+        "Modem",
+        "Repeater"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Model TCP/IP merangkum arsitektur jaringan menjadi 4 lapisan praktis. Lapisan 'Application' pada model TCP/IP mencakup fungsi-fungsi yang pada model OSI dijalankan oleh tiga lapisan teratas sekaligus, yaitu...",
+      "opsi": [
+        "Application, Presentation, dan Session",
+        "Application, Transport, dan Network",
+        "Presentation, Session, dan Transport",
+        "Transport, Network, dan Data Link",
+        "Session, Transport, dan Network Access"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Dalam proses komunikasi data jaringan, data berukuran besar dipotong-potong menjadi bagian lebih kecil, diberi nomor urut, serta ditambahi Port Asal dan Port Tujuan. Proses enkapsulasi ini mengubah PDU 'Data' menjadi 'Segment' yang terjadi pada lapisan...",
+      "opsi": [
+        "Application Layer",
+        "Presentation Layer",
+        "Session Layer",
+        "Transport Layer",
+        "Network Layer"
+      ],
+      "jawaban": "D"
+    },
+    {
+      "pertanyaan": "Sebuah bank nasional menggunakan jaringan WAN privat untuk menghubungkan seluruh kantor cabangnya di Indonesia, sementara karyawannya juga menggunakan Internet untuk mencari informasi. Pernyataan yang BENAR mengenai perbedaan karakteristik antara WAN privat dengan Internet adalah...",
+      "opsi": [
+        "WAN bersifat publik terbuka, sedangkan Internet bersifat privat dan tertutup.",
+        "Aksesibilitas Internet terbatas hanya untuk karyawan, sedangkan WAN terbuka bebas.",
+        "WAN dimiliki/dikelola oleh organisasi tunggal dengan keamanan tinggi, sedangkan Internet dikelola secara kolektif global.",
+        "Biaya operasional berlangganan Internet jauh lebih mahal dibandingkan menyewa jalur sirkuit privat (leased line) WAN.",
+        "Kecepatan dan bandwidth Internet selalu terjamin stabil dibandingkan WAN privat"
       ],
       "jawaban": "C"
     },
     {
-      "pertanyaan": "Mengapa proposal usaha yang kuat harus disusun secara realistis dan berdasarkan data yang akurat?",
+      "pertanyaan": "Proses bisnis dalam bidang tjkt adalah ...",
       "opsi": [
-        "Agar proposal terlihat lebih tebal dan formal",
-        "Karena investor hanya tertarik pada dokumen yang menggunakan bahasa yang rumit",
-        "Agar dapat dipercaya oleh calon investor atau pihak bank yang akan memberikan modal",
-        "Untuk memenuhi syarat tugas akademis di sekolah",
-        "Untuk menutupi kerugian di tahun-tahun sebelumnya"
+        "serangkaian kegiatan yang dilakukan untuk menghasilkan layanan atau produk di bidang teknologi jaringan dan telekomunikasi",
+        "kegiatan membuat laporan keuangan perusahaan saja",
+        "kegiatan yang hanya berkaitan dengan pemasaran barang",
+        "kegiatan memperbaiki komputer tanpa perencanaan",
+        "kegiatan menghapus data pelanggan"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Tujuan utama proses bisnis di bidang tjkt adalah ...",
+      "opsi": [
+        "menghasilkan layanan jaringan dan telekomunikasi yang sesuai kebutuhan pelanggan",
+        "mengurangi jumlah perangkat jaringan",
+        "menghindari komunikasi dengan pelanggan",
+        "menghilangkan kegiatan perencanaan",
+        "mengurangi kualitas layanan"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Tahap awal yang perlu dilakukan sebelum melakukan instalasi jaringan adalah ...",
+      "opsi": [
+        "identifikasi kebutuhan dan perencanaan",
+        "membuang perangkat lama",
+        "menghapus konfigurasi router",
+        "mematikan seluruh computer",
+        "membuat laporan akhir"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Contoh kegiatan identifikasi kebutuhan dalam proyek jaringan adalah ...",
+      "opsi": [
+        "menentukan jumlah pengguna, perangkat, dan kebutuhan koneksi",
+        "mengganti semua komputer tanpa pemeriksaan",
+        "menentukan warna seragam teknisi",
+        "menghapus data pelanggan",
+        "membuat iklan produk makanan"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Dokumen yang dapat digunakan untuk mengetahui kebutuhan perangkat dan biaya proyek jaringan adalah ...",
+      "opsi": [
+        "RAB (Rencana Anggaran Biaya)",
+        "daftar hadir siswa",
+        "surat izin cuti",
+        "jadwal piket kelas",
+        "kartu perpustakaan"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Dalam proses bisnis instalasi jaringan, kegiatan survei lokasi bertujuan untuk ...",
+      "opsi": [
+        "menentukan nilai proyek pelanggan",
+        "menghapus konfigurasi perangkat",
+        "mengurangi jumlah pengguna",
+        "mengganti nama Perusahaan",
+        "mengetahui kondisi tempat dan menentukan kebutuhan serta penempatan perangkat"
+      ],
+      "jawaban": "E"
+    },
+    {
+      "pertanyaan": "Setelah perencanaan jaringan selesai, tahap berikutnya yang tepat adalah ...",
+      "opsi": [
+        "langsung membuat laporan akhir",
+        "menghapus hasil survei",
+        "persiapan dan pengadaan perangkat sesuai kebutuhan",
+        "menghentikan proyek",
+        "mengabaikan kebutuhan pelanggan"
       ],
       "jawaban": "C"
+    },
+    {
+      "pertanyaan": "Kegiatan memasang kabel UTP, konektor, dan perangkat jaringan termasuk tahap ...",
+      "opsi": [
+        "implementasi atau instalasi jaringan",
+        "identifikasi masalah pelanggan",
+        "pemasaran",
+        "evaluasi kepuasan pelanggan",
+        "perhitungan laba rugi"
+      ],
+      "jawaban": "A"
+    },
+    {
+      "pertanyaan": "Dalam proses bisnis tjkt, pelayanan kepada pelanggan penting karena ...",
+      "opsi": [
+        "pelanggan tidak perlu mengetahui layanan",
+        "membantu memastikan kebutuhan pelanggan terpenuhi dan masalah layanan ditangani",
+        "teknisi tidak perlu memberikan informasi",
+        "semua masalah harus dibiarkan",
+        "layanan tidak perlu dievaluasi"
+      ],
+      "jawaban": "B"
+    },
+    {
+      "pertanyaan": "Kegiatan pemeliharaan jaringan secara berkala disebut ...",
+      "opsi": [
+        "instalasi awal",
+        "maintenance",
+        "promosi",
+        "produksi produk",
+        "service"
+      ],
+      "jawaban": "B"
     }
   ],
-  "essay": [
-    {
-      "pertanyaan": "Jelaskan Apa itu Sistem Komputer dan Berikan Contohnya masing-masing!"
-    },
-    {
-      "pertanyaan": "Gambarkan Tabel dari Front Panel secara Lengkap!"
-    },
-    {
-      "pertanyaan": "Jelaskan apa yang dimaksud dengan proses bisnis dalam konteks TJKT dan berikan satu contoh konkret layanan bisnis di bidang ini!"
-    },
-    {
-      "pertanyaan": "Dalam menjalankan bisnis di bidang TJKT, analisis kebutuhan pelanggan (Customer Requirements) sangatlah penting. Mengapa seorang wirausahawan TJKT harus menganalisis kebutuhan klien sebelum melakukan instalasi jaringan?"
-    },
-    {
-      "pertanyaan": "Sebutkan tiga contoh peluang profesi atau jenis usaha di bidang TJKT yang bisa dikembangkan menjadi bisnis yang menjanjikan di era digital!"
-    }
-  ]
+  "essay": []
 }
