@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ujian Selesai</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Font Inter -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(16px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        .animate-fade-in-up {
+            animation: fadeInUp 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+        }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-800 min-h-screen flex items-center justify-center p-4 font-sans antialiased">
+
+    <!-- Card Pesan Berhasil -->
+    <main class="max-w-md w-full bg-white rounded-3xl shadow-xl shadow-slate-200/70 border border-slate-100 p-8 sm:p-10 text-center animate-fade-in-up">
+        
+        <!-- Icon Centang -->
+        <div class="w-20 h-20 bg-emerald-50 text-emerald-500 rounded-full flex items-center justify-center mx-auto mb-6 ring-8 ring-emerald-50/60">
+            <i class="fa-solid fa-check text-4xl"></i>
+        </div>
+
+        <!-- Judul & Subtitle Sederhana -->
+        <h1 class="text-2xl sm:text-3xl font-bold text-slate-900 tracking-tight">
+            Ujian Berhasil Diselesaikan
+        </h1>
+        
+        <p class="text-slate-500 text-sm sm:text-base mt-3 leading-relaxed">
+            Terima kasih. Jawaban Anda telah tersimpan dengan aman di dalam sistem. Anda dapat menutup halaman ini.
+        </p>
+
+    </main>
+
+</body>
+</html>
