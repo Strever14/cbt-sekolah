@@ -195,6 +195,22 @@
       min-height: 20px;
     }
 
+    .btn-logout {
+      display: inline-block;
+      padding: 10px 20px;
+      text-decoration: none;
+      border-radius: 5px;
+  
+      /* --- BAGIAN WARNA --- */
+      background-color: #E53E3E; /* Warna latar belakang (Biru) */
+      color: #ffffff;            /* Warna teks (Putih) */
+    }
+
+    /* Efek saat kursor diarahkan ke tombol */
+    .btn-logout:hover {
+      background-color: #9B1C1C; /* Warna berubah jadi biru lebih gelap */
+    }
+
     /* Responsive untuk mobile */
     @media (max-width: 480px) {
       .susulan-toggle {
@@ -271,7 +287,7 @@
   </div>
 
   <div class="logoutButton">
-    <a href="https://strever14.github.io/cbt-sekolah/exit.html" class="btn-link">⏻</a>
+    <a href="https://strever14.github.io/cbt-sekolah/exit.html" class="btn-logout">⏻</a>
     <!--<button id="logoutBtn">⏻</button>-->
   </div>
   <footer style="text-align: center; margin-top: 15px; color: white; font-size: 14px;">
