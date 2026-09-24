@@ -314,13 +314,13 @@
         "were",
         "have been",
         "are",
-        "was",
-        "is"
+        "had been",
+        "is being"
       ],
       "jawaban": "A"
     },
     {
-      "pertanyaan": "The exam results by the students.",
+      "pertanyaan": "The exam results ....... by the students.",
       "opsi": [
         "has been gotten",
         "is gotten",
