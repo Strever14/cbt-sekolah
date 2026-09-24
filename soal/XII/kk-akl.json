@@ -209,6 +209,18 @@
       ],
       "jawaban": "E"
     },
+
+    {
+      "pertanyaan": "Perhatikan gambar berikut ini!<br><br><img src='soal/img/XII/kk-akl/Picture4.png' width='500'><br><br>Jika menggunakan MYOB, maka langkah awal untuk mencatat transaksi tersebut yaitu melalui jendela ....",
+      "opsi": [
+        "Banking -> Spend Money",
+        "Purchases -> Pay Bills",
+        "Sales -> Enter Sales",
+        "Account -> Record Journal Entry",
+        "Sales -> Receive Payment"
+      ],
+      "jawaban": "E"
+    },
     {
       "pertanyaan": "Pada tanggal 15 Juli 2021, Toko Samar membayar iklan kepada Harian Suara Merdeka untuk Bulan Juli Rp 420.000,00. Pengaruh transaksi terhadap akun adalah....",
       "opsi": [
@@ -369,8 +381,8 @@
         "Biaya tenaga kerja tidak langsung",
         "Biaya tenaga kerja langsung",
         "Biaya bahan baku",
-        "Biaya overhead pabrik",
-        "Biaya produksi"
+        "Biaya bahan penolong",
+        "Biaya overhead pabrik"
       ],
       "jawaban": "B"
     }
@@ -383,7 +395,7 @@
       "pertanyaan": "Ahmad Zakaria bekerja pada perusahaan PT. Zamrud Abadi, pada bulan Juni Ahmad memperoleh gaji sebesar Rp 9.500.000,00 dan membayar iuran pensiun sebesar Rp 150.000,00. Ahmad Zakaria sudah menikah tetapi belum mempunyai anak. Ahmad termasuk kategori A dengan persentasi 1,75%. Berapakah PPh Pasal 21 terutang Ahmad bulan Juni?"
     },
     {
-      "pertanyaan": "Berdasarkan data di bawah ini buatlah jurnalnya!<br><br><b>A. DAFTAR PELANGGAN DAN SALDO PIUTANG DAGANG per 30 November 2023</b><br><br><img src='soal/img/XII/kk-akl/Picture4.png' width='500'><br><br><img src='soal/img/XII/kk-akl/Picture5.png' width='500'>"
+      "pertanyaan": "Berdasarkan data di bawah ini buatlah jurnalnya!<br><br><b>A. DAFTAR PELANGGAN DAN SALDO PIUTANG DAGANG per 30 November 2023</b><br><br><img src='soal/img/XII/kk-akl/Picture5.png' width='500'><br><br><img src='soal/img/XII/kk-akl/Picture6.png' width='500'>"
     },
     {
       "pertanyaan": "PT. Maju Jaya adalah sebuah perusahaan yang kegiatannya memproduksi sepatu lari. Biaya yang dikeluarkan oleh PT. Maju Jaya untuk memproduksi sepatu lari untuk periode yang berakhir ada 31 Desember 2022 adalah sebagai berikut.<br><br><blockquote>Bahan baku (awal) Rp 25.000.000<br>Bahan baku (akhir) Rp 22.000.000<br>Pembelian bahan baku Rp 200.000.000<br>Bahan tidak langsung Rp 23.000.000<br>Barang dalam proses (awal) Rp 90.000.000<br>Barang dalam proses (akhir) Rp 55.000.000</blockquote>"
