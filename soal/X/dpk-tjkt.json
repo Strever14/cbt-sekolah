@@ -441,5 +441,23 @@
       "jawaban": "B"
     }
   ],
-  "essay": []
+  {
+  "essay": [
+    {
+      "pertanyaan": "Jelaskan langkah-langkah perakitan komputer secara runtut mulai dari persiapan komponen hingga komputer siap diuji (*first boot*)!"
+    },
+    {
+      "pertanyaan": "Mengapa penggunaan *thermal paste* sangat penting pada pemasangan *processor* dan *heatsink/fan*? Jelaskan dampak yang terjadi jika *thermal paste* tidak dioleskan!"
+    },
+    {
+      "pertanyaan": "Sebutkan dan jelaskan 3 tindakan keselamatan kerja (K3LH) yang harus diperhatikan oleh seorang teknisi saat hendak merakit komponen komputer!"
+    },
+    {
+      "pertanyaan": "Pada saat perakitan, jenis-jenis kabel daya (*power supply*) apa saja yang wajib dihubungkan ke *motherboard* dan komponen penyimpanan? Jelaskan fungsi masing-masing kabel tersebut!"
+    },
+    {
+      "pertanyaan": "Setelah selesai dirakit, komputer dinyalakan tetapi tidak menampilkan gambar di layar monitor (*no display*) dan terdengar bunyi *beep* berulang. Analisis penyebab masalah tersebut dan jelaskan langkah perbaikan (*troubleshooting*) yang harus dilakukan!"
+    }
+  ]
+}
 }
