@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Penilaian KK3 - Media Transmisi Jaringan</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #eef2f5;
+      margin: 0;
+      padding: 20px;
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      background: #ffffff;
+      padding: 30px;
+      margin: 0 auto;
+      border-radius: 10px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    }
+    .header {
+      text-align: center;
+      border-bottom: 2px solid #007bff;
+      padding-bottom: 15px;
+      margin-bottom: 25px;
+    }
+    .header h1 {
+      margin: 0;
+      color: #007bff;
+      font-size: 22px;
+    }
+    .header p {
+      margin: 5px 0 0 0;
+      color: #666;
+    }
+    .form-group {
+      margin-bottom: 20px;
+    }
+    label {
+      font-weight: 600;
+      display: block;
+      margin-bottom: 8px;
+    }
+    input[type="text"].identitas {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      font-size: 14px;
+    }
+    .card {
+      background: #f8f9fa;
+      border-left: 4px solid #007bff;
+      padding: 15px;
+      margin-bottom: 20px;
+      border-radius: 4px;
+    }
+    .card-essay {
+      border-left-color: #28a745;
+    }
+    .soal-title {
+      font-weight: bold;
+      margin-bottom: 10px;
+      line-height: 1.5;
+    }
+    .option {
+      margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+    }
+    .option input {
+      margin-right: 10px;
+      cursor: pointer;
+    }
+    .option label {
+      font-weight: normal;
+      margin-bottom: 0;
+      cursor: pointer;
+    }
+    textarea {
+      width: 100%;
+      height: 100px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      resize: vertical;
+      font-family: inherit;
+    }
+    button {
+      width: 100%;
+      background-color: #007bff;
+      color: white;
+      padding: 14px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+      font-weight: bold;
+      transition: background-color 0.3s;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
+    button:disabled {
+      background-color: #cccccc;
+      cursor: not-allowed;
+    }
+    #status {
+      margin-top: 20px;
+      text-align: center;
+      font-size: 16px;
+      font-weight: bold;
+    }
+    .section-header {
+      background: #007bff;
+      color: white;
+      padding: 10px 15px;
+      border-radius: 5px;
+      margin-top: 30px;
+      margin-bottom: 20px;
+      font-weight: bold;
+    }
+    .section-header-green {
+      background: #28a745;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <div class="header">
+    <h1>PENILAIAN KOMPETENSI KEAHLIAN 3 (KK3) - TJKT / TKJ</h1>
+    <p>Materi: Media Transmisi Jaringan (Kabel UTP, Fiber Optik, Perhitungan Atenuasi, serta Alat-Alat Fiber Optik &amp; Fungsinya)</p>
+  </div>
+  
+  <form id="quizForm">
+    <!-- DATA SISWA -->
+    <div class="card">
+      <div class="form-group">
+        <label for="nama">Nama Lengkap Siswa:</label>
+        <input type="text" id="nama" name="nama" class="identitas" required placeholder="Contoh: Budi Santoso">
+      </div>
+      <div class="form-group" style="margin-bottom: 0;">
+        <label for="kelas">Kelas / Program Keahlian:</label>
+        <input type="text" id="kelas" name="kelas" class="identitas" required placeholder="Contoh: XI TKJ 1 / XI TJKT 2">
+      </div>
+    </div>
+
+    <!-- BAGIAN A: PILIHAN GANDA -->
+    <div class="section-header">
+      BAGIAN A: PILIHAN GANDA (35 Soal)
+    </div>
+
+    <!-- SOAL 1 - 10: KABEL UTP -->
+    <div class="card"><div class="soal-title">1. Kepanjangan dari UTP sebagai salah satu media transmisi kabel tembaga pada jaringan komputer adalah...</div>
+      <div class="option"><input type="radio" id="q1a" name="q1" value="A" required><label for="q1a">A. Universal Twisted Pair</label></div>
+      <div class="option"><input type="radio" id="q1b" name="q1" value="B"><label for="q1b">B. Unshielded Twisted Pair</label></div>
+      <div class="option"><input type="radio" id="q1c" name="q1" value="C"><label for="q1c">C. Unshielded Transmission Protocol</label></div>
+      <div class="option"><input type="radio" id="q1d" name="q1" value="D"><label for="q1d">D. United Twisted Pair</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">2. Tujuan utama pasangan kabel di dalam UTP dibuat saling berpilin (twisted) adalah untuk...</div>
+      <div class="option"><input type="radio" id="q2a" name="q2" value="A" required><label for="q2a">A. Memperkuat daya tahan fisik kabel agar tidak mudah putus</label></div>
+      <div class="option"><input type="radio" id="q2b" name="q2" value="B"><label for="q2b">B. Mengurangi interferensi elektromagnetik (EMI) dan crosstalk antar pasangan kabel</label></div>
+      <div class="option"><input type="radio" id="q2c" name="q2" value="C"><label for="q2c">C. Mempermudah proses pengupasan jaket luar kabel</label></div>
+      <div class="option"><input type="radio" id="q2d" name="q2" value="D"><label for="q2d">D. Menambah jarak maksimal pengiriman sinyal hingga 1 kilometer</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">3. Jarak maksimal efektif pengiriman data menggunakan kabel UTP tanpa bantuan perangkat penguat (repeater/switch) adalah...</div>
+      <div class="option"><input type="radio" id="q3a" name="q3" value="A" required><label for="q3a">A. 50 meter</label></div>
+      <div class="option"><input type="radio" id="q3b" name="q3" value="B"><label for="q3b">B. 100 meter</label></div>
+      <div class="option"><input type="radio" id="q3c" name="q3" value="C"><label for="q3c">C. 250 meter</label></div>
+      <div class="option"><input type="radio" id="q3d" name="q3" value="D"><label for="q3d">D. 500 meter</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">4. Kategori kabel UTP yang umum digunakan untuk mendukung jaringan Gigabit Ethernet (kecepatan hingga 1 Gbps pada frekuensi 250 MHz) adalah...</div>
+      <div class="option"><input type="radio" id="q4a" name="q4" value="A" required><label for="q4a">A. Cat 3</label></div>
+      <div class="option"><input type="radio" id="q4b" name="q4" value="B"><label for="q4b">B. Cat 5</label></div>
+      <div class="option"><input type="radio" id="q4c" name="q4" value="C"><label for="q4c">C. Cat 6</label></div>
+      <div class="option"><input type="radio" id="q4d" name="q4" value="D"><label for="q4d">D. Cat 1</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">5. Susunan urutan warna kabel standar TIA/EIA-568B dari pin 1 hingga pin 8 yang benar adalah...</div>
+      <div class="option"><input type="radio" id="q5a" name="q5" value="A" required><label for="q5a">A. Putih Hijau - Hijau - Putih Oranye - Biru - Putih Biru - Oranye - Putih Cokelat - Cokelat</label></div>
+      <div class="option"><input type="radio" id="q5b" name="q5" value="B"><label for="q5b">B. Putih Oranye - Oranye - Putih Hijau - Biru - Putih Biru - Hijau - Putih Cokelat - Cokelat</label></div>
+      <div class="option"><input type="radio" id="q5c" name="q5" value="C"><label for="q5c">C. Putih Oranye - Oranye - Putih Hijau - Hijau - Putih Biru - Biru - Putih Cokelat - Cokelat</label></div>
+      <div class="option"><input type="radio" id="q5d" name="q5" value="D"><label for="q5d">D. Putih Biru - Biru - Putih Oranye - Oranye - Putih Hijau - Hijau - Putih Cokelat - Cokelat</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">6. Jenis susunan kabel UTP yang digunakan untuk menghubungkan dua perangkat yang berbeda jenis, seperti PC ke Switch atau Switch ke Router, adalah...</div>
+      <div class="option"><input type="radio" id="q6a" name="q6" value="A" required><label for="q6a">A. Crossover</label></div>
+      <div class="option"><input type="radio" id="q6b" name="q6" value="B"><label for="q6b">B. Rollover</label></div>
+      <div class="option"><input type="radio" id="q6c" name="q6" value="C"><label for="q6c">C. Straight-Through</label></div>
+      <div class="option"><input type="radio" id="q6d" name="q6" value="D"><label for="q6d">D. Coaxial</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">7. Pada pembuatan kabel UTP tipe Crossover, pin nomor berapa saja yang mengalami pertukaran posisi (silang) antara ujung pertama dan ujung kedua?</div>
+      <div class="option"><input type="radio" id="q7a" name="q7" value="A" required><label for="q7a">A. Pin 1 dengan 3, dan Pin 2 dengan 6</label></div>
+      <div class="option"><input type="radio" id="q7b" name="q7" value="B"><label for="q7b">B. Pin 1 dengan 4, dan Pin 2 dengan 5</label></div>
+      <div class="option"><input type="radio" id="q7c" name="q7" value="C"><label for="q7c">C. Pin 3 dengan 7, dan Pin 6 dengan 8</label></div>
+      <div class="option"><input type="radio" id="q7d" name="q7" value="D"><label for="q7d">D. Pin 4 dengan 7, dan Pin 5 dengan 8</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">8. Konektor standar yang dipasang pada ujung kabel UTP untuk dihubungkan ke port NIC komputer atau port Switch adalah...</div>
+      <div class="option"><input type="radio" id="q8a" name="q8" value="A" required><label for="q8a">A. RJ-11</label></div>
+      <div class="option"><input type="radio" id="q8b" name="q8" value="B"><label for="q8b">B. BNC</label></div>
+      <div class="option"><input type="radio" id="q8c" name="q8" value="C"><label for="q8c">C. RJ-45</label></div>
+      <div class="option"><input type="radio" id="q8d" name="q8" value="D"><label for="q8d">D. SC/APC</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">9. Alat yang digunakan untuk mengupas kulit kabel UTP sekaligus menjepit konektor RJ-45 agar pin tembaga menancap sempurna pada inti kabel adalah...</div>
+      <div class="option"><input type="radio" id="q9a" name="q9" value="A" required><label for="q9a">A. LAN Tester</label></div>
+      <div class="option"><input type="radio" id="q9b" name="q9" value="B"><label for="q9b">B. Crimping Tool</label></div>
+      <div class="option"><input type="radio" id="q9c" name="q9" value="C"><label for="q9c">C. Punch Down Tool</label></div>
+      <div class="option"><input type="radio" id="q9d" name="q9" value="D"><label for="q9d">D. Fusion Splicer</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">10. Saat melakukan pengujian kabel Straight-Through menggunakan LAN Tester, lampu indikator pada unit utama menyala berurutan 1-8, namun pada remote unit lampu nomor 3 tidak menyala. Hal ini menandakan...</div>
+      <div class="option"><input type="radio" id="q10a" name="q10" value="A" required><label for="q10a">A. Kabel dibuat dengan susunan Crossover</label></div>
+      <div class="option"><input type="radio" id="q10b" name="q10" value="B"><label for="q10b">B. Urutan warna kabel Putih Hijau dan Hijau tertukar</label></div>
+      <div class="option"><input type="radio" id="q10c" name="q10" value="C"><label for="q10c">C. Kabel warna Putih Hijau (pin 3) putus atau kurang menancap pada konektor</label></div>
+      <div class="option"><input type="radio" id="q10d" name="q10" value="D"><label for="q10d">D. Baterai pada LAN Tester sudah habis</label></div>
+    </div>
+
+    <!-- SOAL 11 - 20: FIBER OPTIK -->
+    <div class="card"><div class="soal-title">11. Media transmisi jaringan yang menggunakan serat kaca atau plastik sangat halus untuk mengirimkan data dalam bentuk pulsa cahaya adalah...</div>
+      <div class="option"><input type="radio" id="q11a" name="q11" value="A" required><label for="q11a">A. Kabel Coaxial</label></div>
+      <div class="option"><input type="radio" id="q11b" name="q11" value="B"><label for="q11b">B. Kabel STP</label></div>
+      <div class="option"><input type="radio" id="q11c" name="q11" value="C"><label for="q11c">C. Kabel Fiber Optik</label></div>
+      <div class="option"><input type="radio" id="q11d" name="q11" value="D"><label for="q11d">D. Kabel UTP Cat 7</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">12. Bagian paling dalam dari struktur kabel fiber optik yang berfungsi sebagai tempat merambatnya gelombang cahaya disebut...</div>
+      <div class="option"><input type="radio" id="q12a" name="q12" value="A" required><label for="q12a">A. Cladding</label></div>
+      <div class="option"><input type="radio" id="q12b" name="q12" value="B"><label for="q12b">B. Core (Inti)</label></div>
+      <div class="option"><input type="radio" id="q12c" name="q12" value="C"><label for="q12c">C. Buffer Coating</label></div>
+      <div class="option"><input type="radio" id="q12d" name="q12" value="D"><label for="q12d">D. Outer Jacket</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">13. Fungsi lapisan Cladding yang menyelubungi Core pada kabel fiber optik adalah...</div>
+      <div class="option"><input type="radio" id="q13a" name="q13" value="A" required><label for="q13a">A. Melindungi serat optik dari gigitan hewan pengerat</label></div>
+      <div class="option"><input type="radio" id="q13b" name="q13" value="B"><label for="q13b">B. Memantulkan kembali cahaya ke dalam Core melalui prinsip pemantulan internal total</label></div>
+      <div class="option"><input type="radio" id="q13c" name="q13" value="C"><label for="q13c">C. Menahan beban tarikan saat kabel ditarik di tiang listrik</label></div>
+      <div class="option"><input type="radio" id="q13d" name="q13" value="D"><label for="q13d">D. Menyerap panas dari sinyal laser yang dipancarkan</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">14. Jenis kabel fiber optik yang memiliki diameter inti (core) sangat kecil sekitar 9 µm, hanya mentransmisikan satu berkas sinar laser, dan digunakan untuk jarak sangat jauh (puluhan kilometer) adalah...</div>
+      <div class="option"><input type="radio" id="q14a" name="q14" value="A" required><label for="q14a">A. Multi-Mode Step Index</label></div>
+      <div class="option"><input type="radio" id="q14b" name="q14" value="B"><label for="q14b">B. Multi-Mode Graded Index</label></div>
+      <div class="option"><input type="radio" id="q14c" name="q14" value="C"><label for="q14c">C. Single-Mode Fiber (SMF)</label></div>
+      <div class="option"><input type="radio" id="q14d" name="q14" value="D"><label for="q14d">D. Plastic Optical Fiber (POF)</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">15. Salah satu keunggulan utama kabel Fiber Optik dibandingkan kabel UTP adalah...</div>
+      <div class="option"><input type="radio" id="q15a" name="q15" value="A" required><label for="q15a">A. Biaya instalasi dan perangkat terminasinya jauh lebih murah</label></div>
+      <div class="option"><input type="radio" id="q15b" name="q15" value="B"><label for="q15b">B. Kebal terhadap interferensi gelombang elektromagnetik (EMI) dan petir karena tidak menghantarkan listrik</label></div>
+      <div class="option"><input type="radio" id="q15c" name="q15" value="C"><label for="q15c">C. Kabel dapat ditekuk hingga sudut 90 derajat tanpa merusak sinyal</label></div>
+      <div class="option"><input type="radio" id="q15d" name="q15" value="D"><label for="q15d">D. Penyambungan kabel dapat dilakukan cukup dengan melilitkan ujung serat</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">16. Konektor fiber optik berbentuk persegi (snap-in) berwarna biru yang umum digunakan pada perangkat FTTH (Fiber To The Home) seperti ONT/Modem dengan permukaan polesan datar/cembung adalah...</div>
+      <div class="option"><input type="radio" id="q16a" name="q16" value="A" required><label for="q16a">A. SC-APC (Hijau)</label></div>
+      <div class="option"><input type="radio" id="q16b" name="q16" value="B"><label for="q16b">B. SC-UPC (Biru)</label></div>
+      <div class="option"><input type="radio" id="q16c" name="q16" value="C"><label for="q16c">C. ST (Bayonet)</label></div>
+      <div class="option"><input type="radio" id="q16d" name="q16" value="D"><label for="q16d">D. FC (Ulir/Screw)</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">17. Konektor fiber optik berwarna hijau yang memiliki ujung ferrule miring bersudut 8 derajat untuk meminimalkan pantulan balik cahaya (return loss) adalah jenis...</div>
+      <div class="option"><input type="radio" id="q17a" name="q17" value="A" required><label for="q17a">A. UPC (Ultra Physical Contact)</label></div>
+      <div class="option"><input type="radio" id="q17b" name="q17" value="B"><label for="q17b">B. PC (Physical Contact)</label></div>
+      <div class="option"><input type="radio" id="q17c" name="q17" value="C"><label for="q17c">C. APC (Angled Physical Contact)</label></div>
+      <div class="option"><input type="radio" id="q17d" name="q17" value="D"><label for="q17d">D. LC (Lucent Connector)</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">18. Kode warna jaket luar kabel patch cord fiber optik jenis Single-Mode menurut standar TIA-598C umumnya berwarna...</div>
+      <div class="option"><input type="radio" id="q18a" name="q18" value="A" required><label for="q18a">A. Oranye</label></div>
+      <div class="option"><input type="radio" id="q18b" name="q18" value="B"><label for="q18b">B. Kuning</label></div>
+      <div class="option"><input type="radio" id="q18c" name="q18" value="C"><label for="q18c">C. Aqua (Biru Muda)</label></div>
+      <div class="option"><input type="radio" id="q18d" name="q18" value="D"><label for="q18d">D. Abu-abu</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">19. Panjang gelombang (wavelength) standar yang paling sering digunakan dalam transmisi jaringan fiber optik Single-Mode pada sistem FTTH/GPON adalah...</div>
+      <div class="option"><input type="radio" id="q19a" name="q19" value="A" required><label for="q19a">A. 850 nm dan 1300 nm</label></div>
+      <div class="option"><input type="radio" id="q19b" name="q19" value="B"><label for="q19b">B. 1310 nm (upstream) dan 1490 nm (downstream)</label></div>
+      <div class="option"><input type="radio" id="q19c" name="q19" value="C"><label for="q19c">C. 400 nm dan 700 nm</label></div>
+      <div class="option"><input type="radio" id="q19d" name="q19" value="D"><label for="q19d">D. 2400 MHz dan 5000 MHz</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">20. Pembengkokan kabel fiber optik yang melebihi batas kelengkungan minimum (bending radius) sehingga menyebabkan cahaya keluar dari core disebut...</div>
+      <div class="option"><input type="radio" id="q20a" name="q20" value="A" required><label for="q20a">A. Crosstalk</label></div>
+      <div class="option"><input type="radio" id="q20b" name="q20" value="B"><label for="q20b">B. Macrobending</label></div>
+      <div class="option"><input type="radio" id="q20c" name="q20" value="C"><label for="q20c">C. Dispersi Kromatik</label></div>
+      <div class="option"><input type="radio" id="q20d" name="q20" value="D"><label for="q20d">D. Splicing Loss</label></div>
+    </div>
+
+    <!-- SOAL 21 - 27: PERHITUNGAN ATENUASI FIBER OPTIK -->
+    <div class="card"><div class="soal-title">21. Pengertian dari atenuasi (redaman) pada sistem transmisi fiber optik adalah...</div>
+      <div class="option"><input type="radio" id="q21a" name="q21" value="A" required><label for="q21a">A. Penguatan daya sinyal cahaya saat melewati perangkat splitter</label></div>
+      <div class="option"><input type="radio" id="q21b" name="q21" value="B"><label for="q21b">B. Pelemahan atau berkurangnya daya sinyal cahaya selama merambat melalui media fiber optik dan komponennya</label></div>
+      <div class="option"><input type="radio" id="q21c" name="q21" value="C"><label for="q21c">C. Kecepatan maksimal transfer data dalam satuan Gbps</label></div>
+      <div class="option"><input type="radio" id="q21d" name="q21" value="D"><label for="q21d">D. Perubahan panjang gelombang cahaya dari inframerah ke ultraviolet</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">22. Satuan standar yang digunakan untuk menyatakan besarnya redaman (atenuasi) pada jaringan fiber optik adalah...</div>
+      <div class="option"><input type="radio" id="q22a" name="q22" value="A" required><label for="q22a">A. dBm (decibel-milliwatts)</label></div>
+      <div class="option"><input type="radio" id="q22b" name="q22" value="B"><label for="q22b">B. dB (decibel)</label></div>
+      <div class="option"><input type="radio" id="q22c" name="q22" value="C"><label for="q22c">C. Ohm (Ω)</label></div>
+      <div class="option"><input type="radio" id="q22d" name="q22" value="D"><label for="q22d">D. Nanometer (nm)</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">23. Diketahui daya pancar awal (Tx) dari perangkat OLT adalah +3 dBm. Jika total redaman sepanjang jalur kabel hingga ke pelanggan adalah 21 dB, berapakah daya terima (Rx) pada perangkat ONT pelanggan?</div>
+      <div class="option"><input type="radio" id="q23a" name="q23" value="A" required><label for="q23a">A. -24 dBm</label></div>
+      <div class="option"><input type="radio" id="q23b" name="q23" value="B"><label for="q23b">B. -18 dBm</label></div>
+      <div class="option"><input type="radio" id="q23c" name="q23" value="C"><label for="q23c">C. +24 dBm</label></div>
+      <div class="option"><input type="radio" id="q23d" name="q23" value="D"><label for="q23d">D. -7 dBm</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">24. Sebuah jalur kabel fiber optik sepanjang 10 km memiliki koefisien redaman kabel sebesar 0,35 dB/km. Pada jalur tersebut terdapat 2 buah sambungan (splice) dengan redaman masing-masing 0,1 dB dan 2 buah konektor dengan redaman masing-masing 0,5 dB. Berapakah total atenuasi jalur tersebut?</div>
+      <div class="option"><input type="radio" id="q24a" name="q24" value="A" required><label for="q24a">A. 4,1 dB</label></div>
+      <div class="option"><input type="radio" id="q24b" name="q24" value="B"><label for="q24b">B. 4,7 dB</label></div>
+      <div class="option"><input type="radio" id="q24c" name="q24" value="C"><label for="q24c">C. 3,5 dB</label></div>
+      <div class="option"><input type="radio" id="q24d" name="q24" value="D"><label for="q24d">D. 5,2 dB</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">25. Dalam jaringan distribusi FTTH, digunakan komponen Passive Splitter 1:8. Jika redaman tipikal splitter 1:8 adalah sekitar 10,5 dB, dan daya sinyal yang masuk ke splitter sebesar -6 dBm, maka daya sinyal yang keluar dari salah satu port splitter tersebut adalah...</div>
+      <div class="option"><input type="radio" id="q25a" name="q25" value="A" required><label for="q25a">A. -4,5 dBm</label></div>
+      <div class="option"><input type="radio" id="q25b" name="q25" value="B"><label for="q25b">B. +4,5 dBm</label></div>
+      <div class="option"><input type="radio" id="q25c" name="q25" value="C"><label for="q25c">C. -16,5 dBm</label></div>
+      <div class="option"><input type="radio" id="q25d" name="q25" value="D"><label for="q25d">D. -18,5 dBm</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">26. Hasil pengukuran menggunakan Optical Power Meter (OPM) di sisi penerima (Rx) menunjukkan nilai -22 dBm, sedangkan daya pemancar (Tx) dari sumber cahaya (OLS) adalah +2 dBm. Berapakah nilai total redaman (loss) pada link tersebut?</div>
+      <div class="option"><input type="radio" id="q26a" name="q26" value="A" required><label for="q26a">A. 20 dB</label></div>
+      <div class="option"><input type="radio" id="q26b" name="q26" value="B"><label for="q26b">B. 24 dB</label></div>
+      <div class="option"><input type="radio" id="q26c" name="q26" value="C"><label for="q26c">C. -20 dB</label></div>
+      <div class="option"><input type="radio" id="q26d" name="q26" value="D"><label for="q26d">D. 11 dB</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">27. Sebuah sistem jaringan GPON memiliki daya pancar Tx = +4 dBm dan sensitivitas penerima minimum (Rx sensitivity) pada ONT sebesar -27 dBm. Jika margin keamanan (safety margin) yang ditetapkan adalah 3 dB, berapakah maksimal total redaman (link loss budget) yang diizinkan?</div>
+      <div class="option"><input type="radio" id="q27a" name="q27" value="A" required><label for="q27a">A. 31 dB</label></div>
+      <div class="option"><input type="radio" id="q27b" name="q27" value="B"><label for="q27b">B. 28 dB</label></div>
+      <div class="option"><input type="radio" id="q27c" name="q27" value="C"><label for="q27c">C. 23 dB</label></div>
+      <div class="option"><input type="radio" id="q27d" name="q27" value="D"><label for="q27d">D. 34 dB</label></div>
+    </div>
+
+    <!-- SOAL 28 - 35: ALAT-ALAT FIBER OPTIK DAN FUNGSINYA -->
+    <div class="card"><div class="soal-title">28. Alat yang berfungsi untuk menyambungkan dua ujung serat optik secara permanen dengan cara meleburkannya menggunakan busur listrik bersuhu tinggi adalah...</div>
+      <div class="option"><input type="radio" id="q28a" name="q28" value="A" required><label for="q28a">A. Optical Cleaver</label></div>
+      <div class="option"><input type="radio" id="q28b" name="q28" value="B"><label for="q28b">B. Fusion Splicer</label></div>
+      <div class="option"><input type="radio" id="q28c" name="q28" value="C"><label for="q28c">C. Optical Power Meter (OPM)</label></div>
+      <div class="option"><input type="radio" id="q28d" name="q28" value="D"><label for="q28d">D. Visual Fault Locator (VFL)</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">29. Fungsi utama dari alat Fiber Optic Stripper (Miller) dalam proses preparasi penyambungan kabel adalah...</div>
+      <div class="option"><input type="radio" id="q29a" name="q29" value="A" required><label for="q29a">A. Memotong kaca inti (core) serat optik dengan sudut presisi 90 derajat</label></div>
+      <div class="option"><input type="radio" id="q29b" name="q29" value="B"><label for="q29b">B. Mengupas lapisan pelindung (jacket, buffer, dan coating) tanpa menggores kaca cladding/core</label></div>
+      <div class="option"><input type="radio" id="q29c" name="q29" value="C"><label for="q29c">C. Mengukur jarak titik putus pada kabel fiber optik bawah tanah</label></div>
+      <div class="option"><input type="radio" id="q29d" name="q29" value="D"><label for="q29d">D. Memanaskan selongsong pelindung sambungan (protection sleeve)</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">30. Alat pemotong serat kaca fiber optik yang menghasilkan potongan permukaan ujung serat sangat rata dan tegak lurus (90°) sebelum dimasukkan ke Fusion Splicer adalah...</div>
+      <div class="option"><input type="radio" id="q30a" name="q30" value="A" required><label for="q30a">A. Drop Cable Stripper</label></div>
+      <div class="option"><input type="radio" id="q30b" name="q30" value="B"><label for="q30b">B. Optical Fiber Cleaver</label></div>
+      <div class="option"><input type="radio" id="q30c" name="q30" value="C"><label for="q30c">C. Crimping Tool</label></div>
+      <div class="option"><input type="radio" id="q30d" name="q30" value="D"><label for="q30d">D. Tang Potong Diagonal</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">31. Alat ukur yang digunakan teknisi di lapangan untuk mengetahui besarnya daya sinyal cahaya yang diterima pada ujung kabel fiber optik dalam satuan dBm atau mW adalah...</div>
+      <div class="option"><input type="radio" id="q31a" name="q31" value="A" required><label for="q31a">A. Optical Time Domain Reflectometer (OTDR)</label></div>
+      <div class="option"><input type="radio" id="q31b" name="q31" value="B"><label for="q31b">B. Optical Power Meter (OPM)</label></div>
+      <div class="option"><input type="radio" id="q31c" name="q31" value="C"><label for="q31c">C. Optical Light Source (OLS)</label></div>
+      <div class="option"><input type="radio" id="q31d" name="q31" value="D"><label for="q31d">D. Fusion Splicer</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">32. Alat berbentuk seperti senter pena yang memancarkan sinar laser merah kasat mata (650 nm) untuk mendeteksi patahan serat, tekukan tajam (macrobend), atau mengecek kontinuitas jalur jarak pendek adalah...</div>
+      <div class="option"><input type="radio" id="q32a" name="q32" value="A" required><label for="q32a">A. Visual Fault Locator (VFL)</label></div>
+      <div class="option"><input type="radio" id="q32b" name="q32" value="B"><label for="q32b">B. Optical Fiber Identifier (OFI)</label></div>
+      <div class="option"><input type="radio" id="q32c" name="q32" value="C"><label for="q32c">C. Optical Light Source (OLS)</label></div>
+      <div class="option"><input type="radio" id="q32d" name="q32" value="D"><label for="q32d">D. OTDR</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">33. Perangkat canggih yang digunakan untuk menganalisis karakteristik jalur fiber optik jarak jauh, menampilkan grafik redaman terhadap jarak, serta menentukan lokasi titik sambungan atau putusnya kabel secara akurat adalah...</div>
+      <div class="option"><input type="radio" id="q33a" name="q33" value="A" required><label for="q33a">A. Optical Power Meter (OPM)</label></div>
+      <div class="option"><input type="radio" id="q33b" name="q33" value="B"><label for="q33b">B. Optical Time Domain Reflectometer (OTDR)</label></div>
+      <div class="option"><input type="radio" id="q33c" name="q33" value="C"><label for="q33c">C. Visual Fault Locator (VFL)</label></div>
+      <div class="option"><input type="radio" id="q33d" name="q33" value="D"><label for="q33d">D. Fast Connector</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">34. Alat yang digunakan untuk mendeteksi ada atau tidaknya sinyal trafik cahaya yang sedang aktif di dalam kabel fiber optik serta arah alirannya tanpa harus memutus atau mencabut konektor kabel adalah...</div>
+      <div class="option"><input type="radio" id="q34a" name="q34" value="A" required><label for="q34a">A. Optical Fiber Identifier (OFI)</label></div>
+      <div class="option"><input type="radio" id="q34b" name="q34" value="B"><label for="q34b">B. Optical Cleaver</label></div>
+      <div class="option"><input type="radio" id="q34c" name="q34" value="C"><label for="q34c">C. Optical Light Source (OLS)</label></div>
+      <div class="option"><input type="radio" id="q34d" name="q34" value="D"><label for="q34d">D. Tube Cutter</label></div>
+    </div>
+
+    <div class="card"><div class="soal-title">35. Cairan pembersih yang wajib digunakan bersama tisu bebas serat (lint-free wipes) untuk membersihkan inti serat kaca sebelum dilakukan proses cleaving dan splicing adalah...</div>
+      <div class="option"><input type="radio" id="q35a" name="q35" value="A" required><label for="q35a">A. Air suling (Akuades)</label></div>
+      <div class="option"><input type="radio" id="q35b" name="q35" value="B"><label for="q35b">B. Alkohol Isopropil (IPA) berkadar kemurnian tinggi (&ge;99%)</label></div>
+      <div class="option"><input type="radio" id="q35c" name="q35" value="C"><label for="q35c">C. Cairan pembersih kaca rumah tangga</label></div>
+      <div class="option"><input type="radio" id="q35d" name="q35" value="D"><label for="q35d">D. Thinner cat</label></div>
+    </div>
+
+    <!-- BAGIAN B: ESAI -->
+    <div class="section-header section-header-green">
+      BAGIAN B: SOAL ESAI (5 Soal)
+    </div>
+
+    <div class="card card-essay">
+      <div class="soal-title">1. Jelaskan perbedaan fungsi dan susunan warna antara kabel UTP tipe Straight-Through dan Crossover! Berikan masing-masing 2 contoh perangkat yang dihubungkan menggunakan kedua jenis kabel tersebut!</div>
+      <textarea id="essay1" name="essay1" required placeholder="Ketikkan jawaban Anda di sini..."></textarea>
+    </div>
+
+    <div class="card card-essay">
+      <div class="soal-title">2. Bandingkan karakteristik kabel Fiber Optik Single-Mode dan Multi-Mode ditinjau dari diameter inti (core), sumber cahaya yang digunakan, jarak jangkauan maksimal, serta penerapannya dalam infrastruktur jaringan!</div>
+      <textarea id="essay2" name="essay2" required placeholder="Ketikkan jawaban Anda di sini..."></textarea>
+    </div>
+
+    <div class="card card-essay">
+      <div class="soal-title">3. Sebuah jaringan FTTH menggunakan OLT dengan daya pancar (Tx) sebesar +3 dBm. Jalur distribusi menuju rumah pelanggan melewati: kabel fiber optik sepanjang 4 km (redaman 0,35 dB/km), 4 titik sambungan fusion splice (redaman 0,1 dB/splice), 3 konektor SC (redaman 0,5 dB/konektor), dan 1 buah Passive Splitter 1:16 (redaman 13,5 dB). Hitunglah: a) Total redaman jalur tersebut, dan b) Daya terima (Rx) di sisi ONT pelanggan!</div>
+      <textarea id="essay3" name="essay3" required placeholder="Tuliskan langkah perhitungan dan hasil akhirnya di sini..."></textarea>
+    </div>
+
+    <div class="card card-essay">
+      <div class="soal-title">4. Jelaskan perbedaan fungsi dan cara kerja antara Optical Power Meter (OPM), Visual Fault Locator (VFL), dan Optical Time Domain Reflectometer (OTDR) dalam kegiatan pemeliharaan jaringan fiber optik!</div>
+      <textarea id="essay4" name="essay4" required placeholder="Ketikkan jawaban Anda di sini..."></textarea>
+    </div>
+
+    <div class="card card-essay">
+      <div class="soal-title">5. Tuliskan secara berurutan langkah-langkah prosedur penyambungan kabel fiber optik menggunakan Fusion Splicer beserta nama alat/bahan yang digunakan pada setiap tahapannya!</div>
+      <textarea id="essay5" name="essay5" required placeholder="Ketikkan jawaban Anda di sini..."></textarea>
+    </div>
+
+    <button type="submit" id="btnSubmit">Kirim Semua Jawaban</button>
+  </form>
+
+  <div id="status"></div>
+</div>
+
+<script>
+  // =========================================================================
+  // TEMPELKAN URL GOOGLE APPS SCRIPT ANDA DI VARIABEL DI BAWAH INI:
+  // =========================================================================
+  const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbx_1saZRoqhXDGVqt6aidIYvwSe2E5RJuY8xPP7zARjVW-8diRBDtd-XF_9mM9kP_oi4g/exec"; 
+
+  // Kunci Jawaban Pilihan Ganda (Soal 1-35)
+  const kunciJawaban = {
+    q1: "B", q2: "B", q3: "B", q4: "C", q5: "B",
+    q6: "C", q7: "A", q8: "C", q9: "B", q10: "C",
+    q11: "C", q12: "B", q13: "B", q14: "C", q15: "B",
+    q16: "B", q17: "C", q18: "B", q19: "B", q20: "B",
+    q21: "B", q22: "B", q23: "B", q24: "B", q25: "C",
+    q26: "B", q27: "B", q28: "B", q29: "B", q30: "B",
+    q31: "B", q32: "A", q33: "B", q34: "A", q35: "B"
+  };
+
+  document.getElementById('quizForm').addEventListener('submit', function(e) {
+    e.preventDefault();
+
+    const btn = document.getElementById('btnSubmit');
+    const statusDiv = document.getElementById('status');
+    
+    if (SCRIPT_URL === "URL_WEB_APP_ANDA" || SCRIPT_URL === "") {
+      alert("Error: Silakan masukkan URL Web App Google Script Anda pada variabel SCRIPT_URL di dalam kode!");
+      return;
+    }
+
+    btn.disabled = true;
+    statusDiv.innerText = "Sedang mengirimkan jawaban ke server... Mohon tunggu.";
+    statusDiv.style.color = "#007bff";
+
+    // Hitung Skor Pilihan Ganda Otomatis
+    let skorPG = 0;
+    let totalSoalPG = 35;
+
+    for (let i = 1; i <= totalSoalPG; i++) {
+      const selected = document.querySelector(`input[name="q${i}"]:checked`);
+      if (selected && selected.value === kunciJawaban[`q${i}`]) {
+        skorPG += 1;
+      }
+    }
+
+    // Hitung nilai PG skala 100
+    let nilaiPG = Math.round((skorPG / totalSoalPG) * 100);
+
+    // Ambil Data Identitas
+    const nama = document.getElementById('nama').value;
+    const kelas = document.getElementById('kelas').value;
+
+    // Ambil Data Esai
+    const e1 = document.getElementById('essay1').value;
+    const e2 = document.getElementById('essay2').value;
+    const e3 = document.getElementById('essay3').value;
+    const e4 = document.getElementById('essay4').value;
+    const e5 = document.getElementById('essay5').value;
+
+    // Kumpulkan Ringkasan Jawaban Pilihan Ganda
+    let listJawabanPG = [];
+    for (let i = 1; i <= totalSoalPG; i++) {
+      const selected = document.querySelector(`input[name="q${i}"]:checked`);
+      listJawabanPG.push(`No ${i}: ${selected ? selected.value : '-'}`);
+    }
+
+    // Payload JSON untuk Google Sheet
+    const payload = {
+      nama: nama,
+      kelas: kelas,
+      skorPG: skorPG,
+      nilaiPG: nilaiPG,
+      jawabanPG: listJawabanPG.join(", "),
+      essay1: e1,
+      essay2: e2,
+      essay3: e3,
+      essay4: e4,
+      essay5: e5
+    };
+
+    // Kirim Data menggunakan Fetch API
+    fetch(SCRIPT_URL, {
+      method: 'POST',
+      mode: 'no-cors',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(payload)
+    })
+    .then(() => {
+      statusDiv.innerHTML = `<span style="color: green; font-size: 18px;">Jawaban Berhasil Terkirim!</span><br>
+                             <strong>Nilai Pilihan Ganda Anda: ${nilaiPG} / 100</strong><br>
+                             <small>*Jawaban esai Anda telah tersimpan dan akan dikoreksi oleh Guru.*</small>`;
+      document.getElementById('quizForm').reset();
+      btn.disabled = false;
+    })
+    .catch(error => {
+      console.error('Error!', error.message);
+      statusDiv.innerText = "Gagal mengirim jawaban. Periksa koneksi internet Anda.";
+      statusDiv.style.color = "red";
+      btn.disabled = false;
+    });
+  });
+</script>
+
+</body>
+</html>
